@@ -1,0 +1,65 @@
+nhlcom_id: 8478402
+
+first_name: Connor
+last_name: McDavid
+
+country_abbrev: can
+team_abbrev: edm
+
+number: 97
+position: c
+type: playmaker
+
+potential: franchise
+born: 1997-01-13
+shoots: left
+
+height: 6.1
+weight: 192
+
+draft_team_abbrev: edm
+draft_year: 2015
+draft_round: 1
+draft_overall: 1
+
+overall: 93
+
+puck_skills: 10
+senses: 10
+shooting: 10
+defense: 9
+skating: 10
+physical: 8
+
+deking: 96
+hand_eye: 95
+passing: 95
+puck_control: 96
+
+discipline: 87
+offensive_awareness: 97
+poise: 90
+
+slap_shot_accuracy: 92
+slap_shot_power: 89
+wrist_shot_accuracy: 93
+wrist_shot_power: 89
+
+defensive_awareness: 90
+faceoffs: 80
+shot_blocking: 81
+stick_checking: 89
+
+acceleration: 97
+agility: 97
+balance: 86
+endurance: 87
+speed: 96
+
+aggressiveness: 80
+body_checking: 82
+durability: 85
+fighting_skill: 68
+strength: 86
+
+salary: 0
