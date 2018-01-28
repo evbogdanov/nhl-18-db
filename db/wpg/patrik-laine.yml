@@ -1,0 +1,65 @@
+nhlcom_id: 8479339
+
+country_abbrev: fin
+team_abbrev: wpg
+
+first_name: Patrik
+last_name: Laine
+number: 29
+born: 1998-04-19
+
+potential: 6
+
+salary: 0.925
+years_left: 2
+
+height: 196
+weight: 93
+position: rw
+type: sniper
+shoots: right
+
+draft_team_abbrev: wpg
+draft_year: 2016
+draft_round: 1
+draft_overall: 2
+
+overall: 86
+
+puck_skills: 9
+senses: 9
+shooting: 10
+defense: 8
+skating: 8
+physical: 8
+
+deking: 88
+hand_eye: 88
+passing: 89
+puck_control: 91
+
+discipline: 82
+offensive_awareness: 90
+poise: 85
+
+slap_shot_accuracy: 92
+slap_shot_power: 92
+wrist_shot_accuracy: 92
+wrist_shot_power: 91
+
+defensive_awareness: 85
+faceoffs: 65
+shot_blocking: 75
+stick_checking: 86
+
+acceleration: 86
+agility: 86
+balance: 88
+endurance: 85
+speed: 86
+
+aggressiveness: 83
+body_checking: 84
+durability: 85
+fighting_skill: 65
+strength: 88

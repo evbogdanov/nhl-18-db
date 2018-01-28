@@ -1,0 +1,66 @@
+nhlcom_id: 8471675
+
+country_abbrev: can
+team_abbrev: pit
+
+first_name: Sidney
+last_name: Crosby
+
+number: 87
+position: c
+type: playmaker
+
+potential: 4
+born: 1987-08-07
+shoots: left
+
+height: 180
+weight: 91
+
+draft_team_abbrev: pit
+draft_year: 2005
+draft_round: 1
+draft_overall: 1
+
+overall: 93
+
+puck_skills: 10
+senses: 10
+shooting: 10
+defense: 10
+skating: 10
+physical: 9
+
+deking: 95
+hand_eye: 96
+passing: 95
+puck_control: 95
+
+discipline: 83
+offensive_awareness: 96
+poise: 95
+
+slap_shot_accuracy: 91
+slap_shot_power: 92
+wrist_shot_accuracy: 93
+wrist_shot_power: 91
+
+defensive_awareness: 91
+faceoffs: 80
+shot_blocking: 86
+stick_checking: 93
+
+acceleration: 92
+agility: 93
+balance: 90
+endurance: 87
+speed: 91
+
+aggressiveness: 86
+body_checking: 87
+durability: 80
+fighting_skill: 75
+strength: 90
+
+salary: 8.7
+years_left: 8

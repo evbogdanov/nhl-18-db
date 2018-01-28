@@ -1,0 +1,65 @@
+nhlcom_id: 8477932
+
+country_abbrev: can
+team_abbrev: fla
+
+first_name: Aaron
+last_name: Ekblad
+number: 5
+born: 1996-02-07
+
+potential: 6
+
+salary: 7.5
+years_left: 8
+
+height: 193
+weight: 98
+position: d
+type: 2 way defender
+shoots: right
+
+draft_team_abbrev: fla
+draft_year: 2014
+draft_round: 1
+draft_overall: 1
+
+overall: 85
+
+puck_skills: 8
+senses: 8
+shooting: 8
+defense: 9
+skating: 8
+physical: 8
+
+deking: 83
+hand_eye: 80
+passing: 88
+puck_control: 88
+
+discipline: 83
+offensive_awareness: 88
+poise: 80
+
+slap_shot_accuracy: 81
+slap_shot_power: 89
+wrist_shot_accuracy: 82
+wrist_shot_power: 88
+
+defensive_awareness: 89
+faceoffs: 55
+shot_blocking: 88
+stick_checking: 89
+
+acceleration: 87
+agility: 87
+balance: 87
+endurance: 85
+speed: 87
+
+aggressiveness: 86
+body_checking: 87
+durability: 85
+fighting_skill: 75
+strength: 87

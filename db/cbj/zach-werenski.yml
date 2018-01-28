@@ -1,0 +1,65 @@
+nhlcom_id: 8478460
+
+country_abbrev: usa
+team_abbrev: cbj
+
+first_name: Zach
+last_name: Werenski
+number: 8
+born: 1997-07-19
+
+potential: 6
+
+salary: 0.925
+years_left: 2
+
+height: 188
+weight: 99
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: cbj
+draft_year: 2015
+draft_round: 1
+draft_overall: 8
+
+overall: 85
+
+puck_skills: 8
+senses: 9
+shooting: 8
+defense: 9
+skating: 8
+physical: 9
+
+deking: 81
+hand_eye: 81
+passing: 88
+puck_control: 88
+
+discipline: 80
+offensive_awareness: 89
+poise: 80
+
+slap_shot_accuracy: 81
+slap_shot_power: 88
+wrist_shot_accuracy: 82
+wrist_shot_power: 87
+
+defensive_awareness: 89
+faceoffs: 65
+shot_blocking: 88
+stick_checking: 88
+
+acceleration: 86
+agility: 85
+balance: 87
+endurance: 87
+speed: 86
+
+aggressiveness: 85
+body_checking: 87
+durability: 85
+fighting_skill: 77
+strength: 88

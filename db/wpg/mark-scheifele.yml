@@ -1,0 +1,66 @@
+nhlcom_id: 8476460
+
+country_abbrev: can
+team_abbrev: wpg
+
+first_name: Mark
+last_name: Scheifele
+
+number: 55
+position: c
+type: playmaker
+
+potential: 6
+born: 1993-03-15
+shoots: right
+
+height: 191
+weight: 94
+
+draft_team_abbrev: wpg
+draft_year: 2011
+draft_round: 1
+draft_overall: 7
+
+overall: 88
+
+puck_skills: 10
+senses: 10
+shooting: 9
+defense: 9
+skating: 9
+physical: 8
+
+deking: 92
+hand_eye: 90
+passing: 92
+puck_control: 92
+
+discipline: 87
+offensive_awareness: 93
+poise: 85
+
+slap_shot_accuracy: 88
+slap_shot_power: 89
+wrist_shot_accuracy: 90
+wrist_shot_power: 88
+
+defensive_awareness: 88
+faceoffs: 70
+shot_blocking: 79
+stick_checking: 87
+
+acceleration: 89
+agility: 89
+balance: 87
+endurance: 84
+speed: 89
+
+aggressiveness: 84
+body_checking: 84
+durability: 85
+fighting_skill: 70
+strength: 87
+
+salary: 6.125
+years_left: 7

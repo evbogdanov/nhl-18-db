@@ -3,22 +3,24 @@
 cat <<END
 nhlcom_id: 
 
-first_name: 
-last_name: 
-
 country_abbrev: 
 team_abbrev: 
 
+first_name: 
+last_name: 
 number: 
-position: 
-type: 
+born: yyyy-mm-dd
 
 potential: 
-born: yyyy-mm-dd
-shoots: 
+
+salary: 
+years_left: 
 
 height: 
 weight: 
+position: 
+type: 
+shoots: 
 
 draft_team_abbrev: 
 draft_year: 
@@ -64,7 +66,4 @@ body_checking:
 durability: 
 fighting_skill: 
 strength: 
-
-salary: 
-
 END

@@ -1,0 +1,66 @@
+nhlcom_id: 8477934
+
+country_abbrev: deu
+team_abbrev: edm
+
+first_name: Leon
+last_name: Draisaitl
+
+number: 29
+position: c
+type: 2 way forward
+
+potential: 6
+born: 1995-10-27
+shoots: left
+
+height: 185
+weight: 97
+
+draft_team_abbrev: edm
+draft_year: 2014
+draft_round: 1
+draft_overall: 3
+
+overall: 87
+
+puck_skills: 10
+senses: 9
+shooting: 9
+defense: 9
+skating: 8
+physical: 8
+
+deking: 89
+hand_eye: 89
+passing: 91
+puck_control: 90
+
+discipline: 80
+offensive_awareness: 90
+poise: 85
+
+slap_shot_accuracy: 90
+slap_shot_power: 89
+wrist_shot_accuracy: 90
+wrist_shot_power: 90
+
+defensive_awareness: 87
+faceoffs: 79
+shot_blocking: 84
+stick_checking: 88
+
+acceleration: 86
+agility: 86
+balance: 88
+endurance: 77
+speed: 87
+
+aggressiveness: 86
+body_checking: 88
+durability: 77
+fighting_skill: 70
+strength: 88
+
+salary: 8.5
+years_left: 8

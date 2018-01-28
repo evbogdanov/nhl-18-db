@@ -1,0 +1,65 @@
+nhlcom_id: 8476455
+
+country_abbrev: swe
+team_abbrev: col
+
+first_name: Gabriel
+last_name: Landeskog
+number: 92
+born: 1992-10-23
+
+potential: 6
+
+salary: 5.575
+years_left: 4
+
+height: 185
+weight: 97
+position: lw
+type: power forward
+shoots: left
+
+draft_team_abbrev: col
+draft_year: 2011
+draft_round: 1
+draft_overall: 2
+
+overall: 85
+
+puck_skills: 9
+senses: 8
+shooting: 9
+defense: 8
+skating: 9
+physical: 9
+
+deking: 88
+hand_eye: 88
+passing: 88
+puck_control: 88
+
+discipline: 80
+offensive_awareness: 87
+poise: 85
+
+slap_shot_accuracy: 87
+slap_shot_power: 89
+wrist_shot_accuracy: 88
+wrist_shot_power: 88
+
+defensive_awareness: 87
+faceoffs: 60
+shot_blocking: 84
+stick_checking: 88
+
+acceleration: 87
+agility: 87
+balance: 89
+endurance: 87
+speed: 87
+
+aggressiveness: 87
+body_checking: 87
+durability: 85
+fighting_skill: 80
+strength: 89

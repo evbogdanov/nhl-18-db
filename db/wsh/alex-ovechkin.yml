@@ -1,0 +1,66 @@
+nhlcom_id: 8471214
+
+country_abbrev: rus
+team_abbrev: wsh
+
+first_name: Alex
+last_name: Ovechkin
+
+number: 8
+position: lw
+type: sniper
+
+potential: 4
+born: 1985-09-17
+shoots: right
+
+height: 191
+weight: 108
+
+draft_team_abbrev: wsh
+draft_year: 2004
+draft_round: 1
+draft_overall: 1
+
+overall: 92
+
+puck_skills: 10
+senses: 10
+shooting: 10
+defense: 8
+skating: 10
+physical: 10
+
+deking: 94
+hand_eye: 96
+passing: 91
+puck_control: 95
+
+discipline: 80
+offensive_awareness: 96
+poise: 85
+
+slap_shot_accuracy: 95
+slap_shot_power: 95
+wrist_shot_accuracy: 94
+wrist_shot_power: 94
+
+defensive_awareness: 86
+faceoffs: 65
+shot_blocking: 82
+stick_checking: 89
+
+acceleration: 89
+agility: 89
+balance: 95
+endurance: 88
+speed: 90
+
+aggressiveness: 89
+body_checking: 91
+durability: 90
+fighting_skill: 80
+strength: 94
+
+salary: 9.535
+years_left: 4

@@ -1,0 +1,66 @@
+nhlcom_id: 8477956
+
+country_abbrev: cze
+team_abbrev: bos
+
+first_name: David
+last_name: Pastrnak
+
+number: 88
+position: rw
+type: playmaker
+
+potential: 6
+born: 1996-05-25
+shoots: right
+
+height: 183
+weight: 82
+
+draft_team_abbrev: bos
+draft_year: 2014
+draft_round: 1
+draft_overall: 25
+
+overall: 87
+
+puck_skills: 10
+senses: 9
+shooting: 10
+defense: 8
+skating: 9
+physical: 7
+
+deking: 93
+hand_eye: 92
+passing: 91
+puck_control: 92
+
+discipline: 83
+offensive_awareness: 91
+poise: 85
+
+slap_shot_accuracy: 91
+slap_shot_power: 88
+wrist_shot_accuracy: 92
+wrist_shot_power: 88
+
+defensive_awareness: 87
+faceoffs: 68
+shot_blocking: 75
+stick_checking: 86
+
+acceleration: 91
+agility: 91
+balance: 84
+endurance: 84
+speed: 91
+
+aggressiveness: 77
+body_checking: 79
+durability: 85
+fighting_skill: 65
+strength: 83
+
+salary: 6.67
+years_left: 6

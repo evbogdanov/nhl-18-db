@@ -1,0 +1,65 @@
+nhlcom_id: 8478550
+
+country_abbrev: rus
+team_abbrev: cbj
+
+first_name: Artemi
+last_name: Panarin
+number: 9
+born: 1991-10-30
+
+potential: 6
+
+salary: 6.0
+years_left: 2
+
+height: 180
+weight: 77
+position: lw
+type: sniper
+shoots: right
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 86
+
+puck_skills: 10
+senses: 9
+shooting: 10
+defense: 7
+skating: 9
+physical: 6
+
+deking: 93
+hand_eye: 92
+passing: 92
+puck_control: 92
+
+discipline: 85
+offensive_awareness: 90
+poise: 85
+
+slap_shot_accuracy: 91
+slap_shot_power: 88
+wrist_shot_accuracy: 92
+wrist_shot_power: 88
+
+defensive_awareness: 84
+faceoffs: 60
+shot_blocking: 78
+stick_checking: 86
+
+acceleration: 92
+agility: 91
+balance: 82
+endurance: 85
+speed: 90
+
+aggressiveness: 74
+body_checking: 78
+durability: 85
+fighting_skill: 65
+strength: 82

@@ -1,0 +1,66 @@
+nhlcom_id: 8471215
+
+country_abbrev: rus
+team_abbrev: pit
+
+first_name: Evgeni
+last_name: Malkin
+
+number: 71
+position: c
+type: playmaker
+
+potential: 4
+born: 1986-07-31
+shoots: left
+
+height: 191
+weight: 88
+
+draft_team_abbrev: pit
+draft_year: 2004
+draft_round: 1
+draft_overall: 2
+
+overall: 92
+
+puck_skills: 10
+senses: 10
+shooting: 10
+defense: 9
+skating: 10
+physical: 9
+
+deking: 94
+hand_eye: 95
+passing: 94
+puck_control: 95
+
+discipline: 75
+offensive_awareness: 95
+poise: 91
+
+slap_shot_accuracy: 93
+slap_shot_power: 94
+wrist_shot_accuracy: 94
+wrist_shot_power: 93
+
+defensive_awareness: 87
+faceoffs: 77
+shot_blocking: 84
+stick_checking: 89
+
+acceleration: 89
+agility: 89
+balance: 94
+endurance: 87
+speed: 90
+
+aggressiveness: 85
+body_checking: 87
+durability: 87
+fighting_skill: 75
+strength: 91
+
+salary: 9.5
+years_left: 5

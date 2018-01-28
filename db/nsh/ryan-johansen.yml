@@ -1,0 +1,65 @@
+nhlcom_id: 8475793
+
+country_abbrev: can
+team_abbrev: nsh
+
+first_name: Ryan
+last_name: Johansen
+number: 92
+born: 1992-07-31
+
+potential: 6
+
+salary: 8.0
+years_left: 8
+
+height: 191
+weight: 99
+position: c
+type: playmaker
+shoots: right
+
+draft_team_abbrev: cbj
+draft_year: 2010
+draft_round: 1
+draft_overall: 4
+
+overall: 86
+
+puck_skills: 10
+senses: 9
+shooting: 9
+defense: 8
+skating: 9
+physical: 9
+
+deking: 89
+hand_eye: 89
+passing: 91
+puck_control: 91
+
+discipline: 80
+offensive_awareness: 91
+poise: 80
+
+slap_shot_accuracy: 88
+slap_shot_power: 90
+wrist_shot_accuracy: 89
+wrist_shot_power: 89
+
+defensive_awareness: 85
+faceoffs: 81
+shot_blocking: 75
+stick_checking: 85
+
+acceleration: 87
+agility: 87
+balance: 90
+endurance: 87
+speed: 88
+
+aggressiveness: 86
+body_checking: 85
+durability: 85
+fighting_skill: 65
+strength: 90

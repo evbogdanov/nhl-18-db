@@ -1,0 +1,66 @@
+nhlcom_id: 8476453
+
+country_abbrev: rus
+team_abbrev: tbl
+
+first_name: Nikita
+last_name: Kucherov
+
+number: 86
+position: rw
+type: sniper
+
+potential: 6
+born: 1993-06-17
+shoots: left
+
+height: 180
+weight: 81
+
+draft_team_abbrev: tbl
+draft_year: 2011
+draft_round: 2
+draft_overall: 58
+
+overall: 90
+
+puck_skills: 10
+senses: 10
+shooting: 10
+defense: 9
+skating: 10
+physical: 7
+
+deking: 93
+hand_eye: 93
+passing: 93
+puck_control: 93
+
+discipline: 82
+offensive_awareness: 95
+poise: 90
+
+slap_shot_accuracy: 92
+slap_shot_power: 89
+wrist_shot_accuracy: 93
+wrist_shot_power: 88
+
+defensive_awareness: 89
+faceoffs: 60
+shot_blocking: 80
+stick_checking: 86
+
+acceleration: 93
+agility: 93
+balance: 84
+endurance: 82
+speed: 92
+
+aggressiveness: 80
+body_checking: 79
+durability: 85
+fighting_skill: 65
+strength: 85
+
+salary: 4.765
+years_left: 2

@@ -1,0 +1,66 @@
+nhlcom_id: 8475791
+
+country_abbrev: can
+team_abbrev: njd
+
+first_name: Taylor
+last_name: Hall
+
+number: 9
+position: lw
+type: sniper
+
+potential: 6
+born: 1991-11-14
+shoots: left
+
+height: 185
+weight: 91
+
+draft_team_abbrev: edm
+draft_year: 2010
+draft_round: 1
+draft_overall: 1
+
+overall: 87
+
+puck_skills: 9
+senses: 9
+shooting: 10
+defense: 8
+skating: 10
+physical: 8
+
+deking: 90
+hand_eye: 90
+passing: 89
+puck_control: 90
+
+discipline: 84
+offensive_awareness: 90
+poise: 85
+
+slap_shot_accuracy: 90
+slap_shot_power: 92
+wrist_shot_accuracy: 91
+wrist_shot_power: 90
+
+defensive_awareness: 86
+faceoffs: 70
+shot_blocking: 82
+stick_checking: 87
+
+acceleration: 93
+agility: 92
+balance: 86
+endurance: 80
+speed: 95
+
+aggressiveness: 85
+body_checking: 85
+durability: 83
+fighting_skill: 70
+strength: 86
+
+salary: 6.0
+years_left: 3

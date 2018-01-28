@@ -1,0 +1,66 @@
+nhlcom_id: 8475765
+
+country_abbrev: rus
+team_abbrev: stl
+
+first_name: Vladimir
+last_name: Tarasenko
+
+number: 91
+position: rw
+type: sniper
+
+potential: 6
+born: 1991-12-13
+shoots: left
+
+height: 183
+weight: 99
+
+draft_team_abbrev: stl
+draft_year: 2010
+draft_round: 1
+draft_overall: 16
+
+overall: 90
+
+puck_skills: 10
+senses: 10
+shooting: 10
+defense: 9
+skating: 10
+physical: 8
+
+deking: 94
+hand_eye: 93
+passing: 93
+puck_control: 93
+
+discipline: 88
+offensive_awareness: 93
+poise: 85
+
+slap_shot_accuracy: 92
+slap_shot_power: 90
+wrist_shot_accuracy: 94
+wrist_shot_power: 91
+
+defensive_awareness: 88
+faceoffs: 60
+shot_blocking: 80
+stick_checking: 89
+
+acceleration: 92
+agility: 92
+balance: 87
+endurance: 85
+speed: 92
+
+aggressiveness: 82
+body_checking: 82
+durability: 85
+fighting_skill: 65
+strength: 87
+
+salary: 7.5
+years_left: 6

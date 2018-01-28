@@ -1,0 +1,66 @@
+nhlcom_id: 8475171
+
+country_abbrev: swe
+team_abbrev: ari
+
+first_name: Oliver
+last_name: Ekman-Larsson
+
+number: 23
+position: d
+type: offensive defenseman
+
+potential: 6
+born: 1991-07-17
+shoots: left
+
+height: 188
+weight: 91
+
+draft_team_abbrev: phx
+draft_year: 2009
+draft_round: 1
+draft_overall: 6
+
+overall: 87
+
+puck_skills: 10
+senses: 10
+shooting: 9
+defense: 9
+skating: 9
+physical: 8
+
+deking: 89
+hand_eye: 86
+passing: 93
+puck_control: 93
+
+discipline: 85
+offensive_awareness: 92
+poise: 84
+
+slap_shot_accuracy: 85
+slap_shot_power: 90
+wrist_shot_accuracy: 85
+wrist_shot_power: 89
+
+defensive_awareness: 90
+faceoffs: 55
+shot_blocking: 86
+stick_checking: 88
+
+acceleration: 89
+agility: 90
+balance: 85
+endurance: 88
+speed: 90
+
+aggressiveness: 80
+body_checking: 85
+durability: 86
+fighting_skill: 65
+strength: 85
+
+salary: 5.5
+years_left: 2

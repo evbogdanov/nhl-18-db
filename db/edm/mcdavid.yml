@@ -1,21 +1,21 @@
 nhlcom_id: 8478402
 
-first_name: Connor
-last_name: McDavid
-
 country_abbrev: can
 team_abbrev: edm
+
+first_name: Connor
+last_name: McDavid
 
 number: 97
 position: c
 type: playmaker
 
-potential: franchise
+potential: 2
 born: 1997-01-13
 shoots: left
 
-height: 6.1
-weight: 192
+height: 185
+weight: 86
 
 draft_team_abbrev: edm
 draft_year: 2015
@@ -62,4 +62,5 @@ durability: 85
 fighting_skill: 68
 strength: 86
 
-salary: 0
+salary: 0.925
+years_left: 1

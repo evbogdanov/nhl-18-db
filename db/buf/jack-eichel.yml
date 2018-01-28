@@ -1,0 +1,66 @@
+nhlcom_id: 8478403
+
+country_abbrev: usa
+team_abbrev: buf
+
+first_name: Jack
+last_name: Eichel
+
+number: 15
+position: c
+type: playmaker
+
+potential: 5
+born: 1996-10-28
+shoots: right
+
+height: 188
+weight: 89
+
+draft_team_abbrev: buf
+draft_year: 2015
+draft_round: 1
+draft_overall: 2
+
+overall: 87
+
+puck_skills: 10
+senses: 9
+shooting: 9
+defense: 9
+skating: 9
+physical: 8
+
+deking: 92
+hand_eye: 90
+passing: 90
+puck_control: 90
+
+discipline: 82
+offensive_awareness: 90
+poise: 80
+
+slap_shot_accuracy: 89
+slap_shot_power: 89
+wrist_shot_accuracy: 90
+wrist_shot_power: 88
+
+defensive_awareness: 88
+faceoffs: 77
+shot_blocking: 80
+stick_checking: 88
+
+acceleration: 90
+agility: 90
+balance: 85
+endurance: 85
+speed: 90
+
+aggressiveness: 83
+body_checking: 85
+durability: 85
+fighting_skill: 75
+strength: 85
+
+salary: 0.925
+years_left: 1

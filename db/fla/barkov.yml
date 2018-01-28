@@ -1,0 +1,65 @@
+nhlcom_id: 8477493
+
+country_abbrev: fin
+team_abbrev: fla
+
+first_name: Aleksander
+last_name: Barkov
+number: 16
+born: 1995-09-02
+
+potential: 6
+
+salary: 5.9
+years_left: 5
+
+height: 191
+weight: 96
+position: c
+type: power forward
+shoots: left
+
+draft_team_abbrev: fla
+draft_year: 2013
+draft_round: 1
+draft_overall: 2
+
+overall: 86
+
+puck_skills: 9
+senses: 9
+shooting: 9
+defense: 8
+skating: 8
+physical: 9
+
+deking: 88
+hand_eye: 88
+passing: 90
+puck_control: 90
+
+discipline: 90
+offensive_awareness: 91
+poise: 80
+
+slap_shot_accuracy: 87
+slap_shot_power: 88
+wrist_shot_accuracy: 88
+wrist_shot_power: 88
+
+defensive_awareness: 87
+faceoffs: 76
+shot_blocking: 82
+stick_checking: 88
+
+acceleration: 85
+agility: 85
+balance: 89
+endurance: 85
+speed: 85
+
+aggressiveness: 84
+body_checking: 87
+durability: 80
+fighting_skill: 75
+strength: 89

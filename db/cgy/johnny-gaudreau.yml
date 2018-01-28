@@ -1,0 +1,66 @@
+nhlcom_id: 8476346
+
+country_abbrev: usa
+team_abbrev: cgy
+
+first_name: Johnny
+last_name: Gaudreau
+
+number: 13
+position: lw
+type: sniper
+
+potential: 6
+born: 1993-08-13
+shoots: left
+
+height: 175
+weight: 71
+
+draft_team_abbrev: cgy
+draft_year: 2011
+draft_round: 4
+draft_overall: 104
+
+overall: 87
+
+puck_skills: 10
+senses: 10
+shooting: 9
+defense: 8
+skating: 10
+physical: 5
+
+deking: 95
+hand_eye: 94
+passing: 92
+puck_control: 93
+
+discipline: 95
+offensive_awareness: 93
+poise: 85
+
+slap_shot_accuracy: 89
+slap_shot_power: 87
+wrist_shot_accuracy: 90
+wrist_shot_power: 88
+
+defensive_awareness: 86
+faceoffs: 65
+shot_blocking: 75
+stick_checking: 87
+
+acceleration: 94
+agility: 94
+balance: 80
+endurance: 85
+speed: 93
+
+aggressiveness: 80
+body_checking: 74
+durability: 85
+fighting_skill: 65
+strength: 80
+
+salary: 6.75
+years_left: 5

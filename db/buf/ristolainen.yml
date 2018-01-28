@@ -1,0 +1,65 @@
+nhlcom_id: 8477499
+
+country_abbrev: fin
+team_abbrev: buf
+
+first_name: Rasmus
+last_name: Ristolainen
+number: 55
+born: 1994-10-27
+
+potential: 6
+
+salary: 5.4
+years_left: 5
+
+height: 193
+weight: 92
+position: d
+type: 2 way defender
+shoots: right
+
+draft_team_abbrev: buf
+draft_year: 2013
+draft_round: 1
+draft_overall: 8
+
+overall: 86
+
+puck_skills: 8
+senses: 8
+shooting: 8
+defense: 9
+skating: 8
+physical: 9
+
+deking: 80
+hand_eye: 80
+passing: 88
+puck_control: 87
+
+discipline: 80
+offensive_awareness: 87
+poise: 80
+
+slap_shot_accuracy: 80
+slap_shot_power: 90
+wrist_shot_accuracy: 80
+wrist_shot_power: 88
+
+defensive_awareness: 89
+faceoffs: 60
+shot_blocking: 90
+stick_checking: 90
+
+acceleration: 85
+agility: 85
+balance: 90
+endurance: 88
+speed: 86
+
+aggressiveness: 87
+body_checking: 88
+durability: 85
+fighting_skill: 80
+strength: 90

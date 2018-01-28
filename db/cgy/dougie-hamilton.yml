@@ -1,0 +1,65 @@
+nhlcom_id: 8476462
+
+country_abbrev: can
+team_abbrev: cgy
+
+first_name: Dougie
+last_name: Hamilton
+number: 27
+born: 1993-06-17
+
+potential: 6
+
+salary: 5.750
+years_left: 4
+
+height: 198
+weight: 95
+position: d
+type: offensive defenseman
+shoots: right
+
+draft_team_abbrev: bos
+draft_year: 2011
+draft_round: 1
+draft_overall: 9
+
+overall: 85
+
+puck_skills: 9
+senses: 9
+shooting: 9
+defense: 9
+skating: 9
+physical: 8
+
+deking: 85
+hand_eye: 83
+passing: 90
+puck_control: 90
+
+discipline: 82
+offensive_awareness: 91
+poise: 80
+
+slap_shot_accuracy: 82
+slap_shot_power: 91
+wrist_shot_accuracy: 85
+wrist_shot_power: 88
+
+defensive_awareness: 88
+faceoffs: 55
+shot_blocking: 85
+stick_checking: 88
+
+acceleration: 89
+agility: 88
+balance: 88
+endurance: 80
+speed: 88
+
+aggressiveness: 81
+body_checking: 82
+durability: 87
+fighting_skill: 67
+strength: 88

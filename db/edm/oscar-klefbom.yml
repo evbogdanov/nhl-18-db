@@ -1,0 +1,65 @@
+nhlcom_id: 8476472
+
+country_abbrev: swe
+team_abbrev: edm
+
+first_name: Oscar
+last_name: Klefbom
+number: 77
+born: 1993-07-20
+
+potential: 6
+
+salary: 4.615
+years_left: 6
+
+height: 191
+weight: 97
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: edm
+draft_year: 2011
+draft_round: 1
+draft_overall: 19
+
+overall: 85
+
+puck_skills: 9
+senses: 9
+shooting: 8
+defense: 9
+skating: 8
+physical: 8
+
+deking: 83
+hand_eye: 82
+passing: 88
+puck_control: 88
+
+discipline: 90
+offensive_awareness: 89
+poise: 80
+
+slap_shot_accuracy: 84
+slap_shot_power: 88
+wrist_shot_accuracy: 84
+wrist_shot_power: 88
+
+defensive_awareness: 89
+faceoffs: 60
+shot_blocking: 88
+stick_checking: 88
+
+acceleration: 86
+agility: 86
+balance: 87
+endurance: 85
+speed: 86
+
+aggressiveness: 84
+body_checking: 85
+durability: 85
+fighting_skill: 65
+strength: 88

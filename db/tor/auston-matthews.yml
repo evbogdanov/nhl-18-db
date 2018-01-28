@@ -1,0 +1,66 @@
+nhlcom_id: 8479318
+
+country_abbrev: usa
+team_abbrev: tor
+
+first_name: Auston
+last_name: Matthews
+
+number: 34
+position: c
+type: playmaker
+
+potential: 5
+born: 1997-09-17
+shoots: left
+
+height: 191
+weight: 98
+
+draft_team_abbrev: tor
+draft_year: 2016
+draft_round: 1
+draft_overall: 1
+
+overall: 87
+
+puck_skills: 9
+senses: 9
+shooting: 9
+defense: 8
+skating: 9
+physical: 8
+
+deking: 91
+hand_eye: 90
+passing: 89
+puck_control: 90
+
+discipline: 90
+offensive_awareness: 89
+poise: 88
+
+slap_shot_accuracy: 89
+slap_shot_power: 90
+wrist_shot_accuracy: 90
+wrist_shot_power: 90
+
+defensive_awareness: 87
+faceoffs: 75
+shot_blocking: 83
+stick_checking: 87
+
+acceleration: 89
+agility: 89
+balance: 86
+endurance: 86
+speed: 89
+
+aggressiveness: 80
+body_checking: 85
+durability: 86
+fighting_skill: 65
+strength: 88
+
+salary: 0.925
+years_left: 2

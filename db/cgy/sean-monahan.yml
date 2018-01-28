@@ -1,0 +1,65 @@
+nhlcom_id: 8477497
+
+country_abbrev: can
+team_abbrev: cgy
+
+first_name: Sean
+last_name: Monahan
+number: 23
+born: 1994-10-12
+
+potential: 6
+
+salary: 6.375
+years_left: 6
+
+height: 191
+weight: 88
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: cgy
+draft_year: 2013
+draft_round: 1
+draft_overall: 6
+
+overall: 85
+
+puck_skills: 9
+senses: 9
+shooting: 9
+defense: 9
+skating: 8
+physical: 8
+
+deking: 87
+hand_eye: 88
+passing: 88
+puck_control: 88
+
+discipline: 90
+offensive_awareness: 88
+poise: 85
+
+slap_shot_accuracy: 87
+slap_shot_power: 88
+wrist_shot_accuracy: 88
+wrist_shot_power: 87
+
+defensive_awareness: 87
+faceoffs: 79
+shot_blocking: 85
+stick_checking: 89
+
+acceleration: 86
+agility: 86
+balance: 88
+endurance: 85
+speed: 86
+
+aggressiveness: 84
+body_checking: 85
+durability: 85
+fighting_skill: 75
+strength: 88

@@ -1,0 +1,65 @@
+nhlcom_id: 8475906
+
+country_abbrev: swe
+team_abbrev: dal
+
+first_name: John
+last_name: Klingberg
+number: 3
+born: 1992-08-14
+
+potential: 6
+
+salary: 4.25
+years_left: 5
+
+height: 188
+weight: 82
+position: d
+type: offensive defenseman
+shoots: right
+
+draft_team_abbrev: dal
+draft_year: 2010
+draft_round: 5
+draft_overall: 131
+
+overall: 85
+
+puck_skills: 10
+senses: 10
+shooting: 8
+defense: 9
+skating: 9
+physical: 7
+
+deking: 88
+hand_eye: 85
+passing: 92
+puck_control: 92
+
+discipline: 83
+offensive_awareness: 92
+poise: 85
+
+slap_shot_accuracy: 82
+slap_shot_power: 88
+wrist_shot_accuracy: 82
+wrist_shot_power: 87
+
+defensive_awareness: 88
+faceoffs: 68
+shot_blocking: 84
+stick_checking: 87
+
+acceleration: 89
+agility: 89
+balance: 85
+endurance: 81
+speed: 88
+
+aggressiveness: 80
+body_checking: 79
+durability: 82
+fighting_skill: 65
+strength: 85
