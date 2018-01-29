@@ -1,0 +1,65 @@
+nhlcom_id: 8477943
+
+country_abbrev: gbr
+team_abbrev: ari
+
+first_name: Brendan
+last_name: Perlini
+number: 11
+born: 1996-04-27
+
+potential: 10
+
+salary: 0.865
+years_left: 2
+
+height: 188
+weight: 96
+position: lw
+type: sniper
+shoots: left
+
+draft_team_abbrev: ari
+draft_year: 2014
+draft_round: 1
+draft_overall: 12
+
+overall: 76
+
+puck_skills: 7
+senses: 6
+shooting: 8
+defense: 6
+skating: 8
+physical: 6
+
+deking: 85
+hand_eye: 85
+passing: 83
+puck_control: 83
+
+discipline: 85
+offensive_awareness: 81
+poise: 75
+
+slap_shot_accuracy: 84
+slap_shot_power: 86
+wrist_shot_accuracy: 85
+wrist_shot_power: 85
+
+defensive_awareness: 79
+faceoffs: 65
+shot_blocking: 70
+stick_checking: 80
+
+acceleration: 85
+agility: 85
+balance: 85
+endurance: 82
+speed: 85
+
+aggressiveness: 75
+body_checking: 75
+durability: 85
+fighting_skill: 65
+strength: 85

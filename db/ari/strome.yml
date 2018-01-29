@@ -1,0 +1,65 @@
+nhlcom_id: 8478440
+
+country_abbrev: can
+team_abbrev: ari
+
+first_name: Dylan
+last_name: Strome
+number: 20
+born: 1997-03-07
+
+potential: 6
+
+salary: 0.925
+years_left: 3
+
+height: 191
+weight: 90
+position: c
+type: playmaker
+shoots: left
+
+draft_team_abbrev: ari
+draft_year: 2015
+draft_round: 1
+draft_overall: 3
+
+overall: 77
+
+puck_skills: 7
+senses: 6
+shooting: 8
+defense: 7
+skating: 8
+physical: 6
+
+deking: 86
+hand_eye: 84
+passing: 82
+puck_control: 82
+
+discipline: 82
+offensive_awareness: 82
+poise: 72
+
+slap_shot_accuracy: 83
+slap_shot_power: 88
+wrist_shot_accuracy: 84
+wrist_shot_power: 87
+
+defensive_awareness: 82
+faceoffs: 77
+shot_blocking: 69
+stick_checking: 82
+
+acceleration: 85
+agility: 87
+balance: 82
+endurance: 82
+speed: 85
+
+aggressiveness: 72
+body_checking: 72
+durability: 87
+fighting_skill: 67
+strength: 82

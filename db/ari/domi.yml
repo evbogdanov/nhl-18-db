@@ -1,0 +1,65 @@
+nhlcom_id: 8477503
+
+country_abbrev: can
+team_abbrev: ari
+
+first_name: Max
+last_name: Domi
+number: 16
+born: 1995-03-02
+
+potential: 10
+
+salary: 0.865
+years_left: 1
+
+height: 178
+weight: 90
+position: lw
+type: playmaker
+shoots: left
+
+draft_team_abbrev: phx
+draft_year: 2013
+draft_round: 1
+draft_overall: 12
+
+overall: 82
+
+puck_skills: 9
+senses: 8
+shooting: 8
+defense: 7
+skating: 8
+physical: 8
+
+deking: 88
+hand_eye: 86
+passing: 87
+puck_control: 87
+
+discipline: 78
+offensive_awareness: 87
+poise: 75
+
+slap_shot_accuracy: 85
+slap_shot_power: 87
+wrist_shot_accuracy: 86
+wrist_shot_power: 86
+
+defensive_awareness: 84
+faceoffs: 78
+shot_blocking: 80
+stick_checking: 85
+
+acceleration: 88
+agility: 88
+balance: 85
+endurance: 84
+speed: 87
+
+aggressiveness: 87
+body_checking: 85
+durability: 85
+fighting_skill: 85
+strength: 85

@@ -1,0 +1,65 @@
+nhlcom_id: 8470755
+
+country_abbrev: can
+team_abbrev: ari
+
+first_name: Brad
+last_name: Richardson
+number: 15
+born: 1985-02-04
+
+potential: 20
+
+salary: 2.085
+years_left: 1
+
+height: 183
+weight: 89
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: col
+draft_year: 2003
+draft_round: 5
+draft_overall: 163
+
+overall: 78
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 8
+
+deking: 83
+hand_eye: 82
+passing: 83
+puck_control: 83
+
+discipline: 83
+offensive_awareness: 81
+poise: 80
+
+slap_shot_accuracy: 82
+slap_shot_power: 85
+wrist_shot_accuracy: 83
+wrist_shot_power: 85
+
+defensive_awareness: 83
+faceoffs: 79
+shot_blocking: 84
+stick_checking: 85
+
+acceleration: 85
+agility: 85
+balance: 85
+endurance: 83
+speed: 85
+
+aggressiveness: 85
+body_checking: 85
+durability: 75
+fighting_skill: 75
+strength: 85

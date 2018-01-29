@@ -1,0 +1,65 @@
+nhlcom_id: 8477407
+
+country_abbrev: can
+team_abbrev: ari
+
+first_name: Anthony
+last_name: Duclair
+number: 91
+born: 1995-08-26
+
+potential: 10
+
+salary: 1.2
+years_left: 1
+
+height: 180
+weight: 84
+position: rw
+type: sniper
+shoots: left
+
+draft_team_abbrev: nyr
+draft_year: 2013
+draft_round: 3
+draft_overall: 80
+
+overall: 79
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 7
+skating: 9
+physical: 6
+
+deking: 88
+hand_eye: 85
+passing: 84
+puck_control: 85
+
+discipline: 82
+offensive_awareness: 83
+poise: 75
+
+slap_shot_accuracy: 85
+slap_shot_power: 85
+wrist_shot_accuracy: 85
+wrist_shot_power: 85
+
+defensive_awareness: 84
+faceoffs: 68
+shot_blocking: 75
+stick_checking: 83
+
+acceleration: 90
+agility: 89
+balance: 80
+endurance: 83
+speed: 90
+
+aggressiveness: 80
+body_checking: 80
+durability: 85
+fighting_skill: 68
+strength: 80

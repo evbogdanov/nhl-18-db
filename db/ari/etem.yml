@@ -1,0 +1,65 @@
+nhlcom_id: 8475770
+
+country_abbrev: usa
+team_abbrev: ari
+
+first_name: Emerson
+last_name: Etem
+number: 26
+born: 1992-06-16
+
+potential: 26
+
+salary: 0.85
+years_left: 1
+
+height: 185
+weight: 96
+position: lw
+type: power forward
+shoots: left
+
+draft_team_abbrev: ana
+draft_year: 2010
+draft_round: 1
+draft_overall: 29
+
+overall: 76
+
+puck_skills: 7
+senses: 5
+shooting: 7
+defense: 6
+skating: 8
+physical: 8
+
+deking: 83
+hand_eye: 82
+passing: 82
+puck_control: 82
+
+discipline: 95
+offensive_awareness: 77
+poise: 75
+
+slap_shot_accuracy: 81
+slap_shot_power: 87
+wrist_shot_accuracy: 82
+wrist_shot_power: 86
+
+defensive_awareness: 78
+faceoffs: 65
+shot_blocking: 78
+stick_checking: 83
+
+acceleration: 87
+agility: 85
+balance: 87
+endurance: 82
+speed: 87
+
+aggressiveness: 86
+body_checking: 86
+durability: 80
+fighting_skill: 75
+strength: 87

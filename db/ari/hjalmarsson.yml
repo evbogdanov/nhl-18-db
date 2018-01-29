@@ -1,0 +1,65 @@
+nhlcom_id: 8471769
+
+country_abbrev: swe
+team_abbrev: ari
+
+first_name: Niklas
+last_name: Hjalmarsson
+number: 4
+born: 1987-06-06
+
+potential: 16
+
+salary: 4.1
+years_left: 2
+
+height: 191
+weight: 89
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: chi
+draft_year: 2005
+draft_round: 4
+draft_overall: 108
+
+overall: 86
+
+puck_skills: 7
+senses: 8
+shooting: 7
+defense: 10
+skating: 8
+physical: 9
+
+deking: 80
+hand_eye: 77
+passing: 84
+puck_control: 84
+
+discipline: 85
+offensive_awareness: 84
+poise: 85
+
+slap_shot_accuracy: 77
+slap_shot_power: 87
+wrist_shot_accuracy: 80
+wrist_shot_power: 86
+
+defensive_awareness: 91
+faceoffs: 55
+shot_blocking: 90
+stick_checking: 91
+
+acceleration: 85
+agility: 85
+balance: 88
+endurance: 88
+speed: 85
+
+aggressiveness: 85
+body_checking: 88
+durability: 85
+fighting_skill: 75
+strength: 88

@@ -1,0 +1,65 @@
+nhlcom_id: 8474568
+
+country_abbrev: can
+team_abbrev: ari
+
+first_name: Luke
+last_name: Schenn
+number: 2
+born: 1989-10-02
+
+potential: 24
+
+salary: 1.25
+years_left: 1
+
+height: 188
+weight: 104
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: tor
+draft_year: 2008
+draft_round: 1
+draft_overall: 5
+
+overall: 79
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 9
+
+deking: 75
+hand_eye: 75
+passing: 81
+puck_control: 81
+
+discipline: 70
+offensive_awareness: 79
+poise: 80
+
+slap_shot_accuracy: 78
+slap_shot_power: 86
+wrist_shot_accuracy: 78
+wrist_shot_power: 85
+
+defensive_awareness: 82
+faceoffs: 55
+shot_blocking: 88
+stick_checking: 88
+
+acceleration: 82
+agility: 83
+balance: 90
+endurance: 85
+speed: 83
+
+aggressiveness: 90
+body_checking: 90
+durability: 85
+fighting_skill: 80
+strength: 90
