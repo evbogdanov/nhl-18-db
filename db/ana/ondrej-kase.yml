@@ -1,0 +1,65 @@
+nhlcom_id: 8478131
+
+country_abbrev: cze
+team_abbrev: ana
+
+first_name: Ondrej
+last_name: Kase
+number: 25
+born: 1995-10-08
+
+potential: 18
+
+salary: 0.67
+years_left: 1
+
+height: 183
+weight: 77
+position: rw
+type: sniper
+shoots: right
+
+draft_team_abbrev: ana
+draft_year: 2014
+draft_round: 7
+draft_overall: 205
+
+overall: 75
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 6
+skating: 7
+physical: 6
+
+deking: 83
+hand_eye: 82
+passing: 82
+puck_control: 82
+
+discipline: 85
+offensive_awareness: 80
+poise: 75
+
+slap_shot_accuracy: 81
+slap_shot_power: 86
+wrist_shot_accuracy: 82
+wrist_shot_power: 85
+
+defensive_awareness: 80
+faceoffs: 65
+shot_blocking: 75
+stick_checking: 83
+
+acceleration: 85
+agility: 85
+balance: 80
+endurance: 82
+speed: 85
+
+aggressiveness: 80
+body_checking: 80
+durability: 85
+fighting_skill: 65
+strength: 80

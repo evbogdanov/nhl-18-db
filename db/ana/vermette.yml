@@ -1,0 +1,65 @@
+nhlcom_id: 8468535
+
+country_abbrev: can
+team_abbrev: ana
+
+first_name: Antoine
+last_name: Vermette
+number: 50
+born: 1982-07-20
+
+potential: 20
+
+salary: 1.75
+years_left: 1
+
+height: 185
+weight: 90
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: ott
+draft_year: 2000
+draft_round: 2
+draft_overall: 55
+
+overall: 79
+
+puck_skills: 7
+senses: 7
+shooting: 7
+defense: 8
+skating: 8
+physical: 8
+
+deking: 82
+hand_eye: 82
+passing: 82
+puck_control: 82
+
+discipline: 80
+offensive_awareness: 81
+poise: 85
+
+slap_shot_accuracy: 82
+slap_shot_power: 86
+wrist_shot_accuracy: 83
+wrist_shot_power: 85
+
+defensive_awareness: 84
+faceoffs: 85
+shot_blocking: 85
+stick_checking: 87
+
+acceleration: 87
+agility: 85
+balance: 85
+endurance: 85
+speed: 88
+
+aggressiveness: 85
+body_checking: 85
+durability: 85
+fighting_skill: 75
+strength: 85

@@ -1,0 +1,65 @@
+nhlcom_id: 8470622
+
+country_abbrev: can
+team_abbrev: ana
+
+first_name: Patrick
+last_name: Eaves
+number: 18
+born: 1984-05-01
+
+potential: 20
+
+salary: 3.15
+years_left: 3
+
+height: 183
+weight: 91
+position: rw
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: ott
+draft_year: 2003
+draft_round: 1
+draft_overall: 29
+
+overall: 81
+
+puck_skills: 7
+senses: 7
+shooting: 8
+defense: 8
+skating: 8
+physical: 8
+
+deking: 85
+hand_eye: 85
+passing: 83
+puck_control: 85
+
+discipline: 90
+offensive_awareness: 83
+poise: 80
+
+slap_shot_accuracy: 85
+slap_shot_power: 87
+wrist_shot_accuracy: 86
+wrist_shot_power: 87
+
+defensive_awareness: 84
+faceoffs: 65
+shot_blocking: 85
+stick_checking: 85
+
+acceleration: 86
+agility: 86
+balance: 86
+endurance: 76
+speed: 86
+
+aggressiveness: 80
+body_checking: 86
+durability: 75
+fighting_skill: 70
+strength: 87

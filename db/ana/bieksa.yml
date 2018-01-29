@@ -1,0 +1,65 @@
+nhlcom_id: 8469598
+
+country_abbrev: can
+team_abbrev: ana
+
+first_name: Kevin
+last_name: Bieksa
+number: 3
+born: 1981-06-16
+
+potential: 24
+
+salary: 4.0
+years_left: 1
+
+height: 185
+weight: 91
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: van
+draft_year: 2001
+draft_round: 5
+draft_overall: 151
+
+overall: 79
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 8
+skating: 7
+physical: 9
+
+deking: 75
+hand_eye: 76
+passing: 81
+puck_control: 81
+
+discipline: 67
+offensive_awareness: 79
+poise: 85
+
+slap_shot_accuracy: 75
+slap_shot_power: 85
+wrist_shot_accuracy: 76
+wrist_shot_power: 85
+
+defensive_awareness: 83
+faceoffs: 55
+shot_blocking: 88
+stick_checking: 89
+
+acceleration: 81
+agility: 82
+balance: 86
+endurance: 85
+speed: 82
+
+aggressiveness: 88
+body_checking: 87
+durability: 80
+fighting_skill: 85
+strength: 88

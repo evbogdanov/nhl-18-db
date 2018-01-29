@@ -1,0 +1,65 @@
+nhlcom_id: 8470616
+
+country_abbrev: usa
+team_abbrev: ana
+
+first_name: Ryan
+last_name: Kesler
+number: 17
+born: 1984-08-31
+
+potential: 12
+
+salary: 6.875
+years_left: 5
+
+height: 188
+weight: 92
+position: c
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: van
+draft_year: 2003
+draft_round: 1
+draft_overall: 23
+
+overall: 85
+
+puck_skills: 8
+senses: 8
+shooting: 8
+defense: 9
+skating: 9
+physical: 9
+
+deking: 85
+hand_eye: 85
+passing: 85
+puck_control: 86
+
+discipline: 75
+offensive_awareness: 86
+poise: 85
+
+slap_shot_accuracy: 83
+slap_shot_power: 89
+wrist_shot_accuracy: 85
+wrist_shot_power: 88
+
+defensive_awareness: 90
+faceoffs: 85
+shot_blocking: 85
+stick_checking: 90
+
+acceleration: 90
+agility: 85
+balance: 88
+endurance: 87
+speed: 90
+
+aggressiveness: 88
+body_checking: 88
+durability: 80
+fighting_skill: 85
+strength: 88

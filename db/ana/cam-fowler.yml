@@ -1,0 +1,65 @@
+nhlcom_id: 8475764
+
+country_abbrev: can
+team_abbrev: ana
+
+first_name: Cam
+last_name: Fowler
+number: 4
+born: 1991-12-05
+
+potential: 6
+
+salary: 4.0
+years_left: 1
+
+height: 185
+weight: 94
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: ana
+draft_year: 2010
+draft_round: 1
+draft_overall: 12
+
+overall: 84
+
+puck_skills: 9
+senses: 9
+shooting: 8
+defense: 8
+skating: 9
+physical: 8
+
+deking: 85
+hand_eye: 83
+passing: 89
+puck_control: 89
+
+discipline: 90
+offensive_awareness: 90
+poise: 80
+
+slap_shot_accuracy: 82
+slap_shot_power: 89
+wrist_shot_accuracy: 83
+wrist_shot_power: 88
+
+defensive_awareness: 87
+faceoffs: 55
+shot_blocking: 85
+stick_checking: 88
+
+acceleration: 88
+agility: 88
+balance: 88
+endurance: 88
+speed: 89
+
+aggressiveness: 82
+body_checking: 81
+durability: 85
+fighting_skill: 70
+strength: 87

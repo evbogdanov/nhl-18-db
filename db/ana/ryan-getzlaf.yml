@@ -1,0 +1,65 @@
+nhlcom_id: 8470612
+
+country_abbrev: can
+team_abbrev: ana
+
+first_name: Ryan
+last_name: Getzlaf
+number: 15
+born: 1985-05-10
+
+potential: 8
+
+salary: 8.25
+years_left: 4
+
+height: 193
+weight: 100
+position: c
+type: power forward
+shoots: right
+
+draft_team_abbrev: ana
+draft_year: 2003
+draft_round: 1
+draft_overall: 19
+
+overall: 89
+
+puck_skills: 10
+senses: 10
+shooting: 9
+defense: 9
+skating: 8
+physical: 9
+
+deking: 89
+hand_eye: 90
+passing: 92
+puck_control: 92
+
+discipline: 80
+offensive_awareness: 93
+poise: 90
+
+slap_shot_accuracy: 86
+slap_shot_power: 92
+wrist_shot_accuracy: 86
+wrist_shot_power: 90
+
+defensive_awareness: 89
+faceoffs: 89
+shot_blocking: 80
+stick_checking: 91
+
+acceleration: 85
+agility: 86
+balance: 92
+endurance: 90
+speed: 85
+
+aggressiveness: 87
+body_checking: 88
+durability: 85
+fighting_skill: 83
+strength: 92
