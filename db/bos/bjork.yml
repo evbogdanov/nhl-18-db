@@ -1,0 +1,65 @@
+nhlcom_id: 8478075
+
+country_abbrev: usa
+team_abbrev: bos
+
+first_name: Anders
+last_name: Bjork
+number: 10
+born: 1996-08-05
+
+potential: 18
+
+salary: 0.925
+years_left: 3
+
+height: 183
+weight: 84
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: bos
+draft_year: 2014
+draft_round: 5
+draft_overall: 146
+
+overall: 79
+
+puck_skills: 7
+senses: 7
+shooting: 8
+defense: 7
+skating: 8
+physical: 7
+
+deking: 81
+hand_eye: 82
+passing: 83
+puck_control: 83
+
+discipline: 85
+offensive_awareness: 83
+poise: 80
+
+slap_shot_accuracy: 83
+slap_shot_power: 88
+wrist_shot_accuracy: 83
+wrist_shot_power: 88
+
+defensive_awareness: 83
+faceoffs: 70
+shot_blocking: 83
+stick_checking: 87
+
+acceleration: 85
+agility: 83
+balance: 83
+endurance: 83
+speed: 85
+
+aggressiveness: 81
+body_checking: 81
+durability: 85
+fighting_skill: 75
+strength: 82

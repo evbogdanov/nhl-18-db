@@ -1,0 +1,65 @@
+nhlcom_id: 8471717
+
+country_abbrev: can
+team_abbrev: bos
+
+first_name: Adam
+last_name: McQuaid
+number: 54
+born: 1986-10-12
+
+potential: 24
+
+salary: 2.75
+years_left: 2
+
+height: 193
+weight: 96
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: cbj
+draft_year: 2005
+draft_round: 2
+draft_overall: 55
+
+overall: 80
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 8
+skating: 8
+physical: 9
+
+deking: 70
+hand_eye: 70
+passing: 80
+puck_control: 80
+
+discipline: 65
+offensive_awareness: 80
+poise: 85
+
+slap_shot_accuracy: 74
+slap_shot_power: 86
+wrist_shot_accuracy: 76
+wrist_shot_power: 85
+
+defensive_awareness: 85
+faceoffs: 55
+shot_blocking: 88
+stick_checking: 86
+
+acceleration: 82
+agility: 82
+balance: 89
+endurance: 85
+speed: 83
+
+aggressiveness: 90
+body_checking: 90
+durability: 85
+fighting_skill: 85
+strength: 89

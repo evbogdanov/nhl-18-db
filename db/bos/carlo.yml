@@ -1,0 +1,65 @@
+nhlcom_id: 8478443
+
+country_abbrev: usa
+team_abbrev: bos
+
+first_name: Brandon
+last_name: Carlo
+number: 25
+born: 1996-11-26
+
+potential: 14
+
+salary: 0.82
+years_left: 2
+
+height: 196
+weight: 92
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: bos
+draft_year: 2015
+draft_round: 2
+draft_overall: 37
+
+overall: 80
+
+puck_skills: 7
+senses: 7
+shooting: 8
+defense: 8
+skating: 8
+physical: 8
+
+deking: 78
+hand_eye: 75
+passing: 82
+puck_control: 82
+
+discipline: 75
+offensive_awareness: 82
+poise: 80
+
+slap_shot_accuracy: 77
+slap_shot_power: 88
+wrist_shot_accuracy: 78
+wrist_shot_power: 87
+
+defensive_awareness: 85
+faceoffs: 60
+shot_blocking: 87
+stick_checking: 87
+
+acceleration: 83
+agility: 83
+balance: 87
+endurance: 84
+speed: 83
+
+aggressiveness: 87
+body_checking: 85
+durability: 85
+fighting_skill: 83
+strength: 87

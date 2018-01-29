@@ -1,0 +1,65 @@
+nhlcom_id: 8470638
+
+country_abbrev: can
+team_abbrev: bos
+
+first_name: Patrice
+last_name: Bergeron
+number: 37
+born: 1985-07-24
+
+potential: 8
+
+salary: 6.875
+years_left: 5
+
+height: 185
+weight: 88
+position: c
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: bos
+draft_year: 2003
+draft_round: 2
+draft_overall: 45
+
+overall: 89
+
+puck_skills: 9
+senses: 9
+shooting: 9
+defense: 10
+skating: 9
+physical: 8
+
+deking: 89
+hand_eye: 90
+passing: 89
+puck_control: 89
+
+discipline: 87
+offensive_awareness: 90
+poise: 90
+
+slap_shot_accuracy: 87
+slap_shot_power: 88
+wrist_shot_accuracy: 87
+wrist_shot_power: 88
+
+defensive_awareness: 94
+faceoffs: 95
+shot_blocking: 90
+stick_checking: 95
+
+acceleration: 88
+agility: 88
+balance: 87
+endurance: 85
+speed: 88
+
+aggressiveness: 80
+body_checking: 84
+durability: 89
+fighting_skill: 70
+strength: 87

@@ -1,0 +1,65 @@
+nhlcom_id: 8465009
+
+country_abbrev: svk
+team_abbrev: bos
+
+first_name: Zdeno
+last_name: Chara
+number: 33
+born: 1977-03-18
+
+potential: 16
+
+salary: 4.0
+years_left: 1
+
+height: 206
+weight: 113
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: nyi
+draft_year: 1996
+draft_round: 3
+draft_overall: 56
+
+overall: 84
+
+puck_skills: 7
+senses: 7
+shooting: 8
+defense: 9
+skating: 8
+physical: 10
+
+deking: 75
+hand_eye: 75
+passing: 83
+puck_control: 83
+
+discipline: 70
+offensive_awareness: 83
+poise: 85
+
+slap_shot_accuracy: 75
+slap_shot_power: 91
+wrist_shot_accuracy: 77
+wrist_shot_power: 89
+
+defensive_awareness: 87
+faceoffs: 55
+shot_blocking: 92
+stick_checking: 90
+
+acceleration: 82
+agility: 82
+balance: 94
+endurance: 89
+speed: 82
+
+aggressiveness: 87
+body_checking: 92
+durability: 80
+fighting_skill: 90
+strength: 94

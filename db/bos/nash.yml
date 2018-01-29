@@ -1,0 +1,65 @@
+nhlcom_id: 8474062
+
+country_abbrev: can
+team_abbrev: bos
+
+first_name: Riley
+last_name: Nash
+number: 20
+born: 1989-05-09
+
+potential: 20
+
+salary: 0.9
+years_left: 1
+
+height: 185
+weight: 91
+position: c
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: edm
+draft_year: 2007
+draft_round: 1
+draft_overall: 21
+
+overall: 78
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 8
+skating: 8
+physical: 7
+
+deking: 82
+hand_eye: 82
+passing: 82
+puck_control: 82
+
+discipline: 90
+offensive_awareness: 81
+poise: 80
+
+slap_shot_accuracy: 82
+slap_shot_power: 85
+wrist_shot_accuracy: 82
+wrist_shot_power: 85
+
+defensive_awareness: 85
+faceoffs: 77
+shot_blocking: 83
+stick_checking: 85
+
+acceleration: 85
+agility: 85
+balance: 85
+endurance: 83
+speed: 85
+
+aggressiveness: 82
+body_checking: 82
+durability: 85
+fighting_skill: 75
+strength: 85

@@ -1,0 +1,65 @@
+nhlcom_id: 8478366
+
+country_abbrev: usa
+team_abbrev: bos
+
+first_name: Frank
+last_name: Vatrano
+number: 72
+born: 1994-03-14
+
+potential: 18
+
+salary: 0.795
+years_left: 1
+
+height: 178
+weight: 97
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 77
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 6
+skating: 8
+physical: 8
+
+deking: 83
+hand_eye: 83
+passing: 83
+puck_control: 83
+
+discipline: 75
+offensive_awareness: 82
+poise: 75
+
+slap_shot_accuracy: 82
+slap_shot_power: 85
+wrist_shot_accuracy: 83
+wrist_shot_power: 84
+
+defensive_awareness: 81
+faceoffs: 60
+shot_blocking: 79
+stick_checking: 82
+
+acceleration: 85
+agility: 85
+balance: 85
+endurance: 83
+speed: 85
+
+aggressiveness: 85
+body_checking: 85
+durability: 85
+fighting_skill: 75
+strength: 85

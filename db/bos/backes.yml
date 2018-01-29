@@ -1,0 +1,65 @@
+nhlcom_id: 8470655
+
+country_abbrev: usa
+team_abbrev: bos
+
+first_name: David
+last_name: Backes
+number: 42
+born: 1984-05-01
+
+potential: 12
+
+salary: 6.0
+years_left: 3
+
+height: 191
+weight: 100
+position: c
+type: power forward
+shoots: right
+
+draft_team_abbrev: stl
+draft_year: 2003
+draft_round: 2
+draft_overall: 62
+
+overall: 81
+
+puck_skills: 7
+senses: 7
+shooting: 8
+defense: 8
+skating: 8
+physical: 9
+
+deking: 82
+hand_eye: 84
+passing: 84
+puck_control: 84
+
+discipline: 70
+offensive_awareness: 82
+poise: 85
+
+slap_shot_accuracy: 83
+slap_shot_power: 88
+wrist_shot_accuracy: 84
+wrist_shot_power: 87
+
+defensive_awareness: 85
+faceoffs: 84
+shot_blocking: 84
+stick_checking: 88
+
+acceleration: 84
+agility: 84
+balance: 90
+endurance: 87
+speed: 84
+
+aggressiveness: 89
+body_checking: 90
+durability: 85
+fighting_skill: 80
+strength: 90

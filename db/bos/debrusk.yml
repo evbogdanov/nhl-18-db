@@ -1,0 +1,65 @@
+nhlcom_id: 8478498
+
+country_abbrev: can
+team_abbrev: bos
+
+first_name: Jake
+last_name: DeBrusk
+number: 74
+born: 1996-10-17
+
+potential: 10
+
+salary: 0.925
+years_left: 2
+
+height: 183
+weight: 82
+position: lw
+type: sniper
+shoots: left
+
+draft_team_abbrev: bos
+draft_year: 2015
+draft_round: 1
+draft_overall: 14
+
+overall: 76
+
+puck_skills: 7
+senses: 7
+shooting: 7
+defense: 6
+skating: 7
+physical: 6
+
+deking: 83
+hand_eye: 82
+passing: 82
+puck_control: 83
+
+discipline: 80
+offensive_awareness: 83
+poise: 84
+
+slap_shot_accuracy: 79
+slap_shot_power: 86
+wrist_shot_accuracy: 81
+wrist_shot_power: 85
+
+defensive_awareness: 78
+faceoffs: 74
+shot_blocking: 75
+stick_checking: 82
+
+acceleration: 83
+agility: 85
+balance: 84
+endurance: 80
+speed: 83
+
+aggressiveness: 77
+body_checking: 77
+durability: 85
+fighting_skill: 70
+strength: 82

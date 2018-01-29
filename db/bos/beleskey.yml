@@ -1,0 +1,65 @@
+nhlcom_id: 8473492
+
+country_abbrev: can
+team_abbrev: bos
+
+first_name: Matt
+last_name: Beleskey
+number: 39
+born: 1988-06-07
+
+potential: 20
+
+salary: 3.8
+years_left: 3
+
+height: 183
+weight: 92
+position: lw
+type: grinder
+shoots: left
+
+draft_team_abbrev: ana
+draft_year: 2006
+draft_round: 4
+draft_overall: 112
+
+overall: 79
+
+puck_skills: 7
+senses: 7
+shooting: 8
+defense: 7
+skating: 8
+physical: 9
+
+deking: 83
+hand_eye: 84
+passing: 83
+puck_control: 83
+
+discipline: 75
+offensive_awareness: 83
+poise: 80
+
+slap_shot_accuracy: 84
+slap_shot_power: 86
+wrist_shot_accuracy: 84
+wrist_shot_power: 85
+
+defensive_awareness: 83
+faceoffs: 60
+shot_blocking: 83
+stick_checking: 85
+
+acceleration: 84
+agility: 84
+balance: 87
+endurance: 83
+speed: 84
+
+aggressiveness: 89
+body_checking: 89
+durability: 83
+fighting_skill: 80
+strength: 87

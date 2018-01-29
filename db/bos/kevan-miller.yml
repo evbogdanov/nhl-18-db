@@ -1,0 +1,65 @@
+nhlcom_id: 8476191
+
+country_abbrev: usa
+team_abbrev: bos
+
+first_name: Kevan
+last_name: Miller
+number: 86
+born: 1987-11-15
+
+potential: 24
+
+salary: 2.5
+years_left: 3
+
+height: 188
+weight: 95
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 79
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 8
+skating: 7
+physical: 9
+
+deking: 75
+hand_eye: 75
+passing: 80
+puck_control: 80
+
+discipline: 76
+offensive_awareness: 79
+poise: 75
+
+slap_shot_accuracy: 76
+slap_shot_power: 86
+wrist_shot_accuracy: 77
+wrist_shot_power: 85
+
+defensive_awareness: 85
+faceoffs: 60
+shot_blocking: 88
+stick_checking: 87
+
+acceleration: 82
+agility: 82
+balance: 88
+endurance: 82
+speed: 82
+
+aggressiveness: 88
+body_checking: 88
+durability: 80
+fighting_skill: 80
+strength: 88

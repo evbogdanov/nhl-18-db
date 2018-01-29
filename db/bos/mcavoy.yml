@@ -1,0 +1,65 @@
+nhlcom_id: 8479325
+
+country_abbrev: usa
+team_abbrev: bos
+
+first_name: Charlie
+last_name: McAvoy
+number: 73
+born: 1997-12-21
+
+potential: 6
+
+salary: 0.915
+years_left: 2
+
+height: 185
+weight: 96
+position: d
+type: 2 way defender
+shoots: right
+
+draft_team_abbrev: bos
+draft_year: 2016
+draft_round: 1
+draft_overall: 14
+
+overall: 82
+
+puck_skills: 7
+senses: 8
+shooting: 7
+defense: 8
+skating: 8
+physical: 8
+
+deking: 78
+hand_eye: 78
+passing: 84
+puck_control: 84
+
+discipline: 80
+offensive_awareness: 84
+poise: 85
+
+slap_shot_accuracy: 78
+slap_shot_power: 86
+wrist_shot_accuracy: 78
+wrist_shot_power: 86
+
+defensive_awareness: 87
+faceoffs: 60
+shot_blocking: 86
+stick_checking: 86
+
+acceleration: 84
+agility: 84
+balance: 86
+endurance: 83
+speed: 84
+
+aggressiveness: 85
+body_checking: 86
+durability: 85
+fighting_skill: 75
+strength: 86
