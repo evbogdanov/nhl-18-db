@@ -1,0 +1,65 @@
+nhlcom_id: 8448208
+
+country_abbrev: cze
+team_abbrev: cgy
+
+first_name: Jaromir
+last_name: Jagr
+number: 68
+born: 1972-02-15
+
+potential: 12
+
+salary: 1.0
+years_left: 1
+
+height: 191
+weight: 104
+position: rw
+type: sniper
+shoots: left
+
+draft_team_abbrev: pit
+draft_year: 1990
+draft_round: 1
+draft_overall: 5
+
+overall: 83
+
+puck_skills: 9
+senses: 9
+shooting: 8
+defense: 8
+skating: 8
+physical: 9
+
+deking: 85
+hand_eye: 87
+passing: 88
+puck_control: 88
+
+discipline: 80
+offensive_awareness: 88
+poise: 90
+
+slap_shot_accuracy: 85
+slap_shot_power: 88
+wrist_shot_accuracy: 85
+wrist_shot_power: 90
+
+defensive_awareness: 84
+faceoffs: 60
+shot_blocking: 75
+stick_checking: 87
+
+acceleration: 83
+agility: 84
+balance: 90
+endurance: 80
+speed: 83
+
+aggressiveness: 84
+body_checking: 87
+durability: 80
+fighting_skill: 75
+strength: 90

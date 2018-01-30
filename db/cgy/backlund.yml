@@ -1,0 +1,65 @@
+nhlcom_id: 8474150
+
+country_abbrev: swe
+team_abbrev: cgy
+
+first_name: Mikael
+last_name: Backlund
+number: 11
+born: 1989-03-17
+
+potential: 12
+
+salary: 3.575
+years_left: 1
+
+height: 185
+weight: 90
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: cgy
+draft_year: 2007
+draft_round: 1
+draft_overall: 24
+
+overall: 84
+
+puck_skills: 9
+senses: 8
+shooting: 8
+defense: 9
+skating: 9
+physical: 7
+
+deking: 87
+hand_eye: 87
+passing: 87
+puck_control: 87
+
+discipline: 85
+offensive_awareness: 87
+poise: 80
+
+slap_shot_accuracy: 85
+slap_shot_power: 85
+wrist_shot_accuracy: 87
+wrist_shot_power: 85
+
+defensive_awareness: 89
+faceoffs: 83
+shot_blocking: 86
+stick_checking: 89
+
+acceleration: 88
+agility: 88
+balance: 85
+endurance: 85
+speed: 88
+
+aggressiveness: 83
+body_checking: 83
+durability: 85
+fighting_skill: 70
+strength: 85

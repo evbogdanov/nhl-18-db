@@ -1,0 +1,65 @@
+nhlcom_id: 8474612
+
+country_abbrev: can
+team_abbrev: cgy
+
+first_name: Travis
+last_name: Hamonic
+number: 24
+born: 1990-08-16
+
+potential: 16
+
+salary: 3.86
+years_left: 3
+
+height: 188
+weight: 93
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: nyi
+draft_year: 2008
+draft_round: 2
+draft_overall: 53
+
+overall: 83
+
+puck_skills: 7
+senses: 7
+shooting: 7
+defense: 9
+skating: 8
+physical: 9
+
+deking: 77
+hand_eye: 77
+passing: 82
+puck_control: 83
+
+discipline: 75
+offensive_awareness: 85
+poise: 80
+
+slap_shot_accuracy: 77
+slap_shot_power: 87
+wrist_shot_accuracy: 78
+wrist_shot_power: 86
+
+defensive_awareness: 89
+faceoffs: 55
+shot_blocking: 89
+stick_checking: 88
+
+acceleration: 85
+agility: 85
+balance: 87
+endurance: 85
+speed: 85
+
+aggressiveness: 87
+body_checking: 87
+durability: 85
+fighting_skill: 80
+strength: 88

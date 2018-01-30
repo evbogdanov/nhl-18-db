@@ -1,0 +1,65 @@
+nhlcom_id: 8476873
+
+country_abbrev: can
+team_abbrev: cgy
+
+first_name: Mark
+last_name: Jankowski
+number: 77
+born: 1994-09-13
+
+potential: 10
+
+salary: 0.925
+years_left: 1
+
+height: 193
+weight: 93
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: cgy
+draft_year: 2012
+draft_round: 1
+draft_overall: 21
+
+overall: 75
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 6
+skating: 7
+physical: 7
+
+deking: 82
+hand_eye: 82
+passing: 81
+puck_control: 81
+
+discipline: 84
+offensive_awareness: 80
+poise: 70
+
+slap_shot_accuracy: 81
+slap_shot_power: 85
+wrist_shot_accuracy: 82
+wrist_shot_power: 85
+
+defensive_awareness: 80
+faceoffs: 73
+shot_blocking: 77
+stick_checking: 82
+
+acceleration: 83
+agility: 84
+balance: 85
+endurance: 83
+speed: 83
+
+aggressiveness: 82
+body_checking: 82
+durability: 85
+fighting_skill: 70
+strength: 85

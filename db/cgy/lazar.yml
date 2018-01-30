@@ -1,0 +1,65 @@
+nhlcom_id: 8477508
+
+country_abbrev: can
+team_abbrev: cgy
+
+first_name: Curtis
+last_name: Lazar
+number: 20
+born: 1995-02-02
+
+potential: 18
+
+salary: 0.95
+years_left: 2
+
+height: 183
+weight: 89
+position: rw
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: ott
+draft_year: 2013
+draft_round: 1
+draft_overall: 17
+
+overall: 77
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 7
+skating: 7
+physical: 7
+
+deking: 81
+hand_eye: 81
+passing: 81
+puck_control: 80
+
+discipline: 80
+offensive_awareness: 80
+poise: 79
+
+slap_shot_accuracy: 80
+slap_shot_power: 85
+wrist_shot_accuracy: 81
+wrist_shot_power: 84
+
+defensive_awareness: 83
+faceoffs: 72
+shot_blocking: 82
+stick_checking: 84
+
+acceleration: 84
+agility: 84
+balance: 84
+endurance: 83
+speed: 84
+
+aggressiveness: 84
+body_checking: 83
+durability: 83
+fighting_skill: 75
+strength: 85

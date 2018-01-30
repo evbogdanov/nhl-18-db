@@ -1,0 +1,65 @@
+nhlcom_id: 8471426
+
+country_abbrev: can
+team_abbrev: cgy
+
+first_name: Troy
+last_name: Brouwer
+number: 36
+born: 1985-08-17
+
+potential: 20
+
+salary: 4.5
+years_left: 3
+
+height: 191
+weight: 97
+position: rw
+type: grinder
+shoots: right
+
+draft_team_abbrev: chi
+draft_year: 2004
+draft_round: 7
+draft_overall: 217
+
+overall: 79
+
+puck_skills: 7
+senses: 7
+shooting: 8
+defense: 7
+skating: 8
+physical: 9
+
+deking: 82
+hand_eye: 83
+passing: 82
+puck_control: 83
+
+discipline: 75
+offensive_awareness: 82
+poise: 85
+
+slap_shot_accuracy: 83
+slap_shot_power: 87
+wrist_shot_accuracy: 83
+wrist_shot_power: 86
+
+defensive_awareness: 84
+faceoffs: 70
+shot_blocking: 83
+stick_checking: 84
+
+acceleration: 83
+agility: 83
+balance: 88
+endurance: 83
+speed: 83
+
+aggressiveness: 87
+body_checking: 89
+durability: 85
+fighting_skill: 84
+strength: 88

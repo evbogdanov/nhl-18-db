@@ -1,0 +1,65 @@
+nhlcom_id: 8475907
+
+country_abbrev: can
+team_abbrev: cgy
+
+first_name: Micheal
+last_name: Ferland
+number: 79
+born: 1992-04-20
+
+potential: 18
+
+salary: 1.75
+years_left: 2
+
+height: 188
+weight: 94
+position: lw
+type: grinder
+shoots: left
+
+draft_team_abbrev: cgy
+draft_year: 2010
+draft_round: 5
+draft_overall: 133
+
+overall: 78
+
+puck_skills: 7
+senses: 6
+shooting: 8
+defense: 7
+skating: 8
+physical: 9
+
+deking: 82
+hand_eye: 83
+passing: 82
+puck_control: 82
+
+discipline: 70
+offensive_awareness: 80
+poise: 80
+
+slap_shot_accuracy: 82
+slap_shot_power: 86
+wrist_shot_accuracy: 83
+wrist_shot_power: 86
+
+defensive_awareness: 82
+faceoffs: 67
+shot_blocking: 83
+stick_checking: 85
+
+acceleration: 83
+agility: 83
+balance: 88
+endurance: 83
+speed: 85
+
+aggressiveness: 90
+body_checking: 90
+durability: 85
+fighting_skill: 80
+strength: 88

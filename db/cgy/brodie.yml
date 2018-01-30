@@ -1,0 +1,65 @@
+nhlcom_id: 8474673
+
+country_abbrev: can
+team_abbrev: cgy
+
+first_name: TJ
+last_name: Brodie
+number: 7
+born: 1990-06-07
+
+potential: 16
+
+salary: 4.655
+years_left: 3
+
+height: 185
+weight: 82
+position: d
+type: offensive defenseman
+shoots: left
+
+draft_team_abbrev: cgy
+draft_year: 2008
+draft_round: 4
+draft_overall: 114
+
+overall: 85
+
+puck_skills: 9
+senses: 9
+shooting: 8
+defense: 9
+skating: 9
+physical: 7
+
+deking: 88
+hand_eye: 82
+passing: 90
+puck_control: 90
+
+discipline: 85
+offensive_awareness: 91
+poise: 80
+
+slap_shot_accuracy: 82
+slap_shot_power: 88
+wrist_shot_accuracy: 83
+wrist_shot_power: 87
+
+defensive_awareness: 88
+faceoffs: 60
+shot_blocking: 87
+stick_checking: 89
+
+acceleration: 90
+agility: 90
+balance: 85
+endurance: 85
+speed: 90
+
+aggressiveness: 82
+body_checking: 83
+durability: 84
+fighting_skill: 70
+strength: 85

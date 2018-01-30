@@ -1,0 +1,65 @@
+nhlcom_id: 8474749
+
+country_abbrev: usa
+team_abbrev: cgy
+
+first_name: Matt
+last_name: Bartkowski
+number: 44
+born: 1988-06-04
+
+potential: 32
+
+salary: 0.65
+years_left: 1
+
+height: 185
+weight: 89
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: fla
+draft_year: 2008
+draft_round: 7
+draft_overall: 190
+
+overall: 76
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 8
+
+deking: 77
+hand_eye: 77
+passing: 80
+puck_control: 80
+
+discipline: 75
+offensive_awareness: 79
+poise: 75
+
+slap_shot_accuracy: 75
+slap_shot_power: 88
+wrist_shot_accuracy: 77
+wrist_shot_power: 87
+
+defensive_awareness: 81
+faceoffs: 60
+shot_blocking: 85
+stick_checking: 83
+
+acceleration: 87
+agility: 83
+balance: 85
+endurance: 84
+speed: 87
+
+aggressiveness: 85
+body_checking: 85
+durability: 84
+fighting_skill: 75
+strength: 85

@@ -1,0 +1,65 @@
+nhlcom_id: 8479314
+
+country_abbrev: usa
+team_abbrev: cgy
+
+first_name: Matthew
+last_name: Tkachuk
+number: 19
+born: 1997-12-11
+
+potential: 6
+
+salary: 0.925
+years_left: 2
+
+height: 188
+weight: 92
+position: lw
+type: power forward
+shoots: left
+
+draft_team_abbrev: cgy
+draft_year: 2016
+draft_round: 1
+draft_overall: 6
+
+overall: 81
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 7
+skating: 8
+physical: 9
+
+deking: 86
+hand_eye: 87
+passing: 86
+puck_control: 86
+
+discipline: 75
+offensive_awareness: 85
+poise: 80
+
+slap_shot_accuracy: 85
+slap_shot_power: 87
+wrist_shot_accuracy: 87
+wrist_shot_power: 86
+
+defensive_awareness: 84
+faceoffs: 70
+shot_blocking: 80
+stick_checking: 85
+
+acceleration: 84
+agility: 84
+balance: 87
+endurance: 85
+speed: 84
+
+aggressiveness: 90
+body_checking: 89
+durability: 86
+fighting_skill: 80
+strength: 86

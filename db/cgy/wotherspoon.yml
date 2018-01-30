@@ -1,0 +1,65 @@
+nhlcom_id: 8476452
+
+country_abbrev: can
+team_abbrev: cgy
+
+first_name: Tyler
+last_name: Wotherspoon
+number: 26
+born: 1993-03-12
+
+potential: 22
+
+salary: 0.65
+years_left: 1
+
+height: 188
+weight: 95
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: cgy
+draft_year: 2011
+draft_round: 2
+draft_overall: 57
+
+overall: 75
+
+puck_skills: 5
+senses: 4
+shooting: 6
+defense: 7
+skating: 7
+physical: 8
+
+deking: 73
+hand_eye: 73
+passing: 79
+puck_control: 77
+
+discipline: 70
+offensive_awareness: 76
+poise: 70
+
+slap_shot_accuracy: 72
+slap_shot_power: 85
+wrist_shot_accuracy: 73
+wrist_shot_power: 85
+
+defensive_awareness: 82
+faceoffs: 60
+shot_blocking: 85
+stick_checking: 85
+
+acceleration: 82
+agility: 82
+balance: 85
+endurance: 82
+speed: 83
+
+aggressiveness: 85
+body_checking: 85
+durability: 84
+fighting_skill: 80
+strength: 85

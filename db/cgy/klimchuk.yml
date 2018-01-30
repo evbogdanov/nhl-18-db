@@ -1,0 +1,65 @@
+nhlcom_id: 8477449
+
+country_abbrev: can
+team_abbrev: cgy
+
+first_name: Morgan
+last_name: Klimchuk
+number: 52
+born: 1995-03-02
+
+potential: 10
+
+salary: 0.865
+years_left: 1
+
+height: 180
+weight: 84
+position: lw
+type: sniper
+shoots: left
+
+draft_team_abbrev: cgy
+draft_year: 2013
+draft_round: 1
+draft_overall: 28
+
+overall: 74
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 6
+skating: 7
+physical: 5
+
+deking: 84
+hand_eye: 82
+passing: 82
+puck_control: 82
+
+discipline: 90
+offensive_awareness: 80
+poise: 70
+
+slap_shot_accuracy: 82
+slap_shot_power: 86
+wrist_shot_accuracy: 82
+wrist_shot_power: 85
+
+defensive_awareness: 79
+faceoffs: 68
+shot_blocking: 72
+stick_checking: 82
+
+acceleration: 85
+agility: 85
+balance: 80
+endurance: 80
+speed: 85
+
+aggressiveness: 75
+body_checking: 75
+durability: 80
+fighting_skill: 68
+strength: 80

@@ -1,0 +1,65 @@
+nhlcom_id: 8470162
+
+country_abbrev: can
+team_abbrev: cgy
+
+first_name: Matt
+last_name: Stajan
+number: 18
+born: 1983-12-19
+
+potential: 28
+
+salary: 3.125
+years_left: 1
+
+height: 185
+weight: 88
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: tor
+draft_year: 2002
+draft_round: 2
+draft_overall: 57
+
+overall: 75
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 7
+skating: 7
+physical: 7
+
+deking: 80
+hand_eye: 80
+passing: 81
+puck_control: 81
+
+discipline: 84
+offensive_awareness: 81
+poise: 75
+
+slap_shot_accuracy: 80
+slap_shot_power: 84
+wrist_shot_accuracy: 80
+wrist_shot_power: 83
+
+defensive_awareness: 83
+faceoffs: 80
+shot_blocking: 81
+stick_checking: 82
+
+acceleration: 83
+agility: 82
+balance: 82
+endurance: 80
+speed: 83
+
+aggressiveness: 80
+body_checking: 82
+durability: 85
+fighting_skill: 70
+strength: 82

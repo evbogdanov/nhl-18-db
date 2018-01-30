@@ -1,0 +1,65 @@
+nhlcom_id: 8478432
+
+country_abbrev: usa
+team_abbrev: ari
+
+first_name: Christian
+last_name: Fischer
+number: 36
+born: 1997-04-15
+
+potential: 10
+
+salary: 0.85
+years_left: 2
+
+height: 188
+weight: 95
+position: rw
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: ari
+draft_year: 2015
+draft_round: 2
+draft_overall: 32
+
+overall: 73
+
+puck_skills: 6
+senses: 5
+shooting: 7
+defense: 6
+skating: 7
+physical: 8
+
+deking: 82
+hand_eye: 80
+passing: 80
+puck_control: 80
+
+discipline: 82
+offensive_awareness: 77
+poise: 70
+
+slap_shot_accuracy: 79
+slap_shot_power: 85
+wrist_shot_accuracy: 80
+wrist_shot_power: 84
+
+defensive_awareness: 78
+faceoffs: 60
+shot_blocking: 75
+stick_checking: 80
+
+acceleration: 83
+agility: 83
+balance: 85
+endurance: 75
+speed: 84
+
+aggressiveness: 84
+body_checking: 84
+durability: 85
+fighting_skill: 70
+strength: 85

@@ -1,0 +1,65 @@
+nhlcom_id: 8477935
+
+country_abbrev: can
+team_abbrev: cgy
+
+first_name: Sam
+last_name: Bennett
+number: 93
+born: 1996-06-20
+
+potential: 7
+
+salary: 1.95
+years_left: 2
+
+height: 185
+weight: 84
+position: c
+type: playmaker
+shoots: left
+
+draft_team_abbrev: cgy
+draft_year: 2014
+draft_round: 1
+draft_overall: 4
+
+overall: 79
+
+puck_skills: 8
+senses: 8
+shooting: 7
+defense: 7
+skating: 8
+physical: 6
+
+deking: 87
+hand_eye: 84
+passing: 85
+puck_control: 85
+
+discipline: 80
+offensive_awareness: 86
+poise: 80
+
+slap_shot_accuracy: 82
+slap_shot_power: 83
+wrist_shot_accuracy: 83
+wrist_shot_power: 83
+
+defensive_awareness: 84
+faceoffs: 78
+shot_blocking: 78
+stick_checking: 83
+
+acceleration: 87
+agility: 87
+balance: 82
+endurance: 82
+speed: 87
+
+aggressiveness: 84
+body_checking: 82
+durability: 82
+fighting_skill: 70
+strength: 80
