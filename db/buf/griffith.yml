@@ -1,0 +1,65 @@
+nhlcom_id: 8476495
+
+country_abbrev: can
+team_abbrev: buf
+
+first_name: Seth
+last_name: Griffith
+number: 25
+born: 1993-01-04
+
+potential: 18
+
+salary: 0.65
+years_left: 1
+
+height: 175
+weight: 87
+position: rw
+type: sniper
+shoots: right
+
+draft_team_abbrev: bos
+draft_year: 2012
+draft_round: 5
+draft_overall: 131
+
+overall: 75
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 6
+skating: 8
+physical: 6
+
+deking: 83
+hand_eye: 82
+passing: 82
+puck_control: 82
+
+discipline: 84
+offensive_awareness: 80
+poise: 75
+
+slap_shot_accuracy: 82
+slap_shot_power: 84
+wrist_shot_accuracy: 82
+wrist_shot_power: 84
+
+defensive_awareness: 79
+faceoffs: 65
+shot_blocking: 75
+stick_checking: 83
+
+acceleration: 87
+agility: 87
+balance: 80
+endurance: 83
+speed: 87
+
+aggressiveness: 79
+body_checking: 77
+durability: 85
+fighting_skill: 65
+strength: 80

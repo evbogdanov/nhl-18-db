@@ -1,0 +1,65 @@
+nhlcom_id: 8475325
+
+country_abbrev: can
+team_abbrev: buf
+
+first_name: Jordan
+last_name: Nolan
+number: 17
+born: 1989-06-23
+
+potential: 28
+
+salary: 0.95
+years_left: 1
+
+height: 191
+weight: 99
+position: lw
+type: grinder
+shoots: left
+
+draft_team_abbrev: lak
+draft_year: 2009
+draft_round: 7
+draft_overall: 186
+
+overall: 77
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 9
+
+deking: 80
+hand_eye: 80
+passing: 80
+puck_control: 80
+
+discipline: 65
+offensive_awareness: 79
+poise: 80
+
+slap_shot_accuracy: 80
+slap_shot_power: 87
+wrist_shot_accuracy: 80
+wrist_shot_power: 86
+
+defensive_awareness: 82
+faceoffs: 60
+shot_blocking: 84
+stick_checking: 87
+
+acceleration: 83
+agility: 82
+balance: 90
+endurance: 75
+speed: 83
+
+aggressiveness: 90
+body_checking: 90
+durability: 85
+fighting_skill: 87
+strength: 90

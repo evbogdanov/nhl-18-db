@@ -1,0 +1,65 @@
+nhlcom_id: 8475158
+
+country_abbrev: can
+team_abbrev: buf
+
+first_name: Ryan
+last_name: O'Reilly
+number: 90
+born: 1991-02-07
+
+potential: 10
+
+salary: 7.5
+years_left: 6
+
+height: 185
+weight: 95
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: col
+draft_year: 2009
+draft_round: 2
+draft_overall: 33
+
+overall: 86
+
+puck_skills: 9
+senses: 9
+shooting: 9
+defense: 9
+skating: 8
+physical: 8
+
+deking: 88
+hand_eye: 88
+passing: 89
+puck_control: 89
+
+discipline: 95
+offensive_awareness: 89
+poise: 88
+
+slap_shot_accuracy: 86
+slap_shot_power: 88
+wrist_shot_accuracy: 87
+wrist_shot_power: 88
+
+defensive_awareness: 89
+faceoffs: 82
+shot_blocking: 86
+stick_checking: 90
+
+acceleration: 84
+agility: 85
+balance: 88
+endurance: 88
+speed: 84
+
+aggressiveness: 85
+body_checking: 86
+durability: 88
+fighting_skill: 75
+strength: 88

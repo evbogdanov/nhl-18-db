@@ -1,0 +1,65 @@
+nhlcom_id: 8479755
+
+country_abbrev: kaz
+team_abbrev: buf
+
+first_name: Victor
+last_name: Antipin
+number: 93
+born: 1992-12-06
+
+potential: 29
+
+salary: 0.925
+years_left: 1
+
+height: 180
+weight: 81
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 75
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 7
+skating: 7
+physical: 6
+
+deking: 75
+hand_eye: 75
+passing: 80
+puck_control: 80
+
+discipline: 80
+offensive_awareness: 80
+poise: 70
+
+slap_shot_accuracy: 75
+slap_shot_power: 85
+wrist_shot_accuracy: 75
+wrist_shot_power: 85
+
+defensive_awareness: 82
+faceoffs: 60
+shot_blocking: 83
+stick_checking: 83
+
+acceleration: 83
+agility: 83
+balance: 80
+endurance: 83
+speed: 83
+
+aggressiveness: 77
+body_checking: 77
+durability: 85
+fighting_skill: 75
+strength: 80

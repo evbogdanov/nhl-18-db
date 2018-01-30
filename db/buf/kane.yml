@@ -1,0 +1,65 @@
+nhlcom_id: 8475169
+
+country_abbrev: can
+team_abbrev: buf
+
+first_name: Evander
+last_name: Kane
+number: 9
+born: 1991-08-02
+
+potential: 10
+
+salary: 5.25
+years_left: 1
+
+height: 188
+weight: 96
+position: lw
+type: sniper
+shoots: left
+
+draft_team_abbrev: atl
+draft_year: 2009
+draft_round: 1
+draft_overall: 4
+
+overall: 83
+
+puck_skills: 8
+senses: 7
+shooting: 9
+defense: 7
+skating: 9
+physical: 9
+
+deking: 88
+hand_eye: 86
+passing: 86
+puck_control: 86
+
+discipline: 75
+offensive_awareness: 85
+poise: 80
+
+slap_shot_accuracy: 87
+slap_shot_power: 88
+wrist_shot_accuracy: 87
+wrist_shot_power: 88
+
+defensive_awareness: 82
+faceoffs: 65
+shot_blocking: 78
+stick_checking: 85
+
+acceleration: 89
+agility: 89
+balance: 88
+endurance: 85
+speed: 89
+
+aggressiveness: 88
+body_checking: 88
+durability: 80
+fighting_skill: 80
+strength: 88

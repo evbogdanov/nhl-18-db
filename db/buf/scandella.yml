@@ -1,0 +1,65 @@
+nhlcom_id: 8474618
+
+country_abbrev: can
+team_abbrev: buf
+
+first_name: Marco
+last_name: Scandella
+number: 6
+born: 1990-02-23
+
+potential: 16
+
+salary: 4.0
+years_left: 3
+
+height: 191
+weight: 94
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: min
+draft_year: 2008
+draft_round: 2
+draft_overall: 55
+
+overall: 81
+
+puck_skills: 7
+senses: 7
+shooting: 7
+defense: 8
+skating: 8
+physical: 8
+
+deking: 75
+hand_eye: 75
+passing: 83
+puck_control: 82
+
+discipline: 70
+offensive_awareness: 82
+poise: 80
+
+slap_shot_accuracy: 75
+slap_shot_power: 88
+wrist_shot_accuracy: 77
+wrist_shot_power: 87
+
+defensive_awareness: 86
+faceoffs: 60
+shot_blocking: 87
+stick_checking: 87
+
+acceleration: 84
+agility: 84
+balance: 86
+endurance: 85
+speed: 84
+
+aggressiveness: 85
+body_checking: 87
+durability: 85
+fighting_skill: 77
+strength: 86

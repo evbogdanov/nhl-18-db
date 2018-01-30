@@ -1,0 +1,65 @@
+nhlcom_id: 8476166
+
+country_abbrev: can
+team_abbrev: buf
+
+first_name: Taylor
+last_name: Fedun
+number: 27
+born: 1988-06-04
+
+potential: 32
+
+salary: 0.65
+years_left: 2
+
+height: 183
+weight: 86
+position: d
+type: 2 way defender
+shoots: right
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 75
+
+puck_skills: 6
+senses: 5
+shooting: 6
+defense: 7
+skating: 8
+physical: 7
+
+deking: 77
+hand_eye: 75
+passing: 80
+puck_control: 80
+
+discipline: 82
+offensive_awareness: 78
+poise: 75
+
+slap_shot_accuracy: 73
+slap_shot_power: 85
+wrist_shot_accuracy: 75
+wrist_shot_power: 84
+
+defensive_awareness: 80
+faceoffs: 60
+shot_blocking: 84
+stick_checking: 84
+
+acceleration: 84
+agility: 84
+balance: 85
+endurance: 82
+speed: 85
+
+aggressiveness: 84
+body_checking: 84
+durability: 75
+fighting_skill: 75
+strength: 85

@@ -1,0 +1,65 @@
+nhlcom_id: 8473992
+
+country_abbrev: can
+team_abbrev: buf
+
+first_name: Justin
+last_name: Falk
+number: 41
+born: 1988-10-11
+
+potential: 32
+
+salary: 0.65
+years_left: 1
+
+height: 196
+weight: 97
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: min
+draft_year: 2007
+draft_round: 4
+draft_overall: 110
+
+overall: 76
+
+puck_skills: 5
+senses: 5
+shooting: 7
+defense: 7
+skating: 7
+physical: 8
+
+deking: 67
+hand_eye: 67
+passing: 78
+puck_control: 78
+
+discipline: 75
+offensive_awareness: 75
+poise: 75
+
+slap_shot_accuracy: 74
+slap_shot_power: 87
+wrist_shot_accuracy: 75
+wrist_shot_power: 86
+
+defensive_awareness: 82
+faceoffs: 55
+shot_blocking: 85
+stick_checking: 85
+
+acceleration: 82
+agility: 81
+balance: 89
+endurance: 80
+speed: 82
+
+aggressiveness: 87
+body_checking: 87
+durability: 85
+fighting_skill: 80
+strength: 87

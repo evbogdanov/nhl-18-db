@@ -1,0 +1,65 @@
+nhlcom_id: 8471678
+
+country_abbrev: can
+team_abbrev: buf
+
+first_name: Benoit
+last_name: Pouliot
+number: 67
+born: 1986-09-29
+
+potential: 28
+
+salary: 1.15
+years_left: 1
+
+height: 191
+weight: 91
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: min
+draft_year: 2005
+draft_round: 1
+draft_overall: 4
+
+overall: 77
+
+puck_skills: 7
+senses: 6
+shooting: 8
+defense: 7
+skating: 8
+physical: 8
+
+deking: 83
+hand_eye: 82
+passing: 83
+puck_control: 82
+
+discipline: 84
+offensive_awareness: 81
+poise: 75
+
+slap_shot_accuracy: 83
+slap_shot_power: 86
+wrist_shot_accuracy: 83
+wrist_shot_power: 86
+
+defensive_awareness: 81
+faceoffs: 67
+shot_blocking: 80
+stick_checking: 84
+
+acceleration: 84
+agility: 84
+balance: 86
+endurance: 84
+speed: 85
+
+aggressiveness: 84
+body_checking: 84
+durability: 84
+fighting_skill: 75
+strength: 85
