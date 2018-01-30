@@ -1,0 +1,65 @@
+nhlcom_id: 8477401
+
+country_abbrev: usa
+team_abbrev: chi
+
+first_name: John
+last_name: Hayden
+number: 40
+born: 1995-02-14
+
+potential: 18
+
+salary: 0.925
+years_left: 1
+
+height: 191
+weight: 101
+position: c
+type: power forward
+shoots: right
+
+draft_team_abbrev: chi
+draft_year: 2013
+draft_round: 3
+draft_overall: 74
+
+overall: 77
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 7
+skating: 7
+physical: 8
+
+deking: 80
+hand_eye: 82
+passing: 81
+puck_control: 81
+
+discipline: 70
+offensive_awareness: 80
+poise: 75
+
+slap_shot_accuracy: 81
+slap_shot_power: 86
+wrist_shot_accuracy: 82
+wrist_shot_power: 86
+
+defensive_awareness: 82
+faceoffs: 75
+shot_blocking: 80
+stick_checking: 84
+
+acceleration: 84
+agility: 82
+balance: 86
+endurance: 78
+speed: 84
+
+aggressiveness: 86
+body_checking: 85
+durability: 85
+fighting_skill: 77
+strength: 86

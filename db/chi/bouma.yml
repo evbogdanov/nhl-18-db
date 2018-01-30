@@ -1,0 +1,65 @@
+nhlcom_id: 8474642
+
+country_abbrev: can
+team_abbrev: chi
+
+first_name: Lance
+last_name: Bouma
+number: 17
+born: 1990-03-25
+
+potential: 28
+
+salary: 1.0
+years_left: 1
+
+height: 188
+weight: 94
+position: lw
+type: grinder
+shoots: left
+
+draft_team_abbrev: cgy
+draft_year: 2008
+draft_round: 3
+draft_overall: 78
+
+overall: 76
+
+puck_skills: 6
+senses: 5
+shooting: 7
+defense: 7
+skating: 7
+physical: 9
+
+deking: 80
+hand_eye: 80
+passing: 81
+puck_control: 81
+
+discipline: 70
+offensive_awareness: 79
+poise: 73
+
+slap_shot_accuracy: 81
+slap_shot_power: 84
+wrist_shot_accuracy: 82
+wrist_shot_power: 84
+
+defensive_awareness: 81
+faceoffs: 74
+shot_blocking: 84
+stick_checking: 84
+
+acceleration: 83
+agility: 82
+balance: 88
+endurance: 82
+speed: 83
+
+aggressiveness: 89
+body_checking: 90
+durability: 84
+fighting_skill: 83
+strength: 86

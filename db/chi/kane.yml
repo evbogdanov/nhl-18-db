@@ -1,0 +1,65 @@
+nhlcom_id: 8474141
+
+country_abbrev: usa
+team_abbrev: chi
+
+first_name: Patrick
+last_name: Kane
+number: 88
+born: 1988-11-19
+
+potential: 8
+
+salary: 10.5
+years_left: 6
+
+height: 180
+weight: 80
+position: rw
+type: sniper
+shoots: left
+
+draft_team_abbrev: chi
+draft_year: 2007
+draft_round: 1
+draft_overall: 1
+
+overall: 91
+
+puck_skills: 10
+senses: 10
+shooting: 10
+defense: 9
+skating: 10
+physical: 6
+
+deking: 97
+hand_eye: 97
+passing: 96
+puck_control: 97
+
+discipline: 90
+offensive_awareness: 96
+poise: 95
+
+slap_shot_accuracy: 94
+slap_shot_power: 89
+wrist_shot_accuracy: 95
+wrist_shot_power: 89
+
+defensive_awareness: 89
+faceoffs: 65
+shot_blocking: 75
+stick_checking: 89
+
+acceleration: 94
+agility: 94
+balance: 82
+endurance: 85
+speed: 90
+
+aggressiveness: 75
+body_checking: 75
+durability: 85
+fighting_skill: 65
+strength: 81

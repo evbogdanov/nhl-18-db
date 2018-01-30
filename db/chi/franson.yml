@@ -1,0 +1,65 @@
+nhlcom_id: 8471742
+
+country_abbrev: can
+team_abbrev: chi
+
+first_name: Cody
+last_name: Franson
+number: 11
+born: 1987-08-08
+
+potential: 24
+
+salary: 1.0
+years_left: 1
+
+height: 196
+weight: 101
+position: d
+type: offensive defenseman
+shoots: right
+
+draft_team_abbrev: nsh
+draft_year: 2005
+draft_round: 3
+draft_overall: 79
+
+overall: 78
+
+puck_skills: 7
+senses: 7
+shooting: 8
+defense: 7
+skating: 8
+physical: 8
+
+deking: 82
+hand_eye: 80
+passing: 84
+puck_control: 84
+
+discipline: 85
+offensive_awareness: 83
+poise: 80
+
+slap_shot_accuracy: 80
+slap_shot_power: 90
+wrist_shot_accuracy: 80
+wrist_shot_power: 90
+
+defensive_awareness: 82
+faceoffs: 55
+shot_blocking: 83
+stick_checking: 84
+
+acceleration: 83
+agility: 83
+balance: 87
+endurance: 85
+speed: 83
+
+aggressiveness: 82
+body_checking: 83
+durability: 85
+fighting_skill: 70
+strength: 87

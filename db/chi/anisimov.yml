@@ -1,0 +1,65 @@
+nhlcom_id: 8473573
+
+country_abbrev: rus
+team_abbrev: chi
+
+first_name: Artem
+last_name: Anisimov
+number: 15
+born: 1988-05-24
+
+potential: 12
+
+salary: 4.55
+years_left: 4
+
+height: 193
+weight: 90
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: nyr
+draft_year: 2006
+draft_round: 2
+draft_overall: 54
+
+overall: 82
+
+puck_skills: 8
+senses: 8
+shooting: 8
+defense: 8
+skating: 8
+physical: 8
+
+deking: 85
+hand_eye: 85
+passing: 85
+puck_control: 85
+
+discipline: 90
+offensive_awareness: 85
+poise: 80
+
+slap_shot_accuracy: 84
+slap_shot_power: 87
+wrist_shot_accuracy: 85
+wrist_shot_power: 86
+
+defensive_awareness: 86
+faceoffs: 73
+shot_blocking: 85
+stick_checking: 87
+
+acceleration: 86
+agility: 86
+balance: 88
+endurance: 84
+speed: 87
+
+aggressiveness: 84
+body_checking: 85
+durability: 83
+fighting_skill: 70
+strength: 88

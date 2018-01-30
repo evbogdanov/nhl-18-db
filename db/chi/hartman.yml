@@ -1,0 +1,65 @@
+nhlcom_id: 8477451
+
+country_abbrev: usa
+team_abbrev: chi
+
+first_name: Ryan
+last_name: Hartman
+number: 38
+born: 1994-09-20
+
+potential: 11
+
+salary: 0.865
+years_left: 1
+
+height: 183
+weight: 82
+position: rw
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: chi
+draft_year: 2013
+draft_round: 1
+draft_overall: 30
+
+overall: 79
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 7
+skating: 8
+physical: 8
+
+deking: 84
+hand_eye: 84
+passing: 85
+puck_control: 85
+
+discipline: 65
+offensive_awareness: 84
+poise: 75
+
+slap_shot_accuracy: 84
+slap_shot_power: 85
+wrist_shot_accuracy: 85
+wrist_shot_power: 85
+
+defensive_awareness: 83
+faceoffs: 65
+shot_blocking: 80
+stick_checking: 84
+
+acceleration: 85
+agility: 85
+balance: 85
+endurance: 80
+speed: 85
+
+aggressiveness: 89
+body_checking: 85
+durability: 85
+fighting_skill: 75
+strength: 85

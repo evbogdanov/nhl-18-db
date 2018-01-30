@@ -1,0 +1,65 @@
+nhlcom_id: 8479337
+
+country_abbrev: usa
+team_abbrev: chi
+
+first_name: Alex
+last_name: DeBrincat
+number: 12
+born: 1997-12-18
+
+potential: 10
+
+salary: 0.81
+years_left: 3
+
+height: 170
+weight: 77
+position: c
+type: sniper
+shoots: right
+
+draft_team_abbrev: chi
+draft_year: 2016
+draft_round: 2
+draft_overall: 39
+
+overall: 77
+
+puck_skills: 8
+senses: 8
+shooting: 8
+defense: 6
+skating: 8
+physical: 3
+
+deking: 86
+hand_eye: 82
+passing: 84
+puck_control: 84
+
+discipline: 85
+offensive_awareness: 86
+poise: 80
+
+slap_shot_accuracy: 84
+slap_shot_power: 87
+wrist_shot_accuracy: 85
+wrist_shot_power: 86
+
+defensive_awareness: 79
+faceoffs: 62
+shot_blocking: 70
+stick_checking: 84
+
+acceleration: 89
+agility: 89
+balance: 74
+endurance: 82
+speed: 87
+
+aggressiveness: 72
+body_checking: 66
+durability: 87
+fighting_skill: 67
+strength: 74

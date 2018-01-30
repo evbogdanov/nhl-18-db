@@ -1,0 +1,65 @@
+nhlcom_id: 8476864
+
+country_abbrev: fin
+team_abbrev: chi
+
+first_name: Ville
+last_name: Pokka
+number: 47
+born: 1994-06-03
+
+potential: 14
+
+salary: 0.65
+years_left: 1
+
+height: 183
+weight: 96
+position: d
+type: 2 way defender
+shoots: right
+
+draft_team_abbrev: nyi
+draft_year: 2012
+draft_round: 2
+draft_overall: 34
+
+overall: 74
+
+puck_skills: 6
+senses: 5
+shooting: 7
+defense: 6
+skating: 7
+physical: 8
+
+deking: 77
+hand_eye: 74
+passing: 80
+puck_control: 80
+
+discipline: 80
+offensive_awareness: 79
+poise: 70
+
+slap_shot_accuracy: 75
+slap_shot_power: 85
+wrist_shot_accuracy: 75
+wrist_shot_power: 85
+
+defensive_awareness: 79
+faceoffs: 60
+shot_blocking: 83
+stick_checking: 84
+
+acceleration: 83
+agility: 83
+balance: 85
+endurance: 84
+speed: 84
+
+aggressiveness: 84
+body_checking: 84
+durability: 85
+fighting_skill: 75
+strength: 85

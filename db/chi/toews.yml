@@ -1,0 +1,65 @@
+nhlcom_id: 8473604
+
+country_abbrev: can
+team_abbrev: chi
+
+first_name: Jonathan
+last_name: Toews
+number: 19
+born: 1988-04-29
+
+potential: 8
+
+salary: 10.5
+years_left: 6
+
+height: 188
+weight: 91
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: chi
+draft_year: 2006
+draft_round: 1
+draft_overall: 3
+
+overall: 89
+
+puck_skills: 10
+senses: 9
+shooting: 9
+defense: 10
+skating: 9
+physical: 8
+
+deking: 90
+hand_eye: 90
+passing: 90
+puck_control: 90
+
+discipline: 85
+offensive_awareness: 87
+poise: 95
+
+slap_shot_accuracy: 90
+slap_shot_power: 88
+wrist_shot_accuracy: 90
+wrist_shot_power: 87
+
+defensive_awareness: 94
+faceoffs: 85
+shot_blocking: 88
+stick_checking: 93
+
+acceleration: 88
+agility: 89
+balance: 87
+endurance: 85
+speed: 89
+
+aggressiveness: 85
+body_checking: 85
+durability: 90
+fighting_skill: 75
+strength: 87

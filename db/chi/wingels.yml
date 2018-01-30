@@ -1,0 +1,65 @@
+nhlcom_id: 8474739
+
+country_abbrev: usa
+team_abbrev: chi
+
+first_name: Tommy
+last_name: Wingels
+number: 57
+born: 1988-04-12
+
+potential: 20
+
+salary: 0.75
+years_left: 1
+
+height: 183
+weight: 91
+position: rw
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: sjs
+draft_year: 2008
+draft_round: 6
+draft_overall: 177
+
+overall: 79
+
+puck_skills: 7
+senses: 6
+shooting: 8
+defense: 7
+skating: 8
+physical: 8
+
+deking: 84
+hand_eye: 84
+passing: 83
+puck_control: 83
+
+discipline: 82
+offensive_awareness: 81
+poise: 80
+
+slap_shot_accuracy: 83
+slap_shot_power: 87
+wrist_shot_accuracy: 83
+wrist_shot_power: 85
+
+defensive_awareness: 83
+faceoffs: 72
+shot_blocking: 84
+stick_checking: 85
+
+acceleration: 86
+agility: 86
+balance: 86
+endurance: 83
+speed: 87
+
+aggressiveness: 87
+body_checking: 87
+durability: 85
+fighting_skill: 75
+strength: 86

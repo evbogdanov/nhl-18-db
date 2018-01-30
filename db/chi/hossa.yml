@@ -1,0 +1,65 @@
+nhlcom_id: 8466148
+
+country_abbrev: svk
+team_abbrev: chi
+
+first_name: Marian
+last_name: Hossa
+number: 81
+born: 1979-01-12
+
+potential: 12
+
+salary: 5.275
+years_left: 4
+
+height: 185
+weight: 94
+position: rw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: ott
+draft_year: 1997
+draft_round: 1
+draft_overall: 12
+
+overall: 83
+
+puck_skills: 8
+senses: 8
+shooting: 8
+defense: 9
+skating: 8
+physical: 8
+
+deking: 84
+hand_eye: 84
+passing: 86
+puck_control: 86
+
+discipline: 87
+offensive_awareness: 86
+poise: 90
+
+slap_shot_accuracy: 84
+slap_shot_power: 87
+wrist_shot_accuracy: 85
+wrist_shot_power: 86
+
+defensive_awareness: 89
+faceoffs: 65
+shot_blocking: 83
+stick_checking: 89
+
+acceleration: 85
+agility: 85
+balance: 87
+endurance: 85
+speed: 85
+
+aggressiveness: 83
+body_checking: 83
+durability: 85
+fighting_skill: 75
+strength: 87

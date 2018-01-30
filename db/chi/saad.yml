@@ -1,0 +1,65 @@
+nhlcom_id: 8476438
+
+country_abbrev: usa
+team_abbrev: chi
+
+first_name: Brandon
+last_name: Saad
+number: 20
+born: 1992-10-27
+
+potential: 6
+
+salary: 6.0
+years_left: 4
+
+height: 185
+weight: 93
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: chi
+draft_year: 2011
+draft_round: 2
+draft_overall: 43
+
+overall: 84
+
+puck_skills: 9
+senses: 9
+shooting: 9
+defense: 8
+skating: 8
+physical: 8
+
+deking: 87
+hand_eye: 87
+passing: 87
+puck_control: 87
+
+discipline: 85
+offensive_awareness: 88
+poise: 83
+
+slap_shot_accuracy: 87
+slap_shot_power: 87
+wrist_shot_accuracy: 88
+wrist_shot_power: 87
+
+defensive_awareness: 87
+faceoffs: 65
+shot_blocking: 80
+stick_checking: 87
+
+acceleration: 87
+agility: 87
+balance: 86
+endurance: 85
+speed: 87
+
+aggressiveness: 84
+body_checking: 84
+durability: 85
+fighting_skill: 70
+strength: 86

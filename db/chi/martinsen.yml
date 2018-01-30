@@ -1,0 +1,65 @@
+nhlcom_id: 8478561
+
+country_abbrev: nor
+team_abbrev: chi
+
+first_name: Andreas
+last_name: Martinsen
+number: 37
+born: 1990-06-13
+
+potential: 28
+
+salary: 0.675
+years_left: 1
+
+height: 191
+weight: 100
+position: c
+type: grinder
+shoots: left
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 77
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 9
+
+deking: 82
+hand_eye: 81
+passing: 81
+puck_control: 81
+
+discipline: 75
+offensive_awareness: 80
+poise: 75
+
+slap_shot_accuracy: 81
+slap_shot_power: 86
+wrist_shot_accuracy: 82
+wrist_shot_power: 85
+
+defensive_awareness: 82
+faceoffs: 73
+shot_blocking: 81
+stick_checking: 85
+
+acceleration: 83
+agility: 83
+balance: 89
+endurance: 83
+speed: 83
+
+aggressiveness: 88
+body_checking: 88
+durability: 85
+fighting_skill: 80
+strength: 89

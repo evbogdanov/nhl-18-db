@@ -1,0 +1,65 @@
+nhlcom_id: 8475209
+
+country_abbrev: svk
+team_abbrev: chi
+
+first_name: Richard
+last_name: Panik
+number: 14
+born: 1991-02-07
+
+potential: 18
+
+salary: 2.8
+years_left: 2
+
+height: 185
+weight: 94
+position: rw
+type: sniper
+shoots: left
+
+draft_team_abbrev: tbl
+draft_year: 2009
+draft_round: 2
+draft_overall: 52
+
+overall: 80
+
+puck_skills: 8
+senses: 8
+shooting: 8
+defense: 7
+skating: 8
+physical: 7
+
+deking: 85
+hand_eye: 85
+passing: 85
+puck_control: 85
+
+discipline: 83
+offensive_awareness: 85
+poise: 80
+
+slap_shot_accuracy: 84
+slap_shot_power: 87
+wrist_shot_accuracy: 85
+wrist_shot_power: 86
+
+defensive_awareness: 83
+faceoffs: 60
+shot_blocking: 75
+stick_checking: 84
+
+acceleration: 87
+agility: 86
+balance: 85
+endurance: 83
+speed: 87
+
+aggressiveness: 81
+body_checking: 83
+durability: 85
+fighting_skill: 70
+strength: 85

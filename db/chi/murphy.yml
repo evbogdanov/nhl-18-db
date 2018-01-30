@@ -1,0 +1,65 @@
+nhlcom_id: 8476473
+
+country_abbrev: usa
+team_abbrev: chi
+
+first_name: Connor
+last_name: Murphy
+number: 5
+born: 1993-03-26
+
+potential: 14
+
+salary: 3.85
+years_left: 5
+
+height: 193
+weight: 96
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: phx
+draft_year: 2011
+draft_round: 1
+draft_overall: 20
+
+overall: 82
+
+puck_skills: 7
+senses: 7
+shooting: 7
+defense: 9
+skating: 8
+physical: 8
+
+deking: 75
+hand_eye: 75
+passing: 83
+puck_control: 82
+
+discipline: 80
+offensive_awareness: 82
+poise: 80
+
+slap_shot_accuracy: 77
+slap_shot_power: 86
+wrist_shot_accuracy: 77
+wrist_shot_power: 85
+
+defensive_awareness: 87
+faceoffs: 60
+shot_blocking: 88
+stick_checking: 88
+
+acceleration: 84
+agility: 84
+balance: 87
+endurance: 85
+speed: 84
+
+aggressiveness: 86
+body_checking: 86
+durability: 85
+fighting_skill: 77
+strength: 87

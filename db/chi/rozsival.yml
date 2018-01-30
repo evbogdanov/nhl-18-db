@@ -1,0 +1,65 @@
+nhlcom_id: 8465058
+
+country_abbrev: cze
+team_abbrev: chi
+
+first_name: Michal
+last_name: Rozsival
+number: 32
+born: 1978-09-03
+
+potential: 32
+
+salary: 0.65
+years_left: 1
+
+height: 185
+weight: 95
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: pit
+draft_year: 1996
+draft_round: 4
+draft_overall: 105
+
+overall: 76
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 7
+skating: 7
+physical: 7
+
+deking: 75
+hand_eye: 75
+passing: 80
+puck_control: 78
+
+discipline: 80
+offensive_awareness: 77
+poise: 85
+
+slap_shot_accuracy: 76
+slap_shot_power: 85
+wrist_shot_accuracy: 77
+wrist_shot_power: 85
+
+defensive_awareness: 82
+faceoffs: 55
+shot_blocking: 85
+stick_checking: 85
+
+acceleration: 80
+agility: 80
+balance: 85
+endurance: 80
+speed: 80
+
+aggressiveness: 83
+body_checking: 83
+durability: 65
+fighting_skill: 75
+strength: 85

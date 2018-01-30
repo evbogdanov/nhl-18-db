@@ -59,6 +59,7 @@ COUNTRIES = [
     'usa',
     'lva',
     'kaz',
+    'nor',
 ]
 
 
