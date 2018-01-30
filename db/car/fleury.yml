@@ -1,0 +1,65 @@
+nhlcom_id: 8477938
+
+country_abbrev: can
+team_abbrev: car
+
+first_name: Haydn
+last_name: Fleury
+number: 4
+born: 1996-07-08
+
+potential: 7
+
+salary: 0.895
+years_left: 2
+
+height: 191
+weight: 100
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: car
+draft_year: 2014
+draft_round: 1
+draft_overall: 7
+
+overall: 79
+
+puck_skills: 7
+senses: 7
+shooting: 7
+defense: 7
+skating: 7
+physical: 8
+
+deking: 79
+hand_eye: 79
+passing: 83
+puck_control: 83
+
+discipline: 80
+offensive_awareness: 83
+poise: 80
+
+slap_shot_accuracy: 78
+slap_shot_power: 86
+wrist_shot_accuracy: 79
+wrist_shot_power: 86
+
+defensive_awareness: 83
+faceoffs: 55
+shot_blocking: 86
+stick_checking: 85
+
+acceleration: 83
+agility: 83
+balance: 85
+endurance: 84
+speed: 84
+
+aggressiveness: 80
+body_checking: 86
+durability: 85
+fighting_skill: 70
+strength: 86

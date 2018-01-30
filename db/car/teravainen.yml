@@ -1,0 +1,65 @@
+nhlcom_id: 8476882
+
+country_abbrev: fin
+team_abbrev: car
+
+first_name: Teuvo
+last_name: Teravainen
+number: 86
+born: 1994-09-11
+
+potential: 10
+
+salary: 2.86
+years_left: 2
+
+height: 180
+weight: 81
+position: lw
+type: playmaker
+shoots: left
+
+draft_team_abbrev: chi
+draft_year: 2012
+draft_round: 1
+draft_overall: 18
+
+overall: 81
+
+puck_skills: 9
+senses: 8
+shooting: 8
+defense: 7
+skating: 9
+physical: 6
+
+deking: 90
+hand_eye: 87
+passing: 87
+puck_control: 87
+
+discipline: 87
+offensive_awareness: 86
+poise: 80
+
+slap_shot_accuracy: 86
+slap_shot_power: 87
+wrist_shot_accuracy: 87
+wrist_shot_power: 86
+
+defensive_awareness: 84
+faceoffs: 73
+shot_blocking: 75
+stick_checking: 85
+
+acceleration: 90
+agility: 90
+balance: 81
+endurance: 82
+speed: 88
+
+aggressiveness: 75
+body_checking: 75
+durability: 85
+fighting_skill: 60
+strength: 81

@@ -1,0 +1,65 @@
+nhlcom_id: 8476403
+
+country_abbrev: swe
+team_abbrev: car
+
+first_name: Klas
+last_name: Dahlbeck
+number: 6
+born: 1991-07-06
+
+potential: 30
+
+salary: 0.85
+years_left: 1
+
+height: 191
+weight: 94
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: chi
+draft_year: 2011
+draft_round: 3
+draft_overall: 79
+
+overall: 76
+
+puck_skills: 6
+senses: 5
+shooting: 6
+defense: 7
+skating: 7
+physical: 8
+
+deking: 75
+hand_eye: 74
+passing: 79
+puck_control: 78
+
+discipline: 80
+offensive_awareness: 78
+poise: 75
+
+slap_shot_accuracy: 73
+slap_shot_power: 85
+wrist_shot_accuracy: 74
+wrist_shot_power: 85
+
+defensive_awareness: 83
+faceoffs: 60
+shot_blocking: 84
+stick_checking: 84
+
+acceleration: 82
+agility: 82
+balance: 86
+endurance: 83
+speed: 82
+
+aggressiveness: 85
+body_checking: 85
+durability: 84
+fighting_skill: 80
+strength: 86

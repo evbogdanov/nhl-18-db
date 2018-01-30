@@ -1,0 +1,65 @@
+nhlcom_id: 8476958
+
+country_abbrev: usa
+team_abbrev: car
+
+first_name: Jaccob
+last_name: Slavin
+number: 74
+born: 1994-05-01
+
+potential: 14
+
+salary: 0.925
+years_left: 1
+
+height: 188
+weight: 93
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: car
+draft_year: 2012
+draft_round: 4
+draft_overall: 120
+
+overall: 83
+
+puck_skills: 8
+senses: 8
+shooting: 8
+defense: 8
+skating: 8
+physical: 8
+
+deking: 84
+hand_eye: 82
+passing: 86
+puck_control: 85
+
+discipline: 90
+offensive_awareness: 86
+poise: 85
+
+slap_shot_accuracy: 80
+slap_shot_power: 87
+wrist_shot_accuracy: 80
+wrist_shot_power: 86
+
+defensive_awareness: 87
+faceoffs: 60
+shot_blocking: 87
+stick_checking: 87
+
+acceleration: 85
+agility: 85
+balance: 85
+endurance: 84
+speed: 85
+
+aggressiveness: 83
+body_checking: 85
+durability: 84
+fighting_skill: 75
+strength: 86

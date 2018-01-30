@@ -1,0 +1,65 @@
+nhlcom_id: 8476858
+
+country_abbrev: can
+team_abbrev: car
+
+first_name: Phillip
+last_name: Di Giuseppe
+number: 34
+born: 1993-10-09
+
+potential: 26
+
+salary: 0.725
+years_left: 1
+
+height: 183
+weight: 91
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: car
+draft_year: 2012
+draft_round: 2
+draft_overall: 38
+
+overall: 76
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 7
+
+deking: 84
+hand_eye: 82
+passing: 82
+puck_control: 81
+
+discipline: 85
+offensive_awareness: 79
+poise: 75
+
+slap_shot_accuracy: 81
+slap_shot_power: 85
+wrist_shot_accuracy: 82
+wrist_shot_power: 85
+
+defensive_awareness: 81
+faceoffs: 76
+shot_blocking: 75
+stick_checking: 83
+
+acceleration: 85
+agility: 85
+balance: 85
+endurance: 83
+speed: 85
+
+aggressiveness: 81
+body_checking: 81
+durability: 85
+fighting_skill: 65
+strength: 85

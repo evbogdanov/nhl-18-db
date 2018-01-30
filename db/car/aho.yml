@@ -1,0 +1,65 @@
+nhlcom_id: 8478427
+
+country_abbrev: fin
+team_abbrev: car
+
+first_name: Sebastian
+last_name: Aho
+number: 20
+born: 1997-07-26
+
+potential: 10
+
+salary: 0.925
+years_left: 2
+
+height: 180
+weight: 78
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: car
+draft_year: 2015
+draft_round: 2
+draft_overall: 35
+
+overall: 82
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 8
+skating: 8
+physical: 7
+
+deking: 87
+hand_eye: 86
+passing: 86
+puck_control: 86
+
+discipline: 85
+offensive_awareness: 86
+poise: 75
+
+slap_shot_accuracy: 86
+slap_shot_power: 86
+wrist_shot_accuracy: 86
+wrist_shot_power: 86
+
+defensive_awareness: 85
+faceoffs: 75
+shot_blocking: 83
+stick_checking: 86
+
+acceleration: 88
+agility: 88
+balance: 84
+endurance: 83
+speed: 88
+
+aggressiveness: 81
+body_checking: 82
+durability: 85
+fighting_skill: 65
+strength: 82

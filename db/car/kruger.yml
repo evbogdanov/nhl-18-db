@@ -1,0 +1,65 @@
+nhlcom_id: 8475323
+
+country_abbrev: swe
+team_abbrev: car
+
+first_name: Marcus
+last_name: Kruger
+number: 16
+born: 1990-05-27
+
+potential: 28
+
+salary: 3.085
+years_left: 2
+
+height: 183
+weight: 84
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: chi
+draft_year: 2009
+draft_round: 5
+draft_overall: 149
+
+overall: 77
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 8
+skating: 8
+physical: 7
+
+deking: 81
+hand_eye: 81
+passing: 81
+puck_control: 81
+
+discipline: 85
+offensive_awareness: 80
+poise: 80
+
+slap_shot_accuracy: 80
+slap_shot_power: 85
+wrist_shot_accuracy: 81
+wrist_shot_power: 84
+
+defensive_awareness: 84
+faceoffs: 84
+shot_blocking: 85
+stick_checking: 85
+
+acceleration: 85
+agility: 85
+balance: 84
+endurance: 83
+speed: 85
+
+aggressiveness: 82
+body_checking: 83
+durability: 85
+fighting_skill: 66
+strength: 84

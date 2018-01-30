@@ -1,0 +1,65 @@
+nhlcom_id: 8470740
+
+country_abbrev: usa
+team_abbrev: car
+
+first_name: Lee
+last_name: Stempniak
+number: 21
+born: 1983-02-04
+
+potential: 28
+
+salary: 2.5
+years_left: 1
+
+height: 180
+weight: 88
+position: rw
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: stl
+draft_year: 2003
+draft_round: 5
+draft_overall: 148
+
+overall: 78
+
+puck_skills: 7
+senses: 7
+shooting: 8
+defense: 7
+skating: 8
+physical: 8
+
+deking: 83
+hand_eye: 83
+passing: 83
+puck_control: 83
+
+discipline: 86
+offensive_awareness: 82
+poise: 80
+
+slap_shot_accuracy: 83
+slap_shot_power: 86
+wrist_shot_accuracy: 84
+wrist_shot_power: 85
+
+defensive_awareness: 82
+faceoffs: 60
+shot_blocking: 81
+stick_checking: 84
+
+acceleration: 84
+agility: 85
+balance: 84
+endurance: 84
+speed: 84
+
+aggressiveness: 80
+body_checking: 83
+durability: 95
+fighting_skill: 77
+strength: 85

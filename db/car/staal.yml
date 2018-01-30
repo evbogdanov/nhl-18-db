@@ -1,0 +1,65 @@
+nhlcom_id: 8473533
+
+country_abbrev: can
+team_abbrev: car
+
+first_name: Jordan
+last_name: Staal
+number: 11
+born: 1988-09-10
+
+potential: 12
+
+salary: 6.0
+years_left: 6
+
+height: 193
+weight: 100
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: pit
+draft_year: 2006
+draft_round: 1
+draft_overall: 2
+
+overall: 83
+
+puck_skills: 8
+senses: 8
+shooting: 8
+defense: 9
+skating: 8
+physical: 9
+
+deking: 85
+hand_eye: 84
+passing: 85
+puck_control: 84
+
+discipline: 80
+offensive_awareness: 85
+poise: 90
+
+slap_shot_accuracy: 83
+slap_shot_power: 86
+wrist_shot_accuracy: 85
+wrist_shot_power: 87
+
+defensive_awareness: 88
+faceoffs: 88
+shot_blocking: 87
+stick_checking: 89
+
+acceleration: 85
+agility: 85
+balance: 90
+endurance: 87
+speed: 84
+
+aggressiveness: 87
+body_checking: 88
+durability: 85
+fighting_skill: 74
+strength: 89

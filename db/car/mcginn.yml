@@ -1,0 +1,65 @@
+nhlcom_id: 8476934
+
+country_abbrev: can
+team_abbrev: car
+
+first_name: Brock
+last_name: McGinn
+number: 23
+born: 1994-02-02
+
+potential: 25
+
+salary: 0.89
+years_left: 2
+
+height: 180
+weight: 78
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: car
+draft_year: 2012
+draft_round: 2
+draft_overall: 47
+
+overall: 75
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 6
+skating: 8
+physical: 8
+
+deking: 83
+hand_eye: 81
+passing: 80
+puck_control: 80
+
+discipline: 75
+offensive_awareness: 79
+poise: 75
+
+slap_shot_accuracy: 80
+slap_shot_power: 85
+wrist_shot_accuracy: 81
+wrist_shot_power: 84
+
+defensive_awareness: 80
+faceoffs: 70
+shot_blocking: 83
+stick_checking: 83
+
+acceleration: 85
+agility: 85
+balance: 83
+endurance: 78
+speed: 85
+
+aggressiveness: 87
+body_checking: 86
+durability: 85
+fighting_skill: 75
+strength: 83

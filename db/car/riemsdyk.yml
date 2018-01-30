@@ -1,0 +1,65 @@
+nhlcom_id: 8477845
+
+country_abbrev: usa
+team_abbrev: car
+
+first_name: Trevor
+last_name: van Riemsdyk
+number: 57
+born: 1991-07-24
+
+potential: 22
+
+salary: 0.825
+years_left: 1
+
+height: 188
+weight: 85
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 80
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 8
+skating: 8
+physical: 8
+
+deking: 78
+hand_eye: 77
+passing: 82
+puck_control: 80
+
+discipline: 87
+offensive_awareness: 80
+poise: 75
+
+slap_shot_accuracy: 78
+slap_shot_power: 85
+wrist_shot_accuracy: 77
+wrist_shot_power: 84
+
+defensive_awareness: 86
+faceoffs: 55
+shot_blocking: 85
+stick_checking: 87
+
+acceleration: 85
+agility: 85
+balance: 87
+endurance: 84
+speed: 85
+
+aggressiveness: 85
+body_checking: 86
+durability: 85
+fighting_skill: 75
+strength: 87
