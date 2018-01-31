@@ -1,0 +1,65 @@
+nhlcom_id: 8474849
+
+country_abbrev: fra
+team_abbrev: dal
+
+first_name: Antoine
+last_name: Roussel
+number: 21
+born: 1989-11-21
+
+potential: 20
+
+salary: 2.0
+years_left: 1
+
+height: 183
+weight: 91
+position: lw
+type: grinder
+shoots: left
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 78
+
+puck_skills: 7
+senses: 6
+shooting: 8
+defense: 7
+skating: 8
+physical: 9
+
+deking: 83
+hand_eye: 83
+passing: 83
+puck_control: 83
+
+discipline: 60
+offensive_awareness: 81
+poise: 80
+
+slap_shot_accuracy: 83
+slap_shot_power: 87
+wrist_shot_accuracy: 83
+wrist_shot_power: 85
+
+defensive_awareness: 81
+faceoffs: 65
+shot_blocking: 83
+stick_checking: 84
+
+acceleration: 84
+agility: 84
+balance: 87
+endurance: 82
+speed: 84
+
+aggressiveness: 92
+body_checking: 90
+durability: 85
+fighting_skill: 85
+strength: 87

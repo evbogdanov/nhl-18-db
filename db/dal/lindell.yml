@@ -1,0 +1,65 @@
+nhlcom_id: 8476902
+
+country_abbrev: fin
+team_abbrev: dal
+
+first_name: Esa
+last_name: Lindell
+number: 23
+born: 1994-05-23
+
+potential: 15
+
+salary: 2.2
+years_left: 2
+
+height: 191
+weight: 97
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: dal
+draft_year: 2012
+draft_round: 3
+draft_overall: 74
+
+overall: 79
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 8
+skating: 8
+physical: 8
+
+deking: 78
+hand_eye: 77
+passing: 83
+puck_control: 82
+
+discipline: 83
+offensive_awareness: 82
+poise: 75
+
+slap_shot_accuracy: 77
+slap_shot_power: 86
+wrist_shot_accuracy: 78
+wrist_shot_power: 85
+
+defensive_awareness: 85
+faceoffs: 60
+shot_blocking: 86
+stick_checking: 85
+
+acceleration: 83
+agility: 83
+balance: 87
+endurance: 83
+speed: 83
+
+aggressiveness: 85
+body_checking: 85
+durability: 85
+fighting_skill: 75
+strength: 87

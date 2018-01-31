@@ -1,0 +1,65 @@
+nhlcom_id: 8476439
+
+country_abbrev: can
+team_abbrev: dal
+
+first_name: Brett
+last_name: Ritchie
+number: 25
+born: 1993-07-01
+
+potential: 19
+
+salary: 1.75
+years_left: 2
+
+height: 191
+weight: 97
+position: rw
+type: power forward
+shoots: right
+
+draft_team_abbrev: dal
+draft_year: 2011
+draft_round: 2
+draft_overall: 44
+
+overall: 78
+
+puck_skills: 7
+senses: 7
+shooting: 8
+defense: 7
+skating: 8
+physical: 8
+
+deking: 83
+hand_eye: 83
+passing: 83
+puck_control: 83
+
+discipline: 75
+offensive_awareness: 83
+poise: 75
+
+slap_shot_accuracy: 82
+slap_shot_power: 87
+wrist_shot_accuracy: 84
+wrist_shot_power: 86
+
+defensive_awareness: 82
+faceoffs: 65
+shot_blocking: 78
+stick_checking: 83
+
+acceleration: 83
+agility: 83
+balance: 87
+endurance: 82
+speed: 84
+
+aggressiveness: 87
+body_checking: 87
+durability: 83
+fighting_skill: 80
+strength: 87

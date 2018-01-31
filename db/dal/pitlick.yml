@@ -1,0 +1,65 @@
+nhlcom_id: 8475752
+
+country_abbrev: usa
+team_abbrev: dal
+
+first_name: Tyler
+last_name: Pitlick
+number: 18
+born: 1991-11-01
+
+potential: 18
+
+salary: 1.0
+years_left: 3
+
+height: 183
+weight: 92
+position: rw
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: edm
+draft_year: 2010
+draft_round: 2
+draft_overall: 31
+
+overall: 76
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 6
+skating: 8
+physical: 8
+
+deking: 82
+hand_eye: 79
+passing: 80
+puck_control: 79
+
+discipline: 85
+offensive_awareness: 80
+poise: 75
+
+slap_shot_accuracy: 78
+slap_shot_power: 86
+wrist_shot_accuracy: 79
+wrist_shot_power: 85
+
+defensive_awareness: 79
+faceoffs: 70
+shot_blocking: 80
+stick_checking: 83
+
+acceleration: 87
+agility: 85
+balance: 85
+endurance: 82
+speed: 88
+
+aggressiveness: 84
+body_checking: 84
+durability: 80
+fighting_skill: 75
+strength: 85

@@ -1,0 +1,65 @@
+nhlcom_id: 8469465
+
+country_abbrev: can
+team_abbrev: dal
+
+first_name: Dan
+last_name: Hamhuis
+number: 2
+born: 1982-12-13
+
+potential: 24
+
+salary: 3.75
+years_left: 1
+
+height: 185
+weight: 91
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: nsh
+draft_year: 2001
+draft_round: 1
+draft_overall: 12
+
+overall: 79
+
+puck_skills: 7
+senses: 7
+shooting: 7
+defense: 8
+skating: 7
+physical: 7
+
+deking: 78
+hand_eye: 78
+passing: 84
+puck_control: 82
+
+discipline: 85
+offensive_awareness: 82
+poise: 85
+
+slap_shot_accuracy: 75
+slap_shot_power: 85
+wrist_shot_accuracy: 75
+wrist_shot_power: 85
+
+defensive_awareness: 85
+faceoffs: 55
+shot_blocking: 85
+stick_checking: 85
+
+acceleration: 82
+agility: 82
+balance: 85
+endurance: 85
+speed: 83
+
+aggressiveness: 83
+body_checking: 83
+durability: 75
+fighting_skill: 75
+strength: 85

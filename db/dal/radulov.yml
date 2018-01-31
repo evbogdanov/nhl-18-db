@@ -1,0 +1,65 @@
+nhlcom_id: 8471228
+
+country_abbrev: rus
+team_abbrev: dal
+
+first_name: Alexander
+last_name: Radulov
+number: 47
+born: 1986-07-05
+
+potential: 12
+
+salary: 6.25
+years_left: 5
+
+height: 188
+weight: 93
+position: rw
+type: sniper
+shoots: left
+
+draft_team_abbrev: nsh
+draft_year: 2004
+draft_round: 1
+draft_overall: 15
+
+overall: 84
+
+puck_skills: 9
+senses: 9
+shooting: 9
+defense: 8
+skating: 9
+physical: 8
+
+deking: 89
+hand_eye: 88
+passing: 88
+puck_control: 88
+
+discipline: 80
+offensive_awareness: 88
+poise: 85
+
+slap_shot_accuracy: 87
+slap_shot_power: 89
+wrist_shot_accuracy: 88
+wrist_shot_power: 88
+
+defensive_awareness: 85
+faceoffs: 68
+shot_blocking: 80
+stick_checking: 87
+
+acceleration: 88
+agility: 88
+balance: 85
+endurance: 85
+speed: 88
+
+aggressiveness: 86
+body_checking: 85
+durability: 85
+fighting_skill: 75
+strength: 85

@@ -1,0 +1,65 @@
+nhlcom_id: 8476467
+
+country_abbrev: can
+team_abbrev: dal
+
+first_name: Jamie
+last_name: Oleksiak
+number: 6
+born: 1992-12-21
+
+potential: 22
+
+salary: 0.965
+years_left: 1
+
+height: 201
+weight: 116
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: dal
+draft_year: 2011
+draft_round: 1
+draft_overall: 14
+
+overall: 79
+
+puck_skills: 5
+senses: 6
+shooting: 7
+defense: 8
+skating: 8
+physical: 10
+
+deking: 67
+hand_eye: 67
+passing: 80
+puck_control: 79
+
+discipline: 70
+offensive_awareness: 79
+poise: 75
+
+slap_shot_accuracy: 72
+slap_shot_power: 90
+wrist_shot_accuracy: 75
+wrist_shot_power: 89
+
+defensive_awareness: 83
+faceoffs: 60
+shot_blocking: 87
+stick_checking: 87
+
+acceleration: 81
+agility: 81
+balance: 94
+endurance: 83
+speed: 82
+
+aggressiveness: 90
+body_checking: 90
+durability: 85
+fighting_skill: 85
+strength: 94

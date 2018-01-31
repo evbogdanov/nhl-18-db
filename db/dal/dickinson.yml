@@ -1,0 +1,65 @@
+nhlcom_id: 8477450
+
+country_abbrev: can
+team_abbrev: dal
+
+first_name: Jason
+last_name: Dickinson
+number: 16
+born: 1995-07-04
+
+potential: 10
+
+salary: 0.854
+years_left: 1
+
+height: 185
+weight: 91
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: dal
+draft_year: 2013
+draft_round: 1
+draft_overall: 29
+
+overall: 74
+
+puck_skills: 6
+senses: 5
+shooting: 7
+defense: 6
+skating: 8
+physical: 7
+
+deking: 80
+hand_eye: 81
+passing: 80
+puck_control: 80
+
+discipline: 80
+offensive_awareness: 78
+poise: 70
+
+slap_shot_accuracy: 80
+slap_shot_power: 85
+wrist_shot_accuracy: 81
+wrist_shot_power: 85
+
+defensive_awareness: 78
+faceoffs: 75
+shot_blocking: 75
+stick_checking: 81
+
+acceleration: 85
+agility: 85
+balance: 85
+endurance: 80
+speed: 85
+
+aggressiveness: 83
+body_checking: 83
+durability: 80
+fighting_skill: 70
+strength: 85

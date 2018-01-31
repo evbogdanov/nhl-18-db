@@ -1,0 +1,65 @@
+nhlcom_id: 8476889
+
+country_abbrev: cze
+team_abbrev: dal
+
+first_name: Radek
+last_name: Faksa
+number: 12
+born: 1994-01-09
+
+potential: 11
+
+salary: 2.2
+years_left: 3
+
+height: 191
+weight: 95
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: dal
+draft_year: 2012
+draft_round: 1
+draft_overall: 13
+
+overall: 79
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 7
+skating: 8
+physical: 8
+
+deking: 85
+hand_eye: 85
+passing: 85
+puck_control: 85
+
+discipline: 75
+offensive_awareness: 83
+poise: 80
+
+slap_shot_accuracy: 84
+slap_shot_power: 87
+wrist_shot_accuracy: 85
+wrist_shot_power: 86
+
+defensive_awareness: 81
+faceoffs: 73
+shot_blocking: 77
+stick_checking: 84
+
+acceleration: 84
+agility: 84
+balance: 87
+endurance: 83
+speed: 84
+
+aggressiveness: 87
+body_checking: 85
+durability: 85
+fighting_skill: 70
+strength: 87

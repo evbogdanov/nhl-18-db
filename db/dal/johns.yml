@@ -1,0 +1,65 @@
+nhlcom_id: 8475730
+
+country_abbrev: usa
+team_abbrev: dal
+
+first_name: Stephen
+last_name: Johns
+number: 29
+born: 1992-04-18
+
+potential: 22
+
+salary: 0.725
+years_left: 1
+
+height: 193
+weight: 104
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: chi
+draft_year: 2010
+draft_round: 2
+draft_overall: 60
+
+overall: 78
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 8
+skating: 7
+physical: 8
+
+deking: 74
+hand_eye: 74
+passing: 80
+puck_control: 80
+
+discipline: 70
+offensive_awareness: 80
+poise: 75
+
+slap_shot_accuracy: 74
+slap_shot_power: 86
+wrist_shot_accuracy: 75
+wrist_shot_power: 85
+
+defensive_awareness: 84
+faceoffs: 60
+shot_blocking: 85
+stick_checking: 85
+
+acceleration: 82
+agility: 82
+balance: 88
+endurance: 80
+speed: 83
+
+aggressiveness: 86
+body_checking: 87
+durability: 80
+fighting_skill: 80
+strength: 88

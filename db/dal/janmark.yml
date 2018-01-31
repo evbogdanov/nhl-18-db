@@ -1,0 +1,65 @@
+nhlcom_id: 8477406
+
+country_abbrev: swe
+team_abbrev: dal
+
+first_name: Mattias
+last_name: Janmark
+number: 13
+born: 1992-12-08
+
+potential: 18
+
+salary: 0.7
+years_left: 1
+
+height: 185
+weight: 88
+position: lw
+type: sniper
+shoots: left
+
+draft_team_abbrev: det
+draft_year: 2013
+draft_round: 3
+draft_overall: 79
+
+overall: 77
+
+puck_skills: 7
+senses: 6
+shooting: 8
+defense: 6
+skating: 8
+physical: 6
+
+deking: 84
+hand_eye: 84
+passing: 83
+puck_control: 83
+
+discipline: 90
+offensive_awareness: 81
+poise: 75
+
+slap_shot_accuracy: 84
+slap_shot_power: 85
+wrist_shot_accuracy: 84
+wrist_shot_power: 85
+
+defensive_awareness: 80
+faceoffs: 72
+shot_blocking: 77
+stick_checking: 84
+
+acceleration: 87
+agility: 87
+balance: 83
+endurance: 80
+speed: 88
+
+aggressiveness: 77
+body_checking: 77
+durability: 84
+fighting_skill: 73
+strength: 83

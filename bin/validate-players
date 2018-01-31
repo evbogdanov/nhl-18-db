@@ -62,6 +62,7 @@ COUNTRIES = [
     'nor',
     'che',
     'dnk',
+    'fra',
 ]
 
 

@@ -1,0 +1,65 @@
+nhlcom_id: 8476913
+
+country_abbrev: can
+team_abbrev: dal
+
+first_name: Devin
+last_name: Shore
+number: 17
+born: 1994-07-19
+
+potential: 18
+
+salary: 0.87
+years_left: 1
+
+height: 185
+weight: 93
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: dal
+draft_year: 2012
+draft_round: 2
+draft_overall: 61
+
+overall: 78
+
+puck_skills: 8
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 8
+
+deking: 85
+hand_eye: 84
+passing: 84
+puck_control: 84
+
+discipline: 83
+offensive_awareness: 82
+poise: 75
+
+slap_shot_accuracy: 82
+slap_shot_power: 85
+wrist_shot_accuracy: 83
+wrist_shot_power: 85
+
+defensive_awareness: 82
+faceoffs: 77
+shot_blocking: 80
+stick_checking: 83
+
+acceleration: 86
+agility: 86
+balance: 85
+endurance: 83
+speed: 86
+
+aggressiveness: 83
+body_checking: 83
+durability: 85
+fighting_skill: 75
+strength: 85

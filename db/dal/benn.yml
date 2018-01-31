@@ -1,0 +1,65 @@
+nhlcom_id: 8473994
+
+country_abbrev: can
+team_abbrev: dal
+
+first_name: Jamie
+last_name: Benn
+number: 14
+born: 1989-07-18
+
+potential: 8
+
+salary: 9.5
+years_left: 8
+
+height: 188
+weight: 95
+position: lw
+type: power forward
+shoots: left
+
+draft_team_abbrev: dal
+draft_year: 2007
+draft_round: 5
+draft_overall: 129
+
+overall: 90
+
+puck_skills: 10
+senses: 10
+shooting: 10
+defense: 9
+skating: 9
+physical: 9
+
+deking: 92
+hand_eye: 92
+passing: 92
+puck_control: 92
+
+discipline: 80
+offensive_awareness: 92
+poise: 90
+
+slap_shot_accuracy: 91
+slap_shot_power: 91
+wrist_shot_accuracy: 92
+wrist_shot_power: 92
+
+defensive_awareness: 89
+faceoffs: 81
+shot_blocking: 85
+stick_checking: 89
+
+acceleration: 89
+agility: 89
+balance: 90
+endurance: 86
+speed: 89
+
+aggressiveness: 87
+body_checking: 88
+durability: 85
+fighting_skill: 75
+strength: 90

@@ -1,0 +1,65 @@
+nhlcom_id: 8471691
+
+country_abbrev: cze
+team_abbrev: dal
+
+first_name: Martin
+last_name: Hanzal
+number: 10
+born: 1987-02-20
+
+potential: 20
+
+salary: 4.75
+years_left: 3
+
+height: 198
+weight: 102
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: phx
+draft_year: 2005
+draft_round: 1
+draft_overall: 17
+
+overall: 80
+
+puck_skills: 7
+senses: 7
+shooting: 8
+defense: 8
+skating: 8
+physical: 9
+
+deking: 83
+hand_eye: 83
+passing: 84
+puck_control: 83
+
+discipline: 84
+offensive_awareness: 83
+poise: 80
+
+slap_shot_accuracy: 82
+slap_shot_power: 87
+wrist_shot_accuracy: 83
+wrist_shot_power: 86
+
+defensive_awareness: 86
+faceoffs: 87
+shot_blocking: 86
+stick_checking: 86
+
+acceleration: 83
+agility: 83
+balance: 88
+endurance: 80
+speed: 84
+
+aggressiveness: 87
+body_checking: 86
+durability: 85
+fighting_skill: 75
+strength: 89

@@ -1,0 +1,65 @@
+nhlcom_id: 8470760
+
+country_abbrev: can
+team_abbrev: dal
+
+first_name: Marc
+last_name: Methot
+number: 33
+born: 1985-06-21
+
+potential: 16
+
+salary: 4.9
+years_left: 2
+
+height: 191
+weight: 103
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: cbj
+draft_year: 2003
+draft_round: 6
+draft_overall: 168
+
+overall: 81
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 9
+skating: 7
+physical: 9
+
+deking: 74
+hand_eye: 74
+passing: 80
+puck_control: 80
+
+discipline: 82
+offensive_awareness: 81
+poise: 80
+
+slap_shot_accuracy: 75
+slap_shot_power: 87
+wrist_shot_accuracy: 77
+wrist_shot_power: 85
+
+defensive_awareness: 87
+faceoffs: 55
+shot_blocking: 88
+stick_checking: 88
+
+acceleration: 82
+agility: 82
+balance: 88
+endurance: 85
+speed: 83
+
+aggressiveness: 85
+body_checking: 87
+durability: 85
+fighting_skill: 80
+strength: 90

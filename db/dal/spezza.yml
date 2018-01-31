@@ -1,0 +1,65 @@
+nhlcom_id: 8469455
+
+country_abbrev: can
+team_abbrev: dal
+
+first_name: Jason
+last_name: Spezza
+number: 90
+born: 1983-06-13
+
+potential: 12
+
+salary: 7.5
+years_left: 2
+
+height: 191
+weight: 95
+position: c
+type: playmaker
+shoots: right
+
+draft_team_abbrev: ott
+draft_year: 2001
+draft_round: 1
+draft_overall: 2
+
+overall: 82
+
+puck_skills: 10
+senses: 8
+shooting: 8
+defense: 7
+skating: 8
+physical: 8
+
+deking: 90
+hand_eye: 90
+passing: 90
+puck_control: 90
+
+discipline: 80
+offensive_awareness: 86
+poise: 80
+
+slap_shot_accuracy: 84
+slap_shot_power: 89
+wrist_shot_accuracy: 85
+wrist_shot_power: 87
+
+defensive_awareness: 83
+faceoffs: 82
+shot_blocking: 80
+stick_checking: 86
+
+acceleration: 85
+agility: 87
+balance: 87
+endurance: 85
+speed: 85
+
+aggressiveness: 82
+body_checking: 81
+durability: 80
+fighting_skill: 70
+strength: 88
