@@ -1,0 +1,65 @@
+nhlcom_id: 8477413
+
+country_abbrev: che
+team_abbrev: col
+
+first_name: Sven
+last_name: Andrighetto
+number: 10
+born: 1993-03-21
+
+potential: 26
+
+salary: 1.4
+years_left: 2
+
+height: 175
+weight: 85
+position: rw
+type: sniper
+shoots: left
+
+draft_team_abbrev: mtl
+draft_year: 2013
+draft_round: 3
+draft_overall: 86
+
+overall: 76
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 6
+
+deking: 85
+hand_eye: 83
+passing: 82
+puck_control: 82
+
+discipline: 87
+offensive_awareness: 80
+poise: 75
+
+slap_shot_accuracy: 82
+slap_shot_power: 85
+wrist_shot_accuracy: 82
+wrist_shot_power: 84
+
+defensive_awareness: 82
+faceoffs: 75
+shot_blocking: 75
+stick_checking: 83
+
+acceleration: 86
+agility: 86
+balance: 83
+endurance: 80
+speed: 85
+
+aggressiveness: 75
+body_checking: 75
+durability: 82
+fighting_skill: 65
+strength: 83

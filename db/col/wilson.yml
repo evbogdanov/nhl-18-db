@@ -1,0 +1,65 @@
+nhlcom_id: 8474569
+
+country_abbrev: usa
+team_abbrev: col
+
+first_name: Colin
+last_name: Wilson
+number: 22
+born: 1989-10-20
+
+potential: 12
+
+salary: 3.94
+years_left: 2
+
+height: 185
+weight: 100
+position: lw
+type: power forward
+shoots: left
+
+draft_team_abbrev: nsh
+draft_year: 2008
+draft_round: 1
+draft_overall: 7
+
+overall: 81
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 7
+skating: 8
+physical: 8
+
+deking: 86
+hand_eye: 86
+passing: 86
+puck_control: 86
+
+discipline: 86
+offensive_awareness: 84
+poise: 80
+
+slap_shot_accuracy: 85
+slap_shot_power: 88
+wrist_shot_accuracy: 86
+wrist_shot_power: 87
+
+defensive_awareness: 84
+faceoffs: 75
+shot_blocking: 80
+stick_checking: 85
+
+acceleration: 85
+agility: 85
+balance: 85
+endurance: 80
+speed: 86
+
+aggressiveness: 82
+body_checking: 85
+durability: 85
+fighting_skill: 75
+strength: 88

@@ -1,0 +1,65 @@
+nhlcom_id: 8476855
+
+country_abbrev: rus
+team_abbrev: col
+
+first_name: Nail
+last_name: Yakupov
+number: 64
+born: 1993-10-06
+
+potential: 9
+
+salary: 0.875
+years_left: 1
+
+height: 180
+weight: 88
+position: rw
+type: sniper
+shoots: left
+
+draft_team_abbrev: edm
+draft_year: 2012
+draft_round: 1
+draft_overall: 1
+
+overall: 79
+
+puck_skills: 8
+senses: 8
+shooting: 8
+defense: 6
+skating: 8
+physical: 6
+
+deking: 87
+hand_eye: 85
+passing: 84
+puck_control: 84
+
+discipline: 83
+offensive_awareness: 85
+poise: 80
+
+slap_shot_accuracy: 85
+slap_shot_power: 87
+wrist_shot_accuracy: 85
+wrist_shot_power: 87
+
+defensive_awareness: 80
+faceoffs: 60
+shot_blocking: 65
+stick_checking: 82
+
+acceleration: 88
+agility: 88
+balance: 82
+endurance: 83
+speed: 89
+
+aggressiveness: 80
+body_checking: 77
+durability: 84
+fighting_skill: 65
+strength: 80

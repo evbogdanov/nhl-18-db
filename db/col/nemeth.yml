@@ -1,0 +1,65 @@
+nhlcom_id: 8475747
+
+country_abbrev: swe
+team_abbrev: col
+
+first_name: Patrik
+last_name: Nemeth
+number: 12
+born: 1992-02-08
+
+potential: 22
+
+salary: 0.945
+years_left: 1
+
+height: 191
+weight: 97
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: dal
+draft_year: 2010
+draft_round: 2
+draft_overall: 41
+
+overall: 78
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 9
+
+deking: 70
+hand_eye: 70
+passing: 80
+puck_control: 80
+
+discipline: 70
+offensive_awareness: 79
+poise: 75
+
+slap_shot_accuracy: 75
+slap_shot_power: 87
+wrist_shot_accuracy: 75
+wrist_shot_power: 85
+
+defensive_awareness: 83
+faceoffs: 60
+shot_blocking: 85
+stick_checking: 87
+
+acceleration: 82
+agility: 82
+balance: 90
+endurance: 83
+speed: 82
+
+aggressiveness: 87
+body_checking: 88
+durability: 80
+fighting_skill: 80
+strength: 90

@@ -1,0 +1,65 @@
+nhlcom_id: 8471260
+
+country_abbrev: can
+team_abbrev: col
+
+first_name: Blake
+last_name: Comeau
+number: 14
+born: 1986-02-18
+
+potential: 20
+
+salary: 2.4
+years_left: 1
+
+height: 185
+weight: 92
+position: rw
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: nyi
+draft_year: 2004
+draft_round: 2
+draft_overall: 47
+
+overall: 79
+
+puck_skills: 7
+senses: 7
+shooting: 8
+defense: 8
+skating: 8
+physical: 9
+
+deking: 83
+hand_eye: 83
+passing: 83
+puck_control: 83
+
+discipline: 75
+offensive_awareness: 82
+poise: 80
+
+slap_shot_accuracy: 83
+slap_shot_power: 87
+wrist_shot_accuracy: 83
+wrist_shot_power: 87
+
+defensive_awareness: 84
+faceoffs: 65
+shot_blocking: 84
+stick_checking: 85
+
+acceleration: 83
+agility: 83
+balance: 88
+endurance: 83
+speed: 83
+
+aggressiveness: 88
+body_checking: 88
+durability: 85
+fighting_skill: 85
+strength: 88

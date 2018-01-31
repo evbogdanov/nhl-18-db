@@ -1,0 +1,65 @@
+nhlcom_id: 8477021
+
+country_abbrev: can
+team_abbrev: col
+
+first_name: Alexander
+last_name: Kerfoot
+number: 13
+born: 1994-08-11
+
+potential: 26
+
+salary: 0.925
+years_left: 2
+
+height: 178
+weight: 79
+position: c
+type: playmaker
+shoots: left
+
+draft_team_abbrev: njd
+draft_year: 2012
+draft_round: 5
+draft_overall: 150
+
+overall: 80
+
+puck_skills: 7
+senses: 8
+shooting: 7
+defense: 8
+skating: 8
+physical: 6
+
+deking: 83
+hand_eye: 84
+passing: 84
+puck_control: 84
+
+discipline: 84
+offensive_awareness: 85
+poise: 85
+
+slap_shot_accuracy: 80
+slap_shot_power: 87
+wrist_shot_accuracy: 81
+wrist_shot_power: 87
+
+defensive_awareness: 84
+faceoffs: 80
+shot_blocking: 80
+stick_checking: 86
+
+acceleration: 86
+agility: 88
+balance: 82
+endurance: 82
+speed: 86
+
+aggressiveness: 74
+body_checking: 78
+durability: 85
+fighting_skill: 65
+strength: 82

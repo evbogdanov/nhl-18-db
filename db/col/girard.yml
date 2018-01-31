@@ -1,0 +1,65 @@
+nhlcom_id: 8479398
+
+country_abbrev: can
+team_abbrev: col
+
+first_name: Samuel
+last_name: Girard
+number: 49
+born: 1998-05-12
+
+potential: 22
+
+salary: 0.715
+years_left: 3
+
+height: 175
+weight: 72
+position: d
+type: offensive defenseman
+shoots: left
+
+draft_team_abbrev: nsh
+draft_year: 2016
+draft_round: 2
+draft_overall: 47
+
+overall: 78
+
+puck_skills: 7
+senses: 6
+shooting: 8
+defense: 7
+skating: 7
+physical: 6
+
+deking: 77
+hand_eye: 81
+passing: 83
+puck_control: 84
+
+discipline: 95
+offensive_awareness: 90
+poise: 83
+
+slap_shot_accuracy: 80
+slap_shot_power: 87
+wrist_shot_accuracy: 81
+wrist_shot_power: 86
+
+defensive_awareness: 84
+faceoffs: 50
+shot_blocking: 84
+stick_checking: 83
+
+acceleration: 84
+agility: 86
+balance: 82
+endurance: 78
+speed: 84
+
+aggressiveness: 65
+body_checking: 77
+durability: 85
+fighting_skill: 65
+strength: 83

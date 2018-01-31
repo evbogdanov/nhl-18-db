@@ -1,0 +1,65 @@
+nhlcom_id: 8474577
+
+country_abbrev: can
+team_abbrev: col
+
+first_name: Joe
+last_name: Colborne
+number: 8
+born: 1990-01-30
+
+potential: 20
+
+salary: 2.5
+years_left: 1
+
+height: 196
+weight: 100
+position: lw
+type: power forward
+shoots: left
+
+draft_team_abbrev: bos
+draft_year: 2008
+draft_round: 1
+draft_overall: 16
+
+overall: 79
+
+puck_skills: 7
+senses: 6
+shooting: 8
+defense: 7
+skating: 8
+physical: 9
+
+deking: 83
+hand_eye: 83
+passing: 84
+puck_control: 83
+
+discipline: 80
+offensive_awareness: 82
+poise: 75
+
+slap_shot_accuracy: 83
+slap_shot_power: 88
+wrist_shot_accuracy: 83
+wrist_shot_power: 87
+
+defensive_awareness: 82
+faceoffs: 81
+shot_blocking: 83
+stick_checking: 85
+
+acceleration: 84
+agility: 84
+balance: 90
+endurance: 84
+speed: 84
+
+aggressiveness: 84
+body_checking: 85
+durability: 85
+fighting_skill: 75
+strength: 90

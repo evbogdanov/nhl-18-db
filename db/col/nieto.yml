@@ -1,0 +1,65 @@
+nhlcom_id: 8476442
+
+country_abbrev: usa
+team_abbrev: col
+
+first_name: Matt
+last_name: Nieto
+number: 83
+born: 1992-11-05
+
+potential: 18
+
+salary: 1.0
+years_left: 1
+
+height: 180
+weight: 86
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: sjs
+draft_year: 2011
+draft_round: 2
+draft_overall: 47
+
+overall: 77
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 6
+
+deking: 85
+hand_eye: 83
+passing: 83
+puck_control: 83
+
+discipline: 85
+offensive_awareness: 82
+poise: 75
+
+slap_shot_accuracy: 83
+slap_shot_power: 85
+wrist_shot_accuracy: 83
+wrist_shot_power: 85
+
+defensive_awareness: 81
+faceoffs: 60
+shot_blocking: 77
+stick_checking: 84
+
+acceleration: 87
+agility: 87
+balance: 83
+endurance: 82
+speed: 88
+
+aggressiveness: 85
+body_checking: 75
+durability: 84
+fighting_skill: 70
+strength: 83

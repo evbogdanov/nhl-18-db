@@ -1,0 +1,65 @@
+nhlcom_id: 8471262
+
+country_abbrev: swe
+team_abbrev: col
+
+first_name: Carl
+last_name: Soderberg
+number: 34
+born: 1985-10-12
+
+potential: 20
+
+salary: 4.75
+years_left: 3
+
+height: 191
+weight: 95
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: stl
+draft_year: 2004
+draft_round: 2
+draft_overall: 49
+
+overall: 79
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 8
+skating: 7
+physical: 7
+
+deking: 84
+hand_eye: 84
+passing: 85
+puck_control: 84
+
+discipline: 83
+offensive_awareness: 85
+poise: 75
+
+slap_shot_accuracy: 84
+slap_shot_power: 85
+wrist_shot_accuracy: 84
+wrist_shot_power: 85
+
+defensive_awareness: 84
+faceoffs: 76
+shot_blocking: 83
+stick_checking: 85
+
+acceleration: 83
+agility: 84
+balance: 85
+endurance: 82
+speed: 84
+
+aggressiveness: 84
+body_checking: 84
+durability: 84
+fighting_skill: 70
+strength: 84

@@ -1,0 +1,65 @@
+nhlcom_id: 8475197
+
+country_abbrev: can
+team_abbrev: col
+
+first_name: Tyson
+last_name: Barrie
+number: 4
+born: 1991-07-26
+
+potential: 14
+
+salary: 5.5
+years_left: 3
+
+height: 178
+weight: 86
+position: d
+type: 2 way defender
+shoots: right
+
+draft_team_abbrev: col
+draft_year: 2009
+draft_round: 3
+draft_overall: 64
+
+overall: 84
+
+puck_skills: 9
+senses: 9
+shooting: 8
+defense: 9
+skating: 9
+physical: 7
+
+deking: 87
+hand_eye: 83
+passing: 90
+puck_control: 90
+
+discipline: 82
+offensive_awareness: 90
+poise: 80
+
+slap_shot_accuracy: 82
+slap_shot_power: 88
+wrist_shot_accuracy: 83
+wrist_shot_power: 87
+
+defensive_awareness: 88
+faceoffs: 55
+shot_blocking: 86
+stick_checking: 87
+
+acceleration: 89
+agility: 89
+balance: 84
+endurance: 85
+speed: 88
+
+aggressiveness: 83
+body_checking: 82
+durability: 85
+fighting_skill: 75
+strength: 84

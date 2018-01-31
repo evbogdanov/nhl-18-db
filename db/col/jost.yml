@@ -1,0 +1,65 @@
+nhlcom_id: 8479370
+
+country_abbrev: can
+team_abbrev: col
+
+first_name: Tyson
+last_name: Jost
+number: 17
+born: 1998-03-14
+
+potential: 6
+
+salary: 0.915
+years_left: 2
+
+height: 180
+weight: 88
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: col
+draft_year: 2016
+draft_round: 1
+draft_overall: 10
+
+overall: 78
+
+puck_skills: 7
+senses: 6
+shooting: 8
+defense: 7
+skating: 7
+physical: 7
+
+deking: 84
+hand_eye: 84
+passing: 83
+puck_control: 83
+
+discipline: 80
+offensive_awareness: 83
+poise: 70
+
+slap_shot_accuracy: 83
+slap_shot_power: 86
+wrist_shot_accuracy: 83
+wrist_shot_power: 85
+
+defensive_awareness: 83
+faceoffs: 75
+shot_blocking: 82
+stick_checking: 85
+
+acceleration: 84
+agility: 84
+balance: 82
+endurance: 83
+speed: 84
+
+aggressiveness: 82
+body_checking: 83
+durability: 85
+fighting_skill: 70
+strength: 82

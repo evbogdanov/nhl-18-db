@@ -1,0 +1,65 @@
+nhlcom_id: 8478420
+
+country_abbrev: fin
+team_abbrev: col
+
+first_name: Mikko
+last_name: Rantanen
+number: 96
+born: 1996-10-29
+
+potential: 6
+
+salary: 0.925
+years_left: 2
+
+height: 193
+weight: 96
+position: lw
+type: sniper
+shoots: left
+
+draft_team_abbrev: col
+draft_year: 2015
+draft_round: 1
+draft_overall: 10
+
+overall: 82
+
+puck_skills: 9
+senses: 8
+shooting: 8
+defense: 7
+skating: 8
+physical: 8
+
+deking: 87
+hand_eye: 87
+passing: 87
+puck_control: 87
+
+discipline: 83
+offensive_awareness: 87
+poise: 80
+
+slap_shot_accuracy: 85
+slap_shot_power: 88
+wrist_shot_accuracy: 87
+wrist_shot_power: 87
+
+defensive_awareness: 84
+faceoffs: 67
+shot_blocking: 75
+stick_checking: 84
+
+acceleration: 86
+agility: 86
+balance: 87
+endurance: 85
+speed: 86
+
+aggressiveness: 84
+body_checking: 84
+durability: 85
+fighting_skill: 80
+strength: 87

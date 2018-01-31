@@ -1,0 +1,65 @@
+nhlcom_id: 8475268
+
+country_abbrev: can
+team_abbrev: col
+
+first_name: Gabriel
+last_name: Bourque
+number: 57
+born: 1990-09-23
+
+potential: 25
+
+salary: 0.75
+years_left: 1
+
+height: 178
+weight: 93
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: nsh
+draft_year: 2009
+draft_round: 5
+draft_overall: 132
+
+overall: 75
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 6
+skating: 7
+physical: 6
+
+deking: 87
+hand_eye: 82
+passing: 82
+puck_control: 82
+
+discipline: 90
+offensive_awareness: 81
+poise: 80
+
+slap_shot_accuracy: 81
+slap_shot_power: 85
+wrist_shot_accuracy: 82
+wrist_shot_power: 84
+
+defensive_awareness: 79
+faceoffs: 60
+shot_blocking: 77
+stick_checking: 83
+
+acceleration: 85
+agility: 85
+balance: 80
+endurance: 83
+speed: 85
+
+aggressiveness: 82
+body_checking: 75
+durability: 85
+fighting_skill: 65
+strength: 80

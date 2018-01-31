@@ -1,0 +1,65 @@
+nhlcom_id: 8473446
+
+country_abbrev: usa
+team_abbrev: col
+
+first_name: Erik
+last_name: Johnson
+number: 6
+born: 1988-03-21
+
+potential: 16
+
+salary: 6.0
+years_left: 6
+
+height: 193
+weight: 102
+position: d
+type: 2 way defender
+shoots: right
+
+draft_team_abbrev: stl
+draft_year: 2006
+draft_round: 1
+draft_overall: 1
+
+overall: 83
+
+puck_skills: 7
+senses: 8
+shooting: 8
+defense: 9
+skating: 8
+physical: 9
+
+deking: 77
+hand_eye: 77
+passing: 85
+puck_control: 84
+
+discipline: 75
+offensive_awareness: 86
+poise: 83
+
+slap_shot_accuracy: 78
+slap_shot_power: 89
+wrist_shot_accuracy: 80
+wrist_shot_power: 88
+
+defensive_awareness:88 
+faceoffs: 55
+shot_blocking: 87
+stick_checking: 87
+
+acceleration: 85
+agility: 85
+balance: 88
+endurance: 86
+speed: 85
+
+aggressiveness: 87
+body_checking: 88
+durability: 75
+fighting_skill: 76
+strength: 89

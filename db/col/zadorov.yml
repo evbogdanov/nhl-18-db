@@ -1,0 +1,65 @@
+nhlcom_id: 8477507
+
+country_abbrev: rus
+team_abbrev: col
+
+first_name: Nikita
+last_name: Zadorov
+number: 16
+born: 1995-04-16
+
+potential: 14
+
+salary: 2.15
+years_left: 2
+
+height: 196
+weight: 104
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: buf
+draft_year: 2013
+draft_round: 1
+draft_overall: 16
+
+overall: 80
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 8
+skating: 8
+physical: 9
+
+deking: 75
+hand_eye: 74
+passing: 82
+puck_control: 82
+
+discipline: 70
+offensive_awareness: 81
+poise: 80
+
+slap_shot_accuracy: 74
+slap_shot_power: 89
+wrist_shot_accuracy: 75
+wrist_shot_power: 88
+
+defensive_awareness: 85
+faceoffs: 53
+shot_blocking: 86
+stick_checking: 87
+
+acceleration: 82
+agility: 82
+balance: 90
+endurance: 86
+speed: 83
+
+aggressiveness: 89
+body_checking: 89
+durability: 80
+fighting_skill: 85
+strength: 88
