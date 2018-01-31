@@ -1,0 +1,65 @@
+nhlcom_id: 8471677
+
+country_abbrev: usa
+team_abbrev: cbj
+
+first_name: Jack
+last_name: Johnson
+number: 7
+born: 1987-01-13
+
+potential: 16
+
+salary: 4.36
+years_left: 1
+
+height: 185
+weight: 102
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: car
+draft_year: 2005
+draft_round: 1
+draft_overall: 3
+
+overall: 82
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 8
+skating: 8
+physical: 8
+
+deking: 80
+hand_eye: 78
+passing: 85
+puck_control: 85
+
+discipline: 75
+offensive_awareness: 85
+poise: 80
+
+slap_shot_accuracy: 77
+slap_shot_power: 90
+wrist_shot_accuracy: 78
+wrist_shot_power: 88
+
+defensive_awareness: 87
+faceoffs: 55
+shot_blocking: 85
+stick_checking: 86
+
+acceleration: 85
+agility: 85
+balance: 90
+endurance: 88
+speed: 85
+
+aggressiveness: 85
+body_checking: 86
+durability: 82
+fighting_skill: 75
+strength: 88

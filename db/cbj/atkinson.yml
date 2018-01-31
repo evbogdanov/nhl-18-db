@@ -1,0 +1,65 @@
+nhlcom_id: 8474715
+
+country_abbrev: usa
+team_abbrev: cbj
+
+first_name: Cam
+last_name: Atkinson
+number: 13
+born: 1989-06-05
+
+potential: 12
+
+salary: 3.5
+years_left: 1
+
+height: 173
+weight: 82
+position: rw
+type: sniper
+shoots: right
+
+draft_team_abbrev: cbj
+draft_year: 2008
+draft_round: 6
+draft_overall: 157
+
+overall: 84
+
+puck_skills: 9
+senses: 9
+shooting: 9
+defense: 8
+skating: 9
+physical: 6
+
+deking: 92
+hand_eye: 89
+passing: 88
+puck_control: 88
+
+discipline: 87
+offensive_awareness: 88
+poise: 85
+
+slap_shot_accuracy: 88
+slap_shot_power: 86
+wrist_shot_accuracy: 89
+wrist_shot_power: 86
+
+defensive_awareness: 85
+faceoffs: 60
+shot_blocking: 77
+stick_checking: 85
+
+acceleration: 92
+agility: 92
+balance: 82
+endurance: 85
+speed: 90
+
+aggressiveness: 78
+body_checking: 78
+durability: 85
+fighting_skill: 65
+strength: 81

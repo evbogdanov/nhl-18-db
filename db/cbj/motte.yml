@@ -1,0 +1,65 @@
+nhlcom_id: 8477353
+
+country_abbrev: usa
+team_abbrev: cbj
+
+first_name: Tyler
+last_name: Motte
+number: 64
+born: 1995-03-10
+
+potential: 25
+
+salary: 0.925
+years_left: 2
+
+height: 175
+weight: 85
+position: lw
+type: sniper
+shoots: left
+
+draft_team_abbrev: chi
+draft_year: 2013
+draft_round: 4
+draft_overall: 121
+
+overall: 75
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 6
+skating: 7
+physical: 6
+
+deking: 84
+hand_eye: 82
+passing: 82
+puck_control: 82
+
+discipline: 82
+offensive_awareness: 81
+poise: 75
+
+slap_shot_accuracy: 81
+slap_shot_power: 84
+wrist_shot_accuracy: 82
+wrist_shot_power: 84
+
+defensive_awareness: 81
+faceoffs: 72
+shot_blocking: 77
+stick_checking: 82
+
+acceleration: 85
+agility: 85
+balance: 80
+endurance: 83
+speed: 85
+
+aggressiveness: 80
+body_checking: 75
+durability: 85
+fighting_skill: 65
+strength: 80

@@ -1,0 +1,65 @@
+nhlcom_id: 8476432
+
+country_abbrev: can
+team_abbrev: cbj
+
+first_name: Boone
+last_name: Jenner
+number: 38
+born: 1993-06-15
+
+potential: 10
+
+salary: 2.9
+years_left: 1
+
+height: 188
+weight: 98
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: cbj
+draft_year: 2011
+draft_round: 2
+draft_overall: 37
+
+overall: 82
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 8
+skating: 8
+physical: 9
+
+deking: 85
+hand_eye: 85
+passing: 85
+puck_control: 85
+
+discipline: 70
+offensive_awareness: 85
+poise: 80
+
+slap_shot_accuracy: 85
+slap_shot_power: 87
+wrist_shot_accuracy: 85
+wrist_shot_power: 87
+
+defensive_awareness: 85
+faceoffs: 75
+shot_blocking: 85
+stick_checking: 88
+
+acceleration: 86
+agility: 86
+balance: 88
+endurance: 85
+speed: 86
+
+aggressiveness: 88
+body_checking: 88
+durability: 85
+fighting_skill: 80
+strength: 88

@@ -1,0 +1,65 @@
+nhlcom_id: 8476981
+
+country_abbrev: can
+team_abbrev: cbj
+
+first_name: Josh
+last_name: Anderson
+number: 77
+born: 1994-05-07
+
+potential: 18
+
+salary: 1.85
+years_left: 3
+
+height: 191
+weight: 100
+position: rw
+type: grinder
+shoots: right
+
+draft_team_abbrev: cbj
+draft_year: 2012
+draft_round: 4
+draft_overall: 95
+
+overall: 78
+
+puck_skills: 7
+senses: 6
+shooting: 8
+defense: 7
+skating: 8
+physical: 9
+
+deking: 82
+hand_eye: 84
+passing: 83
+puck_control: 83
+
+discipline: 65
+offensive_awareness: 81
+poise: 75
+
+slap_shot_accuracy: 83
+slap_shot_power: 87
+wrist_shot_accuracy: 83
+wrist_shot_power: 87
+
+defensive_awareness: 81
+faceoffs: 65
+shot_blocking: 83
+stick_checking: 85
+
+acceleration: 83
+agility: 83
+balance: 88
+endurance: 82
+speed: 84
+
+aggressiveness: 88
+body_checking: 88
+durability: 85
+fighting_skill: 80
+strength: 88

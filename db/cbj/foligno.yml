@@ -1,0 +1,65 @@
+nhlcom_id: 8473422
+
+country_abbrev: usa
+team_abbrev: cbj
+
+first_name: Nick
+last_name: Foligno
+number: 71
+born: 1987-10-31
+
+potential: 12
+
+salary: 5.5
+years_left: 4
+
+height: 183
+weight: 93
+position: rw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: ott
+draft_year: 2006
+draft_round: 1
+draft_overall: 28
+
+overall: 83
+
+puck_skills: 8
+senses: 8
+shooting: 8
+defense: 8
+skating: 8
+physical: 9
+
+deking: 86
+hand_eye: 86
+passing: 86
+puck_control: 86
+
+discipline: 75
+offensive_awareness: 86
+poise: 85
+
+slap_shot_accuracy: 85
+slap_shot_power: 87
+wrist_shot_accuracy: 86
+wrist_shot_power: 87
+
+defensive_awareness: 86
+faceoffs: 65
+shot_blocking: 85
+stick_checking: 88
+
+acceleration: 86
+agility: 86
+balance: 88
+endurance: 85
+speed: 86
+
+aggressiveness: 88
+body_checking: 88
+durability: 84
+fighting_skill: 80
+strength: 88

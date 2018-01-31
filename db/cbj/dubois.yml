@@ -1,0 +1,65 @@
+nhlcom_id: 8479400
+
+country_abbrev: can
+team_abbrev: cbj
+
+first_name: Pierre-Luc
+last_name: Dubois
+number: 18
+born: 1998-06-24
+
+potential: 7
+
+salary: 0.925
+years_left: 3
+
+height: 191
+weight: 95
+position: c
+type: power forward
+shoots: left
+
+draft_team_abbrev: cbj
+draft_year: 2016
+draft_round: 1
+draft_overall: 3
+
+overall: 76
+
+puck_skills: 6
+senses: 7
+shooting: 7
+defense: 6
+skating: 8
+physical: 7
+
+deking: 80
+hand_eye: 79
+passing: 79
+puck_control: 79
+
+discipline: 82
+offensive_awareness: 84
+poise: 76
+
+slap_shot_accuracy: 78
+slap_shot_power: 88
+wrist_shot_accuracy: 79
+wrist_shot_power: 87
+
+defensive_awareness: 79
+faceoffs: 72
+shot_blocking: 76
+stick_checking: 83
+
+acceleration: 85
+agility: 85
+balance: 82
+endurance: 79
+speed: 85
+
+aggressiveness: 77
+body_checking: 82
+durability: 87
+fighting_skill: 72
+strength: 82

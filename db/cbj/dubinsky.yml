@@ -1,0 +1,65 @@
+nhlcom_id: 8471273
+
+country_abbrev: usa
+team_abbrev: cbj
+
+first_name: Brandon
+last_name: Dubinsky
+number: 17
+born: 1986-04-29
+
+potential: 12
+
+salary: 5.85
+years_left: 4
+
+height: 188
+weight: 99
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: nyr
+draft_year: 2004
+draft_round: 2
+draft_overall: 60
+
+overall: 82
+
+puck_skills: 8
+senses: 8
+shooting: 8
+defense: 9
+skating: 8
+physical: 9
+
+deking: 84
+hand_eye: 84
+passing: 85
+puck_control: 85
+
+discipline: 70
+offensive_awareness: 84
+poise: 85
+
+slap_shot_accuracy: 85
+slap_shot_power: 87
+wrist_shot_accuracy: 85
+wrist_shot_power: 87
+
+defensive_awareness: 87
+faceoffs: 85
+shot_blocking: 88
+stick_checking: 87
+
+acceleration: 85
+agility: 85
+balance: 87
+endurance: 86
+speed: 85
+
+aggressiveness: 88
+body_checking: 88
+durability: 83
+fighting_skill: 82
+strength: 87

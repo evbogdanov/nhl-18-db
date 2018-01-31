@@ -1,0 +1,65 @@
+nhlcom_id: 8478906
+
+country_abbrev: fin
+team_abbrev: cbj
+
+first_name: Markus
+last_name: Nutivaara
+number: 65
+born: 1994-06-06
+
+potential: 22
+
+salary: 0.82
+years_left: 1
+
+height: 185
+weight: 84
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: cbj
+draft_year: 2015
+draft_round: 7
+draft_overall: 189
+
+overall: 77
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 7
+skating: 7
+physical: 7
+
+deking: 82
+hand_eye: 80
+passing: 81
+puck_control: 80
+
+discipline: 75
+offensive_awareness: 81
+poise: 75
+
+slap_shot_accuracy: 80
+slap_shot_power: 85
+wrist_shot_accuracy: 80
+wrist_shot_power: 85
+
+defensive_awareness: 83
+faceoffs: 60
+shot_blocking: 83
+stick_checking: 85
+
+acceleration: 85
+agility: 85
+balance: 83
+endurance: 82
+speed: 82
+
+aggressiveness: 80
+body_checking: 80
+durability: 85
+fighting_skill: 65
+strength: 82

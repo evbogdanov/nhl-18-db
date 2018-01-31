@@ -1,0 +1,65 @@
+nhlcom_id: 8476449
+
+country_abbrev: can
+team_abbrev: cbj
+
+first_name: Scott
+last_name: Harrington
+number: 4
+born: 1993-03-10
+
+potential: 31
+
+salary: 0.675
+years_left: 2
+
+height: 188
+weight: 99
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: pit
+draft_year: 2011
+draft_round: 2
+draft_overall: 54
+
+overall: 76
+
+puck_skills: 6
+senses: 5
+shooting: 6
+defense: 7
+skating: 7
+physical: 8
+
+deking: 74
+hand_eye: 72
+passing: 80
+puck_control: 77
+
+discipline: 75
+offensive_awareness: 76
+poise: 75
+
+slap_shot_accuracy: 72
+slap_shot_power: 85
+wrist_shot_accuracy: 75
+wrist_shot_power: 84
+
+defensive_awareness: 82
+faceoffs: 60
+shot_blocking: 84
+stick_checking: 85
+
+acceleration: 82
+agility: 82
+balance: 87
+endurance: 83
+speed: 82
+
+aggressiveness: 86
+body_checking: 86
+durability: 85
+fighting_skill: 77
+strength: 87
