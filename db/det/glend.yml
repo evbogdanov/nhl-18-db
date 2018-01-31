@@ -1,0 +1,65 @@
+nhlcom_id: 8476822
+
+country_abbrev: usa
+team_abbrev: det
+
+first_name: Luke
+last_name: Glendening
+number: 41
+born: 1989-04-28
+
+potential: 28
+
+salary: 1.8
+years_left: 4
+
+height: 180
+weight: 90
+position: rw
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 77
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 8
+skating: 8
+physical: 8
+
+deking: 81
+hand_eye: 81
+passing: 80
+puck_control: 80
+
+discipline: 84
+offensive_awareness: 78
+poise: 80
+
+slap_shot_accuracy: 80
+slap_shot_power: 85
+wrist_shot_accuracy: 81
+wrist_shot_power: 85
+
+defensive_awareness: 83
+faceoffs: 87
+shot_blocking: 85
+stick_checking: 88
+
+acceleration: 87
+agility: 85
+balance: 84
+endurance: 84
+speed: 87
+
+aggressiveness: 85
+body_checking: 85
+durability: 85
+fighting_skill: 75
+strength: 85

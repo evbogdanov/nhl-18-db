@@ -1,0 +1,65 @@
+nhlcom_id: 8477511
+
+country_abbrev: can
+team_abbrev: det
+
+first_name: Anthony
+last_name: Mantha
+number: 39
+born: 1994-09-16
+
+potential: 6
+
+salary: 0.865
+years_left: 1
+
+height: 196
+weight: 97
+position: rw
+type: power forward
+shoots: left
+
+draft_team_abbrev: det
+draft_year: 2013
+draft_round: 1
+draft_overall: 20
+
+overall: 83
+
+puck_skills: 8
+senses: 8
+shooting: 9
+defense: 7
+skating: 9
+physical: 8
+
+deking: 86
+hand_eye: 86
+passing: 85
+puck_control: 85
+
+discipline: 75
+offensive_awareness: 86
+poise: 81
+
+slap_shot_accuracy: 86
+slap_shot_power: 89
+wrist_shot_accuracy: 87
+wrist_shot_power: 89
+
+defensive_awareness: 84
+faceoffs: 65
+shot_blocking: 80
+stick_checking: 85
+
+acceleration: 87
+agility: 88
+balance: 88
+endurance: 83
+speed: 87
+
+aggressiveness: 87
+body_checking: 85
+durability: 85
+fighting_skill: 70
+strength: 88

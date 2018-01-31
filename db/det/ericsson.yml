@@ -1,0 +1,65 @@
+nhlcom_id: 8470318
+
+country_abbrev: swe
+team_abbrev: det
+
+first_name: Jonathan
+last_name: Ericsson
+number: 52
+born: 1984-03-02
+
+potential: 24
+
+salary: 4.25
+years_left: 3
+
+height: 193
+weight: 100
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: det
+draft_year: 2002
+draft_round: 9
+draft_overall: 291
+
+overall: 79
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 8
+skating: 8
+physical: 8
+
+deking: 75
+hand_eye: 70
+passing: 82
+puck_control: 80
+
+discipline: 70
+offensive_awareness: 79
+poise: 80
+
+slap_shot_accuracy: 75
+slap_shot_power: 87
+wrist_shot_accuracy: 77
+wrist_shot_power: 86
+
+defensive_awareness: 84
+faceoffs: 55
+shot_blocking: 86
+stick_checking: 86
+
+acceleration: 81
+agility: 82
+balance: 90
+endurance: 85
+speed: 83
+
+aggressiveness: 87
+body_checking: 86
+durability: 80
+fighting_skill: 80
+strength: 88

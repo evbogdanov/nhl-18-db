@@ -1,0 +1,65 @@
+nhlcom_id: 8471794
+
+country_abbrev: can
+team_abbrev: det
+
+first_name: Darren
+last_name: Helm
+number: 43
+born: 1987-01-21
+
+potential: 20
+
+salary: 3.85
+years_left: 4
+
+height: 183
+weight: 89
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: det
+draft_year: 2005
+draft_round: 5
+draft_overall: 132
+
+overall: 79
+
+puck_skills: 7
+senses: 7
+shooting: 7
+defense: 8
+skating: 9
+physical: 7
+
+deking: 85
+hand_eye: 83
+passing: 82
+puck_control: 82
+
+discipline: 90
+offensive_awareness: 81
+poise: 85
+
+slap_shot_accuracy: 82
+slap_shot_power: 85
+wrist_shot_accuracy: 82
+wrist_shot_power: 84
+
+defensive_awareness: 84
+faceoffs: 85
+shot_blocking: 85
+stick_checking: 86
+
+acceleration: 90
+agility: 88
+balance: 83
+endurance: 80
+speed: 92
+
+aggressiveness: 83
+body_checking: 82
+durability: 84
+fighting_skill: 70
+strength: 82

@@ -1,0 +1,65 @@
+nhlcom_id: 8475193
+
+country_abbrev: svk
+team_abbrev: det
+
+first_name: Tomas
+last_name: Tatar
+number: 21
+born: 1990-12-01
+
+potential: 10
+
+salary: 5.3
+years_left: 4
+
+height: 178
+weight: 84
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: det
+draft_year: 2009
+draft_round: 2
+draft_overall: 60
+
+overall: 83
+
+puck_skills: 9
+senses: 8
+shooting: 9
+defense: 8
+skating: 9
+physical: 8
+
+deking: 88
+hand_eye: 88
+passing: 88
+puck_control: 88
+
+discipline: 85
+offensive_awareness: 87
+poise: 80
+
+slap_shot_accuracy: 88
+slap_shot_power: 88
+wrist_shot_accuracy: 88
+wrist_shot_power: 87
+
+defensive_awareness: 85
+faceoffs: 60
+shot_blocking: 80
+stick_checking: 85
+
+acceleration: 88
+agility: 88
+balance: 85
+endurance: 84
+speed: 88
+
+aggressiveness: 84
+body_checking: 84
+durability: 85
+fighting_skill: 70
+strength: 85

@@ -1,0 +1,65 @@
+nhlcom_id: 8476960
+
+country_abbrev: can
+team_abbrev: det
+
+first_name: Andreas
+last_name: Athanasiou
+number: 72
+born: 1994-08-06
+
+potential: 11
+
+salary: 1.39
+years_left: 1
+
+height: 188
+weight: 87
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: det
+draft_year: 2012
+draft_round: 4
+draft_overall: 110
+
+overall: 80
+
+puck_skills: 7
+senses: 6
+shooting: 8
+defense: 8
+skating: 9
+physical: 8
+
+deking: 84
+hand_eye: 84
+passing: 82
+puck_control: 83
+
+discipline: 85
+offensive_awareness: 82
+poise: 75
+
+slap_shot_accuracy: 84
+slap_shot_power: 87
+wrist_shot_accuracy: 84
+wrist_shot_power: 86
+
+defensive_awareness: 85
+faceoffs: 79
+shot_blocking: 85
+stick_checking: 85
+
+acceleration: 91
+agility: 85
+balance: 86
+endurance: 83
+speed: 91
+
+aggressiveness: 85
+body_checking: 85
+durability: 85
+fighting_skill: 73
+strength: 86

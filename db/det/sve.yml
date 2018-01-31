@@ -1,0 +1,65 @@
+nhlcom_id: 8478431
+
+country_abbrev: rus
+team_abbrev: det
+
+first_name: Evgeny
+last_name: Svechnikov
+number: 37
+born: 1996-10-31
+
+potential: 7
+
+salary: 0.925
+years_left: 2
+
+height: 191
+weight: 93
+position: lw
+type: sniper
+shoots: left
+
+draft_team_abbrev: det
+draft_year: 2015
+draft_round: 1
+draft_overall: 19
+
+overall: 73
+
+puck_skills: 7
+senses: 5
+shooting: 7
+defense: 5
+skating: 7
+physical: 6
+
+deking: 84
+hand_eye: 81
+passing: 81
+puck_control: 81
+
+discipline: 75
+offensive_awareness: 79
+poise: 70
+
+slap_shot_accuracy: 80
+slap_shot_power: 85
+wrist_shot_accuracy: 81
+wrist_shot_power: 84
+
+defensive_awareness: 77
+faceoffs: 60
+shot_blocking: 70
+stick_checking: 80
+
+acceleration: 84
+agility: 84
+balance: 84
+endurance: 82
+speed: 83
+
+aggressiveness: 77
+body_checking: 75
+durability: 85
+fighting_skill: 75
+strength: 84

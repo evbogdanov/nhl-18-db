@@ -1,0 +1,65 @@
+nhlcom_id: 8476924
+
+country_abbrev: cze
+team_abbrev: det
+
+first_name: Martin
+last_name: Frk
+number: 42
+born: 1993-10-05
+
+potential: 18
+
+salary: 0.65
+years_left: 1
+
+height: 185
+weight: 88
+position: rw
+type: sniper
+shoots: right
+
+draft_team_abbrev: det
+draft_year: 2012
+draft_round: 2
+draft_overall: 49
+
+overall: 79
+
+puck_skills: 7
+senses: 7
+shooting: 8
+defense: 7
+skating: 8
+physical: 6
+
+deking: 85
+hand_eye: 82
+passing: 83
+puck_control: 83
+
+discipline: 82
+offensive_awareness: 84
+poise: 80
+
+slap_shot_accuracy: 82
+slap_shot_power: 87
+wrist_shot_accuracy: 83
+wrist_shot_power: 86
+
+defensive_awareness: 83
+faceoffs: 71
+shot_blocking: 80
+stick_checking: 85
+
+acceleration: 85
+agility: 85
+balance: 85
+endurance: 82
+speed: 85
+
+aggressiveness: 78
+body_checking: 78
+durability: 80
+fighting_skill: 65
+strength: 83

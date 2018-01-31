@@ -1,0 +1,65 @@
+nhlcom_id: 8471266
+
+country_abbrev: usa
+team_abbrev: det
+
+first_name: David
+last_name: Booth
+number: 14
+born: 1984-11-24
+
+potential: 28
+
+salary: 0.7
+years_left: 1
+
+height: 183
+weight: 96
+position: lw
+type: power forward
+shoots: left
+
+draft_team_abbrev: fla
+draft_year: 2004
+draft_round: 2
+draft_overall: 53
+
+overall: 77
+
+puck_skills: 7
+senses: 6
+shooting: 8
+defense: 6
+skating: 8
+physical: 8
+
+deking: 83
+hand_eye: 82
+passing: 81
+puck_control: 81
+
+discipline: 85
+offensive_awareness: 80
+poise: 80
+
+slap_shot_accuracy: 82
+slap_shot_power: 88
+wrist_shot_accuracy: 82
+wrist_shot_power: 87
+
+defensive_awareness: 80
+faceoffs: 60
+shot_blocking: 80
+stick_checking: 82
+
+acceleration: 86
+agility: 84
+balance: 88
+endurance: 80
+speed: 86
+
+aggressiveness: 85
+body_checking: 85
+durability: 70
+fighting_skill: 75
+strength: 88

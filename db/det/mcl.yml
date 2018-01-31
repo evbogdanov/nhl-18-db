@@ -1,0 +1,65 @@
+nhlcom_id: 8475795
+
+country_abbrev: can
+team_abbrev: det
+
+first_name: Dylan
+last_name: McIlrath
+number: 4
+born: 1992-04-20
+
+potential: 30
+
+salary: 0.65
+years_left: 2
+
+height: 196
+weight: 107
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: nyr
+draft_year: 2010
+draft_round: 1
+draft_overall: 10
+
+overall: 76
+
+puck_skills: 5
+senses: 5
+shooting: 7
+defense: 7
+skating: 7
+physical: 9
+
+deking: 70
+hand_eye: 73
+passing: 77
+puck_control: 77
+
+discipline: 60
+offensive_awareness: 77
+poise: 75
+
+slap_shot_accuracy: 70
+slap_shot_power: 87
+wrist_shot_accuracy: 72
+wrist_shot_power: 86
+
+defensive_awareness: 80
+faceoffs: 60
+shot_blocking: 84
+stick_checking: 89
+
+acceleration: 82
+agility: 81
+balance: 90
+endurance: 83
+speed: 82
+
+aggressiveness: 90
+body_checking: 90
+durability: 80
+fighting_skill: 85
+strength: 90

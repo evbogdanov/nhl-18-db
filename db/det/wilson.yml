@@ -1,0 +1,65 @@
+nhlcom_id: 8476293
+
+country_abbrev: can
+team_abbrev: det
+
+first_name: Scott
+last_name: Wilson
+number: 23
+born: 1992-04-24
+
+potential: 18
+
+salary: 0.65
+years_left: 1
+
+height: 180
+weight: 83
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: pit
+draft_year: 2011
+draft_round: 7
+draft_overall: 209
+
+overall: 77
+
+puck_skills: 7
+senses: 6
+shooting: 8
+defense: 7
+skating: 8
+physical: 7
+
+deking: 83
+hand_eye: 82
+passing: 82
+puck_control: 82
+
+discipline: 78
+offensive_awareness: 81
+poise: 75
+
+slap_shot_accuracy: 83
+slap_shot_power: 86
+wrist_shot_accuracy: 83
+wrist_shot_power: 85
+
+defensive_awareness: 82
+faceoffs: 60
+shot_blocking: 80
+stick_checking: 83
+
+acceleration: 85
+agility: 85
+balance: 85
+endurance: 82
+speed: 85
+
+aggressiveness: 84
+body_checking: 84
+durability: 80
+fighting_skill: 70
+strength: 84

@@ -1,0 +1,65 @@
+nhlcom_id: 8474679
+
+country_abbrev: swe
+team_abbrev: det
+
+first_name: Gustav
+last_name: Nyquist
+number: 14
+born: 1989-09-01
+
+potential: 12
+
+salary: 4.75
+years_left: 2
+
+height: 180
+weight: 83
+position: rw
+type: sniper
+shoots: left
+
+draft_team_abbrev: det
+draft_year: 2008
+draft_round: 4
+draft_overall: 121
+
+overall: 83
+
+puck_skills: 9
+senses: 8
+shooting: 9
+defense: 7
+skating: 9
+physical: 7
+
+deking: 90
+hand_eye: 90
+passing: 88
+puck_control: 89
+
+discipline: 85
+offensive_awareness: 88
+poise: 78
+
+slap_shot_accuracy: 86
+slap_shot_power: 87
+wrist_shot_accuracy: 88
+wrist_shot_power: 87
+
+defensive_awareness: 86
+faceoffs: 63
+shot_blocking: 74
+stick_checking: 83
+
+acceleration: 93
+agility: 93
+balance: 83
+endurance: 85
+speed: 90
+
+aggressiveness: 80
+body_checking: 79
+durability: 85
+fighting_skill: 65
+strength: 83

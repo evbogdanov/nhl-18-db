@@ -1,0 +1,65 @@
+nhlcom_id: 8471309
+
+country_abbrev: swe
+team_abbrev: det
+
+first_name: Johan
+last_name: Franzen
+number: 93
+born: 1979-12-23
+
+potential: 28
+
+salary: 3.955
+years_left: 3
+
+height: 193
+weight: 105
+position: rw
+type: power forward
+shoots: left
+
+draft_team_abbrev: det
+draft_year: 2004
+draft_round: 3
+draft_overall: 97
+
+overall: 76
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 7
+skating: 7
+physical: 8
+
+deking: 80
+hand_eye: 83
+passing: 80
+puck_control: 80
+
+discipline: 80
+offensive_awareness: 78
+poise: 85
+
+slap_shot_accuracy: 80
+slap_shot_power: 89
+wrist_shot_accuracy: 80
+wrist_shot_power: 90
+
+defensive_awareness: 81
+faceoffs: 60
+shot_blocking: 83
+stick_checking: 85
+
+acceleration: 80
+agility: 80
+balance: 90
+endurance: 82
+speed: 80
+
+aggressiveness: 85
+body_checking: 87
+durability: 60
+fighting_skill: 80
+strength: 90

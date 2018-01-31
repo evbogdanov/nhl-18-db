@@ -1,0 +1,65 @@
+nhlcom_id: 8471242
+
+country_abbrev: can
+team_abbrev: det
+
+first_name: Mike
+last_name: Green
+number: 25
+born: 1985-10-12
+
+potential: 16
+
+salary: 6.0
+years_left: 1
+
+height: 185
+weight: 94
+position: d
+type: offensive defenseman
+shoots: right
+
+draft_team_abbrev: wsh
+draft_year: 2004
+draft_round: 1
+draft_overall: 29
+
+overall: 81
+
+puck_skills: 8
+senses: 8
+shooting: 8
+defense: 8
+skating: 8
+physical: 8
+
+deking: 85
+hand_eye: 82
+passing: 88
+puck_control: 87
+
+discipline: 80
+offensive_awareness: 86
+poise: 80
+
+slap_shot_accuracy: 81
+slap_shot_power: 90
+wrist_shot_accuracy: 82
+wrist_shot_power: 88
+
+defensive_awareness: 85
+faceoffs: 66
+shot_blocking: 84
+stick_checking: 84
+
+acceleration: 86
+agility: 86
+balance: 85
+endurance: 86
+speed: 87
+
+aggressiveness: 85
+body_checking: 85
+durability: 80
+fighting_skill: 75
+strength: 85

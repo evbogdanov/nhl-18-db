@@ -1,0 +1,65 @@
+nhlcom_id: 8468083
+
+country_abbrev: swe
+team_abbrev: det
+
+first_name: Henrik
+last_name: Zetterberg
+number: 40
+born: 1980-10-09
+
+potential: 12
+
+salary: 6.085
+years_left: 4
+
+height: 183
+weight: 86
+position: c
+type: playmaker
+shoots: left
+
+draft_team_abbrev: det
+draft_year: 1999
+draft_round: 7
+draft_overall: 210
+
+overall: 86
+
+puck_skills: 9
+senses: 9
+shooting: 9
+defense: 9
+skating: 9
+physical: 8
+
+deking: 88
+hand_eye: 88
+passing: 89
+puck_control: 89
+
+discipline: 90
+offensive_awareness: 89
+poise: 90
+
+slap_shot_accuracy: 88
+slap_shot_power: 89
+wrist_shot_accuracy: 88
+wrist_shot_power: 87
+
+defensive_awareness: 89
+faceoffs: 80
+shot_blocking: 85
+stick_checking: 90
+
+acceleration: 88
+agility: 88
+balance: 87
+endurance: 85
+speed: 88
+
+aggressiveness: 80
+body_checking: 80
+durability: 85
+fighting_skill: 75
+strength: 87
