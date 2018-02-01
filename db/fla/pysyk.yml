@@ -1,0 +1,65 @@
+nhlcom_id: 8475796
+
+country_abbrev: can
+team_abbrev: fla
+
+first_name: Mark
+last_name: Pysyk
+number: 13
+born: 1992-01-11
+
+potential: 14
+
+salary: 2.735
+years_left: 3
+
+height: 185
+weight: 91
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: buf
+draft_year: 2010
+draft_round: 1
+draft_overall: 23
+
+overall: 82
+
+puck_skills: 7
+senses: 7
+shooting: 7
+defense: 9
+skating: 8
+physical: 8
+
+deking: 82
+hand_eye: 75
+passing: 85
+puck_control: 83
+
+discipline: 90
+offensive_awareness: 82
+poise: 80
+
+slap_shot_accuracy: 75
+slap_shot_power: 85
+wrist_shot_accuracy: 77
+wrist_shot_power: 85
+
+defensive_awareness: 87
+faceoffs: 60
+shot_blocking: 88
+stick_checking: 88
+
+acceleration: 87
+agility: 86
+balance: 85
+endurance: 85
+speed: 88
+
+aggressiveness: 82
+body_checking: 85
+durability: 85
+fighting_skill: 65
+strength: 85

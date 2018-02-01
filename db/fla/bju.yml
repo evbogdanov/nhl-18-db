@@ -1,0 +1,65 @@
+nhlcom_id: 8475760
+
+country_abbrev: usa
+team_abbrev: fla
+
+first_name: Nick
+last_name: Bjugstad
+number: 27
+born: 1992-07-17
+
+potential: 10
+
+salary: 4.1
+years_left: 4
+
+height: 198
+weight: 99
+position: c
+type: power forward
+shoots: right
+
+draft_team_abbrev: fla
+draft_year: 2010
+draft_round: 1
+draft_overall: 19
+
+overall: 82
+
+puck_skills: 8
+senses: 8
+shooting: 9
+defense: 8
+skating: 8
+physical: 9
+
+deking: 84
+hand_eye: 86
+passing: 85
+puck_control: 86
+
+discipline: 85
+offensive_awareness: 85
+poise: 80
+
+slap_shot_accuracy: 86
+slap_shot_power: 89
+wrist_shot_accuracy: 86
+wrist_shot_power: 88
+
+defensive_awareness: 84
+faceoffs: 76
+shot_blocking: 83
+stick_checking: 88
+
+acceleration: 85
+agility: 85
+balance: 90
+endurance: 83
+speed: 85
+
+aggressiveness: 85
+body_checking: 88
+durability: 80
+fighting_skill: 80
+strength: 90

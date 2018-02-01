@@ -1,0 +1,65 @@
+nhlcom_id: 8473465
+
+country_abbrev: can
+team_abbrev: fla
+
+first_name: Jamie
+last_name: McGinn
+number: 88
+born: 1988-08-05
+
+potential: 20
+
+salary: 3.335
+years_left: 2
+
+height: 185
+weight: 93
+position: rw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: sjs
+draft_year: 2006
+draft_round: 2
+draft_overall: 36
+
+overall: 79
+
+puck_skills: 7
+senses: 7
+shooting: 7
+defense: 7
+skating: 8
+physical: 8
+
+deking: 84
+hand_eye: 83
+passing: 83
+puck_control: 83
+
+discipline: 80
+offensive_awareness: 83
+poise: 80
+
+slap_shot_accuracy: 82
+slap_shot_power: 86
+wrist_shot_accuracy: 83
+wrist_shot_power: 85
+
+defensive_awareness: 83
+faceoffs: 67
+shot_blocking: 81
+stick_checking: 85
+
+acceleration: 87
+agility: 87
+balance: 85
+endurance: 83
+speed: 87
+
+aggressiveness: 85
+body_checking: 85
+durability: 84
+fighting_skill: 80
+strength: 85

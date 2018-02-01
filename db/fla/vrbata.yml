@@ -1,0 +1,65 @@
+nhlcom_id: 8468085
+
+country_abbrev: cze
+team_abbrev: fla
+
+first_name: Radim
+last_name: Vrbata
+number: 71
+born: 1981-06-13
+
+potential: 20
+
+salary: 2.5
+years_left: 1
+
+height: 185
+weight: 88
+position: rw
+type: sniper
+shoots: right
+
+draft_team_abbrev: col
+draft_year: 1999
+draft_round: 7
+draft_overall: 212
+
+overall: 80
+
+puck_skills: 8
+senses: 8
+shooting: 9
+defense: 7
+skating: 8
+physical: 6
+
+deking: 87
+hand_eye: 85
+passing: 87
+puck_control: 87
+
+discipline: 87
+offensive_awareness: 86
+poise: 85
+
+slap_shot_accuracy: 86
+slap_shot_power: 88
+wrist_shot_accuracy: 87
+wrist_shot_power: 87
+
+defensive_awareness: 82
+faceoffs: 60
+shot_blocking: 75
+stick_checking: 84
+
+acceleration: 85
+agility: 85
+balance: 83
+endurance: 83
+speed: 85
+
+aggressiveness: 70
+body_checking: 77
+durability: 80
+fighting_skill: 65
+strength: 83

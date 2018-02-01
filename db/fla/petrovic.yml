@@ -1,0 +1,65 @@
+nhlcom_id: 8475755
+
+country_abbrev: can
+team_abbrev: fla
+
+first_name: Alexander
+last_name: Petrovic
+number: 6
+born: 1992-03-03
+
+potential: 22
+
+salary: 1.85
+years_left: 1
+
+height: 193
+weight: 93
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: fla
+draft_year: 2010
+draft_round: 2
+draft_overall: 36
+
+overall: 79
+
+puck_skills: 6
+senses: 6
+shooting: 8
+defense: 8
+skating: 8
+physical: 9
+
+deking: 75
+hand_eye: 75
+passing: 82
+puck_control: 81
+
+discipline: 65
+offensive_awareness: 80
+poise: 75
+
+slap_shot_accuracy: 76
+slap_shot_power: 89
+wrist_shot_accuracy: 77
+wrist_shot_power: 87
+
+defensive_awareness: 84
+faceoffs: 60
+shot_blocking: 87
+stick_checking: 85
+
+acceleration: 83
+agility: 82
+balance: 88
+endurance: 84
+speed: 83
+
+aggressiveness: 90
+body_checking: 88
+durability: 85
+fighting_skill: 82
+strength: 88

@@ -1,0 +1,65 @@
+nhlcom_id: 8474098
+
+country_abbrev: can
+team_abbrev: fla
+
+first_name: Colton
+last_name: Sceviour
+number: 7
+born: 1989-04-20
+
+potential: 20
+
+salary: 0.95
+years_left: 1
+
+height: 183
+weight: 88
+position: rw
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: dal
+draft_year: 2007
+draft_round: 4
+draft_overall: 112
+
+overall: 78
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 8
+
+deking: 83
+hand_eye: 83
+passing: 82
+puck_control: 82
+
+discipline: 85
+offensive_awareness: 80
+poise: 80
+
+slap_shot_accuracy: 83
+slap_shot_power: 85
+wrist_shot_accuracy: 83
+wrist_shot_power: 85
+
+defensive_awareness: 83
+faceoffs: 60
+shot_blocking: 83
+stick_checking: 85
+
+acceleration: 85
+agility: 85
+balance: 86
+endurance: 83
+speed: 85
+
+aggressiveness: 85
+body_checking: 86
+durability: 85
+fighting_skill: 80
+strength: 86

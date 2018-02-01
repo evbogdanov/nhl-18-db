@@ -1,0 +1,65 @@
+nhlcom_id: 8477452
+
+country_abbrev: usa
+team_abbrev: fla
+
+first_name: Ian
+last_name: McCoshen
+number: 12
+born: 1995-08-05
+
+potential: 14
+
+salary: 0.925
+years_left: 2
+
+height: 191
+weight: 99
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: fla
+draft_year: 2013
+draft_round: 2
+draft_overall: 31
+
+overall: 78
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 8
+
+deking: 72
+hand_eye: 76
+passing: 81
+puck_control: 81
+
+discipline: 77
+offensive_awareness: 78
+poise: 80
+
+slap_shot_accuracy: 76
+slap_shot_power: 86
+wrist_shot_accuracy: 77
+wrist_shot_power: 86
+
+defensive_awareness: 84
+faceoffs: 60
+shot_blocking: 86
+stick_checking: 83
+
+acceleration: 84
+agility: 84
+balance: 85
+endurance: 83
+speed: 84
+
+aggressiveness: 84
+body_checking: 86
+durability: 85
+fighting_skill: 75
+strength: 86

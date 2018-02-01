@@ -1,0 +1,65 @@
+nhlcom_id: 8471735
+
+country_abbrev: usa
+team_abbrev: fla
+
+first_name: Keith
+last_name: Yandle
+number: 3
+born: 1986-09-09
+
+potential: 16
+
+salary: 6.35
+years_left: 6
+
+height: 185
+weight: 89
+position: d
+type: offensive defenseman
+shoots: left
+
+draft_team_abbrev: phx
+draft_year: 2005
+draft_round: 4
+draft_overall: 105
+
+overall: 82
+
+puck_skills: 9
+senses: 9
+shooting: 9
+defense: 8
+skating: 9
+physical: 7
+
+deking: 88
+hand_eye: 83
+passing: 90
+puck_control: 90
+
+discipline: 82
+offensive_awareness: 89
+poise: 85
+
+slap_shot_accuracy: 82
+slap_shot_power: 90
+wrist_shot_accuracy: 83
+wrist_shot_power: 89
+
+defensive_awareness: 84
+faceoffs: 55
+shot_blocking: 84
+stick_checking: 87
+
+acceleration: 89
+agility: 89
+balance: 84
+endurance: 86
+speed: 90
+
+aggressiveness: 83
+body_checking: 80
+durability: 85
+fighting_skill: 70
+strength: 84

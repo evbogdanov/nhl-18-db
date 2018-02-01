@@ -1,0 +1,65 @@
+nhlcom_id: 8468001
+
+country_abbrev: can
+team_abbrev: fla
+
+first_name: Derek
+last_name: MacKenzie
+number: 17
+born: 1981-06-11
+
+potential: 28
+
+salary: 1.3
+years_left: 2
+
+height: 180
+weight: 82
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: atl
+draft_year: 1999
+draft_round: 5
+draft_overall: 128
+
+overall: 76
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 7
+skating: 7
+physical: 8
+
+deking: 80
+hand_eye: 80
+passing: 80
+puck_control: 80
+
+discipline: 80
+offensive_awareness: 78
+poise: 80
+
+slap_shot_accuracy: 80
+slap_shot_power: 84
+wrist_shot_accuracy: 81
+wrist_shot_power: 84
+
+defensive_awareness: 83
+faceoffs: 84
+shot_blocking: 84
+stick_checking: 86
+
+acceleration: 84
+agility: 84
+balance: 84
+endurance: 75
+speed: 84
+
+aggressiveness: 85
+body_checking: 85
+durability: 83
+fighting_skill: 75
+strength: 84

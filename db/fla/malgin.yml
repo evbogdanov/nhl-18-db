@@ -1,0 +1,65 @@
+nhlcom_id: 8478843
+
+country_abbrev: che
+team_abbrev: fla
+
+first_name: Denis
+last_name: Malgin
+number: 62
+born: 1997-01-18
+
+potential: 33
+
+salary: 0.69
+years_left: 2
+
+height: 175
+weight: 80
+position: c
+type: playmaker
+shoots: right
+
+draft_team_abbrev: fla
+draft_year: 2015
+draft_round: 4
+draft_overall: 102
+
+overall: 75
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 6
+skating: 8
+physical: 4
+
+deking: 88
+hand_eye: 83
+passing: 83
+puck_control: 83
+
+discipline: 88
+offensive_awareness: 81
+poise: 75
+
+slap_shot_accuracy: 81
+slap_shot_power: 85
+wrist_shot_accuracy: 82
+wrist_shot_power: 85
+
+defensive_awareness: 80
+faceoffs: 75
+shot_blocking: 75
+stick_checking: 82
+
+acceleration: 88
+agility: 88
+balance: 75
+endurance: 80
+speed: 88
+
+aggressiveness: 72
+body_checking: 72
+durability: 85
+fighting_skill: 65
+strength: 76

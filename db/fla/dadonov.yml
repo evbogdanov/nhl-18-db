@@ -1,0 +1,65 @@
+nhlcom_id: 8474149
+
+country_abbrev: rus
+team_abbrev: fla
+
+first_name: Evgenii
+last_name: Dadonov
+number: 63
+born: 1989-03-12
+
+potential: 12
+
+salary: 4.0
+years_left: 3
+
+height: 178
+weight: 84
+position: rw
+type: sniper
+shoots: left
+
+draft_team_abbrev: fla
+draft_year: 2007
+draft_round: 3
+draft_overall: 71
+
+overall: 84
+
+puck_skills: 8
+senses: 9
+shooting: 9
+defense: 8
+skating: 9
+physical: 7
+
+deking: 87
+hand_eye: 90
+passing: 86
+puck_control: 86
+
+discipline: 83
+offensive_awareness: 89
+poise: 85
+
+slap_shot_accuracy: 87
+slap_shot_power: 89
+wrist_shot_accuracy: 87
+wrist_shot_power: 88
+
+defensive_awareness: 85
+faceoffs: 60
+shot_blocking: 83
+stick_checking: 87
+
+acceleration: 87
+agility: 88
+balance: 86
+endurance: 86
+speed: 87
+
+aggressiveness: 81
+body_checking: 82
+durability: 85
+fighting_skill: 70
+strength: 85

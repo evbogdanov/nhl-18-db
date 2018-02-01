@@ -1,0 +1,65 @@
+nhlcom_id: 8476389
+
+country_abbrev: usa
+team_abbrev: fla
+
+first_name: Vincent
+last_name: Trocheck
+number: 21
+born: 1993-07-11
+
+potential: 10
+
+salary: 4.75
+years_left: 5
+
+height: 178
+weight: 82
+position: c
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: fla
+draft_year: 2011
+draft_round: 3
+draft_overall: 64
+
+overall: 84
+
+puck_skills: 9
+senses: 9
+shooting: 8
+defense: 8
+skating: 8
+physical: 7
+
+deking: 88
+hand_eye: 87
+passing: 88
+puck_control: 88
+
+discipline: 84
+offensive_awareness: 89
+poise: 80
+
+slap_shot_accuracy: 87
+slap_shot_power: 86
+wrist_shot_accuracy: 87
+wrist_shot_power: 86
+
+defensive_awareness: 87
+faceoffs: 78
+shot_blocking: 82
+stick_checking: 88
+
+acceleration: 88
+agility: 88
+balance: 83
+endurance: 84
+speed: 87
+
+aggressiveness: 80
+body_checking: 80
+durability: 85
+fighting_skill: 65
+strength: 83

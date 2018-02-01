@@ -1,0 +1,65 @@
+nhlcom_id: 8480015
+
+country_abbrev: can
+team_abbrev: fla
+
+first_name: Owen
+last_name: Tippett
+number: 74
+born: 1999-02-16
+
+potential: 10
+
+salary: 0.925
+years_left: 3
+
+height: 185
+weight: 92
+position: rw
+type: sniper
+shoots: right
+
+draft_team_abbrev: fla
+draft_year: 2017
+draft_round: 1
+draft_overall: 10
+
+overall: 71
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 5
+skating: 6
+physical: 4
+
+deking: 81
+hand_eye: 82
+passing: 80
+puck_control: 82
+
+discipline: 80
+offensive_awareness: 81
+poise: 76
+
+slap_shot_accuracy: 79
+slap_shot_power: 84
+wrist_shot_accuracy: 80
+wrist_shot_power: 83
+
+defensive_awareness: 76
+faceoffs: 70
+shot_blocking: 76
+stick_checking: 76
+
+acceleration: 82
+agility: 81
+balance: 72
+endurance: 75
+speed: 82
+
+aggressiveness: 68
+body_checking: 70
+durability: 85
+fighting_skill: 70
+strength: 77

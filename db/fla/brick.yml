@@ -1,0 +1,65 @@
+nhlcom_id: 8475736
+
+country_abbrev: usa
+team_abbrev: fla
+
+first_name: Connor
+last_name: Brickley
+number: 23
+born: 1992-02-25
+
+potential: 18
+
+salary: 0.75
+years_left: 1
+
+height: 185
+weight: 92
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: fla
+draft_year: 2010
+draft_round: 2
+draft_overall: 50
+
+overall: 78
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 8
+
+deking: 80
+hand_eye: 80
+passing: 81
+puck_control: 81
+
+discipline: 75
+offensive_awareness: 81
+poise: 80
+
+slap_shot_accuracy: 80
+slap_shot_power: 86
+wrist_shot_accuracy: 80
+wrist_shot_power: 86
+
+defensive_awareness: 83
+faceoffs: 72
+shot_blocking: 81
+stick_checking: 85
+
+acceleration: 85
+agility: 86
+balance: 84
+endurance: 82
+speed: 85
+
+aggressiveness: 80
+body_checking: 86
+durability: 80
+fighting_skill: 75
+strength: 85
