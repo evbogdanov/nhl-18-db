@@ -1,0 +1,65 @@
+nhlcom_id: 8473473
+
+country_abbrev: can
+team_abbrev: edm
+
+first_name: Milan
+last_name: Lucic
+number: 27
+born: 1988-06-07
+
+potential: 12
+
+salary: 6.0
+years_left: 6
+
+height: 191
+weight: 106
+position: lw
+type: power forward
+shoots: left
+
+draft_team_abbrev: bos
+draft_year: 2006
+draft_round: 2
+draft_overall: 50
+
+overall: 84
+
+puck_skills: 8
+senses: 9
+shooting: 9
+defense: 8
+skating: 8
+physical: 10
+
+deking: 83
+hand_eye: 87
+passing: 85
+puck_control: 85
+
+discipline: 70
+offensive_awareness: 87
+poise: 90
+
+slap_shot_accuracy: 86
+slap_shot_power: 88
+wrist_shot_accuracy: 87
+wrist_shot_power: 88
+
+defensive_awareness: 85
+faceoffs: 65
+shot_blocking: 80
+stick_checking: 87
+
+acceleration: 84
+agility: 84
+balance: 94
+endurance: 85
+speed: 85
+
+aggressiveness: 90
+body_checking: 95
+durability: 85
+fighting_skill: 90
+strength: 94

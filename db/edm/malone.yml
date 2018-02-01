@@ -1,0 +1,65 @@
+nhlcom_id: 8474089
+
+country_abbrev: can
+team_abbrev: edm
+
+first_name: Brad
+last_name: Malone
+number: 24
+born: 1989-05-20
+
+potential: 28
+
+salary: 0.65
+years_left: 2
+
+height: 188
+weight: 94
+position: rw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: col
+draft_year: 2004
+draft_round: 4
+draft_overall: 105
+
+overall: 75
+
+puck_skills: 6
+senses: 5
+shooting: 7
+defense: 6
+skating: 7
+physical: 8
+
+deking: 80
+hand_eye: 80
+passing: 80
+puck_control: 80
+
+discipline: 70
+offensive_awareness: 77
+poise: 75
+
+slap_shot_accuracy: 80
+slap_shot_power: 86
+wrist_shot_accuracy: 81
+wrist_shot_power: 85
+
+defensive_awareness: 80
+faceoffs: 79
+shot_blocking: 80
+stick_checking: 83
+
+acceleration: 83
+agility: 83
+balance: 87
+endurance: 82
+speed: 83
+
+aggressiveness: 87
+body_checking: 87
+durability: 84
+fighting_skill: 83
+strength: 87

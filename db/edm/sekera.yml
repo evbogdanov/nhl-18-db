@@ -1,0 +1,65 @@
+nhlcom_id: 8471284
+
+country_abbrev: svk
+team_abbrev: edm
+
+first_name: Andrej
+last_name: Sekera
+number: 2
+born: 1986-06-08
+
+potential: 16
+
+salary: 5.5
+years_left: 4
+
+height: 183
+weight: 90
+position: d
+type: offensive defenseman
+shoots: left
+
+draft_team_abbrev: buf
+draft_year: 2004
+draft_round: 3
+draft_overall: 71
+
+overall: 83
+
+puck_skills: 9
+senses: 9
+shooting: 8
+defense: 8
+skating: 9
+physical: 8
+
+deking: 84
+hand_eye: 80
+passing: 89
+puck_control: 88
+
+discipline: 90
+offensive_awareness: 88
+poise: 85
+
+slap_shot_accuracy: 80
+slap_shot_power: 87
+wrist_shot_accuracy: 82
+wrist_shot_power: 86
+
+defensive_awareness: 87
+faceoffs: 55
+shot_blocking: 84
+stick_checking: 87
+
+acceleration: 88
+agility: 88
+balance: 85
+endurance: 85
+speed: 88
+
+aggressiveness: 83
+body_checking: 83
+durability: 85
+fighting_skill: 70
+strength: 86

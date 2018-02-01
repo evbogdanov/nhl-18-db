@@ -1,0 +1,65 @@
+nhlcom_id: 8477498
+
+country_abbrev: can
+team_abbrev: edm
+
+first_name: Darnell
+last_name: Nurse
+number: 25
+born: 1995-02-04
+
+potential: 14
+
+salary: 0.865
+years_left: 1
+
+height: 193
+weight: 96
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: edm
+draft_year: 2013
+draft_round: 1
+draft_overall: 7
+
+overall: 81
+
+puck_skills: 7
+senses: 7
+shooting: 8
+defense: 8
+skating: 8
+physical: 9
+
+deking: 79
+hand_eye: 77
+passing: 84
+puck_control: 84
+
+discipline: 75
+offensive_awareness: 84
+poise: 75
+
+slap_shot_accuracy: 77
+slap_shot_power: 89
+wrist_shot_accuracy: 78
+wrist_shot_power: 87
+
+defensive_awareness: 85
+faceoffs: 55
+shot_blocking: 87
+stick_checking: 87
+
+acceleration: 86
+agility: 86
+balance: 88
+endurance: 84
+speed: 85
+
+aggressiveness: 88
+body_checking: 88
+durability: 85
+fighting_skill: 80
+strength: 88

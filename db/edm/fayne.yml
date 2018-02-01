@@ -1,0 +1,65 @@
+nhlcom_id: 8471816
+
+country_abbrev: usa
+team_abbrev: edm
+
+first_name: Mark
+last_name: Fayne
+number: 5
+born: 1987-05-15
+
+potential: 32
+
+salary: 3.625
+years_left: 1
+
+height: 191
+weight: 96
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: njd
+draft_year: 2005
+draft_round: 5
+draft_overall: 155
+
+overall: 76
+
+puck_skills: 5
+senses: 5
+shooting: 6
+defense: 7
+skating: 7
+physical: 9
+
+deking: 70
+hand_eye: 70
+passing: 76
+puck_control: 76
+
+discipline: 83
+offensive_awareness: 75
+poise: 75
+
+slap_shot_accuracy: 73
+slap_shot_power: 85
+wrist_shot_accuracy: 74
+wrist_shot_power: 85
+
+defensive_awareness: 81
+faceoffs: 55
+shot_blocking: 89
+stick_checking: 87
+
+acceleration: 82
+agility: 82
+balance: 88
+endurance: 82
+speed: 82
+
+aggressiveness: 86
+body_checking: 87
+durability: 85
+fighting_skill: 75
+strength: 88

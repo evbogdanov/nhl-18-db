@@ -1,0 +1,65 @@
+nhlcom_id: 8477415
+
+country_abbrev: rus
+team_abbrev: edm
+
+first_name: Anton
+last_name: Slepyshev
+number: 42
+born: 1994-05-13
+
+potential: 10
+
+salary: 0.925
+years_left: 1
+
+height: 188
+weight: 85
+position: lw
+type: sniper
+shoots: right
+
+draft_team_abbrev: edm
+draft_year: 2013
+draft_round: 3
+draft_overall: 88
+
+overall: 76
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 6
+skating: 8
+physical: 7
+
+deking: 82
+hand_eye: 82
+passing: 80
+puck_control: 82
+
+discipline: 82
+offensive_awareness: 79
+poise: 78
+
+slap_shot_accuracy: 80
+slap_shot_power: 87
+wrist_shot_accuracy: 82
+wrist_shot_power: 86
+
+defensive_awareness: 79
+faceoffs: 65
+shot_blocking: 78
+stick_checking: 83
+
+acceleration: 84
+agility: 84
+balance: 87
+endurance: 80
+speed: 85
+
+aggressiveness: 80
+body_checking: 75
+durability: 80
+fighting_skill: 65
+strength: 87

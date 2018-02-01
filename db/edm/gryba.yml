@@ -1,0 +1,65 @@
+nhlcom_id: 8473468
+
+country_abbrev: can
+team_abbrev: edm
+
+first_name: Eric
+last_name: Gryba
+number: 62
+born: 1988-04-14
+
+potential: 32
+
+salary: 0.9
+years_left: 2
+
+height: 193
+weight: 103
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: ott
+draft_year: 2006
+draft_round: 3
+draft_overall: 68
+
+overall: 77
+
+puck_skills: 5
+senses: 5
+shooting: 7
+defense: 7
+skating: 7
+physical: 9
+
+deking: 70
+hand_eye: 70
+passing: 78
+puck_control: 78
+
+discipline: 65
+offensive_awareness: 76
+poise: 75
+
+slap_shot_accuracy: 70
+slap_shot_power: 88
+wrist_shot_accuracy: 70
+wrist_shot_power: 87
+
+defensive_awareness: 83
+faceoffs: 55
+shot_blocking: 87
+stick_checking: 85
+
+acceleration: 80
+agility: 80
+balance: 90
+endurance: 80
+speed: 80
+
+aggressiveness: 90
+body_checking: 90
+durability: 80
+fighting_skill: 85
+strength: 90

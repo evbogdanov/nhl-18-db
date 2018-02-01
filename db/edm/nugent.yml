@@ -1,0 +1,65 @@
+nhlcom_id: 8476454
+
+country_abbrev: can
+team_abbrev: edm
+
+first_name: Ryan
+last_name: Nugent-Hopkins
+number: 93
+born: 1993-04-12
+
+potential: 10
+
+salary: 6.0
+years_left: 4
+
+height: 183
+weight: 86
+position: c
+type: playmaker
+shoots: left
+
+draft_team_abbrev: edm
+draft_year: 2011
+draft_round: 1
+draft_overall: 1
+
+overall: 83
+
+puck_skills: 9
+senses: 8
+shooting: 8
+defense: 8
+skating: 9
+physical: 6
+
+deking: 90
+hand_eye: 86
+passing: 89
+puck_control: 89
+
+discipline: 87
+offensive_awareness: 88
+poise: 80
+
+slap_shot_accuracy: 85
+slap_shot_power: 85
+wrist_shot_accuracy: 85
+wrist_shot_power: 85
+
+defensive_awareness: 87
+faceoffs: 74
+shot_blocking: 75
+stick_checking: 87
+
+acceleration: 89
+agility: 89
+balance: 83
+endurance: 85
+speed: 88
+
+aggressiveness: 80
+body_checking: 78
+durability: 84
+fighting_skill: 67
+strength: 83

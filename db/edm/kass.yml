@@ -1,0 +1,65 @@
+nhlcom_id: 8475178
+
+country_abbrev: can
+team_abbrev: edm
+
+first_name: Zack
+last_name: Kassian
+number: 44
+born: 1991-01-24
+
+potential: 18
+
+salary: 1.95
+years_left: 3
+
+height: 191
+weight: 98
+position: rw
+type: power forward
+shoots: right
+
+draft_team_abbrev: buf
+draft_year: 2009
+draft_round: 1
+draft_overall: 13
+
+overall: 79
+
+puck_skills: 7
+senses: 6
+shooting: 8
+defense: 7
+skating: 8
+physical: 9
+
+deking: 83
+hand_eye: 83
+passing: 83
+puck_control: 83
+
+discipline: 65
+offensive_awareness: 81
+poise: 75
+
+slap_shot_accuracy: 82
+slap_shot_power: 89
+wrist_shot_accuracy: 83
+wrist_shot_power: 88
+
+defensive_awareness: 82
+faceoffs: 60
+shot_blocking: 80
+stick_checking: 85
+
+acceleration: 85
+agility: 85
+balance: 90
+endurance: 83
+speed: 85
+
+aggressiveness: 90
+body_checking: 90
+durability: 84
+fighting_skill: 85
+strength: 90

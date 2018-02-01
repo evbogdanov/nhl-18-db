@@ -1,0 +1,65 @@
+nhlcom_id: 8473914
+
+country_abbrev: can
+team_abbrev: edm
+
+first_name: Mark
+last_name: Letestu
+number: 55
+born: 1985-02-04
+
+potential: 20
+
+salary: 1.8
+years_left: 1
+
+height: 178
+weight: 89
+position: c
+type: playmaker
+shoots: right
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 79
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 7
+skating: 8
+physical: 7
+
+deking: 89
+hand_eye: 87
+passing: 85
+puck_control: 85
+
+discipline: 85
+offensive_awareness: 83
+poise: 80
+
+slap_shot_accuracy: 83
+slap_shot_power: 85
+wrist_shot_accuracy: 84
+wrist_shot_power: 85
+
+defensive_awareness: 83
+faceoffs: 85
+shot_blocking: 80
+stick_checking: 85
+
+acceleration: 87
+agility: 87
+balance: 82
+endurance: 82
+speed: 87
+
+aggressiveness: 80
+body_checking: 80
+durability: 84
+fighting_skill: 70
+strength: 82

@@ -1,0 +1,65 @@
+nhlcom_id: 8474034
+
+country_abbrev: usa
+team_abbrev: edm
+
+first_name: Patrick
+last_name: Maroon
+number: 19
+born: 1988-04-23
+
+potential: 12
+
+salary: 1.5
+years_left: 1
+
+height: 191
+weight: 104
+position: lw
+type: power forward
+shoots: left
+
+draft_team_abbrev: phi
+draft_year: 2007
+draft_round: 6
+draft_overall: 161
+
+overall: 81
+
+puck_skills: 7
+senses: 7
+shooting: 8
+defense: 7
+skating: 8
+physical: 9
+
+deking: 83
+hand_eye: 85
+passing: 83
+puck_control: 85
+
+discipline: 70
+offensive_awareness: 84
+poise: 80
+
+slap_shot_accuracy: 85
+slap_shot_power: 88
+wrist_shot_accuracy: 85
+wrist_shot_power: 87
+
+defensive_awareness: 83
+faceoffs: 60
+shot_blocking: 78
+stick_checking: 85
+
+acceleration: 83
+agility: 84
+balance: 90
+endurance: 82
+speed: 84
+
+aggressiveness: 90
+body_checking: 89
+durability: 84
+fighting_skill: 80
+strength: 90
