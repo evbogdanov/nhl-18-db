@@ -1,0 +1,65 @@
+nhlcom_id: 8470604
+
+country_abbrev: can
+team_abbrev: lak
+
+first_name: Jeff
+last_name: Carter
+number: 77
+born: 1985-01-01
+
+potential: 8
+
+salary: 5.275
+years_left: 5
+
+height: 191
+weight: 98
+position: c
+type: sniper
+shoots: right
+
+draft_team_abbrev: phi
+draft_year: 2003
+draft_round: 1
+draft_overall: 11
+
+overall: 87
+
+puck_skills: 9
+senses: 9
+shooting: 9
+defense: 8
+skating: 9
+physical: 9
+
+deking: 89
+hand_eye: 89
+passing: 89
+puck_control: 89
+
+discipline: 80
+offensive_awareness: 89
+poise: 85
+
+slap_shot_accuracy: 89
+slap_shot_power: 92
+wrist_shot_accuracy: 89
+wrist_shot_power: 90
+
+defensive_awareness: 87
+faceoffs: 81
+shot_blocking: 80
+stick_checking: 87
+
+acceleration: 90
+agility: 89
+balance: 89
+endurance: 87
+speed: 90
+
+aggressiveness: 85
+body_checking: 85
+durability: 87
+fighting_skill: 75
+strength: 89

@@ -1,0 +1,65 @@
+nhlcom_id: 8477850
+
+country_abbrev: swe
+team_abbrev: lak
+
+first_name: Christian
+last_name: Folin
+number: 5
+born: 1991-02-09
+
+potential: 30
+
+salary: 0.85
+years_left: 1
+
+height: 191
+weight: 92
+position: d
+type: 2 way defender
+shoots: right
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 77
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 7
+skating: 7
+physical: 8
+
+deking: 78
+hand_eye: 78
+passing: 80
+puck_control: 80
+
+discipline: 83
+offensive_awareness: 80
+poise: 75
+
+slap_shot_accuracy: 75
+slap_shot_power: 87
+wrist_shot_accuracy: 75
+wrist_shot_power: 85
+
+defensive_awareness: 84
+faceoffs: 60
+shot_blocking: 85
+stick_checking: 82
+
+acceleration: 83
+agility: 83
+balance: 85
+endurance: 85
+speed: 84
+
+aggressiveness: 83
+body_checking: 84
+durability: 85
+fighting_skill: 75
+strength: 85

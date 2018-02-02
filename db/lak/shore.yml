@@ -1,0 +1,65 @@
+nhlcom_id: 8476406
+
+country_abbrev: usa
+team_abbrev: lak
+
+first_name: Nick
+last_name: Shore
+number: 21
+born: 1992-09-26
+
+potential: 19
+
+salary: 0.925
+years_left: 1
+
+height: 185
+weight: 91
+position: c
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: lak
+draft_year: 2011
+draft_round: 3
+draft_overall: 82
+
+overall: 78
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 8
+skating: 8
+physical: 8
+
+deking: 83
+hand_eye: 82
+passing: 82
+puck_control: 82
+
+discipline: 85
+offensive_awareness: 81
+poise: 75
+
+slap_shot_accuracy: 82
+slap_shot_power: 86
+wrist_shot_accuracy: 82
+wrist_shot_power: 85
+
+defensive_awareness: 85
+faceoffs: 78
+shot_blocking: 82
+stick_checking: 85
+
+acceleration: 85
+agility: 85
+balance: 85
+endurance: 83
+speed: 85
+
+aggressiveness: 84
+body_checking: 85
+durability: 85
+fighting_skill: 75
+strength: 85

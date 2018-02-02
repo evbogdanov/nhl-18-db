@@ -1,0 +1,65 @@
+nhlcom_id: 8475762
+
+country_abbrev: usa
+team_abbrev: lak
+
+first_name: Derek
+last_name: Forbort
+number: 24
+born: 1992-03-04
+
+potential: 14
+
+salary: 0.65
+years_left: 1
+
+height: 193
+weight: 98
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: lak
+draft_year: 2010
+draft_round: 1
+draft_overall: 15
+
+overall: 81
+
+puck_skills: 6
+senses: 7
+shooting: 7
+defense: 8
+skating: 8
+physical: 9
+
+deking: 75
+hand_eye: 75
+passing: 82
+puck_control: 82
+
+discipline: 75
+offensive_awareness: 82
+poise: 80
+
+slap_shot_accuracy: 75
+slap_shot_power: 85
+wrist_shot_accuracy: 77
+wrist_shot_power: 85
+
+defensive_awareness: 86
+faceoffs: 60
+shot_blocking: 87
+stick_checking: 87
+
+acceleration: 83
+agility: 82
+balance: 88
+endurance: 83
+speed: 83
+
+aggressiveness: 86
+body_checking: 88
+durability: 85
+fighting_skill: 80
+strength: 88

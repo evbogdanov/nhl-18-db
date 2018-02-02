@@ -1,0 +1,65 @@
+nhlcom_id: 8469638
+
+country_abbrev: fin
+team_abbrev: lak
+
+first_name: Jussi
+last_name: Jokinen
+number: 36
+born: 1983-04-01
+
+potential: 20
+
+salary: 1.1
+years_left: 1
+
+height: 180
+weight: 90
+position: lw
+type: playmaker
+shoots: left
+
+draft_team_abbrev: dal
+draft_year: 2001
+draft_round: 6
+draft_overall: 192
+
+overall: 79
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 7
+skating: 8
+physical: 7
+
+deking: 85
+hand_eye: 84
+passing: 85
+puck_control: 85
+
+discipline: 90
+offensive_awareness: 85
+poise: 75
+
+slap_shot_accuracy: 84
+slap_shot_power: 85
+wrist_shot_accuracy: 84
+wrist_shot_power: 84
+
+defensive_awareness: 84
+faceoffs: 60
+shot_blocking: 80
+stick_checking: 84
+
+acceleration: 86
+agility: 86
+balance: 84
+endurance: 85
+speed: 86
+
+aggressiveness: 77
+body_checking: 80
+durability: 87
+fighting_skill: 70
+strength: 83

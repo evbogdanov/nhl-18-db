@@ -1,0 +1,65 @@
+nhlcom_id: 8473453
+
+country_abbrev: usa
+team_abbrev: lak
+
+first_name: Trevor
+last_name: Lewis
+number: 22
+born: 1987-01-08
+
+potential: 20
+
+salary: 2.0
+years_left: 3
+
+height: 185
+weight: 91
+position: rw
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: lak
+draft_year: 2006
+draft_round: 1
+draft_overall: 17
+
+overall: 79
+
+puck_skills: 7
+senses: 7
+shooting: 7
+defense: 7
+skating: 9
+physical: 8
+
+deking: 82
+hand_eye: 82
+passing: 82
+puck_control: 82
+
+discipline: 83
+offensive_awareness: 81
+poise: 85
+
+slap_shot_accuracy: 81
+slap_shot_power: 85
+wrist_shot_accuracy: 82
+wrist_shot_power: 84
+
+defensive_awareness: 84
+faceoffs: 76
+shot_blocking: 84
+stick_checking: 84
+
+acceleration: 89
+agility: 88
+balance: 85
+endurance: 83
+speed: 90
+
+aggressiveness: 85
+body_checking: 85
+durability: 85
+fighting_skill: 70
+strength: 85

@@ -1,0 +1,65 @@
+nhlcom_id: 8475343
+
+country_abbrev: usa
+team_abbrev: lak
+
+first_name: Nic
+last_name: Dowd
+number: 17
+born: 1990-05-27
+
+potential: 28
+
+salary: 0.65
+years_left: 1
+
+height: 188
+weight: 89
+position: c
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: lak
+draft_year: 2009
+draft_round: 7
+draft_overall: 198
+
+overall: 77
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 8
+
+deking: 83
+hand_eye: 82
+passing: 82
+puck_control: 82
+
+discipline: 83
+offensive_awareness: 80
+poise: 75
+
+slap_shot_accuracy: 81
+slap_shot_power: 85
+wrist_shot_accuracy: 82
+wrist_shot_power: 85
+
+defensive_awareness: 82
+faceoffs: 75
+shot_blocking: 83
+stick_checking: 83
+
+acceleration: 86
+agility: 86
+balance: 85
+endurance: 83
+speed: 86
+
+aggressiveness: 83
+body_checking: 83
+durability: 85
+fighting_skill: 75
+strength: 85

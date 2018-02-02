@@ -55,6 +55,7 @@ COUNTRIES = [
     'gbr',
     'rus',
     'svk',
+    'svn',
     'swe',
     'usa',
     'lva',

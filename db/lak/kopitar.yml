@@ -1,0 +1,65 @@
+nhlcom_id: 8471685
+
+country_abbrev: svn
+team_abbrev: lak
+
+first_name: Anze
+last_name: Kopitar
+number: 11
+born: 1987-08-24
+
+potential: 8
+
+salary: 10.0
+years_left: 7
+
+height: 191
+weight: 101
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: lak
+draft_year: 2005
+draft_round: 1
+draft_overall: 11
+
+overall: 89
+
+puck_skills: 10
+senses: 10
+shooting: 9
+defense: 10
+skating: 9
+physical: 9
+
+deking: 90
+hand_eye: 90
+passing: 92
+puck_control: 92
+
+discipline: 90
+offensive_awareness: 93
+poise: 90
+
+slap_shot_accuracy: 87
+slap_shot_power: 92
+wrist_shot_accuracy: 88
+wrist_shot_power: 91
+
+defensive_awareness: 91
+faceoffs: 82
+shot_blocking: 85
+stick_checking: 90
+
+acceleration: 87
+agility: 87
+balance: 90
+endurance: 88
+speed: 87
+
+aggressiveness: 85
+body_checking: 87
+durability: 88
+fighting_skill: 70
+strength: 90

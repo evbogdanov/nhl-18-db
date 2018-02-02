@@ -1,0 +1,65 @@
+nhlcom_id: 8476871
+
+country_abbrev: can
+team_abbrev: lak
+
+first_name: Tanner
+last_name: Pearson
+number: 70
+born: 1992-08-10
+
+potential: 10
+
+salary: 3.75
+years_left: 4
+
+height: 185
+weight: 92
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: lak
+draft_year: 2012
+draft_round: 1
+draft_overall: 30
+
+overall: 82
+
+puck_skills: 8
+senses: 8
+shooting: 8
+defense: 8
+skating: 8
+physical: 7
+
+deking: 87
+hand_eye: 87
+passing: 86
+puck_control: 87
+
+discipline: 90
+offensive_awareness: 87
+poise: 80
+
+slap_shot_accuracy: 86
+slap_shot_power: 87
+wrist_shot_accuracy: 87
+wrist_shot_power: 86
+
+defensive_awareness: 85
+faceoffs: 65
+shot_blocking: 80
+stick_checking: 85
+
+acceleration: 87
+agility: 87
+balance: 85
+endurance: 85
+speed: 88
+
+aggressiveness: 82
+body_checking: 82
+durability: 85
+fighting_skill: 75
+strength: 85

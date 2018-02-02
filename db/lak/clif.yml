@@ -1,0 +1,65 @@
+nhlcom_id: 8475160
+
+country_abbrev: can
+team_abbrev: lak
+
+first_name: Kyle
+last_name: Clifford
+number: 13
+born: 1991-01-13
+
+potential: 26
+
+salary: 1.6
+years_left: 3
+
+height: 188
+weight: 96
+position: rw
+type: grinder
+shoots: left
+
+draft_team_abbrev: lak
+draft_year: 2009
+draft_round: 2
+draft_overall: 35
+
+overall: 76
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 7
+skating: 7
+physical: 9
+
+deking: 80
+hand_eye: 80
+passing: 80
+puck_control: 80
+
+discipline: 65
+offensive_awareness: 78
+poise: 80
+
+slap_shot_accuracy: 80
+slap_shot_power: 86
+wrist_shot_accuracy: 81
+wrist_shot_power: 86
+
+defensive_awareness: 80
+faceoffs: 65
+shot_blocking: 83
+stick_checking: 85
+
+acceleration: 82
+agility: 83
+balance: 88
+endurance: 82
+speed: 82
+
+aggressiveness: 92
+body_checking: 90
+durability: 84
+fighting_skill: 90
+strength: 90

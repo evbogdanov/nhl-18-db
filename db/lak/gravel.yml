@@ -1,0 +1,65 @@
+nhlcom_id: 8475857
+
+country_abbrev: usa
+team_abbrev: lak
+
+first_name: Kevin
+last_name: Gravel
+number: 53
+born: 1992-03-06
+
+potential: 21
+
+salary: 0.65
+years_left: 1
+
+height: 193
+weight: 96
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: lak
+draft_year: 2010
+draft_round: 5
+draft_overall: 148
+
+overall: 79
+
+puck_skills: 6
+senses: 5
+shooting: 7
+defense: 8
+skating: 7
+physical: 9
+
+deking: 73
+hand_eye: 72
+passing: 80
+puck_control: 78
+
+discipline: 75
+offensive_awareness: 78
+poise: 75
+
+slap_shot_accuracy: 70
+slap_shot_power: 87
+wrist_shot_accuracy: 73
+wrist_shot_power: 87
+
+defensive_awareness: 85
+faceoffs: 60
+shot_blocking: 87
+stick_checking: 87
+
+acceleration: 82
+agility: 82
+balance: 88
+endurance: 85
+speed: 82
+
+aggressiveness: 87
+body_checking: 88
+durability: 85
+fighting_skill: 80
+strength: 88

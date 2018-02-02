@@ -1,0 +1,65 @@
+nhlcom_id: 8477960
+
+country_abbrev: swe
+team_abbrev: lak
+
+first_name: Adrian
+last_name: Kempe
+number: 9
+born: 1996-09-13
+
+potential: 11
+
+salary: 0.925
+years_left: 1
+
+height: 185
+weight: 85
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: lak
+draft_year: 2014
+draft_round: 1
+draft_overall: 29
+
+overall: 80
+
+puck_skills: 7
+senses: 7
+shooting: 7
+defense: 7
+skating: 8
+physical: 8
+
+deking: 83
+hand_eye: 82
+passing: 83
+puck_control: 83
+
+discipline: 75
+offensive_awareness: 83
+poise: 80
+
+slap_shot_accuracy: 81
+slap_shot_power: 87
+wrist_shot_accuracy: 82
+wrist_shot_power: 86
+
+defensive_awareness: 83
+faceoffs: 70
+shot_blocking: 83
+stick_checking: 86
+
+acceleration: 86
+agility: 88
+balance: 86
+endurance: 82
+speed: 86
+
+aggressiveness: 85
+body_checking: 85
+durability: 85
+fighting_skill: 75
+strength: 86

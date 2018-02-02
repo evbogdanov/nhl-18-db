@@ -1,0 +1,65 @@
+nhlcom_id: 8475726
+
+country_abbrev: can
+team_abbrev: lak
+
+first_name: Tyler
+last_name: Toffoli
+number: 73
+born: 1992-04-24
+
+potential: 10
+
+salary: 4.6
+years_left: 3
+
+height: 183
+weight: 91
+position: rw
+type: sniper
+shoots: right
+
+draft_team_abbrev: lak
+draft_year: 2010
+draft_round: 2
+draft_overall: 47
+
+overall: 83
+
+puck_skills: 9
+senses: 9
+shooting: 9
+defense: 8
+skating: 8
+physical: 7
+
+deking: 90
+hand_eye: 90
+passing: 87
+puck_control: 88
+
+discipline: 90
+offensive_awareness: 88
+poise: 83
+
+slap_shot_accuracy: 87
+slap_shot_power: 87
+wrist_shot_accuracy: 88
+wrist_shot_power: 87
+
+defensive_awareness: 87
+faceoffs: 60
+shot_blocking: 78
+stick_checking: 86
+
+acceleration: 85
+agility: 89
+balance: 85
+endurance: 84
+speed: 85
+
+aggressiveness: 80
+body_checking: 80
+durability: 85
+fighting_skill: 65
+strength: 85

@@ -1,0 +1,65 @@
+nhlcom_id: 8476983
+
+country_abbrev: usa
+team_abbrev: lak
+
+first_name: Paul
+last_name: LaDue
+number: 38
+born: 1992-09-06
+
+potential: 23
+
+salary: 0.875
+years_left: 1
+
+height: 185
+weight: 89
+position: d
+type: 2 way defender
+shoots: right
+
+draft_team_abbrev: lak
+draft_year: 2012
+draft_round: 6
+draft_overall: 181
+
+overall: 77
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 7
+
+deking: 80
+hand_eye: 77
+passing: 83
+puck_control: 82
+
+discipline: 80
+offensive_awareness: 81
+poise: 75
+
+slap_shot_accuracy: 77
+slap_shot_power: 85
+wrist_shot_accuracy: 78
+wrist_shot_power: 85
+
+defensive_awareness: 83
+faceoffs: 60
+shot_blocking: 80
+stick_checking: 85
+
+acceleration: 85
+agility: 85
+balance: 85
+endurance: 85
+speed: 85
+
+aggressiveness: 84
+body_checking: 83
+durability: 85
+fighting_skill: 70
+strength: 85

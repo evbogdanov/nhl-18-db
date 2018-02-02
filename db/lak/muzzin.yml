@@ -1,0 +1,65 @@
+nhlcom_id: 8474162
+
+country_abbrev: can
+team_abbrev: lak
+
+first_name: Jake
+last_name: Muzzin
+number: 6
+born: 1989-02-21
+
+potential: 16
+
+salary: 4.0
+years_left: 3
+
+height: 191
+weight: 98
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: pit
+draft_year: 2007
+draft_round: 5
+draft_overall: 141
+
+overall: 85
+
+puck_skills: 8
+senses: 9
+shooting: 8
+defense: 9
+skating: 8
+physical: 8
+
+deking: 79
+hand_eye: 80
+passing: 88
+puck_control: 88
+
+discipline: 82
+offensive_awareness: 89
+poise: 85
+
+slap_shot_accuracy: 80
+slap_shot_power: 87
+wrist_shot_accuracy: 82
+wrist_shot_power: 88
+
+defensive_awareness: 88
+faceoffs: 55
+shot_blocking: 89
+stick_checking: 88
+
+acceleration: 86
+agility: 86
+balance: 87
+endurance: 86
+speed: 88
+
+aggressiveness: 86
+body_checking: 87
+durability: 85
+fighting_skill: 80
+strength: 87

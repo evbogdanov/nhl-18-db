@@ -1,0 +1,65 @@
+nhlcom_id: 8474166
+
+country_abbrev: usa
+team_abbrev: lak
+
+first_name: Alec
+last_name: Martinez
+number: 27
+born: 1987-07-26
+
+potential: 16
+
+salary: 4.0
+years_left: 4
+
+height: 185
+weight: 96
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: lak
+draft_year: 2007
+draft_round: 4
+draft_overall: 95
+
+overall: 84
+
+puck_skills: 8
+senses: 9
+shooting: 7
+defense: 9
+skating: 9
+physical: 8
+
+deking: 80
+hand_eye: 78
+passing: 88
+puck_control: 88
+
+discipline: 83
+offensive_awareness: 88
+poise: 85
+
+slap_shot_accuracy: 76
+slap_shot_power: 87
+wrist_shot_accuracy: 77
+wrist_shot_power: 87
+
+defensive_awareness: 87
+faceoffs: 55
+shot_blocking: 88
+stick_checking: 89
+
+acceleration: 87
+agility: 87
+balance: 87
+endurance: 88
+speed: 87
+
+aggressiveness: 85
+body_checking: 87
+durability: 85
+fighting_skill: 75
+strength: 87
