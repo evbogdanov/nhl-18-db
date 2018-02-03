@@ -1,0 +1,65 @@
+nhlcom_id: 8476465
+
+country_abbrev: can
+team_abbrev: min
+
+first_name: Ryan
+last_name: Murphy
+number: 6
+born: 1993-03-31
+
+potential: 22
+
+salary: 0.7
+years_left: 1
+
+height: 180
+weight: 84
+position: d
+type: offensive defenseman
+shoots: right
+
+draft_team_abbrev: car
+draft_year: 2011
+draft_round: 1
+draft_overall: 12
+
+overall: 76
+
+puck_skills: 7
+senses: 7
+shooting: 7
+defense: 7
+skating: 8
+physical: 7
+
+deking: 85
+hand_eye: 80
+passing: 82
+puck_control: 82
+
+discipline: 85
+offensive_awareness: 83
+poise: 75
+
+slap_shot_accuracy: 80
+slap_shot_power: 84
+wrist_shot_accuracy: 80
+wrist_shot_power: 83
+
+defensive_awareness: 82
+faceoffs: 50
+shot_blocking: 83
+stick_checking: 81
+
+acceleration: 87
+agility: 87
+balance: 83
+endurance: 83
+speed: 87
+
+aggressiveness: 77
+body_checking: 80
+durability: 82
+fighting_skill: 60
+strength: 83

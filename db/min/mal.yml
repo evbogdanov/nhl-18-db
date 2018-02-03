@@ -1,0 +1,65 @@
+nhlcom_id: 8467988
+
+country_abbrev: usa
+team_abbrev: min
+
+first_name: Ryan
+last_name: Malone
+number: 12
+born: 1979-12-01
+
+potential: 28
+
+salary: 0.65
+years_left: 1
+
+height: 193
+weight: 101
+position: lw
+type: power forward
+shoots: left
+
+draft_team_abbrev: pit
+draft_year: 1999
+draft_round: 4
+draft_overall: 115
+
+overall: 76
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 7
+skating: 7
+physical: 9
+
+deking: 80
+hand_eye: 81
+passing: 79
+puck_control: 79
+
+discipline: 70
+offensive_awareness: 80
+poise: 80
+
+slap_shot_accuracy: 81
+slap_shot_power: 87
+wrist_shot_accuracy: 80
+wrist_shot_power: 86
+
+defensive_awareness: 81
+faceoffs: 60
+shot_blocking: 80
+stick_checking: 86
+
+acceleration: 82
+agility: 82
+balance: 88
+endurance: 80
+speed: 82
+
+aggressiveness: 85
+body_checking: 88
+durability: 82
+fighting_skill: 84
+strength: 88

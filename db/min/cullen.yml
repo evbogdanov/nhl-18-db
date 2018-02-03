@@ -1,0 +1,65 @@
+nhlcom_id: 8464989
+
+country_abbrev: usa
+team_abbrev: min
+
+first_name: Matt
+last_name: Cullen
+number: 7
+born: 1976-11-02
+
+potential: 20
+
+salary: 1.0
+years_left: 1
+
+height: 185
+weight: 91
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: ana
+draft_year: 1996
+draft_round: 2
+draft_overall: 35
+
+overall: 78
+
+puck_skills: 7
+senses: 7
+shooting: 7
+defense: 8
+skating: 7
+physical: 7
+
+deking: 83
+hand_eye: 83
+passing: 83
+puck_control: 83
+
+discipline: 89
+offensive_awareness: 81
+poise: 85
+
+slap_shot_accuracy: 82
+slap_shot_power: 85
+wrist_shot_accuracy: 83
+wrist_shot_power: 85
+
+defensive_awareness: 84
+faceoffs: 85
+shot_blocking: 84
+stick_checking: 85
+
+acceleration: 83
+agility: 83
+balance: 84
+endurance: 80
+speed: 84
+
+aggressiveness: 82
+body_checking: 83
+durability: 84
+fighting_skill: 70
+strength: 84

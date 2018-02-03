@@ -1,0 +1,65 @@
+nhlcom_id: 8475220
+
+country_abbrev: usa
+team_abbrev: min
+
+first_name: Marcus
+last_name: Foligno
+number: 17
+born: 1991-08-10
+
+potential: 26
+
+salary: 2.875
+years_left: 4
+
+height: 191
+weight: 103
+position: lw
+type: power forward
+shoots: left
+
+draft_team_abbrev: buf
+draft_year: 2009
+draft_round: 4
+draft_overall: 104
+
+overall: 77
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 9
+
+deking: 81
+hand_eye: 82
+passing: 82
+puck_control: 82
+
+discipline: 70
+offensive_awareness: 79
+poise: 75
+
+slap_shot_accuracy: 82
+slap_shot_power: 86
+wrist_shot_accuracy: 82
+wrist_shot_power: 85
+
+defensive_awareness: 81
+faceoffs: 79
+shot_blocking: 83
+stick_checking: 85
+
+acceleration: 83
+agility: 83
+balance: 89
+endurance: 83
+speed: 83
+
+aggressiveness: 89
+body_checking: 88
+durability: 84
+fighting_skill: 83
+strength: 89

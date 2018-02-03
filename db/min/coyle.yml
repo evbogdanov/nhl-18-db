@@ -1,0 +1,65 @@
+nhlcom_id: 8475745
+
+country_abbrev: usa
+team_abbrev: min
+
+first_name: Charlie
+last_name: Coyle
+number: 3
+born: 1992-03-02
+
+potential: 11
+
+salary: 3.2
+years_left: 3
+
+height: 191
+weight: 100
+position: c
+type: power forward
+shoots: right
+
+draft_team_abbrev: sjs
+draft_year: 2010
+draft_round: 1
+draft_overall: 28
+
+overall: 84
+
+puck_skills: 8
+senses: 8
+shooting: 9
+defense: 8
+skating: 8
+physical: 9
+
+deking: 85
+hand_eye: 87
+passing: 87
+puck_control: 87
+
+discipline: 80
+offensive_awareness: 87
+poise: 80
+
+slap_shot_accuracy: 85
+slap_shot_power: 89
+wrist_shot_accuracy: 87
+wrist_shot_power: 88
+
+defensive_awareness: 85
+faceoffs: 76
+shot_blocking: 80
+stick_checking: 87
+
+acceleration: 86
+agility: 86
+balance: 90
+endurance: 84
+speed: 85
+
+aggressiveness: 86
+body_checking: 87
+durability: 85
+fighting_skill: 80
+strength: 90

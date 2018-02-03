@@ -1,0 +1,65 @@
+nhlcom_id: 8470724
+
+country_abbrev: can
+team_abbrev: min
+
+first_name: Kyle
+last_name: Quincey
+number: 27
+born: 1985-08-12
+
+potential: 24
+
+salary: 1.25
+years_left: 1
+
+height: 188
+weight: 98
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: det
+draft_year: 2003
+draft_round: 4
+draft_overall: 132
+
+overall: 79
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 8
+skating: 8
+physical: 8
+
+deking: 77
+hand_eye: 75
+passing: 82
+puck_control: 81
+
+discipline: 75
+offensive_awareness: 81
+poise: 80
+
+slap_shot_accuracy: 76
+slap_shot_power: 86
+wrist_shot_accuracy: 77
+wrist_shot_power: 85
+
+defensive_awareness: 85
+faceoffs: 55
+shot_blocking: 85
+stick_checking: 86
+
+acceleration: 83
+agility: 83
+balance: 87
+endurance: 85
+speed: 83
+
+aggressiveness: 84
+body_checking: 85
+durability: 80
+fighting_skill: 75
+strength: 87

@@ -1,0 +1,65 @@
+nhlcom_id: 8474589
+
+country_abbrev: can
+team_abbrev: min
+
+first_name: Tyler
+last_name: Ennis
+number: 63
+born: 1989-10-06
+
+potential: 20
+
+salary: 4.6
+years_left: 2
+
+height: 175
+weight: 79
+position: rw
+type: sniper
+shoots: left
+
+draft_team_abbrev: buf
+draft_year: 2008
+draft_round: 1
+draft_overall: 26
+
+overall: 78
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 7
+skating: 8
+physical: 5
+
+deking: 90
+hand_eye: 85
+passing: 84
+puck_control: 84
+
+discipline: 90
+offensive_awareness: 83
+poise: 80
+
+slap_shot_accuracy: 83
+slap_shot_power: 85
+wrist_shot_accuracy: 84
+wrist_shot_power: 85
+
+defensive_awareness: 83
+faceoffs: 60
+shot_blocking: 75
+stick_checking: 85
+
+acceleration: 89
+agility: 89
+balance: 79
+endurance: 83
+speed: 88
+
+aggressiveness: 71
+body_checking: 72
+durability: 85
+fighting_skill: 70
+strength: 77

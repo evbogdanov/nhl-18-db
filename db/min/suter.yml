@@ -1,0 +1,65 @@
+nhlcom_id: 8470600
+
+country_abbrev: usa
+team_abbrev: min
+
+first_name: Ryan
+last_name: Suter
+number: 20
+born: 1985-01-21
+
+potential: 8
+
+salary: 7.54
+years_left: 8
+
+height: 188
+weight: 93
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: nsh
+draft_year: 2003
+draft_round: 1
+draft_overall: 7
+
+overall: 89
+
+puck_skills: 9
+senses: 10
+shooting: 8
+defense: 10
+skating: 9
+physical: 8
+
+deking: 82
+hand_eye: 80
+passing: 90
+puck_control: 90
+
+discipline: 84
+offensive_awareness: 91
+poise: 88
+
+slap_shot_accuracy: 80
+slap_shot_power: 89
+wrist_shot_accuracy: 81
+wrist_shot_power: 88
+
+defensive_awareness: 93
+faceoffs: 55
+shot_blocking: 90
+stick_checking: 91
+
+acceleration: 88
+agility: 88
+balance: 88
+endurance: 90
+speed: 88
+
+aggressiveness: 85
+body_checking: 86
+durability: 88
+fighting_skill: 75
+strength: 88

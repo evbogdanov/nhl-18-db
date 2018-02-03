@@ -1,0 +1,65 @@
+nhlcom_id: 8474716
+
+country_abbrev: can
+team_abbrev: min
+
+first_name: Jared
+last_name: Spurgeon
+number: 46
+born: 1989-11-29
+
+potential: 16
+
+salary: 5.185
+years_left: 3
+
+height: 175
+weight: 74
+position: d
+type: 2 way defender
+shoots: right
+
+draft_team_abbrev: nyi
+draft_year: 2008
+draft_round: 6
+draft_overall: 156
+
+overall: 84
+
+puck_skills: 9
+senses: 9
+shooting: 8
+defense: 9
+skating: 9
+physical: 7
+
+deking: 90
+hand_eye: 81
+passing: 88
+puck_control: 88
+
+discipline: 95
+offensive_awareness: 88
+poise: 85
+
+slap_shot_accuracy: 81
+slap_shot_power: 87
+wrist_shot_accuracy: 82
+wrist_shot_power: 87
+
+defensive_awareness: 88
+faceoffs: 55
+shot_blocking: 86
+stick_checking: 90
+
+acceleration: 90
+agility: 90
+balance: 82
+endurance: 85
+speed: 90
+
+aggressiveness: 80
+body_checking: 80
+durability: 85
+fighting_skill: 70
+strength: 82

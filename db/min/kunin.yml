@@ -1,0 +1,65 @@
+nhlcom_id: 8479316
+
+country_abbrev: usa
+team_abbrev: min
+
+first_name: Luke
+last_name: Kunin
+number: 19
+born: 1997-12-04
+
+potential: 10
+
+salary: 0.925
+years_left: 3
+
+height: 183
+weight: 89
+position: c
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: min
+draft_year: 2016
+draft_round: 1
+draft_overall: 15
+
+overall: 76
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 7
+skating: 7
+physical: 7
+
+deking: 80
+hand_eye: 80
+passing: 80
+puck_control: 80
+
+discipline: 80
+offensive_awareness: 81
+poise: 77
+
+slap_shot_accuracy: 79
+slap_shot_power: 86
+wrist_shot_accuracy: 79
+wrist_shot_power: 86
+
+defensive_awareness: 82
+faceoffs: 75
+shot_blocking: 82
+stick_checking: 83
+
+acceleration: 83
+agility: 83
+balance: 83
+endurance: 83
+speed: 84
+
+aggressiveness: 83
+body_checking: 82
+durability: 85
+fighting_skill: 70
+strength: 83

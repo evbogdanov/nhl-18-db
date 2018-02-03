@@ -1,0 +1,65 @@
+nhlcom_id: 8473485
+
+country_abbrev: can
+team_abbrev: min
+
+first_name: Chris
+last_name: Stewart
+number: 10
+born: 1987-10-30
+
+potential: 20
+
+salary: 1.15
+years_left: 1
+
+height: 188
+weight: 108
+position: rw
+type: power forward
+shoots: right
+
+draft_team_abbrev: col
+draft_year: 2006
+draft_round: 1
+draft_overall: 18
+
+overall: 78
+
+puck_skills: 7
+senses: 6
+shooting: 8
+defense: 7
+skating: 8
+physical: 9
+
+deking: 82
+hand_eye: 82
+passing: 82
+puck_control: 82
+
+discipline: 75
+offensive_awareness: 79
+poise: 79
+
+slap_shot_accuracy: 83
+slap_shot_power: 87
+wrist_shot_accuracy: 84
+wrist_shot_power: 88
+
+defensive_awareness: 82
+faceoffs: 60
+shot_blocking: 80
+stick_checking: 84
+
+acceleration: 84
+agility: 84
+balance: 89
+endurance: 83
+speed: 84
+
+aggressiveness: 90
+body_checking: 88
+durability: 84
+fighting_skill: 85
+strength: 90

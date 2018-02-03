@@ -1,0 +1,65 @@
+nhlcom_id: 8469459
+
+country_abbrev: fin
+team_abbrev: min
+
+first_name: Mikko
+last_name: Koivu
+number: 9
+born: 1983-03-12
+
+potential: 12
+
+salary: 6.75
+years_left: 1
+
+height: 191
+weight: 97
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: min
+draft_year: 2001
+draft_round: 1
+draft_overall: 6
+
+overall: 84
+
+puck_skills: 9
+senses: 8
+shooting: 8
+defense: 9
+skating: 8
+physical: 8
+
+deking: 88
+hand_eye: 87
+passing: 88
+puck_control: 88
+
+discipline: 82
+offensive_awareness: 87
+poise: 85
+
+slap_shot_accuracy: 85
+slap_shot_power: 87
+wrist_shot_accuracy: 85
+wrist_shot_power: 87
+
+defensive_awareness: 88
+faceoffs: 85
+shot_blocking: 85
+stick_checking: 88
+
+acceleration: 86
+agility: 86
+balance: 89
+endurance: 85
+speed: 86
+
+aggressiveness: 84
+body_checking: 85
+durability: 85
+fighting_skill: 75
+strength: 89

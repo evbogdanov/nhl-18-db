@@ -1,0 +1,65 @@
+nhlcom_id: 8476463
+
+country_abbrev: swe
+team_abbrev: min
+
+first_name: Jonas
+last_name: Brodin
+number: 25
+born: 1993-07-12
+
+potential: 6
+
+salary: 4.17
+years_left: 4
+
+height: 185
+weight: 87
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: min
+draft_year: 2011
+draft_round: 1
+draft_overall: 10
+
+overall: 83
+
+puck_skills: 8
+senses: 8
+shooting: 7
+defense: 9
+skating: 9
+physical: 8
+
+deking: 82
+hand_eye: 79
+passing: 87
+puck_control: 87
+
+discipline: 95
+offensive_awareness: 88
+poise: 80
+
+slap_shot_accuracy: 77
+slap_shot_power: 87
+wrist_shot_accuracy: 79
+wrist_shot_power: 86
+
+defensive_awareness: 88
+faceoffs: 60
+shot_blocking: 86
+stick_checking: 86
+
+acceleration: 88
+agility: 87
+balance: 86
+endurance: 87
+speed: 88
+
+aggressiveness: 83
+body_checking: 83
+durability: 85
+fighting_skill: 70
+strength: 86

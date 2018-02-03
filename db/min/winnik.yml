@@ -1,0 +1,65 @@
+nhlcom_id: 8471476
+
+country_abbrev: can
+team_abbrev: min
+
+first_name: Daniel
+last_name: Winnik
+number: 26
+born: 1985-03-06
+
+potential: 20
+
+salary: 0.66
+years_left: 1
+
+height: 188
+weight: 93
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: phx
+draft_year: 2004
+draft_round: 9
+draft_overall: 265
+
+overall: 79
+
+puck_skills: 7
+senses: 6
+shooting: 8
+defense: 8
+skating: 8
+physical: 8
+
+deking: 83
+hand_eye: 83
+passing: 83
+puck_control: 83
+
+discipline: 88
+offensive_awareness: 81
+poise: 80
+
+slap_shot_accuracy: 83
+slap_shot_power: 86
+wrist_shot_accuracy: 83
+wrist_shot_power: 86
+
+defensive_awareness: 84
+faceoffs: 60
+shot_blocking: 87
+stick_checking: 87
+
+acceleration: 85
+agility: 85
+balance: 87
+endurance: 83
+speed: 85
+
+aggressiveness: 84
+body_checking: 85
+durability: 84
+fighting_skill: 70
+strength: 87
