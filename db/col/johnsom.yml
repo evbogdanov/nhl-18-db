@@ -47,7 +47,7 @@ slap_shot_power: 89
 wrist_shot_accuracy: 80
 wrist_shot_power: 88
 
-defensive_awareness:88 
+defensive_awareness: 88
 faceoffs: 55
 shot_blocking: 87
 stick_checking: 87
