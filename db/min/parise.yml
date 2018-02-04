@@ -8,7 +8,8 @@ last_name: Parise
 number: 11
 born: 1984-07-28
 
-potential: 
+# FIXME
+potential: 1
 
 salary: 7.54
 years_left: 8
