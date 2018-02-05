@@ -11,84 +11,25 @@ import yaml
 ################################################################################
 
 DB_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '../db/'))
-
-TEAMS = [
-    'ana',
-    'ari',
-    'bos',
-    'buf',
-    'car',
-    'cbj',
-    'cgy',
-    'chi',
-    'col',
-    'dal',
-    'det',
-    'edm',
-    'fla',
-    'lak',
-    'min',
-    'mtl',
-    'njd',
-    'nsh',
-    'nyi',
-    'nyr',
-    'ott',
-    'phi',
-    'pit',
-    'sjs',
-    'stl',
-    'tbl',
-    'tor',
-    'van',
-    'vgk',
-    'wpg',
-    'wsh',
-
-    # Inactive
-    'phx',
-    'atl',
-]
-
-COUNTRIES = [
-    'can',
-    'cze',
-    'deu',
-    'fin',
-    'gbr',
-    'rus',
-    'svk',
-    'svn',
-    'swe',
-    'usa',
-    'lva',
-    'kaz',
-    'nor',
-    'che',
-    'dnk',
-    'fra',
-]
-
+PLAYERS_DIR = os.path.join(DB_DIR, 'players')
 POTENTIAL_HIGH_FRANCHISE = 1
 POTENTIAL_EXACT_AHL = 36
 
-POSITIONS = [
-    'c',
-    'd',
-    'lw',
-    'rw',
-]
 
-TYPES = [
-    '2 way defender',
-    '2 way forward',
-    'defensive defenseman',
-    'grinder',
-    'offensive defenseman',
-    'playmaker',
-    'power forward',
-    'sniper',
-]
+################################################################################
+### Data
+################################################################################
+
+def load_from_file(file_name):
+    field_name = file_name.split('.')[0]
+    file = open(os.path.join(DB_DIR, file_name))
+    data = yaml.load(file)
+    return data[field_name]
+
+TEAMS = load_from_file('teams.yml')
+COUNTRIES = load_from_file('countries.yml')
+POSITIONS = load_from_file('positions.yml')
+TYPES = load_from_file('types.yml')
 
 
 ################################################################################
@@ -259,7 +200,7 @@ def validate_team(team_abbrev):
         print(f"WARNING: unknown team: '{team_abbrev}'")
         return
 
-    team_dir = os.path.join(DB_DIR, team_abbrev)
+    team_dir = os.path.join(PLAYERS_DIR, team_abbrev)
     for p in os.listdir(team_dir):
         player_file = os.path.join(team_dir, p)
         validate_player(player_file)
@@ -273,7 +214,7 @@ def main():
     team_abbrev = None
     if len(sys.argv) == 2:
         team_abbrev = sys.argv[1]
-    for d in os.listdir(DB_DIR):
+    for d in os.listdir(PLAYERS_DIR):
         if team_abbrev is None:
             validate_team(d)
         elif team_abbrev == d:
