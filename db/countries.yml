@@ -1,17 +1,17 @@
 countries:
-    - can
-    - che
-    - cze
-    - deu
-    - dnk
-    - fin
-    - fra
-    - gbr
-    - kaz
-    - lva
-    - nor
-    - rus
-    - svk
-    - svn
-    - swe
-    - usa
+    can: Canada
+    che: Switzerland
+    cze: Czech Republic
+    deu: Germany
+    dnk: Denmark
+    fin: Finland
+    fra: France
+    gbr: United Kingdom
+    kaz: Kazakhstan
+    lva: Latvia
+    nor: Norway
+    rus: Russia
+    svk: Slovakia
+    svn: Slovenia
+    swe: Sweden
+    usa: USA

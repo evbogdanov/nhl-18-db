@@ -1,4 +1,8 @@
 from django.db import models
+from nhl_18_db.settings import BASE_DIR
+import os
+import yaml
+
 
 class Country(models.Model):
     class Meta:
@@ -9,3 +13,15 @@ class Country(models.Model):
 
     def __str__(self):
         return self.abbrev
+
+    @classmethod
+    def create_all(cls):
+        file = open(os.path.join(BASE_DIR, 'db', 'countries.yml'))
+        data = yaml.load(file)['countries'].items()
+        for abbrev, name in data:
+            country = cls(abbrev=abbrev, name=name)
+            country.save()
+
+    @classmethod
+    def delete_all(cls):
+        cls.objects.all().delete()

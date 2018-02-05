@@ -26,8 +26,9 @@ def load_from_file(file_name):
     data = yaml.load(file)
     return data[field_name]
 
+COUNTRIES = load_from_file('countries.yml').keys()
+
 TEAMS = load_from_file('teams.yml')
-COUNTRIES = load_from_file('countries.yml')
 POSITIONS = load_from_file('positions.yml')
 TYPES = load_from_file('types.yml')
 
