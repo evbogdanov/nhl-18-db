@@ -1,0 +1,65 @@
+nhlcom_id: 8469466
+
+country_abbrev: cze
+team_abbrev: mtl
+
+first_name: Ales
+last_name: Hemsky
+number: 83
+born: 1983-08-13
+
+potential: 20
+
+salary: 1.0
+years_left: 1
+
+height: 183
+weight: 84
+position: rw
+type: playmaker
+shoots: right
+
+draft_team_abbrev: edm
+draft_year: 2001
+draft_round: 1
+draft_overall: 13
+
+overall: 78
+
+puck_skills: 8
+senses: 7
+shooting: 7
+defense: 7
+skating: 8
+physical: 6
+
+deking: 87
+hand_eye: 85
+passing: 85
+puck_control: 85
+
+discipline: 84
+offensive_awareness: 83
+poise: 85
+
+slap_shot_accuracy: 82
+slap_shot_power: 85
+wrist_shot_accuracy: 83
+wrist_shot_power: 84
+
+defensive_awareness: 82
+faceoffs: 60
+shot_blocking: 75
+stick_checking: 85
+
+acceleration: 87
+agility: 87
+balance: 83
+endurance: 80
+speed: 87
+
+aggressiveness: 77
+body_checking: 74
+durability: 60
+fighting_skill: 70
+strength: 83

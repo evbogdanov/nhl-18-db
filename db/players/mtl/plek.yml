@@ -1,0 +1,65 @@
+nhlcom_id: 8469521
+
+country_abbrev: cze
+team_abbrev: mtl
+
+first_name: Tomas
+last_name: Plekanec
+number: 14
+born: 1982-10-31
+
+potential: 12
+
+salary: 6.0
+years_left: 1
+
+height: 180
+weight: 89
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: mtl
+draft_year: 2001
+draft_round: 3
+draft_overall: 71
+
+overall: 81
+
+puck_skills: 8
+senses: 8
+shooting: 8
+defense: 8
+skating: 8
+physical: 7
+
+deking: 84
+hand_eye: 84
+passing: 85
+puck_control: 85
+
+discipline: 84
+offensive_awareness: 85
+poise: 85
+
+slap_shot_accuracy: 84
+slap_shot_power: 86
+wrist_shot_accuracy: 85
+wrist_shot_power: 85
+
+defensive_awareness: 87
+faceoffs: 81
+shot_blocking: 83
+stick_checking: 87
+
+acceleration: 85
+agility: 85
+balance: 85
+endurance: 85
+speed: 85
+
+aggressiveness: 82
+body_checking: 82
+durability: 80
+fighting_skill: 70
+strength: 85

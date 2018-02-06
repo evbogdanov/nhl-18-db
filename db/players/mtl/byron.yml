@@ -1,0 +1,65 @@
+nhlcom_id: 8474038
+
+country_abbrev: can
+team_abbrev: mtl
+
+first_name: Paul
+last_name: Byron
+number: 41
+born: 1989-04-27
+
+potential: 20
+
+salary: 1.165
+years_left: 2
+
+height: 175
+weight: 72
+position: lw
+type: sniper
+shoots: left
+
+draft_team_abbrev: buf
+draft_year: 2007
+draft_round: 6
+draft_overall: 179
+
+overall: 79
+
+puck_skills: 8
+senses: 8
+shooting: 8
+defense: 7
+skating: 8
+physical: 6
+
+deking: 86
+hand_eye: 84
+passing: 85
+puck_control: 85
+
+discipline: 84
+offensive_awareness: 85
+poise: 80
+
+slap_shot_accuracy: 84
+slap_shot_power: 85
+wrist_shot_accuracy: 84
+wrist_shot_power: 84
+
+defensive_awareness: 84
+faceoffs: 67
+shot_blocking: 82
+stick_checking: 84
+
+acceleration: 87
+agility: 87
+balance: 80
+endurance: 83
+speed: 87
+
+aggressiveness: 80
+body_checking: 80
+durability: 84
+fighting_skill: 65
+strength: 80

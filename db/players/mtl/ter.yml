@@ -1,0 +1,65 @@
+nhlcom_id: 8474052
+
+country_abbrev: can
+team_abbrev: mtl
+
+first_name: Chris
+last_name: Terry
+number: 15
+born: 1989-04-07
+
+potential: 28
+
+salary: 0.65
+years_left: 1
+
+height: 178
+weight: 88
+position: rw
+type: sniper
+shoots: left
+
+draft_team_abbrev: car
+draft_year: 2007
+draft_round: 5
+draft_overall: 132
+
+overall: 76
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 6
+skating: 8
+physical: 7
+
+deking: 83
+hand_eye: 83
+passing: 82
+puck_control: 83
+
+discipline: 90
+offensive_awareness: 81
+poise: 75
+
+slap_shot_accuracy: 82
+slap_shot_power: 86
+wrist_shot_accuracy: 83
+wrist_shot_power: 85
+
+defensive_awareness: 80
+faceoffs: 60
+shot_blocking: 75
+stick_checking: 82
+
+acceleration: 85
+agility: 85
+balance: 84
+endurance: 82
+speed: 85
+
+aggressiveness: 81
+body_checking: 81
+durability: 84
+fighting_skill: 65
+strength: 84

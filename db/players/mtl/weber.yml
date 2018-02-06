@@ -1,0 +1,65 @@
+nhlcom_id: 8470642
+
+country_abbrev: can
+team_abbrev: mtl
+
+first_name: Shea
+last_name: Weber
+number: 6
+born: 1985-08-14
+
+potential: 8
+
+salary: 7.855
+years_left: 9
+
+height: 193
+weight: 105
+position: d
+type: 2 way defender
+shoots: right
+
+draft_team_abbrev: nsh
+draft_year: 2003
+draft_round: 2
+draft_overall: 49
+
+overall: 89
+
+puck_skills: 8
+senses: 9
+shooting: 9
+defense: 10
+skating: 8
+physical: 10
+
+deking: 76
+hand_eye: 76
+passing: 86
+puck_control: 85
+
+discipline: 80
+offensive_awareness: 89
+poise: 85
+
+slap_shot_accuracy: 81
+slap_shot_power: 95
+wrist_shot_accuracy: 83
+wrist_shot_power: 90
+
+defensive_awareness: 92
+faceoffs: 55
+shot_blocking: 90
+stick_checking: 90
+
+acceleration: 85
+agility: 85
+balance: 92
+endurance: 90
+speed: 85
+
+aggressiveness: 88
+body_checking: 92
+durability: 85
+fighting_skill: 85
+strength: 93

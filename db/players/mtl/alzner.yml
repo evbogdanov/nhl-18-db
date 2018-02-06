@@ -1,0 +1,65 @@
+nhlcom_id: 8473991
+
+country_abbrev: can
+team_abbrev: mtl
+
+first_name: Karl
+last_name: Alzner
+number: 22
+born: 1988-09-24
+
+potential: 16
+
+salary: 4.625
+years_left: 5
+
+height: 191
+weight: 99
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: wsh
+draft_year: 2007
+draft_round: 1
+draft_overall: 5
+
+overall: 83
+
+puck_skills: 7
+senses: 7
+shooting: 7
+defense: 9
+skating: 8
+physical: 8
+
+deking: 79
+hand_eye: 77
+passing: 84
+puck_control: 82
+
+discipline: 90
+offensive_awareness: 83
+poise: 85
+
+slap_shot_accuracy: 76
+slap_shot_power: 88
+wrist_shot_accuracy: 77
+wrist_shot_power: 87
+
+defensive_awareness: 88
+faceoffs: 65
+shot_blocking: 88
+stick_checking: 89
+
+acceleration: 85
+agility: 85
+balance: 87
+endurance: 87
+speed: 85
+
+aggressiveness: 85
+body_checking: 84
+durability: 90
+fighting_skill: 75
+strength: 88

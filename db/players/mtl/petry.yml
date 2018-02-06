@@ -1,0 +1,65 @@
+nhlcom_id: 8473507
+
+country_abbrev: usa
+team_abbrev: mtl
+
+first_name: Jeff
+last_name: Petry
+number: 26
+born: 1987-12-09
+
+potential: 16
+
+salary: 5.5
+years_left: 4
+
+height: 191
+weight: 92
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: edm
+draft_year: 2006
+draft_round: 2
+draft_overall: 45
+
+overall: 82
+
+puck_skills: 7
+senses: 7
+shooting: 7
+defense: 8
+skating: 8
+physical: 8
+
+deking: 77
+hand_eye: 75
+passing: 85
+puck_control: 84
+
+discipline: 85
+offensive_awareness: 84
+poise: 80
+
+slap_shot_accuracy: 75
+slap_shot_power: 87
+wrist_shot_accuracy: 77
+wrist_shot_power: 87
+
+defensive_awareness: 87
+faceoffs: 55
+shot_blocking: 87
+stick_checking: 88
+
+acceleration: 86
+agility: 85
+balance: 87
+endurance: 85
+speed: 86
+
+aggressiveness: 85
+body_checking: 86
+durability: 87
+fighting_skill: 77
+strength: 86

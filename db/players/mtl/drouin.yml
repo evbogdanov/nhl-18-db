@@ -1,0 +1,65 @@
+nhlcom_id: 8477494
+
+country_abbrev: can
+team_abbrev: mtl
+
+first_name: Jonathan
+last_name: Drouin
+number: 92
+born: 1995-03-28
+
+potential: 6
+
+salary: 5.5
+years_left: 6
+
+height: 180
+weight: 85
+position: c
+type: sniper
+shoots: left
+
+draft_team_abbrev: tbl
+draft_year: 2013
+draft_round: 1
+draft_overall: 3
+
+overall: 84
+
+puck_skills: 9
+senses: 9
+shooting: 9
+defense: 7
+skating: 9
+physical: 6
+
+deking: 93
+hand_eye: 91
+passing: 88
+puck_control: 89
+
+discipline: 90
+offensive_awareness: 89
+poise: 80
+
+slap_shot_accuracy: 88
+slap_shot_power: 88
+wrist_shot_accuracy: 88
+wrist_shot_power: 87
+
+defensive_awareness: 84
+faceoffs: 72
+shot_blocking: 72
+stick_checking: 84
+
+acceleration: 92
+agility: 92
+balance: 82
+endurance: 84
+speed: 91
+
+aggressiveness: 79
+body_checking: 77
+durability: 85
+fighting_skill: 68
+strength: 82

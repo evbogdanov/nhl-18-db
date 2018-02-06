@@ -1,0 +1,65 @@
+nhlcom_id: 8476948
+
+country_abbrev: can
+team_abbrev: mtl
+
+first_name: Charles
+last_name: Hudon
+number: 54
+born: 1994-06-23
+
+potential: 11
+
+salary: 0.65
+years_left: 2
+
+height: 178
+weight: 88
+position: c
+type: sniper
+shoots: left
+
+draft_team_abbrev: mtl
+draft_year: 2012
+draft_round: 5
+draft_overall: 122
+
+overall: 77
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 6
+
+deking: 85
+hand_eye: 83
+passing: 83
+puck_control: 82
+
+discipline: 82
+offensive_awareness: 80
+poise: 72
+
+slap_shot_accuracy: 81
+slap_shot_power: 85
+wrist_shot_accuracy: 83
+wrist_shot_power: 84
+
+defensive_awareness: 83
+faceoffs: 75
+shot_blocking: 83
+stick_checking: 84
+
+acceleration: 87
+agility: 87
+balance: 82
+endurance: 84
+speed: 86
+
+aggressiveness: 84
+body_checking: 79
+durability: 87
+fighting_skill: 69
+strength: 81

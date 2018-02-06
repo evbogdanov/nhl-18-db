@@ -1,0 +1,65 @@
+nhlcom_id: 8479376
+
+country_abbrev: can
+team_abbrev: mtl
+
+first_name: Victor
+last_name: Mete
+number: 53
+born: 1998-06-07
+
+potential: 23
+
+salary: 0.75
+years_left: 3
+
+height: 178
+weight: 82
+position: d
+type: offensive defenseman
+shoots: left
+
+draft_team_abbrev: mtl
+draft_year: 2016
+draft_round: 4
+draft_overall: 100
+
+overall: 78
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 8
+skating: 7
+physical: 6
+
+deking: 82
+hand_eye: 82
+passing: 82
+puck_control: 82
+
+discipline: 82
+offensive_awareness: 80
+poise: 83
+
+slap_shot_accuracy: 78
+slap_shot_power: 85
+wrist_shot_accuracy: 78
+wrist_shot_power: 85
+
+defensive_awareness: 84
+faceoffs: 50
+shot_blocking: 85
+stick_checking: 86
+
+acceleration: 84
+agility: 85
+balance: 83
+endurance: 81
+speed: 84
+
+aggressiveness: 75
+body_checking: 80
+durability: 85
+fighting_skill: 60
+strength: 79

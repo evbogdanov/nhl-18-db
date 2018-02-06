@@ -107,6 +107,8 @@ def validate_draft(p):
             raise Exception('Unknown draft team')
         if not isinstance(p['draft_year'], int):
             raise Exception('Bad draft year')
+        if not (1970 < p['draft_year'] < 2018):
+            raise Exception('Suspicious draft year')
         if not isinstance(p['draft_round'], int):
             raise Exception('Bad draft round')
         if not isinstance(p['draft_overall'], int):

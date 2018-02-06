@@ -1,0 +1,65 @@
+nhlcom_id: 8475848
+
+country_abbrev: can
+team_abbrev: mtl
+
+first_name: Brendan
+last_name: Gallagher
+number: 11
+born: 1992-05-06
+
+potential: 10
+
+salary: 3.75
+years_left: 4
+
+height: 175
+weight: 82
+position: rw
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: mtl
+draft_year: 2010
+draft_round: 5
+draft_overall: 147
+
+overall: 82
+
+puck_skills: 8
+senses: 8
+shooting: 8
+defense: 8
+skating: 8
+physical: 8
+
+deking: 87
+hand_eye: 86
+passing: 85
+puck_control: 87
+
+discipline: 84
+offensive_awareness: 87
+poise: 85
+
+slap_shot_accuracy: 87
+slap_shot_power: 86
+wrist_shot_accuracy: 87
+wrist_shot_power: 85
+
+defensive_awareness: 85
+faceoffs: 70
+shot_blocking: 84
+stick_checking: 87
+
+acceleration: 85
+agility: 87
+balance: 86
+endurance: 85
+speed: 84
+
+aggressiveness: 89
+body_checking: 87
+durability: 85
+fighting_skill: 75
+strength: 85

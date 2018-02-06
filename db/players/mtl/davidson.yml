@@ -1,0 +1,65 @@
+nhlcom_id: 8475869
+
+country_abbrev: can
+team_abbrev: mtl
+
+first_name: Brandon
+last_name: Davidson
+number: 88
+born: 1991-08-21
+
+potential: 22
+
+salary: 1.425
+years_left: 1
+
+height: 188
+weight: 95
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: edm
+draft_year: 2010
+draft_round: 6
+draft_overall: 162
+
+overall: 78
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 7
+skating: 7
+physical: 8
+
+deking: 76
+hand_eye: 75
+passing: 80
+puck_control: 80
+
+discipline: 83
+offensive_awareness: 80
+poise: 80
+
+slap_shot_accuracy: 76
+slap_shot_power: 85
+wrist_shot_accuracy: 76
+wrist_shot_power: 85
+
+defensive_awareness: 84
+faceoffs: 60
+shot_blocking: 85
+stick_checking: 84
+
+acceleration: 84
+agility: 83
+balance: 85
+endurance: 82
+speed: 84
+
+aggressiveness: 83
+body_checking: 84
+durability: 84
+fighting_skill: 65
+strength: 85

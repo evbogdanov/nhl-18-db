@@ -1,0 +1,65 @@
+nhlcom_id: 8477446
+
+country_abbrev: usa
+team_abbrev: mtl
+
+first_name: Michael
+last_name: McCarron
+number: 34
+born: 1995-03-07
+
+potential: 18
+
+salary: 0.865
+years_left: 1
+
+height: 198
+weight: 108
+position: rw
+type: power forward
+shoots: right
+
+draft_team_abbrev: mtl
+draft_year: 2013
+draft_round: 1
+draft_overall: 25
+
+overall: 75
+
+puck_skills: 6
+senses: 5
+shooting: 7
+defense: 6
+skating: 8
+physical: 9
+
+deking: 80
+hand_eye: 81
+passing: 81
+puck_control: 81
+
+discipline: 75
+offensive_awareness: 78
+poise: 75
+
+slap_shot_accuracy: 81
+slap_shot_power: 85
+wrist_shot_accuracy: 82
+wrist_shot_power: 85
+
+defensive_awareness: 78
+faceoffs: 73
+shot_blocking: 75
+stick_checking: 80
+
+acceleration: 83
+agility: 82
+balance: 90
+endurance: 80
+speed: 83
+
+aggressiveness: 89
+body_checking: 88
+durability: 85
+fighting_skill: 80
+strength: 89

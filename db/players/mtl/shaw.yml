@@ -1,0 +1,65 @@
+nhlcom_id: 8476381
+
+country_abbrev: can
+team_abbrev: mtl
+
+first_name: Andrew
+last_name: Shaw
+number: 65
+born: 1991-07-20
+
+potential: 17
+
+salary: 3.9
+years_left: 5
+
+height: 180
+weight: 81
+position: rw
+type: grinder
+shoots: right
+
+draft_team_abbrev: chi
+draft_year: 2011
+draft_round: 5
+draft_overall: 139
+
+overall: 79
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 7
+skating: 8
+physical: 8
+
+deking: 84
+hand_eye: 84
+passing: 84
+puck_control: 84
+
+discipline: 65
+offensive_awareness: 83
+poise: 80
+
+slap_shot_accuracy: 84
+slap_shot_power: 84
+wrist_shot_accuracy: 84
+wrist_shot_power: 84
+
+defensive_awareness: 84
+faceoffs: 75
+shot_blocking: 84
+stick_checking: 84
+
+acceleration: 85
+agility: 86
+balance: 84
+endurance: 82
+speed: 85
+
+aggressiveness: 90
+body_checking: 87
+durability: 84
+fighting_skill: 83
+strength: 84

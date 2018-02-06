@@ -1,0 +1,65 @@
+nhlcom_id: 8477476
+
+country_abbrev: fin
+team_abbrev: mtl
+
+first_name: Artturi
+last_name: Lehkonen
+number: 62
+born: 1995-07-04
+
+potential: 10
+
+salary: 0.84
+years_left: 2
+
+height: 183
+weight: 82
+position: lw
+type: sniper
+shoots: left
+
+draft_team_abbrev: mtl
+draft_year: 2013
+draft_round: 2
+draft_overall: 55
+
+overall: 78
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 6
+skating: 8
+physical: 5
+
+deking: 86
+hand_eye: 84
+passing: 85
+puck_control: 85
+
+discipline: 95
+offensive_awareness: 83
+poise: 80
+
+slap_shot_accuracy: 84
+slap_shot_power: 85
+wrist_shot_accuracy: 85
+wrist_shot_power: 84
+
+defensive_awareness: 81
+faceoffs: 65
+shot_blocking: 74
+stick_checking: 80
+
+acceleration: 88
+agility: 88
+balance: 80
+endurance: 82
+speed: 88
+
+aggressiveness: 75
+body_checking: 75
+durability: 85
+fighting_skill: 60
+strength: 79

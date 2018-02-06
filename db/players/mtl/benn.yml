@@ -1,0 +1,65 @@
+nhlcom_id: 8474818
+
+country_abbrev: can
+team_abbrev: mtl
+
+first_name: Jordie
+last_name: Benn
+number: 8
+born: 1987-07-26
+
+potential: 24
+
+salary: 1.1
+years_left: 2
+
+height: 188
+weight: 91
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 79
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 8
+skating: 8
+physical: 8
+
+deking: 75
+hand_eye: 75
+passing: 82
+puck_control: 81
+
+discipline: 83
+offensive_awareness: 81
+poise: 80
+
+slap_shot_accuracy: 74
+slap_shot_power: 86
+wrist_shot_accuracy: 77
+wrist_shot_power: 85
+
+defensive_awareness: 83
+faceoffs: 60
+shot_blocking: 88
+stick_checking: 87
+
+acceleration: 84
+agility: 84
+balance: 87
+endurance: 85
+speed: 84
+
+aggressiveness: 86
+body_checking: 87
+durability: 85
+fighting_skill: 77
+strength: 87

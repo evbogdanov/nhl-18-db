@@ -1,0 +1,65 @@
+nhlcom_id: 8475199
+
+country_abbrev: can
+team_abbrev: mtl
+
+first_name: Eric
+last_name: Gelinas
+number: 44
+born: 1991-05-08
+
+potential: 30
+
+salary: 0.65
+years_left: 1
+
+height: 193
+weight: 97
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: njd
+draft_year: 2009
+draft_round: 2
+draft_overall: 54
+
+overall: 77
+
+puck_skills: 7
+senses: 6
+shooting: 8
+defense: 7
+skating: 7
+physical: 8
+
+deking: 78
+hand_eye: 78
+passing: 82
+puck_control: 82
+
+discipline: 83
+offensive_awareness: 80
+poise: 80
+
+slap_shot_accuracy: 77
+slap_shot_power: 88
+wrist_shot_accuracy: 77
+wrist_shot_power: 87
+
+defensive_awareness: 81
+faceoffs: 60
+shot_blocking: 86
+stick_checking: 85
+
+acceleration: 81
+agility: 83
+balance: 88
+endurance: 85
+speed: 81
+
+aggressiveness: 85
+body_checking: 85
+durability: 83
+fighting_skill: 75
+strength: 88

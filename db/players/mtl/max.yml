@@ -1,0 +1,65 @@
+nhlcom_id: 8474157
+
+country_abbrev: usa
+team_abbrev: mtl
+
+first_name: Max
+last_name: Pacioretty
+number: 67
+born: 1988-11-20
+
+potential: 8
+
+salary: 4.5
+years_left: 2
+
+height: 188
+weight: 97
+position: lw
+type: sniper
+shoots: left
+
+draft_team_abbrev: mtl
+draft_year: 2007
+draft_round: 1
+draft_overall: 22
+
+overall: 87
+
+puck_skills: 9
+senses: 9
+shooting: 9
+defense: 8
+skating: 9
+physical: 8
+
+deking: 89
+hand_eye: 90
+passing: 89
+puck_control: 89
+
+discipline: 83
+offensive_awareness: 90
+poise: 85
+
+slap_shot_accuracy: 89
+slap_shot_power: 90
+wrist_shot_accuracy: 90
+wrist_shot_power: 90
+
+defensive_awareness: 87
+faceoffs: 60
+shot_blocking: 82
+stick_checking: 87
+
+acceleration: 89
+agility: 89
+balance: 88
+endurance: 87
+speed: 89
+
+aggressiveness: 85
+body_checking: 86
+durability: 85
+fighting_skill: 75
+strength: 88
