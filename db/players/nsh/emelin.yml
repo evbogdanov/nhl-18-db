@@ -1,0 +1,65 @@
+nhlcom_id: 8471296
+
+country_abbrev: rus
+team_abbrev: nsh
+
+first_name: Alexei
+last_name: Emelin
+number: 25
+born: 1986-04-25
+
+potential: 24
+
+salary: 4.1
+years_left: 1
+
+height: 188
+weight: 99
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: mtl
+draft_year: 2004
+draft_round: 3
+draft_overall: 84
+
+overall: 80
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 8
+skating: 8
+physical: 9
+
+deking: 70
+hand_eye: 70
+passing: 80
+puck_control: 80
+
+discipline: 65
+offensive_awareness: 80
+poise: 80
+
+slap_shot_accuracy: 73
+slap_shot_power: 86
+wrist_shot_accuracy: 75
+wrist_shot_power: 86
+
+defensive_awareness: 85
+faceoffs: 55
+shot_blocking: 87
+stick_checking: 88
+
+acceleration: 84
+agility: 84
+balance: 89
+endurance: 85
+speed: 84
+
+aggressiveness: 89
+body_checking: 92
+durability: 85
+fighting_skill: 80
+strength: 87

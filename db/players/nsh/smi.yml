@@ -1,0 +1,65 @@
+nhlcom_id: 8475225
+
+country_abbrev: usa
+team_abbrev: nsh
+
+first_name: Craig
+last_name: Smith
+number: 15
+born: 1989-09-05
+
+potential: 12
+
+salary: 4.25
+years_left: 3
+
+height: 185
+weight: 94
+position: rw
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: nsh
+draft_year: 2009
+draft_round: 4
+draft_overall: 98
+
+overall: 81
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 8
+skating: 8
+physical: 8
+
+deking: 85
+hand_eye: 85
+passing: 85
+puck_control: 85
+
+discipline: 83
+offensive_awareness: 84
+poise: 80
+
+slap_shot_accuracy: 85
+slap_shot_power: 87
+wrist_shot_accuracy: 85
+wrist_shot_power: 86
+
+defensive_awareness: 85
+faceoffs: 80
+shot_blocking: 83
+stick_checking: 86
+
+acceleration: 87
+agility: 87
+balance: 86
+endurance: 83
+speed: 87
+
+aggressiveness: 84
+body_checking: 85
+durability: 85
+fighting_skill: 75
+strength: 86

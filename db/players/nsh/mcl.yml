@@ -1,0 +1,65 @@
+nhlcom_id: 8471657
+
+country_abbrev: can
+team_abbrev: nsh
+
+first_name: Cody
+last_name: McLeod
+number: 55
+born: 1984-06-26
+
+potential: 28
+
+salary: 0.8
+years_left: 1
+
+height: 188
+weight: 95
+position: lw
+type: grinder
+shoots: left
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 75
+
+puck_skills: 6
+senses: 5
+shooting: 7
+defense: 6
+skating: 7
+physical: 9
+
+deking: 79
+hand_eye: 79
+passing: 79
+puck_control: 79
+
+discipline: 60
+offensive_awareness: 77
+poise: 80
+
+slap_shot_accuracy: 79
+slap_shot_power: 85
+wrist_shot_accuracy: 80
+wrist_shot_power: 85
+
+defensive_awareness: 80
+faceoffs: 60
+shot_blocking: 84
+stick_checking: 82
+
+acceleration: 83
+agility: 82
+balance: 88
+endurance: 82
+speed: 83
+
+aggressiveness: 91
+body_checking: 90
+durability: 85
+fighting_skill: 86
+strength: 88

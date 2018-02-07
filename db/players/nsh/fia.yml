@@ -1,0 +1,65 @@
+nhlcom_id: 8477942
+
+country_abbrev: che
+team_abbrev: nsh
+
+first_name: Kevin
+last_name: Fiala
+number: 22
+born: 1996-07-22
+
+potential: 10
+
+salary: 0.895
+years_left: 1
+
+height: 178
+weight: 87
+position: lw
+type: sniper
+shoots: left
+
+draft_team_abbrev: nsh
+draft_year: 2014
+draft_round: 1
+draft_overall: 11
+
+overall: 78
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 7
+skating: 8
+physical: 6
+
+deking: 87
+hand_eye: 84
+passing: 84
+puck_control: 84
+
+discipline: 84
+offensive_awareness: 83
+poise: 75
+
+slap_shot_accuracy: 83
+slap_shot_power: 85
+wrist_shot_accuracy: 84
+wrist_shot_power: 85
+
+defensive_awareness: 82
+faceoffs: 68
+shot_blocking: 74
+stick_checking: 84
+
+acceleration: 88
+agility: 88
+balance: 83
+endurance: 80
+speed: 87
+
+aggressiveness: 75
+body_checking: 75
+durability: 85
+fighting_skill: 65
+strength: 83

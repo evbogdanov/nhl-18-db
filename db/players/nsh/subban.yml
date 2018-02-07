@@ -1,0 +1,65 @@
+nhlcom_id: 8474056
+
+country_abbrev: can
+team_abbrev: nsh
+
+first_name: P.K.
+last_name: Subban
+number: 76
+born: 1989-05-13
+
+potential: 8
+
+salary: 9.0
+years_left: 5
+
+height: 183
+weight: 95
+position: d
+type: 2 way defender
+shoots: right
+
+draft_team_abbrev: mtl
+draft_year: 2007
+draft_round: 2
+draft_overall: 43
+
+overall: 87
+
+puck_skills: 9
+senses: 9
+shooting: 9
+defense: 9
+skating: 9
+physical: 9
+
+deking: 86
+hand_eye: 84
+passing: 90
+puck_control: 90
+
+discipline: 78
+offensive_awareness: 91
+poise: 85
+
+slap_shot_accuracy: 81
+slap_shot_power: 92
+wrist_shot_accuracy: 84
+wrist_shot_power: 91
+
+defensive_awareness: 89
+faceoffs: 55
+shot_blocking: 88
+stick_checking: 88
+
+acceleration: 87
+agility: 87
+balance: 89
+endurance: 90
+speed: 88
+
+aggressiveness: 90
+body_checking: 89
+durability: 87
+fighting_skill: 77
+strength: 89

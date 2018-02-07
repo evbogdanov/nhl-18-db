@@ -1,0 +1,65 @@
+nhlcom_id: 8475868
+
+country_abbrev: usa
+team_abbrev: nsh
+
+first_name: Anthony
+last_name: Bitetto
+number: 2
+born: 1990-07-15
+
+potential: 32
+
+salary: 0.65
+years_left: 1
+
+height: 185
+weight: 95
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: nsh
+draft_year: 2010
+draft_round: 6
+draft_overall: 168
+
+overall: 75
+
+puck_skills: 5
+senses: 5
+shooting: 7
+defense: 7
+skating: 7
+physical: 8
+
+deking: 70
+hand_eye: 70
+passing: 77
+puck_control: 77
+
+discipline: 80
+offensive_awareness: 77
+poise: 70
+
+slap_shot_accuracy: 74
+slap_shot_power: 88
+wrist_shot_accuracy: 75
+wrist_shot_power: 86
+
+defensive_awareness: 82
+faceoffs: 60
+shot_blocking: 84
+stick_checking: 84
+
+acceleration: 82
+agility: 82
+balance: 86
+endurance: 80
+speed: 82
+
+aggressiveness: 86
+body_checking: 86
+durability: 80
+fighting_skill: 75
+strength: 86

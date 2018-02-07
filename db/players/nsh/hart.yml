@@ -1,0 +1,65 @@
+nhlcom_id: 8468486
+
+country_abbrev: can
+team_abbrev: nsh
+
+first_name: Scott
+last_name: Hartnell
+number: 17
+born: 1982-04-18
+
+potential: 20
+
+salary: 1.0
+years_left: 1
+
+height: 188
+weight: 97
+position: lw
+type: power forward
+shoots: left
+
+draft_team_abbrev: nsh
+draft_year: 2000
+draft_round: 1
+draft_overall: 6
+
+overall: 80
+
+puck_skills: 7
+senses: 7
+shooting: 8
+defense: 8
+skating: 8
+physical: 9
+
+deking: 82
+hand_eye: 84
+passing: 84
+puck_control: 84
+
+discipline: 65
+offensive_awareness: 83
+poise: 85
+
+slap_shot_accuracy: 84
+slap_shot_power: 87
+wrist_shot_accuracy: 84
+wrist_shot_power: 86
+
+defensive_awareness: 84
+faceoffs: 65
+shot_blocking: 82
+stick_checking: 88
+
+acceleration: 83
+agility: 83
+balance: 88
+endurance: 85
+speed: 83
+
+aggressiveness: 89
+body_checking: 88
+durability: 85
+fighting_skill: 75
+strength: 88

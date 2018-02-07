@@ -1,0 +1,65 @@
+nhlcom_id: 8475714
+
+country_abbrev: swe
+team_abbrev: nsh
+
+first_name: Calle
+last_name: Jarnkrok
+number: 19
+born: 1991-09-25
+
+potential: 18
+
+salary: 2.0
+years_left: 5
+
+height: 180
+weight: 84
+position: rw
+type: playmaker
+shoots: right
+
+draft_team_abbrev: det
+draft_year: 2010
+draft_round: 2
+draft_overall: 51
+
+overall: 79
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 6
+skating: 8
+physical: 6
+
+deking: 88
+hand_eye: 85
+passing: 85
+puck_control: 85
+
+discipline: 88
+offensive_awareness: 83
+poise: 80
+
+slap_shot_accuracy: 84
+slap_shot_power: 86
+wrist_shot_accuracy: 85
+wrist_shot_power: 85
+
+defensive_awareness: 80
+faceoffs: 77
+shot_blocking: 75
+stick_checking: 85
+
+acceleration: 89
+agility: 89
+balance: 80
+endurance: 83
+speed: 89
+
+aggressiveness: 75
+body_checking: 75
+durability: 85
+fighting_skill: 65
+strength: 80

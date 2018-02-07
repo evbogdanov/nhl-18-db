@@ -1,0 +1,65 @@
+nhlcom_id: 8475766
+
+country_abbrev: usa
+team_abbrev: nsh
+
+first_name: Austin
+last_name: Watson
+number: 51
+born: 1992-01-13
+
+potential: 18
+
+salary: 1.1
+years_left: 3
+
+height: 193
+weight: 92
+position: rw
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: nsh
+draft_year: 2010
+draft_round: 1
+draft_overall: 18
+
+overall: 77
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 8
+
+deking: 82
+hand_eye: 82
+passing: 82
+puck_control: 82
+
+discipline: 75
+offensive_awareness: 80
+poise: 75
+
+slap_shot_accuracy: 81
+slap_shot_power: 85
+wrist_shot_accuracy: 82
+wrist_shot_power: 84
+
+defensive_awareness: 81
+faceoffs: 75
+shot_blocking: 82
+stick_checking: 84
+
+acceleration: 85
+agility: 85
+balance: 87
+endurance: 83
+speed: 85
+
+aggressiveness: 86
+body_checking: 87
+durability: 84
+fighting_skill: 75
+strength: 87

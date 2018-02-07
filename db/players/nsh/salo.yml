@@ -1,0 +1,65 @@
+nhlcom_id: 8476447
+
+country_abbrev: fin
+team_abbrev: nsh
+
+first_name: Miikka
+last_name: Salomaki
+number: 20
+born: 1993-03-09
+
+potential: 26
+
+salary: 0.65
+years_left: 1
+
+height: 180
+weight: 92
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: nsh
+draft_year: 2011
+draft_round: 2
+draft_overall: 52
+
+overall: 76
+
+puck_skills: 6
+senses: 5
+shooting: 7
+defense: 7
+skating: 8
+physical: 8
+
+deking: 80
+hand_eye: 80
+passing: 81
+puck_control: 81
+
+discipline: 77
+offensive_awareness: 78
+poise: 75
+
+slap_shot_accuracy: 79
+slap_shot_power: 86
+wrist_shot_accuracy: 81
+wrist_shot_power: 85
+
+defensive_awareness: 81
+faceoffs: 65
+shot_blocking: 82
+stick_checking: 86
+
+acceleration: 85
+agility: 85
+balance: 86
+endurance: 83
+speed: 85
+
+aggressiveness: 86
+body_checking: 86
+durability: 85
+fighting_skill: 75
+strength: 86

@@ -1,0 +1,65 @@
+nhlcom_id: 8474134
+
+country_abbrev: che
+team_abbrev: nsh
+
+first_name: Yannick
+last_name: Weber
+number: 7
+born: 1988-09-23
+
+potential: 32
+
+salary: 0.65
+years_left: 1
+
+height: 180
+weight: 91
+position: d
+type: offensive defenseman
+shoots: right
+
+draft_team_abbrev: mtl
+draft_year: 2007
+draft_round: 3
+draft_overall: 73
+
+overall: 76
+
+puck_skills: 7
+senses: 6
+shooting: 8
+defense: 7
+skating: 8
+physical: 6
+
+deking: 83
+hand_eye: 80
+passing: 82
+puck_control: 82
+
+discipline: 84
+offensive_awareness: 81
+poise: 75
+
+slap_shot_accuracy: 78
+slap_shot_power: 88
+wrist_shot_accuracy: 80
+wrist_shot_power: 88
+
+defensive_awareness: 82
+faceoffs: 55
+shot_blocking: 83
+stick_checking: 82
+
+acceleration: 87
+agility: 87
+balance: 82
+endurance: 83
+speed: 87
+
+aggressiveness: 77
+body_checking: 78
+durability: 84
+fighting_skill: 70
+strength: 83

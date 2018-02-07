@@ -1,0 +1,65 @@
+nhlcom_id: 8476925
+
+country_abbrev: can
+team_abbrev: nsh
+
+first_name: Colton
+last_name: Sissons
+number: 10
+born: 1993-11-05
+
+potential: 19
+
+salary: 0.65
+years_left: 2
+
+height: 185
+weight: 91
+position: c
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: nsh
+draft_year: 2012
+draft_round: 2
+draft_overall: 50
+
+overall: 76
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 8
+
+deking: 81
+hand_eye: 82
+passing: 81
+puck_control: 81
+
+discipline: 75
+offensive_awareness: 79
+poise: 75
+
+slap_shot_accuracy: 81
+slap_shot_power: 85
+wrist_shot_accuracy: 81
+wrist_shot_power: 85
+
+defensive_awareness: 81
+faceoffs: 75
+shot_blocking: 82
+stick_checking: 85
+
+acceleration: 85
+agility: 85
+balance: 85
+endurance: 83
+speed: 85
+
+aggressiveness: 84
+body_checking: 85
+durability: 80
+fighting_skill: 75
+strength: 85
