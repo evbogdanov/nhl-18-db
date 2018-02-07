@@ -1,0 +1,65 @@
+nhlcom_id: 8473933
+
+country_abbrev: usa
+team_abbrev: njd
+
+first_name: Ben
+last_name: Lovejoy
+number: 12
+born: 1984-02-20
+
+potential: 24
+
+salary: 2.665
+years_left: 2
+
+height: 185
+weight: 93
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 79
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 8
+skating: 7
+physical: 8
+
+deking: 75
+hand_eye: 72
+passing: 81
+puck_control: 81
+
+discipline: 81
+offensive_awareness: 80
+poise: 80
+
+slap_shot_accuracy: 76
+slap_shot_power: 85
+wrist_shot_accuracy: 75
+wrist_shot_power: 85
+
+defensive_awareness: 84
+faceoffs: 55
+shot_blocking: 87
+stick_checking: 87
+
+acceleration: 83
+agility: 82
+balance: 87
+endurance: 85
+speed: 83
+
+aggressiveness: 85
+body_checking: 86
+durability: 85
+fighting_skill: 80
+strength: 87

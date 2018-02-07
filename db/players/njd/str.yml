@@ -1,0 +1,65 @@
+nhlcom_id: 8473565
+
+country_abbrev: usa
+team_abbrev: njd
+
+first_name: Brian
+last_name: Strait
+number: 7
+born: 1988-01-04
+
+potential: 32
+
+salary: 0.65
+years_left: 1
+
+height: 185
+weight: 95
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: pit
+draft_year: 2006
+draft_round: 3
+draft_overall: 65
+
+overall: 76
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 7
+skating: 7
+physical: 8
+
+deking: 72
+hand_eye: 72
+passing: 80
+puck_control: 80
+
+discipline: 82
+offensive_awareness: 79
+poise: 75
+
+slap_shot_accuracy: 74
+slap_shot_power: 86
+wrist_shot_accuracy: 75
+wrist_shot_power: 85
+
+defensive_awareness: 82
+faceoffs: 60
+shot_blocking: 85
+stick_checking: 84
+
+acceleration: 83
+agility: 83
+balance: 85
+endurance: 82
+speed: 83
+
+aggressiveness: 84
+body_checking: 84
+durability: 84
+fighting_skill: 75
+strength: 85

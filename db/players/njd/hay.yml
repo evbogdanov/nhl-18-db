@@ -1,0 +1,65 @@
+nhlcom_id: 8474625
+
+country_abbrev: usa
+team_abbrev: njd
+
+first_name: Jimmy
+last_name: Hayes
+number: 10
+born: 1989-11-21
+
+potential: 20
+
+salary: 0.7
+years_left: 1
+
+height: 196
+weight: 97
+position: rw
+type: power forward
+shoots: right
+
+draft_team_abbrev: tor
+draft_year: 2008
+draft_round: 2
+draft_overall: 60
+
+overall: 78
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 9
+
+deking: 82
+hand_eye: 82
+passing: 82
+puck_control: 83
+
+discipline: 83
+offensive_awareness: 81
+poise: 70
+
+slap_shot_accuracy: 82
+slap_shot_power: 87
+wrist_shot_accuracy: 82
+wrist_shot_power: 86
+
+defensive_awareness: 83
+faceoffs: 60
+shot_blocking: 83
+stick_checking: 81
+
+acceleration: 85
+agility: 81
+balance: 90
+endurance: 84
+speed: 85
+
+aggressiveness: 85
+body_checking: 88
+durability: 85
+fighting_skill: 80
+strength: 90

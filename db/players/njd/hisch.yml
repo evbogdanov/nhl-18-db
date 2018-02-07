@@ -1,0 +1,65 @@
+nhlcom_id: 8480002
+
+country_abbrev: che
+team_abbrev: njd
+
+first_name: Nico
+last_name: Hischier
+number: 13
+born: 1999-01-04
+
+potential: 6
+
+salary: 0.925
+years_left: 3
+
+height: 185
+weight: 80
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: njd
+draft_year: 2017
+draft_round: 1
+draft_overall: 1
+
+overall: 81
+
+puck_skills: 8
+senses: 8
+shooting: 9
+defense: 7
+skating: 8
+physical: 6
+
+deking: 86
+hand_eye: 83
+passing: 84
+puck_control: 85
+
+discipline: 91
+offensive_awareness: 86
+poise: 82
+
+slap_shot_accuracy: 84
+slap_shot_power: 91
+wrist_shot_accuracy: 86
+wrist_shot_power: 91
+
+defensive_awareness: 84
+faceoffs: 79
+shot_blocking: 74
+stick_checking: 83
+
+acceleration: 89
+agility: 89
+balance: 81
+endurance: 81
+speed: 88
+
+aggressiveness: 74
+body_checking: 74
+durability: 90
+fighting_skill: 74
+strength: 82

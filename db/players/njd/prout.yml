@@ -1,0 +1,65 @@
+nhlcom_id: 8474774
+
+country_abbrev: can
+team_abbrev: njd
+
+first_name: Dalton
+last_name: Prout
+number: 5
+born: 1990-03-13
+
+potential: 24
+
+salary: 1.575
+years_left: 1
+
+height: 191
+weight: 104
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: cbj
+draft_year: 2010
+draft_round: 6
+draft_overall: 154
+
+overall: 78
+
+puck_skills: 5
+senses: 5
+shooting: 7
+defense: 8
+skating: 8
+physical: 9
+
+deking: 74
+hand_eye: 73
+passing: 78
+puck_control: 78
+
+discipline: 70
+offensive_awareness: 77
+poise: 75
+
+slap_shot_accuracy: 74
+slap_shot_power: 87
+wrist_shot_accuracy: 75
+wrist_shot_power: 85
+
+defensive_awareness: 84
+faceoffs: 60
+shot_blocking: 87
+stick_checking: 85
+
+acceleration: 82
+agility: 82
+balance: 90
+endurance: 84
+speed: 82
+
+aggressiveness: 89
+body_checking: 89
+durability: 80
+fighting_skill: 80
+strength: 90

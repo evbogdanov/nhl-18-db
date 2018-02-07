@@ -1,0 +1,65 @@
+nhlcom_id: 8479407
+
+country_abbrev: swe
+team_abbrev: njd
+
+first_name: Jesper
+last_name: Bratt
+number: 63
+born: 1998-07-30
+
+potential: 18
+
+salary: 0.75
+years_left: 3
+
+height: 178
+weight: 79
+position: lw
+type: sniper
+shoots: left
+
+draft_team_abbrev: njd
+draft_year: 2016
+draft_round: 6
+draft_overall: 162
+
+overall: 77
+
+puck_skills: 7
+senses: 7
+shooting: 6
+defense: 7
+skating: 8
+physical: 5
+
+deking: 84
+hand_eye: 85
+passing: 84
+puck_control: 83
+
+discipline: 75
+offensive_awareness: 85
+poise: 80
+
+slap_shot_accuracy: 77
+slap_shot_power: 83
+wrist_shot_accuracy: 77
+wrist_shot_power: 85
+
+defensive_awareness: 82
+faceoffs: 74
+shot_blocking: 80
+stick_checking: 85
+
+acceleration: 84
+agility: 87
+balance: 81
+endurance: 82
+speed: 84
+
+aggressiveness: 74
+body_checking: 77
+durability: 75
+fighting_skill: 65
+strength: 78

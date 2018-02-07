@@ -1,0 +1,65 @@
+nhlcom_id: 8471226
+
+country_abbrev: usa
+team_abbrev: njd
+
+first_name: Drew
+last_name: Stafford
+number: 18
+born: 1985-10-30
+
+potential: 20
+
+salary: 0.8
+years_left: 1
+
+height: 188
+weight: 97
+position: rw
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: buf
+draft_year: 2004
+draft_round: 1
+draft_overall: 13
+
+overall: 79
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 7
+skating: 8
+physical: 8
+
+deking: 84
+hand_eye: 84
+passing: 84
+puck_control: 84
+
+discipline: 83
+offensive_awareness: 83
+poise: 80
+
+slap_shot_accuracy: 84
+slap_shot_power: 85
+wrist_shot_accuracy: 84
+wrist_shot_power: 85
+
+defensive_awareness: 82
+faceoffs: 65
+shot_blocking: 82
+stick_checking: 86
+
+acceleration: 85
+agility: 85
+balance: 87
+endurance: 84
+speed: 85
+
+aggressiveness: 84
+body_checking: 84
+durability: 85
+fighting_skill: 75
+strength: 87

@@ -1,0 +1,65 @@
+nhlcom_id: 8477463
+
+country_abbrev: usa
+team_abbrev: njd
+
+first_name: Steven
+last_name: Santini
+number: 16
+born: 1995-03-07
+
+potential: 15
+
+salary: 0.925
+years_left: 1
+
+height: 188
+weight: 94
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: njd
+draft_year: 2013
+draft_round: 2
+draft_overall: 42
+
+overall: 76
+
+puck_skills: 5
+senses: 4
+shooting: 6
+defense: 7
+skating: 7
+physical: 9
+
+deking: 70
+hand_eye: 70
+passing: 77
+puck_control: 74
+
+discipline: 67
+offensive_awareness: 74
+poise: 70
+
+slap_shot_accuracy: 66
+slap_shot_power: 86
+wrist_shot_accuracy: 67
+wrist_shot_power: 85
+
+defensive_awareness: 83
+faceoffs: 60
+shot_blocking: 87
+stick_checking: 86
+
+acceleration: 82
+agility: 82
+balance: 87
+endurance: 83
+speed: 82
+
+aggressiveness: 89
+body_checking: 88
+durability: 85
+fighting_skill: 75
+strength: 87

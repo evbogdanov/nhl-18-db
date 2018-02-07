@@ -1,0 +1,65 @@
+nhlcom_id: 8470619
+
+country_abbrev: usa
+team_abbrev: njd
+
+first_name: Brian
+last_name: Boyle
+number: 11
+born: 1984-12-18
+
+potential: 20
+
+salary: 2.75
+years_left: 2
+
+height: 198
+weight: 111
+position: c
+type: power forward
+shoots: left
+
+draft_team_abbrev: lak
+draft_year: 2003
+draft_round: 1
+draft_overall: 26
+
+overall: 80
+
+puck_skills: 7
+senses: 6
+shooting: 8
+defense: 8
+skating: 8
+physical: 10
+
+deking: 82
+hand_eye: 82
+passing: 83
+puck_control: 82
+
+discipline: 70
+offensive_awareness: 80
+poise: 85
+
+slap_shot_accuracy: 82
+slap_shot_power: 88
+wrist_shot_accuracy: 82
+wrist_shot_power: 88
+
+defensive_awareness: 84
+faceoffs: 83
+shot_blocking: 88
+stick_checking: 90
+
+acceleration: 82
+agility: 82
+balance: 94
+endurance: 83
+speed: 83
+
+aggressiveness: 88
+body_checking: 88
+durability: 85
+fighting_skill: 85
+strength: 93

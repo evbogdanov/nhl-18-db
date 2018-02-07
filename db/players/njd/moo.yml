@@ -1,0 +1,65 @@
+nhlcom_id: 8475186
+
+country_abbrev: usa
+team_abbrev: njd
+
+first_name: John
+last_name: Moore
+number: 2
+born: 1990-11-19
+
+potential: 14
+
+salary: 1.67
+years_left: 1
+
+height: 191
+weight: 95
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: cbj
+draft_year: 2009
+draft_round: 1
+draft_overall: 21
+
+overall: 82
+
+puck_skills: 7
+senses: 7
+shooting: 7
+defense: 8
+skating: 9
+physical: 8
+
+deking: 80
+hand_eye: 79
+passing: 84
+puck_control: 83
+
+discipline: 87
+offensive_awareness: 84
+poise: 80
+
+slap_shot_accuracy: 77
+slap_shot_power: 88
+wrist_shot_accuracy: 79
+wrist_shot_power: 85
+
+defensive_awareness: 86
+faceoffs: 60
+shot_blocking: 87
+stick_checking: 87
+
+acceleration: 87
+agility: 87
+balance: 87
+endurance: 85
+speed: 89
+
+aggressiveness: 83
+body_checking: 85
+durability: 85
+fighting_skill: 70
+strength: 87

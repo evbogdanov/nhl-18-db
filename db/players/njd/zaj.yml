@@ -1,0 +1,65 @@
+nhlcom_id: 8471233
+
+country_abbrev: can
+team_abbrev: njd
+
+first_name: Travis
+last_name: Zajac
+number: 19
+born: 1985-05-13
+
+potential: 12
+
+salary: 5.75
+years_left: 4
+
+height: 188
+weight: 84
+position: c
+type: playmaker
+shoots: right
+
+draft_team_abbrev: njd
+draft_year: 2004
+draft_round: 1
+draft_overall: 20
+
+overall: 81
+
+puck_skills: 8
+senses: 8
+shooting: 8
+defense: 8
+skating: 8
+physical: 8
+
+deking: 85
+hand_eye: 85
+passing: 85
+puck_control: 84
+
+discipline: 88
+offensive_awareness: 84
+poise: 84
+
+slap_shot_accuracy: 84
+slap_shot_power: 84
+wrist_shot_accuracy: 84
+wrist_shot_power: 84
+
+defensive_awareness: 87
+faceoffs: 83
+shot_blocking: 82
+stick_checking: 87
+
+acceleration: 86
+agility: 87
+balance: 86
+endurance: 85
+speed: 86
+
+aggressiveness: 84
+body_checking: 83
+durability: 90
+fighting_skill: 70
+strength: 85
