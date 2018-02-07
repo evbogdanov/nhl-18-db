@@ -1,0 +1,65 @@
+nhlcom_id: 8477936
+
+country_abbrev: can
+team_abbrev: nyi
+
+first_name: Michael
+last_name: Dal Colle
+number: 71
+born: 1996-06-20
+
+potential: 7
+
+salary: 0.865
+years_left: 2
+
+height: 191
+weight: 90
+position: lw
+type: sniper
+shoots: left
+
+draft_team_abbrev: nyi
+draft_year: 2014
+draft_round: 1
+draft_overall: 5
+
+overall: 71
+
+puck_skills: 6
+senses: 5
+shooting: 7
+defense: 4
+skating: 7
+physical: 5
+
+deking: 80
+hand_eye: 80
+passing: 80
+puck_control: 80
+
+discipline: 90
+offensive_awareness: 78
+poise: 70
+
+slap_shot_accuracy: 79
+slap_shot_power: 86
+wrist_shot_accuracy: 80
+wrist_shot_power: 85
+
+defensive_awareness: 75
+faceoffs: 78
+shot_blocking: 70
+stick_checking: 75
+
+acceleration: 85
+agility: 85
+balance: 80
+endurance: 83
+speed: 85
+
+aggressiveness: 73
+body_checking: 73
+durability: 80
+fighting_skill: 70
+strength: 80

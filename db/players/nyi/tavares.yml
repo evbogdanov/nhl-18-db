@@ -1,0 +1,65 @@
+nhlcom_id: 8475166
+
+country_abbrev: can
+team_abbrev: nyi
+
+first_name: John
+last_name: Tavares
+number: 91
+born: 1990-09-20
+
+potential: 7
+
+salary: 5.5
+years_left: 1
+
+height: 185
+weight: 96
+position: c
+type: sniper
+shoots: left
+
+draft_team_abbrev: nyi
+draft_year: 2009
+draft_round: 1
+draft_overall: 1
+
+overall: 90
+
+puck_skills: 10
+senses: 10
+shooting: 10
+defense: 9
+skating: 8
+physical: 8
+
+deking: 94
+hand_eye: 94
+passing: 94
+puck_control: 94
+
+discipline: 86
+offensive_awareness: 94
+poise: 85
+
+slap_shot_accuracy: 93
+slap_shot_power: 92
+wrist_shot_accuracy: 94
+wrist_shot_power: 91
+
+defensive_awareness: 89
+faceoffs: 82
+shot_blocking: 84
+stick_checking: 90
+
+acceleration: 85
+agility: 89
+balance: 88
+endurance: 85
+speed: 85
+
+aggressiveness: 84
+body_checking: 84
+durability: 88
+fighting_skill: 70
+strength: 88

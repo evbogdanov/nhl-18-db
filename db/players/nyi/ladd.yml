@@ -1,0 +1,65 @@
+nhlcom_id: 8471217
+
+country_abbrev: can
+team_abbrev: nyi
+
+first_name: Andrew
+last_name: Ladd
+number: 16
+born: 1985-12-12
+
+potential: 12
+
+salary: 5.5
+years_left: 6
+
+height: 191
+weight: 91
+position: lw
+type: power forward
+shoots: left
+
+draft_team_abbrev: car
+draft_year: 2004
+draft_round: 1
+draft_overall: 4
+
+overall: 81
+
+puck_skills: 8
+senses: 8
+shooting: 8
+defense: 8
+skating: 8
+physical: 9
+
+deking: 84
+hand_eye: 85
+passing: 85
+puck_control: 85
+
+discipline: 75
+offensive_awareness: 84
+poise: 85
+
+slap_shot_accuracy: 85
+slap_shot_power: 87
+wrist_shot_accuracy: 85
+wrist_shot_power: 87
+
+defensive_awareness: 85
+faceoffs: 60
+shot_blocking: 84
+stick_checking: 85
+
+acceleration: 84
+agility: 84
+balance: 88
+endurance: 85
+speed: 85
+
+aggressiveness: 88
+body_checking: 88
+durability: 85
+fighting_skill: 85
+strength: 88

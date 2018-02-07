@@ -1,0 +1,65 @@
+nhlcom_id: 8475181
+
+country_abbrev: usa
+team_abbrev: nyi
+
+first_name: Nick
+last_name: Leddy
+number: 2
+born: 1991-03-20
+
+potential: 15
+
+salary: 5.5
+years_left: 5
+
+height: 183
+weight: 90
+position: d
+type: offensive defenseman
+shoots: left
+
+draft_team_abbrev: min
+draft_year: 2009
+draft_round: 1
+draft_overall: 16
+
+overall: 84
+
+puck_skills: 9
+senses: 9
+shooting: 8
+defense: 9
+skating: 9
+physical: 7
+
+deking: 89
+hand_eye: 84
+passing: 89
+puck_control: 89
+
+discipline: 95
+offensive_awareness: 90
+poise: 85
+
+slap_shot_accuracy: 80
+slap_shot_power: 88
+wrist_shot_accuracy: 81
+wrist_shot_power: 87
+
+defensive_awareness: 88
+faceoffs: 55
+shot_blocking: 85
+stick_checking: 88
+
+acceleration: 89
+agility: 88
+balance: 84
+endurance: 85
+speed: 89
+
+aggressiveness: 82
+body_checking: 82
+durability: 84
+fighting_skill: 65
+strength: 84

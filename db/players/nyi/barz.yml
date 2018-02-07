@@ -1,0 +1,65 @@
+nhlcom_id: 8478445
+
+country_abbrev: can
+team_abbrev: nyi
+
+first_name: Mathew
+last_name: Barzal
+number: 13
+born: 1997-05-26
+
+potential: 6
+
+salary: 0.925
+years_left: 3
+
+height: 183
+weight: 82
+position: c
+type: playmaker
+shoots: right
+
+draft_team_abbrev: nyi
+draft_year: 2015
+draft_round: 1
+draft_overall: 16
+
+overall: 82
+
+puck_skills: 8
+senses: 8
+shooting: 8
+defense: 8
+skating: 8
+physical: 7
+
+deking: 85
+hand_eye: 85
+passing: 85
+puck_control: 85
+
+discipline: 83
+offensive_awareness: 87
+poise: 85
+
+slap_shot_accuracy: 84
+slap_shot_power: 89
+wrist_shot_accuracy: 86
+wrist_shot_power: 88
+
+defensive_awareness: 84
+faceoffs: 84
+shot_blocking: 81
+stick_checking: 86
+
+acceleration: 87
+agility: 88
+balance: 84
+endurance: 84
+speed: 86
+
+aggressiveness: 75
+body_checking: 76
+durability: 86
+fighting_skill: 66
+strength: 85

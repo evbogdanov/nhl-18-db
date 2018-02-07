@@ -1,0 +1,65 @@
+nhlcom_id: 8474573
+
+country_abbrev: can
+team_abbrev: nyi
+
+first_name: Josh
+last_name: Bailey
+number: 12
+born: 1989-10-02
+
+potential: 12
+
+salary: 3.3
+years_left: 1
+
+height: 185
+weight: 95
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: nyi
+draft_year: 2008
+draft_round: 1
+draft_overall: 9
+
+overall: 82
+
+puck_skills: 8
+senses: 8
+shooting: 8
+defense: 8
+skating: 8
+physical: 8
+
+deking: 85
+hand_eye: 85
+passing: 86
+puck_control: 86
+
+discipline: 90
+offensive_awareness: 86
+poise: 80
+
+slap_shot_accuracy: 85
+slap_shot_power: 86
+wrist_shot_accuracy: 85
+wrist_shot_power: 85
+
+defensive_awareness: 85
+faceoffs: 79
+shot_blocking: 83
+stick_checking: 87
+
+acceleration: 87
+agility: 87
+balance: 86
+endurance: 84
+speed: 87
+
+aggressiveness: 84
+body_checking: 85
+durability: 85
+fighting_skill: 70
+strength: 86

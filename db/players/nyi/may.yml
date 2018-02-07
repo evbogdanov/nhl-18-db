@@ -1,0 +1,65 @@
+nhlcom_id: 8476429
+
+country_abbrev: usa
+team_abbrev: nyi
+
+first_name: Scott
+last_name: Mayfield
+number: 42
+born: 1992-10-14
+
+potential: 30
+
+salary: 0.65
+years_left: 1
+
+height: 193
+weight: 91
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: nyi
+draft_year: 2011
+draft_round: 2
+draft_overall: 34
+
+overall: 75
+
+puck_skills: 5
+senses: 4
+shooting: 6
+defense: 7
+skating: 7
+physical: 9
+
+deking: 70
+hand_eye: 70
+passing: 76
+puck_control: 76
+
+discipline: 65
+offensive_awareness: 74
+poise: 70
+
+slap_shot_accuracy: 70
+slap_shot_power: 86
+wrist_shot_accuracy: 71
+wrist_shot_power: 85
+
+defensive_awareness: 81
+faceoffs: 60
+shot_blocking: 86
+stick_checking: 86
+
+acceleration: 82
+agility: 81
+balance: 88
+endurance: 84
+speed: 82
+
+aggressiveness: 88
+body_checking: 87
+durability: 85
+fighting_skill: 83
+strength: 88

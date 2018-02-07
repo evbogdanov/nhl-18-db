@@ -1,0 +1,65 @@
+nhlcom_id: 8476386
+
+country_abbrev: usa
+team_abbrev: nyi
+
+first_name: Shane
+last_name: Prince
+number: 11
+born: 1992-11-16
+
+potential: 18
+
+salary: 0.85
+years_left: 1
+
+height: 180
+weight: 84
+position: lw
+type: sniper
+shoots: left
+
+draft_team_abbrev: ott
+draft_year: 2011
+draft_round: 2
+draft_overall: 61
+
+overall: 75
+
+puck_skills: 7
+senses: 6
+shooting: 8
+defense: 6
+skating: 8
+physical: 5
+
+deking: 87
+hand_eye: 85
+passing: 82
+puck_control: 83
+
+discipline: 83
+offensive_awareness: 80
+poise: 75
+
+slap_shot_accuracy: 83
+slap_shot_power: 86
+wrist_shot_accuracy: 83
+wrist_shot_power: 86
+
+defensive_awareness: 78
+faceoffs: 60
+shot_blocking: 73
+stick_checking: 83
+
+acceleration: 86
+agility: 86
+balance: 80
+endurance: 81
+speed: 86
+
+aggressiveness: 72
+body_checking: 73
+durability: 84
+fighting_skill: 65
+strength: 81

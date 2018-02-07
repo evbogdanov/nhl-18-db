@@ -1,0 +1,65 @@
+nhlcom_id: 8466251
+
+country_abbrev: can
+team_abbrev: nyi
+
+first_name: Jason
+last_name: Chimera
+number: 25
+born: 1979-05-02
+
+potential: 20
+
+salary: 2.25
+years_left: 1
+
+height: 191
+weight: 98
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: edm
+draft_year: 1997
+draft_round: 5
+draft_overall: 121
+
+overall: 80
+
+puck_skills: 7
+senses: 7
+shooting: 8
+defense: 8
+skating: 8
+physical: 8
+
+deking: 80
+hand_eye: 83
+passing: 83
+puck_control: 83
+
+discipline: 80
+offensive_awareness: 82
+poise: 85
+
+slap_shot_accuracy: 83
+slap_shot_power: 87
+wrist_shot_accuracy: 84
+wrist_shot_power: 86
+
+defensive_awareness: 84
+faceoffs: 73
+shot_blocking: 85
+stick_checking: 87
+
+acceleration: 88
+agility: 83
+balance: 87
+endurance: 75
+speed: 89
+
+aggressiveness: 85
+body_checking: 87
+durability: 83
+fighting_skill: 78
+strength: 87

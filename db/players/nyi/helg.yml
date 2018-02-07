@@ -1,0 +1,65 @@
+nhlcom_id: 8475274
+
+country_abbrev: usa
+team_abbrev: nyi
+
+first_name: Seth
+last_name: Helgeson
+number: 39
+born: 1990-10-08
+
+potential: 29
+
+salary: 0.65
+years_left: 1
+
+height: 193
+weight: 97
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: njd
+draft_year: 2009
+draft_round: 4
+draft_overall: 114
+
+overall: 75
+
+puck_skills: 5
+senses: 4
+shooting: 6
+defense: 7
+skating: 7
+physical: 8
+
+deking: 71
+hand_eye: 71
+passing: 78
+puck_control: 78
+
+discipline: 70
+offensive_awareness: 75
+poise: 75
+
+slap_shot_accuracy: 70
+slap_shot_power: 86
+wrist_shot_accuracy: 70
+wrist_shot_power: 85
+
+defensive_awareness: 82
+faceoffs: 60
+shot_blocking: 84
+stick_checking: 83
+
+acceleration: 81
+agility: 80
+balance: 87
+endurance: 81
+speed: 81
+
+aggressiveness: 87
+body_checking: 87
+durability: 80
+fighting_skill: 80
+strength: 87

@@ -1,0 +1,65 @@
+nhlcom_id: 8470187
+
+country_abbrev: can
+team_abbrev: nyi
+
+first_name: Johnny
+last_name: Boychuk
+number: 55
+born: 1984-01-19
+
+potential: 16
+
+salary: 6.0
+years_left: 5
+
+height: 188
+weight: 103
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: col
+draft_year: 2002
+draft_round: 2
+draft_overall: 61
+
+overall: 83
+
+puck_skills: 7
+senses: 8
+shooting: 7
+defense: 9
+skating: 8
+physical: 9
+
+deking: 75
+hand_eye: 75
+passing: 83
+puck_control: 84
+
+discipline: 83
+offensive_awareness: 85
+poise: 84
+
+slap_shot_accuracy: 75
+slap_shot_power: 88
+wrist_shot_accuracy: 75
+wrist_shot_power: 88
+
+defensive_awareness: 88
+faceoffs: 55
+shot_blocking: 89
+stick_checking: 88
+
+acceleration: 83
+agility: 83
+balance: 89
+endurance: 84
+speed: 84
+
+aggressiveness: 85
+body_checking: 88
+durability: 84
+fighting_skill: 85
+strength: 89

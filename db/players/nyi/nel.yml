@@ -1,0 +1,65 @@
+nhlcom_id: 8475754
+
+country_abbrev: usa
+team_abbrev: nyi
+
+first_name: Brock
+last_name: Nelson
+number: 29
+born: 1991-10-15
+
+potential: 10
+
+salary: 2.5
+years_left: 1
+
+height: 191
+weight: 93
+position: rw
+type: power forward
+shoots: left
+
+draft_team_abbrev: nyi
+draft_year: 2010
+draft_round: 1
+draft_overall: 30
+
+overall: 82
+
+puck_skills: 8
+senses: 8
+shooting: 8
+defense: 8
+skating: 8
+physical: 8
+
+deking: 86
+hand_eye: 86
+passing: 86
+puck_control: 86
+
+discipline: 75
+offensive_awareness: 86
+poise: 80
+
+slap_shot_accuracy: 85
+slap_shot_power: 88
+wrist_shot_accuracy: 86
+wrist_shot_power: 87
+
+defensive_awareness: 85
+faceoffs: 74
+shot_blocking: 81
+stick_checking: 86
+
+acceleration: 86
+agility: 86
+balance: 87
+endurance: 84
+speed: 86
+
+aggressiveness: 86
+body_checking: 86
+durability: 84
+fighting_skill: 80
+strength: 87

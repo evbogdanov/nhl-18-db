@@ -1,0 +1,65 @@
+nhlcom_id: 8475231
+
+country_abbrev: can
+team_abbrev: nyi
+
+first_name: Casey
+last_name: Cizikas
+number: 53
+born: 1991-02-27
+
+potential: 18
+
+salary: 3.35
+years_left: 4
+
+height: 180
+weight: 91
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: nyi
+draft_year: 2009
+draft_round: 4
+draft_overall: 92
+
+overall: 80
+
+puck_skills: 7
+senses: 7
+shooting: 8
+defense: 8
+skating: 8
+physical: 8
+
+deking: 85
+hand_eye: 85
+passing: 83
+puck_control: 83
+
+discipline: 90
+offensive_awareness: 83
+poise: 80
+
+slap_shot_accuracy: 83
+slap_shot_power: 86
+wrist_shot_accuracy: 83
+wrist_shot_power: 85
+
+defensive_awareness: 85
+faceoffs: 80
+shot_blocking: 85
+stick_checking: 87
+
+acceleration: 87
+agility: 87
+balance: 85
+endurance: 82
+speed: 87
+
+aggressiveness: 85
+body_checking: 85
+durability: 85
+fighting_skill: 70
+strength: 85

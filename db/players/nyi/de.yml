@@ -1,0 +1,65 @@
+nhlcom_id: 8475177
+
+country_abbrev: can
+team_abbrev: nyi
+
+first_name: Calvin
+last_name: de Haan
+number: 44
+born: 1991-05-09
+
+potential: 13
+
+salary: 3.3
+years_left: 1
+
+height: 185
+weight: 89
+position: d
+type: offensive defenseman
+shoots: left
+
+draft_team_abbrev: nyi
+draft_year: 2009
+draft_round: 1
+draft_overall: 12
+
+overall: 81
+
+puck_skills: 8
+senses: 8
+shooting: 7
+defense: 8
+skating: 8
+physical: 7
+
+deking: 86
+hand_eye: 81
+passing: 86
+puck_control: 86
+
+discipline: 80
+offensive_awareness: 85
+poise: 80
+
+slap_shot_accuracy: 80
+slap_shot_power: 86
+wrist_shot_accuracy: 81
+wrist_shot_power: 86
+
+defensive_awareness: 86
+faceoffs: 60
+shot_blocking: 83
+stick_checking: 86
+
+acceleration: 88
+agility: 88
+balance: 84
+endurance: 85
+speed: 88
+
+aggressiveness: 83
+body_checking: 83
+durability: 80
+fighting_skill: 73
+strength: 84

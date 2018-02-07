@@ -1,0 +1,65 @@
+nhlcom_id: 8473504
+
+country_abbrev: can
+team_abbrev: nyi
+
+first_name: Cal
+last_name: Clutterbuck
+number: 15
+born: 1987-11-18
+
+potential: 20
+
+salary: 3.5
+years_left: 5
+
+height: 180
+weight: 99
+position: rw
+type: grinder
+shoots: right
+
+draft_team_abbrev: min
+draft_year: 2006
+draft_round: 3
+draft_overall: 72
+
+overall: 78
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 9
+
+deking: 83
+hand_eye: 82
+passing: 82
+puck_control: 82
+
+discipline: 80
+offensive_awareness: 80
+poise: 80
+
+slap_shot_accuracy: 82
+slap_shot_power: 86
+wrist_shot_accuracy: 82
+wrist_shot_power: 86
+
+defensive_awareness: 81
+faceoffs: 60
+shot_blocking: 83
+stick_checking: 85
+
+acceleration: 86
+agility: 84
+balance: 88
+endurance: 83
+speed: 86
+
+aggressiveness: 90
+body_checking: 90
+durability: 86
+fighting_skill: 84
+strength: 87

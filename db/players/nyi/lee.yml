@@ -1,0 +1,65 @@
+nhlcom_id: 8475314
+
+country_abbrev: usa
+team_abbrev: nyi
+
+first_name: Anders
+last_name: Lee
+number: 27
+born: 1990-07-03
+
+potential: 12
+
+salary: 3.75
+years_left: 2
+
+height: 191
+weight: 103
+position: lw
+type: power forward
+shoots: left
+
+draft_team_abbrev: nyi
+draft_year: 2009
+draft_round: 6
+draft_overall: 152
+
+overall: 82
+
+puck_skills: 8
+senses: 7
+shooting: 9
+defense: 8
+skating: 8
+physical: 9
+
+deking: 84
+hand_eye: 86
+passing: 85
+puck_control: 85
+
+discipline: 75
+offensive_awareness: 85
+poise: 80
+
+slap_shot_accuracy: 87
+slap_shot_power: 88
+wrist_shot_accuracy: 87
+wrist_shot_power: 88
+
+defensive_awareness: 85
+faceoffs: 70
+shot_blocking: 81
+stick_checking: 85
+
+acceleration: 85
+agility: 85
+balance: 89
+endurance: 83
+speed: 85
+
+aggressiveness: 87
+body_checking: 87
+durability: 85
+fighting_skill: 77
+strength: 89

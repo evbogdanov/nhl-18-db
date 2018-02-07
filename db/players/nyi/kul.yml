@@ -1,0 +1,65 @@
+nhlcom_id: 8473579
+
+country_abbrev: rus
+team_abbrev: nyi
+
+first_name: Nikolay
+last_name: Kulemin
+number: 86
+born: 1986-07-14
+
+potential: 28
+
+salary: 4.19
+years_left: 1
+
+height: 185
+weight: 102
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: tor
+draft_year: 2006
+draft_round: 2
+draft_overall: 44
+
+overall: 76
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 6
+skating: 7
+physical: 8
+
+deking: 82
+hand_eye: 83
+passing: 81
+puck_control: 81
+
+discipline: 90
+offensive_awareness: 79
+poise: 80
+
+slap_shot_accuracy: 80
+slap_shot_power: 87
+wrist_shot_accuracy: 81
+wrist_shot_power: 84
+
+defensive_awareness: 79
+faceoffs: 65
+shot_blocking: 80
+stick_checking: 87
+
+acceleration: 83
+agility: 83
+balance: 86
+endurance: 85
+speed: 84
+
+aggressiveness: 87
+body_checking: 87
+durability: 80
+fighting_skill: 70
+strength: 86

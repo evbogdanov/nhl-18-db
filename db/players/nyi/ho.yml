@@ -1,0 +1,65 @@
+nhlcom_id: 8477959
+
+country_abbrev: can
+team_abbrev: nyi
+
+first_name: Joshua
+last_name: Ho-Sang
+number: 66
+born: 1996-01-22
+
+potential: 10
+
+salary: 0.895
+years_left: 2
+
+height: 183
+weight: 77
+position: rw
+type: playmaker
+shoots: right
+
+draft_team_abbrev: nyi
+draft_year: 2014
+draft_round: 1
+draft_overall: 28
+
+overall: 76
+
+puck_skills: 8
+senses: 6
+shooting: 8
+defense: 5
+skating: 8
+physical: 5
+
+deking: 87
+hand_eye: 85
+passing: 85
+puck_control: 85
+
+discipline: 85
+offensive_awareness: 82
+poise: 75
+
+slap_shot_accuracy: 84
+slap_shot_power: 87
+wrist_shot_accuracy: 85
+wrist_shot_power: 86
+
+defensive_awareness: 76
+faceoffs: 65
+shot_blocking: 70
+stick_checking: 81
+
+acceleration: 87
+agility: 87
+balance: 78
+endurance: 80
+speed: 87
+
+aggressiveness: 70
+body_checking: 74
+durability: 85
+fighting_skill: 65
+strength: 78
