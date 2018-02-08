@@ -1,0 +1,65 @@
+nhlcom_id: 8475832
+
+country_abbrev: deu
+team_abbrev: pit
+
+first_name: Tom
+last_name: Kuhnhackl
+number: 34
+born: 1992-01-21
+
+potential: 26
+
+salary: 0.65
+years_left: 1
+
+height: 188
+weight: 89
+position: rw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: pit
+draft_year: 2010
+draft_round: 4
+draft_overall: 110
+
+overall: 77
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 8
+
+deking: 82
+hand_eye: 82
+passing: 82
+puck_control: 82
+
+discipline: 84
+offensive_awareness: 80
+poise: 80
+
+slap_shot_accuracy: 81
+slap_shot_power: 86
+wrist_shot_accuracy: 82
+wrist_shot_power: 85
+
+defensive_awareness: 82
+faceoffs: 65
+shot_blocking: 75
+stick_checking: 83
+
+acceleration: 84
+agility: 83
+balance: 87
+endurance: 82
+speed: 84
+
+aggressiveness: 84
+body_checking: 85
+durability: 84
+fighting_skill: 70
+strength: 87

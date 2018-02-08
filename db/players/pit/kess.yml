@@ -1,0 +1,65 @@
+nhlcom_id: 8473548
+
+country_abbrev: usa
+team_abbrev: pit
+
+first_name: Phil
+last_name: Kessel
+number: 81
+born: 1987-10-02
+
+potential: 12
+
+salary: 6.8
+years_left: 5
+
+height: 183
+weight: 92
+position: rw
+type: sniper
+shoots: right
+
+draft_team_abbrev: bos
+draft_year: 2006
+draft_round: 1
+draft_overall: 5
+
+overall: 86
+
+puck_skills: 10
+senses: 9
+shooting: 10
+defense: 7
+skating: 10
+physical: 7
+
+deking: 93
+hand_eye: 92
+passing: 90
+puck_control: 90
+
+discipline: 90
+offensive_awareness: 91
+poise: 85
+
+slap_shot_accuracy: 90
+slap_shot_power: 92
+wrist_shot_accuracy: 90
+wrist_shot_power: 90
+
+defensive_awareness: 85
+faceoffs: 65
+shot_blocking: 77
+stick_checking: 83
+
+acceleration: 90
+agility: 92
+balance: 85
+endurance: 85
+speed: 93
+
+aggressiveness: 79
+body_checking: 79
+durability: 85
+fighting_skill: 70
+strength: 85

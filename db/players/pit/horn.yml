@@ -1,0 +1,65 @@
+nhlcom_id: 8471887
+
+country_abbrev: swe
+team_abbrev: pit
+
+first_name: Patric
+last_name: Hornqvist
+number: 72
+born: 1987-01-01
+
+potential: 12
+
+salary: 4.25
+years_left: 1
+
+height: 180
+weight: 86
+position: rw
+type: power forward
+shoots: right
+
+draft_team_abbrev: nsh
+draft_year: 2005
+draft_round: 7
+draft_overall: 230
+
+overall: 84
+
+puck_skills: 9
+senses: 8
+shooting: 9
+defense: 8
+skating: 9
+physical: 8
+
+deking: 88
+hand_eye: 88
+passing: 87
+puck_control: 87
+
+discipline: 84
+offensive_awareness: 87
+poise: 85
+
+slap_shot_accuracy: 87
+slap_shot_power: 88
+wrist_shot_accuracy: 88
+wrist_shot_power: 87
+
+defensive_awareness: 87
+faceoffs: 60
+shot_blocking: 83
+stick_checking: 88
+
+acceleration: 88
+agility: 88
+balance: 85
+endurance: 85
+speed: 88
+
+aggressiveness: 84
+body_checking: 84
+durability: 84
+fighting_skill: 70
+strength: 85

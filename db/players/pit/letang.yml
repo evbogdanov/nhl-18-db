@@ -1,0 +1,65 @@
+nhlcom_id: 8471724
+
+country_abbrev: can
+team_abbrev: pit
+
+first_name: Kris
+last_name: Letang
+number: 58
+born: 1987-04-24
+
+potential: 8
+
+salary: 7.25
+years_left: 5
+
+height: 183
+weight: 91
+position: d
+type: 2 way defender
+shoots: right
+
+draft_team_abbrev: pit
+draft_year: 2005
+draft_round: 3
+draft_overall: 62
+
+overall: 88
+
+puck_skills: 9
+senses: 9
+shooting: 8
+defense: 10
+skating: 9
+physical: 8
+
+deking: 87
+hand_eye: 84
+passing: 90
+puck_control: 90
+
+discipline: 80
+offensive_awareness: 90
+poise: 90
+
+slap_shot_accuracy: 80
+slap_shot_power: 90
+wrist_shot_accuracy: 82
+wrist_shot_power: 89
+
+defensive_awareness: 92
+faceoffs: 55
+shot_blocking: 89
+stick_checking: 90
+
+acceleration: 89
+agility: 89
+balance: 85
+endurance: 88
+speed: 89
+
+aggressiveness: 86
+body_checking: 87
+durability: 75
+fighting_skill: 75
+strength: 85

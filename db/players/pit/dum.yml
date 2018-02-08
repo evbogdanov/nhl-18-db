@@ -1,0 +1,65 @@
+nhlcom_id: 8475208
+
+country_abbrev: usa
+team_abbrev: pit
+
+first_name: Brian
+last_name: Dumoulin
+number: 8
+born: 1991-09-06
+
+potential: 14
+
+salary: 4.1
+years_left: 6
+
+height: 193
+weight: 94
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: car
+draft_year: 2009
+draft_round: 2
+draft_overall: 51
+
+overall: 81
+
+puck_skills: 7
+senses: 7
+shooting: 7
+defense: 8
+skating: 8
+physical: 8
+
+deking: 79
+hand_eye: 75
+passing: 83
+puck_control: 82
+
+discipline: 85
+offensive_awareness: 82
+poise: 85
+
+slap_shot_accuracy: 76
+slap_shot_power: 86
+wrist_shot_accuracy: 77
+wrist_shot_power: 85
+
+defensive_awareness: 86
+faceoffs: 60
+shot_blocking: 87
+stick_checking: 87
+
+acceleration: 85
+agility: 85
+balance: 87
+endurance: 83
+speed: 85
+
+aggressiveness: 85
+body_checking: 86
+durability: 85
+fighting_skill: 75
+strength: 87

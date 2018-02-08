@@ -1,0 +1,65 @@
+nhlcom_id: 8475772
+
+country_abbrev: can
+team_abbrev: pit
+
+first_name: Riley
+last_name: Sheahan
+number: 15
+born: 1991-12-07
+
+potential: 18
+
+salary: 2.075
+years_left: 1
+
+height: 191
+weight: 102
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: det
+draft_year: 2010
+draft_round: 1
+draft_overall: 21
+
+overall: 80
+
+puck_skills: 7
+senses: 7
+shooting: 8
+defense: 8
+skating: 8
+physical: 9
+
+deking: 83
+hand_eye: 83
+passing: 83
+puck_control: 83
+
+discipline: 85
+offensive_awareness: 83
+poise: 80
+
+slap_shot_accuracy: 83
+slap_shot_power: 87
+wrist_shot_accuracy: 83
+wrist_shot_power: 85
+
+defensive_awareness: 85
+faceoffs: 80
+shot_blocking: 84
+stick_checking: 85
+
+acceleration: 85
+agility: 85
+balance: 89
+endurance: 84
+speed: 85
+
+aggressiveness: 85
+body_checking: 87
+durability: 85
+fighting_skill: 77
+strength: 89

@@ -1,0 +1,65 @@
+nhlcom_id: 8474176
+
+country_abbrev: swe
+team_abbrev: pit
+
+first_name: Carl
+last_name: Hagelin
+number: 62
+born: 1988-08-23
+
+potential: 12
+
+salary: 4.0
+years_left: 2
+
+height: 180
+weight: 84
+position: lw
+type: sniper
+shoots: left
+
+draft_team_abbrev: nyr
+draft_year: 2007
+draft_round: 6
+draft_overall: 168
+
+overall: 81
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 8
+skating: 9
+physical: 8
+
+deking: 86
+hand_eye: 85
+passing: 84
+puck_control: 85
+
+discipline: 87
+offensive_awareness: 84
+poise: 83
+
+slap_shot_accuracy: 84
+slap_shot_power: 85
+wrist_shot_accuracy: 85
+wrist_shot_power: 86
+
+defensive_awareness: 85
+faceoffs: 60
+shot_blocking: 83
+stick_checking: 85
+
+acceleration: 89
+agility: 88
+balance: 85
+endurance: 82
+speed: 90
+
+aggressiveness: 84
+body_checking: 84
+durability: 84
+fighting_skill: 70
+strength: 85

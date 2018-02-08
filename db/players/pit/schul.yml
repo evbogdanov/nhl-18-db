@@ -1,0 +1,65 @@
+nhlcom_id: 8474602
+
+country_abbrev: can
+team_abbrev: pit
+
+first_name: Justin
+last_name: Schultz
+number: 4
+born: 1990-07-06
+
+potential: 16
+
+salary: 5.5
+years_left: 3
+
+height: 188
+weight: 87
+position: d
+type: offensive defenseman
+shoots: right
+
+draft_team_abbrev: ana
+draft_year: 2008
+draft_round: 2
+draft_overall: 43
+
+overall: 83
+
+puck_skills: 9
+senses: 9
+shooting: 8
+defense: 8
+skating: 9
+physical: 8
+
+deking: 88
+hand_eye: 84
+passing: 89
+puck_control: 89
+
+discipline: 90
+offensive_awareness: 89
+poise: 85
+
+slap_shot_accuracy: 84
+slap_shot_power: 88
+wrist_shot_accuracy: 84
+wrist_shot_power: 87
+
+defensive_awareness: 86
+faceoffs: 55
+shot_blocking: 84
+stick_checking: 86
+
+acceleration: 89
+agility: 89
+balance: 85
+endurance: 85
+speed: 89
+
+aggressiveness: 80
+body_checking: 82
+durability: 85
+fighting_skill: 65
+strength: 86

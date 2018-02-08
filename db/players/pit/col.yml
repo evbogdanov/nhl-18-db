@@ -1,0 +1,65 @@
+nhlcom_id: 8474013
+
+country_abbrev: usa
+team_abbrev: pit
+
+first_name: Ian
+last_name: Cole
+number: 28
+born: 1989-02-21
+
+potential: 16
+
+salary: 2.1
+years_left: 1
+
+height: 185
+weight: 99
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: stl
+draft_year: 2007
+draft_round: 1
+draft_overall: 18
+
+overall: 81
+
+puck_skills: 7
+senses: 7
+shooting: 7
+defense: 8
+skating: 8
+physical: 9
+
+deking: 75
+hand_eye: 75
+passing: 83
+puck_control: 83
+
+discipline: 70
+offensive_awareness: 82
+poise: 80
+
+slap_shot_accuracy: 73
+slap_shot_power: 88
+wrist_shot_accuracy: 75
+wrist_shot_power: 87
+
+defensive_awareness: 85
+faceoffs: 55
+shot_blocking: 88
+stick_checking: 88
+
+acceleration: 84
+agility: 84
+balance: 88
+endurance: 80
+speed: 85
+
+aggressiveness: 88
+body_checking: 88
+durability: 82
+fighting_skill: 75
+strength: 88

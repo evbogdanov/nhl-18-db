@@ -1,0 +1,65 @@
+nhlcom_id: 8471817
+
+country_abbrev: can
+team_abbrev: pit
+
+first_name: Ryan
+last_name: Reaves
+number: 75
+born: 1987-01-20
+
+potential: 28
+
+salary: 1.125
+years_left: 1
+
+height: 185
+weight: 101
+position: rw
+type: grinder
+shoots: right
+
+draft_team_abbrev: stl
+draft_year: 2005
+draft_round: 5
+draft_overall: 156
+
+overall: 77
+
+puck_skills: 6
+senses: 5
+shooting: 7
+defense: 7
+skating: 8
+physical: 10
+
+deking: 80
+hand_eye: 80
+passing: 80
+puck_control: 80
+
+discipline: 60
+offensive_awareness: 78
+poise: 75
+
+slap_shot_accuracy: 80
+slap_shot_power: 87
+wrist_shot_accuracy: 80
+wrist_shot_power: 86
+
+defensive_awareness: 82
+faceoffs: 60
+shot_blocking: 82
+stick_checking: 84
+
+acceleration: 84
+agility: 83
+balance: 92
+endurance: 82
+speed: 84
+
+aggressiveness: 93
+body_checking: 92
+durability: 84
+fighting_skill: 88
+strength: 92

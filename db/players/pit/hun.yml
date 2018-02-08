@@ -1,0 +1,65 @@
+nhlcom_id: 8471436
+
+country_abbrev: usa
+team_abbrev: pit
+
+first_name: Matt
+last_name: Hunwick
+number: 22
+born: 1985-05-21
+
+potential: 24
+
+salary: 2.25
+years_left: 3
+
+height: 180
+weight: 91
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: bos
+draft_year: 2004
+draft_round: 7
+draft_overall: 224
+
+overall: 80
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 8
+skating: 8
+physical: 8
+
+deking: 77
+hand_eye: 74
+passing: 82
+puck_control: 81
+
+discipline: 85
+offensive_awareness: 81
+poise: 80
+
+slap_shot_accuracy: 75
+slap_shot_power: 86
+wrist_shot_accuracy: 76
+wrist_shot_power: 86
+
+defensive_awareness: 86
+faceoffs: 55
+shot_blocking: 87
+stick_checking: 87
+
+acceleration: 84
+agility: 84
+balance: 85
+endurance: 85
+speed: 84
+
+aggressiveness: 85
+body_checking: 85
+durability: 85
+fighting_skill: 75
+strength: 85
