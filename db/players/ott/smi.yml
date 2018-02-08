@@ -1,0 +1,65 @@
+nhlcom_id: 8474250
+
+country_abbrev: can
+team_abbrev: ott
+
+first_name: Zack
+last_name: Smith
+number: 15
+born: 1988-04-05
+
+potential: 20
+
+salary: 3.25
+years_left: 4
+
+height: 188
+weight: 95
+position: c
+type: grinder
+shoots: left
+
+draft_team_abbrev: ott
+draft_year: 2008
+draft_round: 3
+draft_overall: 79
+
+overall: 80
+
+puck_skills: 7
+senses: 7
+shooting: 8
+defense: 8
+skating: 8
+physical: 9
+
+deking: 82
+hand_eye: 84
+passing: 83
+puck_control: 83
+
+discipline: 65
+offensive_awareness: 83
+poise: 80
+
+slap_shot_accuracy: 83
+slap_shot_power: 87
+wrist_shot_accuracy: 84
+wrist_shot_power: 87
+
+defensive_awareness: 85
+faceoffs: 77
+shot_blocking: 85
+stick_checking: 87
+
+acceleration: 83
+agility: 83
+balance: 89
+endurance: 83
+speed: 84
+
+aggressiveness: 90
+body_checking: 88
+durability: 85
+fighting_skill: 84
+strength: 89

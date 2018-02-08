@@ -1,0 +1,65 @@
+nhlcom_id: 8469665
+
+country_abbrev: swe
+team_abbrev: ott
+
+first_name: Johnny
+last_name: Oduya
+number: 29
+born: 1981-10-01
+
+potential: 24
+
+salary: 1.0
+years_left: 1
+
+height: 183
+weight: 88
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: wsh
+draft_year: 2001
+draft_round: 7
+draft_overall: 221
+
+overall: 78
+
+puck_skills: 6
+senses: 7
+shooting: 7
+defense: 8
+skating: 7
+physical: 7
+
+deking: 75
+hand_eye: 75
+passing: 81
+puck_control: 81
+
+discipline: 84
+offensive_awareness: 82
+poise: 83
+
+slap_shot_accuracy: 75
+slap_shot_power: 85
+wrist_shot_accuracy: 77
+wrist_shot_power: 85
+
+defensive_awareness: 85
+faceoffs: 55
+shot_blocking: 83
+stick_checking: 85
+
+acceleration: 83
+agility: 83
+balance: 83
+endurance: 83
+speed: 85
+
+aggressiveness: 80
+body_checking: 82
+durability: 80
+fighting_skill: 75
+strength: 84

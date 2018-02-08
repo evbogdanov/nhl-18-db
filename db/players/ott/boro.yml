@@ -1,0 +1,65 @@
+nhlcom_id: 8474697
+
+country_abbrev: can
+team_abbrev: ott
+
+first_name: Mark
+last_name: Borowiecki
+number: 74
+born: 1989-07-12
+
+potential: 24
+
+salary: 1.1
+years_left: 1
+
+height: 188
+weight: 93
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: ott
+draft_year: 2008
+draft_round: 5
+draft_overall: 139
+
+overall: 78
+
+puck_skills: 6
+senses: 5
+shooting: 7
+defense: 8
+skating: 7
+physical: 9
+
+deking: 70
+hand_eye: 70
+passing: 80
+puck_control: 78
+
+discipline: 65
+offensive_awareness: 77
+poise: 75
+
+slap_shot_accuracy: 70
+slap_shot_power: 87
+wrist_shot_accuracy: 73
+wrist_shot_power: 86
+
+defensive_awareness: 84
+faceoffs: 60
+shot_blocking: 85
+stick_checking: 87
+
+acceleration: 82
+agility: 82
+balance: 88
+endurance: 83
+speed: 82
+
+aggressiveness: 93
+body_checking: 88
+durability: 84
+fighting_skill: 85
+strength: 88

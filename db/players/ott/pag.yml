@@ -1,0 +1,65 @@
+nhlcom_id: 8476419
+
+country_abbrev: can
+team_abbrev: ott
+
+first_name: Jean-Gabriel
+last_name: Pageau
+number: 44
+born: 1992-11-11
+
+potential: 10
+
+salary: 3.1
+years_left: 3
+
+height: 178
+weight: 82
+position: c
+type: playmaker
+shoots: right
+
+draft_team_abbrev: ott
+draft_year: 2011
+draft_round: 4
+draft_overall: 96
+
+overall: 80
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 8
+skating: 8
+physical: 6
+
+deking: 88
+hand_eye: 85
+passing: 85
+puck_control: 85
+
+discipline: 85
+offensive_awareness: 84
+poise: 75
+
+slap_shot_accuracy: 84
+slap_shot_power: 85
+wrist_shot_accuracy: 85
+wrist_shot_power: 85
+
+defensive_awareness: 85
+faceoffs: 81
+shot_blocking: 75
+stick_checking: 86
+
+acceleration: 88
+agility: 88
+balance: 80
+endurance: 82
+speed: 88
+
+aggressiveness: 80
+body_checking: 75
+durability: 85
+fighting_skill: 65
+strength: 80

@@ -1,0 +1,65 @@
+nhlcom_id: 8475913
+
+country_abbrev: can
+team_abbrev: ott
+
+first_name: Mark
+last_name: Stone
+number: 61
+born: 1992-05-13
+
+potential: 10
+
+salary: 3.5
+years_left: 1
+
+height: 191
+weight: 93
+position: rw
+type: power forward
+shoots: right
+
+draft_team_abbrev: ott
+draft_year: 2010
+draft_round: 6
+draft_overall: 178
+
+overall: 86
+
+puck_skills: 9
+senses: 9
+shooting: 9
+defense: 9
+skating: 8
+physical: 9
+
+deking: 87
+hand_eye: 88
+passing: 89
+puck_control: 89
+
+discipline: 75
+offensive_awareness: 89
+poise: 85
+
+slap_shot_accuracy: 88
+slap_shot_power: 91
+wrist_shot_accuracy: 89
+wrist_shot_power: 90
+
+defensive_awareness: 88
+faceoffs: 60
+shot_blocking: 82
+stick_checking: 88
+
+acceleration: 84
+agility: 84
+balance: 89
+endurance: 85
+speed: 85
+
+aggressiveness: 88
+body_checking: 88
+durability: 85
+fighting_skill: 75
+strength: 89

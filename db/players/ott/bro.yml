@@ -1,0 +1,65 @@
+nhlcom_id: 8479366
+
+country_abbrev: usa
+team_abbrev: ott
+
+first_name: Logan
+last_name: Brown
+number: 21
+born: 1998-03-05
+
+potential: 10
+
+salary: 0.925
+years_left: 3
+
+height: 196
+weight: 100
+position: c
+type: power forward
+shoots: left
+
+draft_team_abbrev: ott
+draft_year: 2016
+draft_round: 1
+draft_overall: 11
+
+overall: 75
+
+puck_skills: 6
+senses: 7
+shooting: 6
+defense: 6
+skating: 7
+physical: 8
+
+deking: 80
+hand_eye: 78
+passing: 81
+puck_control: 80
+
+discipline: 80
+offensive_awareness: 83
+poise: 75
+
+slap_shot_accuracy: 76
+slap_shot_power: 85
+wrist_shot_accuracy: 76
+wrist_shot_power: 84
+
+defensive_awareness: 80
+faceoffs: 75
+shot_blocking: 74
+stick_checking: 84
+
+acceleration: 82
+agility: 85
+balance: 87
+endurance: 77
+speed: 82
+
+aggressiveness: 80
+body_checking: 80
+durability: 85
+fighting_skill: 80
+strength: 87

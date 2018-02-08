@@ -1,0 +1,65 @@
+nhlcom_id: 8474018
+
+country_abbrev: can
+team_abbrev: ott
+
+first_name: Christopher
+last_name: DiDomenico
+number: 49
+born: 1989-02-20
+
+potential: 28
+
+salary: 0.65
+years_left: 1
+
+height: 185
+weight: 82
+position: rw
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: tor
+draft_year: 2007
+draft_round: 6
+draft_overall: 164
+
+overall: 75
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 6
+skating: 7
+physical: 7
+
+deking: 78
+hand_eye: 79
+passing: 80
+puck_control: 79
+
+discipline: 75
+offensive_awareness: 79
+poise: 75
+
+slap_shot_accuracy: 80
+slap_shot_power: 85
+wrist_shot_accuracy: 80
+wrist_shot_power: 85
+
+defensive_awareness: 80
+faceoffs: 65
+shot_blocking: 83
+stick_checking: 83
+
+acceleration: 81
+agility: 84
+balance: 84
+endurance: 80
+speed: 86
+
+aggressiveness: 81
+body_checking: 84
+durability: 80
+fighting_skill: 75
+strength: 84

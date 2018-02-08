@@ -1,0 +1,65 @@
+nhlcom_id: 8470358
+
+country_abbrev: can
+team_abbrev: ott
+
+first_name: Alexandre
+last_name: Burrows
+number: 14
+born: 1981-04-11
+
+potential: 20
+
+salary: 2.5
+years_left: 2
+
+height: 185
+weight: 89
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 78
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 8
+skating: 8
+physical: 8
+
+deking: 82
+hand_eye: 83
+passing: 82
+puck_control: 82
+
+discipline: 75
+offensive_awareness: 80
+poise: 85
+
+slap_shot_accuracy: 81
+slap_shot_power: 86
+wrist_shot_accuracy: 81
+wrist_shot_power: 85
+
+defensive_awareness: 84
+faceoffs: 70
+shot_blocking: 85
+stick_checking: 87
+
+acceleration: 84
+agility: 84
+balance: 85
+endurance: 82
+speed: 85
+
+aggressiveness: 87
+body_checking: 86
+durability: 75
+fighting_skill: 75
+strength: 85

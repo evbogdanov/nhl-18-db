@@ -1,0 +1,65 @@
+nhlcom_id: 8476288
+
+country_abbrev: usa
+team_abbrev: ott
+
+first_name: Ryan
+last_name: Dzingel
+number: 18
+born: 1992-03-09
+
+potential: 18
+
+salary: 1.8
+years_left: 2
+
+height: 183
+weight: 86
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: ott
+draft_year: 2011
+draft_round: 7
+draft_overall: 204
+
+overall: 78
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 8
+
+deking: 83
+hand_eye: 83
+passing: 83
+puck_control: 83
+
+discipline: 82
+offensive_awareness: 81
+poise: 75
+
+slap_shot_accuracy: 83
+slap_shot_power: 85
+wrist_shot_accuracy: 83
+wrist_shot_power: 85
+
+defensive_awareness: 83
+faceoffs: 75
+shot_blocking: 80
+stick_checking: 84
+
+acceleration: 86
+agility: 86
+balance: 85
+endurance: 84
+speed: 86
+
+aggressiveness: 83
+body_checking: 83
+durability: 85
+fighting_skill: 75
+strength: 85

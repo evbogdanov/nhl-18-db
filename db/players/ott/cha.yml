@@ -1,0 +1,65 @@
+nhlcom_id: 8478469
+
+country_abbrev: can
+team_abbrev: ott
+
+first_name: Thomas
+last_name: Chabot
+number: 72
+born: 1997-01-30
+
+potential: 7
+
+salary: 0.925
+years_left: 3
+
+height: 188
+weight: 86
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: ott
+draft_year: 2015
+draft_round: 1
+draft_overall: 18
+
+overall: 76
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 6
+
+deking: 77
+hand_eye: 72
+passing: 82
+puck_control: 83
+
+discipline: 84
+offensive_awareness: 82
+poise: 72
+
+slap_shot_accuracy: 75
+slap_shot_power: 88
+wrist_shot_accuracy: 76
+wrist_shot_power: 87
+
+defensive_awareness: 82
+faceoffs: 55
+shot_blocking: 84
+stick_checking: 84
+
+acceleration: 85
+agility: 84
+balance: 82
+endurance: 80
+speed: 86
+
+aggressiveness: 79
+body_checking: 77
+durability: 87
+fighting_skill: 73
+strength: 83
