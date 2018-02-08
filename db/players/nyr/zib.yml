@@ -1,0 +1,65 @@
+nhlcom_id: 8476459
+
+country_abbrev: swe
+team_abbrev: nyr
+
+first_name: Mika
+last_name: Zibanejad
+number: 93
+born: 1993-04-18
+
+potential: 6
+
+salary: 5.35
+years_left: 5
+
+height: 188
+weight: 97
+position: c
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: ott
+draft_year: 2011
+draft_round: 1
+draft_overall: 6
+
+overall: 84
+
+puck_skills: 9
+senses: 8
+shooting: 9
+defense: 8
+skating: 9
+physical: 8
+
+deking: 88
+hand_eye: 87
+passing: 87
+puck_control: 88
+
+discipline: 88
+offensive_awareness: 87
+poise: 80
+
+slap_shot_accuracy: 86
+slap_shot_power: 88
+wrist_shot_accuracy: 87
+wrist_shot_power: 87
+
+defensive_awareness: 85
+faceoffs: 79
+shot_blocking: 83
+stick_checking: 87
+
+acceleration: 89
+agility: 89
+balance: 87
+endurance: 85
+speed: 89
+
+aggressiveness: 85
+body_checking: 85
+durability: 85
+fighting_skill: 75
+strength: 88

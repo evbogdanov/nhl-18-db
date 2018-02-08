@@ -1,0 +1,65 @@
+nhlcom_id: 8471976
+
+country_abbrev: can
+team_abbrev: nyr
+
+first_name: David
+last_name: Desharnais
+number: 51
+born: 1986-09-14
+
+potential: 28
+
+salary: 1.0
+years_left: 1
+
+height: 170
+weight: 77
+position: c
+type: playmaker
+shoots: left
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 77
+
+puck_skills: 8
+senses: 7
+shooting: 7
+defense: 7
+skating: 8
+physical: 4
+
+deking: 89
+hand_eye: 83
+passing: 84
+puck_control: 84
+
+discipline: 88
+offensive_awareness: 83
+poise: 80
+
+slap_shot_accuracy: 82
+slap_shot_power: 85
+wrist_shot_accuracy: 83
+wrist_shot_power: 84
+
+defensive_awareness: 83
+faceoffs: 80
+shot_blocking: 73
+stick_checking: 83
+
+acceleration: 88
+agility: 88
+balance: 80
+endurance: 83
+speed: 88
+
+aggressiveness: 70
+body_checking: 70
+durability: 83
+fighting_skill: 65
+strength: 75

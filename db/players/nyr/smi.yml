@@ -1,0 +1,65 @@
+nhlcom_id: 8474090
+
+country_abbrev: can
+team_abbrev: nyr
+
+first_name: Brendan
+last_name: Smith
+number: 42
+born: 1989-02-08
+
+potential: 16
+
+salary: 4.35
+years_left: 4
+
+height: 188
+weight: 96
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: det
+draft_year: 2007
+draft_round: 1
+draft_overall: 27
+
+overall: 81
+
+puck_skills: 7
+senses: 7
+shooting: 7
+defense: 8
+skating: 8
+physical: 8
+
+deking: 82
+hand_eye: 76
+passing: 83
+puck_control: 82
+
+discipline: 70
+offensive_awareness: 82
+poise: 80
+
+slap_shot_accuracy: 76
+slap_shot_power: 88
+wrist_shot_accuracy: 77
+wrist_shot_power: 87
+
+defensive_awareness: 86
+faceoffs: 55
+shot_blocking: 87
+stick_checking: 87
+
+acceleration: 84
+agility: 84
+balance: 87
+endurance: 85
+speed: 86
+
+aggressiveness: 87
+body_checking: 87
+durability: 85
+fighting_skill: 75
+strength: 87

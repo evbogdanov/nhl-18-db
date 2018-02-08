@@ -1,0 +1,65 @@
+nhlcom_id: 8471686
+
+country_abbrev: can
+team_abbrev: nyr
+
+first_name: Marc
+last_name: Staal
+number: 18
+born: 1987-01-13
+
+potential: 16
+
+salary: 5.7
+years_left: 4
+
+height: 193
+weight: 95
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: nyr
+draft_year: 2005
+draft_round: 1
+draft_overall: 12
+
+overall: 81
+
+puck_skills: 7
+senses: 7
+shooting: 7
+defense: 8
+skating: 8
+physical: 8
+
+deking: 77
+hand_eye: 75
+passing: 83
+puck_control: 81
+
+discipline: 82
+offensive_awareness: 81
+poise: 85
+
+slap_shot_accuracy: 77
+slap_shot_power: 86
+wrist_shot_accuracy: 78
+wrist_shot_power: 85
+
+defensive_awareness: 86
+faceoffs: 55
+shot_blocking: 87
+stick_checking: 89
+
+acceleration: 84
+agility: 85
+balance: 87
+endurance: 90
+speed: 84
+
+aggressiveness: 85
+body_checking: 87
+durability: 85
+fighting_skill: 75
+strength: 85

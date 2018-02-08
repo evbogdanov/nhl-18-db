@@ -1,0 +1,65 @@
+nhlcom_id: 8476918
+
+country_abbrev: usa
+team_abbrev: nyr
+
+first_name: Jimmy
+last_name: Vesey
+number: 26
+born: 1993-05-26
+
+potential: 10
+
+salary: 0.925
+years_left: 1
+
+height: 191
+weight: 94
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: nsh
+draft_year: 2012
+draft_round: 3
+draft_overall: 66
+
+overall: 79
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 7
+skating: 8
+physical: 7
+
+deking: 85
+hand_eye: 84
+passing: 84
+puck_control: 84
+
+discipline: 83
+offensive_awareness: 83
+poise: 75
+
+slap_shot_accuracy: 84
+slap_shot_power: 86
+wrist_shot_accuracy: 84
+wrist_shot_power: 86
+
+defensive_awareness: 84
+faceoffs: 60
+shot_blocking: 80
+stick_checking: 84
+
+acceleration: 86
+agility: 86
+balance: 85
+endurance: 83
+speed: 86
+
+aggressiveness: 82
+body_checking: 82
+durability: 85
+fighting_skill: 75
+strength: 85

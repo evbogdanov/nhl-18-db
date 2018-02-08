@@ -1,0 +1,65 @@
+nhlcom_id: 8474207
+
+country_abbrev: can
+team_abbrev: nyr
+
+first_name: Nick
+last_name: Holden
+number: 55
+born: 1987-05-15
+
+potential: 16
+
+salary: 1.65
+years_left: 1
+
+height: 193
+weight: 97
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 81
+
+puck_skills: 7
+senses: 7
+shooting: 8
+defense: 8
+skating: 8
+physical: 8
+
+deking: 80
+hand_eye: 78
+passing: 84
+puck_control: 83
+
+discipline: 86
+offensive_awareness: 83
+poise: 80
+
+slap_shot_accuracy: 77
+slap_shot_power: 88
+wrist_shot_accuracy: 80
+wrist_shot_power: 87
+
+defensive_awareness: 86
+faceoffs: 60
+shot_blocking: 87
+stick_checking: 87
+
+acceleration: 84
+agility: 84
+balance: 86
+endurance: 85
+speed: 84
+
+aggressiveness: 85
+body_checking: 85
+durability: 85
+fighting_skill: 75
+strength: 87

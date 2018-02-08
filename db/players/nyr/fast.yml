@@ -1,0 +1,65 @@
+nhlcom_id: 8475855
+
+country_abbrev: swe
+team_abbrev: nyr
+
+first_name: Jesper
+last_name: Fast
+number: 17
+born: 1991-12-02
+
+potential: 18
+
+salary: 1.85
+years_left: 3
+
+height: 183
+weight: 86
+position: rw
+type: sniper
+shoots: right
+
+draft_team_abbrev: nyr
+draft_year: 2010
+draft_round: 6
+draft_overall: 157
+
+overall: 77
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 6
+
+deking: 85
+hand_eye: 83
+passing: 83
+puck_control: 83
+
+discipline: 88
+offensive_awareness: 82
+poise: 75
+
+slap_shot_accuracy: 83
+slap_shot_power: 85
+wrist_shot_accuracy: 83
+wrist_shot_power: 85
+
+defensive_awareness: 82
+faceoffs: 70
+shot_blocking: 77
+stick_checking: 84
+
+acceleration: 88
+agility: 88
+balance: 82
+endurance: 82
+speed: 88
+
+aggressiveness: 72
+body_checking: 72
+durability: 83
+fighting_skill: 69
+strength: 82

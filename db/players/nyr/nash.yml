@@ -1,0 +1,65 @@
+nhlcom_id: 8470041
+
+country_abbrev: can
+team_abbrev: nyr
+
+first_name: Rick
+last_name: Nash
+number: 61
+born: 1984-06-16
+
+potential: 12
+
+salary: 7.8
+years_left: 1
+
+height: 193
+weight: 96
+position: lw
+type: power forward
+shoots: left
+
+draft_team_abbrev: cbj
+draft_year: 2002
+draft_round: 1
+draft_overall: 1
+
+overall: 82
+
+puck_skills: 8
+senses: 8
+shooting: 9
+defense: 7
+skating: 8
+physical: 9
+
+deking: 86
+hand_eye: 86
+passing: 86
+puck_control: 86
+
+discipline: 80
+offensive_awareness: 85
+poise: 85
+
+slap_shot_accuracy: 86
+slap_shot_power: 88
+wrist_shot_accuracy: 87
+wrist_shot_power: 88
+
+defensive_awareness: 83
+faceoffs: 65
+shot_blocking: 80
+stick_checking: 87
+
+acceleration: 85
+agility: 85
+balance: 90
+endurance: 85
+speed: 87
+
+aggressiveness: 84
+body_checking: 85
+durability: 85
+fighting_skill: 75
+strength: 90

@@ -1,0 +1,65 @@
+nhlcom_id: 8475692
+
+country_abbrev: nor
+team_abbrev: nyr
+
+first_name: Mats
+last_name: Zuccarello
+number: 36
+born: 1987-09-01
+
+potential: 12
+
+salary: 4.5
+years_left: 2
+
+height: 170
+weight: 81
+position: rw
+type: playmaker
+shoots: left
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 84
+
+puck_skills: 9
+senses: 8
+shooting: 9
+defense: 8
+skating: 9
+physical: 6
+
+deking: 90
+hand_eye: 89
+passing: 88
+puck_control: 88
+
+discipline: 90
+offensive_awareness: 88
+poise: 80
+
+slap_shot_accuracy: 88
+slap_shot_power: 88
+wrist_shot_accuracy: 87
+wrist_shot_power: 87
+
+defensive_awareness: 86
+faceoffs: 60
+shot_blocking: 80
+stick_checking: 87
+
+acceleration: 92
+agility: 92
+balance: 80
+endurance: 85
+speed: 92
+
+aggressiveness: 80
+body_checking: 75
+durability: 85
+fighting_skill: 65
+strength: 80

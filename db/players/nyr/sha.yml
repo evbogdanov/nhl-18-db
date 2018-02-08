@@ -1,0 +1,65 @@
+nhlcom_id: 8474031
+
+country_abbrev: usa
+team_abbrev: nyr
+
+first_name: Kevin
+last_name: Shattenkirk
+number: 22
+born: 1989-01-29
+
+potential: 16
+
+salary: 6.65
+years_left: 4
+
+height: 183
+weight: 92
+position: d
+type: offensive defenseman
+shoots: right
+
+draft_team_abbrev: col
+draft_year: 2007
+draft_round: 1
+draft_overall: 14
+
+overall: 84
+
+puck_skills: 10
+senses: 10
+shooting: 8
+defense: 8
+skating: 9
+physical: 8
+
+deking: 87
+hand_eye: 82
+passing: 92
+puck_control: 92
+
+discipline: 85
+offensive_awareness: 92
+poise: 85
+
+slap_shot_accuracy: 80
+slap_shot_power: 88
+wrist_shot_accuracy: 81
+wrist_shot_power: 88
+
+defensive_awareness: 86
+faceoffs: 55
+shot_blocking: 84
+stick_checking: 86
+
+acceleration: 89
+agility: 89
+balance: 85
+endurance: 88
+speed: 89
+
+aggressiveness: 82
+body_checking: 84
+durability: 87
+fighting_skill: 65
+strength: 85

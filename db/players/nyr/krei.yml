@@ -1,0 +1,65 @@
+nhlcom_id: 8475184
+
+country_abbrev: usa
+team_abbrev: nyr
+
+first_name: Chris
+last_name: Kreider
+number: 20
+born: 1991-04-30
+
+potential: 10
+
+salary: 4.625
+years_left: 3
+
+height: 191
+weight: 103
+position: lw
+type: power forward
+shoots: left
+
+draft_team_abbrev: nyr
+draft_year: 2009
+draft_round: 1
+draft_overall: 19
+
+overall: 83
+
+puck_skills: 8
+senses: 8
+shooting: 9
+defense: 8
+skating: 9
+physical: 10
+
+deking: 86
+hand_eye: 86
+passing: 86
+puck_control: 86
+
+discipline: 80
+offensive_awareness: 85
+poise: 80
+
+slap_shot_accuracy: 86
+slap_shot_power: 88
+wrist_shot_accuracy: 87
+wrist_shot_power: 88
+
+defensive_awareness: 84
+faceoffs: 67
+shot_blocking: 80
+stick_checking: 86
+
+acceleration: 87
+agility: 85
+balance: 92
+endurance: 85
+speed: 89
+
+aggressiveness: 87
+body_checking: 89
+durability: 85
+fighting_skill: 80
+strength: 92

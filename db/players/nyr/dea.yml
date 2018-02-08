@@ -1,0 +1,65 @@
+nhlcom_id: 8477950
+
+country_abbrev: usa
+team_abbrev: nyr
+
+first_name: Tony
+last_name: DeAngelo
+number: 77
+born: 1995-10-24
+
+potential: 14
+
+salary: 0.895
+years_left: 1
+
+height: 180
+weight: 76
+position: d
+type: offensive defenseman
+shoots: right
+
+draft_team_abbrev: tbl
+draft_year: 2014
+draft_round: 1
+draft_overall: 19
+
+overall: 77
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 7
+skating: 8
+physical: 6
+
+deking: 88
+hand_eye: 84
+passing: 87
+puck_control: 87
+
+discipline: 80
+offensive_awareness: 84
+poise: 75
+
+slap_shot_accuracy: 81
+slap_shot_power: 87
+wrist_shot_accuracy: 83
+wrist_shot_power: 86
+
+defensive_awareness: 82
+faceoffs: 60
+shot_blocking: 81
+stick_checking: 82
+
+acceleration: 88
+agility: 86
+balance: 80
+endurance: 82
+speed: 87
+
+aggressiveness: 81
+body_checking: 79
+durability: 85
+fighting_skill: 67
+strength: 82

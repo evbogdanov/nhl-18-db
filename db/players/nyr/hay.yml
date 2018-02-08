@@ -1,0 +1,65 @@
+nhlcom_id: 8475763
+
+country_abbrev: usa
+team_abbrev: nyr
+
+first_name: Kevin
+last_name: Hayes
+number: 13
+born: 1992-05-08
+
+potential: 10
+
+salary: 2.6
+years_left: 1
+
+height: 196
+weight: 97
+position: c
+type: power forward
+shoots: left
+
+draft_team_abbrev: chi
+draft_year: 2010
+draft_round: 1
+draft_overall: 24
+
+overall: 82
+
+puck_skills: 8
+senses: 8
+shooting: 8
+defense: 8
+skating: 8
+physical: 9
+
+deking: 85
+hand_eye: 85
+passing: 85
+puck_control: 85
+
+discipline: 80
+offensive_awareness: 85
+poise: 80
+
+slap_shot_accuracy: 85
+slap_shot_power: 89
+wrist_shot_accuracy: 86
+wrist_shot_power: 88
+
+defensive_awareness: 85
+faceoffs: 73
+shot_blocking: 80
+stick_checking: 85
+
+acceleration: 85
+agility: 85
+balance: 90
+endurance: 84
+speed: 85
+
+aggressiveness: 85
+body_checking: 87
+durability: 85
+fighting_skill: 80
+strength: 90
