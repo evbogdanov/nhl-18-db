@@ -1,0 +1,65 @@
+nhlcom_id: 8473584
+
+country_abbrev: can
+team_abbrev: phi
+
+first_name: Andrew
+last_name: MacDonald
+number: 47
+born: 1986-09-07
+
+potential: 32
+
+salary: 5.0
+years_left: 3
+
+height: 185
+weight: 92
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: nyi
+draft_year: 2006
+draft_round: 6
+draft_overall: 160
+
+overall: 76
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 7
+skating: 7
+physical: 7
+
+deking: 82
+hand_eye: 77
+passing: 81
+puck_control: 81
+
+discipline: 87
+offensive_awareness: 82
+poise: 75
+
+slap_shot_accuracy: 77
+slap_shot_power: 85
+wrist_shot_accuracy: 77
+wrist_shot_power: 85
+
+defensive_awareness: 83
+faceoffs: 55
+shot_blocking: 82
+stick_checking: 82
+
+acceleration: 84
+agility: 83
+balance: 83
+endurance: 84
+speed: 85
+
+aggressiveness: 83
+body_checking: 81
+durability: 80
+fighting_skill: 70
+strength: 84

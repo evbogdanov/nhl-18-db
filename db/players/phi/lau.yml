@@ -1,0 +1,65 @@
+nhlcom_id: 8476872
+
+country_abbrev: can
+team_abbrev: phi
+
+first_name: Scott
+last_name: Laughton
+number: 21
+born: 1994-05-30
+
+potential: 18
+
+salary: 0.965
+years_left: 2
+
+height: 185
+weight: 86
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: phi
+draft_year: 2012
+draft_round: 1
+draft_overall: 20
+
+overall: 77
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 7
+skating: 7
+physical: 8
+
+deking: 83
+hand_eye: 83
+passing: 83
+puck_control: 83
+
+discipline: 75
+offensive_awareness: 81
+poise: 75
+
+slap_shot_accuracy: 83
+slap_shot_power: 85
+wrist_shot_accuracy: 83
+wrist_shot_power: 84
+
+defensive_awareness: 81
+faceoffs: 80
+shot_blocking: 83
+stick_checking: 83
+
+acceleration: 83
+agility: 83
+balance: 86
+endurance: 83
+speed: 84
+
+aggressiveness: 87
+body_checking: 86
+durability: 80
+fighting_skill: 78
+strength: 86

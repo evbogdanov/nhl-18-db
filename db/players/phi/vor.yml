@@ -1,0 +1,65 @@
+nhlcom_id: 8474161
+
+country_abbrev: cze
+team_abbrev: phi
+
+first_name: Jakub
+last_name: Voracek
+number: 93
+born: 1989-08-15
+
+potential: 8
+
+salary: 8.25
+years_left: 7
+
+height: 188
+weight: 97
+position: rw
+type: playmaker
+shoots: left
+
+draft_team_abbrev: cbj
+draft_year: 2007
+draft_round: 1
+draft_overall: 7
+
+overall: 87
+
+puck_skills: 10
+senses: 9
+shooting: 10
+defense: 8
+skating: 9
+physical: 8
+
+deking: 90
+hand_eye: 90
+passing: 91
+puck_control: 91
+
+discipline: 87
+offensive_awareness: 91
+poise: 85
+
+slap_shot_accuracy: 90
+slap_shot_power: 92
+wrist_shot_accuracy: 90
+wrist_shot_power: 91
+
+defensive_awareness: 87
+faceoffs: 60
+shot_blocking: 82
+stick_checking: 86
+
+acceleration: 89
+agility: 89
+balance: 88
+endurance: 85
+speed: 89
+
+aggressiveness: 82
+body_checking: 83
+durability: 87
+fighting_skill: 75
+strength: 88

@@ -1,0 +1,65 @@
+nhlcom_id: 8474190
+
+country_abbrev: can
+team_abbrev: phi
+
+first_name: Wayne
+last_name: Simmonds
+number: 17
+born: 1988-08-26
+
+potential: 12
+
+salary: 3.975
+years_left: 2
+
+height: 188
+weight: 84
+position: rw
+type: power forward
+shoots: right
+
+draft_team_abbrev: lak
+draft_year: 2007
+draft_round: 2
+draft_overall: 61
+
+overall: 86
+
+puck_skills: 9
+senses: 8
+shooting: 9
+defense: 9
+skating: 9
+physical: 9
+
+deking: 88
+hand_eye: 89
+passing: 87
+puck_control: 88
+
+discipline: 70
+offensive_awareness: 87
+poise: 85
+
+slap_shot_accuracy: 88
+slap_shot_power: 89
+wrist_shot_accuracy: 89
+wrist_shot_power: 88
+
+defensive_awareness: 88
+faceoffs: 70
+shot_blocking: 84
+stick_checking: 88
+
+acceleration: 88
+agility: 88
+balance: 87
+endurance: 85
+speed: 88
+
+aggressiveness: 90
+body_checking: 88
+durability: 88
+fighting_skill: 80
+strength: 89

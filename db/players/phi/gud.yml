@@ -1,0 +1,65 @@
+nhlcom_id: 8475462
+
+country_abbrev: cze
+team_abbrev: phi
+
+first_name: Radko
+last_name: Gudas
+number: 3
+born: 1990-06-05
+
+potential: 24
+
+salary: 3.35
+years_left: 3
+
+height: 183
+weight: 92
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: tbl
+draft_year: 2010
+draft_round: 3
+draft_overall: 66
+
+overall: 78
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 7
+skating: 7
+physical: 9
+
+deking: 75
+hand_eye: 75
+passing: 80
+puck_control: 80
+
+discipline: 60
+offensive_awareness: 81
+poise: 75
+
+slap_shot_accuracy: 73
+slap_shot_power: 87
+wrist_shot_accuracy: 74
+wrist_shot_power: 86
+
+defensive_awareness: 83
+faceoffs: 60
+shot_blocking: 87
+stick_checking: 86
+
+acceleration: 80
+agility: 83
+balance: 87
+endurance: 84
+speed: 83
+
+aggressiveness: 93
+body_checking: 87
+durability: 85
+fighting_skill: 80
+strength: 88

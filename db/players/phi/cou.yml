@@ -1,0 +1,65 @@
+nhlcom_id: 8476461
+
+country_abbrev: usa
+team_abbrev: phi
+
+first_name: Sean
+last_name: Couturier
+number: 14
+born: 1992-12-07
+
+potential: 10
+
+salary: 4.335
+years_left: 5
+
+height: 191
+weight: 96
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: phi
+draft_year: 2011
+draft_round: 1
+draft_overall: 8
+
+overall: 85
+
+puck_skills: 8
+senses: 8
+shooting: 9
+defense: 9
+skating: 8
+physical: 8
+
+deking: 86
+hand_eye: 86
+passing: 86
+puck_control: 88
+
+discipline: 85
+offensive_awareness: 87
+poise: 85
+
+slap_shot_accuracy: 87
+slap_shot_power: 88
+wrist_shot_accuracy: 88
+wrist_shot_power: 88
+
+defensive_awareness: 88
+faceoffs: 80
+shot_blocking: 88
+stick_checking: 89
+
+acceleration: 87
+agility: 87
+balance: 87
+endurance: 84
+speed: 87
+
+aggressiveness: 85
+body_checking: 86
+durability: 86
+fighting_skill: 65
+strength: 87

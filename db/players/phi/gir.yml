@@ -1,0 +1,65 @@
+nhlcom_id: 8473512
+
+country_abbrev: can
+team_abbrev: phi
+
+first_name: Claude
+last_name: Giroux
+number: 28
+born: 1988-01-12
+
+potential: 8
+
+salary: 8.275
+years_left: 5
+
+height: 180
+weight: 84
+position: c
+type: playmaker
+shoots: right
+
+draft_team_abbrev: phi
+draft_year: 2006
+draft_round: 1
+draft_overall: 22
+
+overall: 88
+
+puck_skills: 10
+senses: 10
+shooting: 9
+defense: 8
+skating: 9
+physical: 7
+
+deking: 93
+hand_eye: 93
+passing: 94
+puck_control: 94
+
+discipline: 85
+offensive_awareness: 93
+poise: 85
+
+slap_shot_accuracy: 90
+slap_shot_power: 87
+wrist_shot_accuracy: 91
+wrist_shot_power: 86
+
+defensive_awareness: 87
+faceoffs: 88
+shot_blocking: 80
+stick_checking: 87
+
+acceleration: 91
+agility: 91
+balance: 84
+endurance: 85
+speed: 91
+
+aggressiveness: 82
+body_checking: 82
+durability: 85
+fighting_skill: 70
+strength: 84

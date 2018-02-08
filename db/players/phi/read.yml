@@ -1,0 +1,65 @@
+nhlcom_id: 8476177
+
+country_abbrev: can
+team_abbrev: phi
+
+first_name: Matt
+last_name: Read
+number: 24
+born: 1986-06-14
+
+potential: 20
+
+salary: 3.625
+years_left: 1
+
+height: 178
+weight: 84
+position: lw
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 79
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 7
+skating: 8
+physical: 7
+
+deking: 86
+hand_eye: 84
+passing: 84
+puck_control: 84
+
+discipline: 90
+offensive_awareness: 83
+poise: 80
+
+slap_shot_accuracy: 83
+slap_shot_power: 86
+wrist_shot_accuracy: 84
+wrist_shot_power: 85
+
+defensive_awareness: 83
+faceoffs: 60
+shot_blocking: 81
+stick_checking: 85
+
+acceleration: 87
+agility: 87
+balance: 83
+endurance: 83
+speed: 87
+
+aggressiveness: 81
+body_checking: 81
+durability: 85
+fighting_skill: 65
+strength: 84

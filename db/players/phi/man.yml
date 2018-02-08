@@ -1,0 +1,65 @@
+nhlcom_id: 8475430
+
+country_abbrev: can
+team_abbrev: phi
+
+first_name: Brandon
+last_name: Manning
+number: 23
+born: 1990-06-04
+
+potential: 24
+
+salary: 0.975
+years_left: 1
+
+height: 185
+weight: 93
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 78
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 8
+skating: 7
+physical: 8
+
+deking: 77
+hand_eye: 75
+passing: 80
+puck_control: 80
+
+discipline: 75
+offensive_awareness: 80
+poise: 80
+
+slap_shot_accuracy: 75
+slap_shot_power: 86
+wrist_shot_accuracy: 75
+wrist_shot_power: 85
+
+defensive_awareness: 84
+faceoffs: 60
+shot_blocking: 85
+stick_checking: 85
+
+acceleration: 84
+agility: 83
+balance: 85
+endurance: 83
+speed: 84
+
+aggressiveness: 88
+body_checking: 85
+durability: 85
+fighting_skill: 75
+strength: 85
