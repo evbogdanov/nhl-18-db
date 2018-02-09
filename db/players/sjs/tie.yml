@@ -1,0 +1,65 @@
+nhlcom_id: 8476919
+
+country_abbrev: can
+team_abbrev: sjs
+
+first_name: Chris
+last_name: Tierney
+number: 50
+born: 1994-07-01
+
+potential: 18
+
+salary: 0.735
+years_left: 1
+
+height: 185
+weight: 88
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: sjs
+draft_year: 2012
+draft_round: 2
+draft_overall: 55
+
+overall: 79
+
+puck_skills: 7
+senses: 7
+shooting: 8
+defense: 8
+skating: 8
+physical: 8
+
+deking: 85
+hand_eye: 83
+passing: 83
+puck_control: 83
+
+discipline: 90
+offensive_awareness: 82
+poise: 80
+
+slap_shot_accuracy: 83
+slap_shot_power: 86
+wrist_shot_accuracy: 83
+wrist_shot_power: 85
+
+defensive_awareness: 85
+faceoffs: 75
+shot_blocking: 83
+stick_checking: 85
+
+acceleration: 85
+agility: 85
+balance: 85
+endurance: 83
+speed: 85
+
+aggressiveness: 82
+body_checking: 84
+durability: 85
+fighting_skill: 70
+strength: 85

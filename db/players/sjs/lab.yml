@@ -1,0 +1,65 @@
+nhlcom_id: 8478099
+
+country_abbrev: usa
+team_abbrev: sjs
+
+first_name: Kevin
+last_name: Labanc
+number: 62
+born: 1995-12-12
+
+potential: 11
+
+salary: 0.715
+years_left: 2
+
+height: 180
+weight: 84
+position: lw
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: sjs
+draft_year: 2014
+draft_round: 6
+draft_overall: 171
+
+overall: 79
+
+puck_skills: 7
+senses: 7
+shooting: 7
+defense: 7
+skating: 8
+physical: 6
+
+deking: 83
+hand_eye: 83
+passing: 83
+puck_control: 83
+
+discipline: 84
+offensive_awareness: 85
+poise: 79
+
+slap_shot_accuracy: 82
+slap_shot_power: 86
+wrist_shot_accuracy: 83
+wrist_shot_power: 85
+
+defensive_awareness: 84
+faceoffs: 70
+shot_blocking: 78
+stick_checking: 84
+
+acceleration: 86
+agility: 86
+balance: 82
+endurance: 82
+speed: 87
+
+aggressiveness: 75
+body_checking: 78
+durability: 85
+fighting_skill: 70
+strength: 83

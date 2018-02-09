@@ -1,0 +1,65 @@
+nhlcom_id: 8474027
+
+country_abbrev: usa
+team_abbrev: sjs
+
+first_name: Justin
+last_name: Braun
+number: 61
+born: 1987-02-10
+
+potential: 16
+
+salary: 3.8
+years_left: 3
+
+height: 188
+weight: 93
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: sjs
+draft_year: 2007
+draft_round: 7
+draft_overall: 201
+
+overall: 83
+
+puck_skills: 7
+senses: 7
+shooting: 7
+defense: 9
+skating: 8
+physical: 8
+
+deking: 80
+hand_eye: 78
+passing: 85
+puck_control: 83
+
+discipline: 90
+offensive_awareness: 83
+poise: 85
+
+slap_shot_accuracy: 78
+slap_shot_power: 86
+wrist_shot_accuracy: 80
+wrist_shot_power: 85
+
+defensive_awareness: 88
+faceoffs: 55
+shot_blocking: 89
+stick_checking: 89
+
+acceleration: 86
+agility: 86
+balance: 86
+endurance: 88
+speed: 87
+
+aggressiveness: 84
+body_checking: 85
+durability: 84
+fighting_skill: 70
+strength: 86

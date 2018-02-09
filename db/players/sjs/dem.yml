@@ -1,0 +1,65 @@
+nhlcom_id: 8476331
+
+country_abbrev: can
+team_abbrev: sjs
+
+first_name: Dylan
+last_name: DeMelo
+number: 74
+born: 1993-05-01
+
+potential: 30
+
+salary: 0.65
+years_left: 1
+
+height: 185
+weight: 88
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: sjs
+draft_year: 2011
+draft_round: 6
+draft_overall: 179
+
+overall: 75
+
+puck_skills: 5
+senses: 5
+shooting: 6
+defense: 7
+skating: 7
+physical: 8
+
+deking: 72
+hand_eye: 73
+passing: 77
+puck_control: 77
+
+discipline: 80
+offensive_awareness: 76
+poise: 75
+
+slap_shot_accuracy: 72
+slap_shot_power: 85
+wrist_shot_accuracy: 73
+wrist_shot_power: 85
+
+defensive_awareness: 81
+faceoffs: 60
+shot_blocking: 85
+stick_checking: 84
+
+acceleration: 83
+agility: 83
+balance: 85
+endurance: 83
+speed: 84
+
+aggressiveness: 85
+body_checking: 85
+durability: 85
+fighting_skill: 77
+strength: 85

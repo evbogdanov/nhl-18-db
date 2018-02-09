@@ -1,0 +1,65 @@
+nhlcom_id: 8475820
+
+country_abbrev: fin
+team_abbrev: sjs
+
+first_name: Joonas
+last_name: Donskoi
+number: 27
+born: 1992-04-13
+
+potential: 18
+
+salary: 1.9
+years_left: 2
+
+height: 183
+weight: 86
+position: lw
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: fla
+draft_year: 2010
+draft_round: 4
+draft_overall: 99
+
+overall: 80
+
+puck_skills: 7
+senses: 7
+shooting: 8
+defense: 8
+skating: 8
+physical: 7
+
+deking: 85
+hand_eye: 84
+passing: 83
+puck_control: 85
+
+discipline: 90
+offensive_awareness: 83
+poise: 80
+
+slap_shot_accuracy: 83
+slap_shot_power: 85
+wrist_shot_accuracy: 84
+wrist_shot_power: 85
+
+defensive_awareness: 85
+faceoffs: 67
+shot_blocking: 82
+stick_checking: 85
+
+acceleration: 88
+agility: 87
+balance: 85
+endurance: 84
+speed: 88
+
+aggressiveness: 83
+body_checking: 83
+durability: 85
+fighting_skill: 70
+strength: 85

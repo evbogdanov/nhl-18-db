@@ -1,0 +1,65 @@
+nhlcom_id: 8468208
+
+country_abbrev: can
+team_abbrev: sjs
+
+first_name: Joel
+last_name: Ward
+number: 42
+born: 1980-12-02
+
+potential: 20
+
+salary: 3.275
+years_left: 1
+
+height: 185
+weight: 102
+position: rw
+type: grinder
+shoots: right
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 80
+
+puck_skills: 7
+senses: 7
+shooting: 8
+defense: 8
+skating: 8
+physical: 9
+
+deking: 82
+hand_eye: 84
+passing: 83
+puck_control: 83
+
+discipline: 80
+offensive_awareness: 82
+poise: 85
+
+slap_shot_accuracy: 84
+slap_shot_power: 88
+wrist_shot_accuracy: 84
+wrist_shot_power: 87
+
+defensive_awareness: 83
+faceoffs: 60
+shot_blocking: 85
+stick_checking: 88
+
+acceleration: 84
+agility: 82
+balance: 90
+endurance: 84
+speed: 85
+
+aggressiveness: 88
+body_checking: 89
+durability: 85
+fighting_skill: 83
+strength: 90

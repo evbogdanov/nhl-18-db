@@ -1,0 +1,65 @@
+nhlcom_id: 8478414
+
+country_abbrev: che
+team_abbrev: sjs
+
+first_name: Timo
+last_name: Meier
+number: 28
+born: 1996-10-08
+
+potential: 10
+
+salary: 0.895
+years_left: 2
+
+height: 185
+weight: 95
+position: rw
+type: power forward
+shoots: left
+
+draft_team_abbrev: sjs
+draft_year: 2015
+draft_round: 1
+draft_overall: 9
+
+overall: 75
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 6
+skating: 7
+physical: 8
+
+deking: 80
+hand_eye: 82
+passing: 82
+puck_control: 82
+
+discipline: 75
+offensive_awareness: 79
+poise: 75
+
+slap_shot_accuracy: 82
+slap_shot_power: 85
+wrist_shot_accuracy: 83
+wrist_shot_power: 85
+
+defensive_awareness: 78
+faceoffs: 73
+shot_blocking: 75
+stick_checking: 84
+
+acceleration: 83
+agility: 83
+balance: 85
+endurance: 80
+speed: 83
+
+aggressiveness: 85
+body_checking: 85
+durability: 85
+fighting_skill: 75
+strength: 85

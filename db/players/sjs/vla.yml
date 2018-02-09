@@ -1,0 +1,65 @@
+nhlcom_id: 8471709
+
+country_abbrev: can
+team_abbrev: sjs
+
+first_name: Marc-Edouard
+last_name: Vlasic
+number: 44
+born: 1987-03-30
+
+potential: 8
+
+salary: 4.25
+years_left: 1
+
+height: 185
+weight: 93
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: sjs
+draft_year: 2005
+draft_round: 2
+draft_overall: 35
+
+overall: 87
+
+puck_skills: 8
+senses: 8
+shooting: 7
+defense: 10
+skating: 8
+physical: 8
+
+deking: 85
+hand_eye: 80
+passing: 87
+puck_control: 85
+
+discipline: 85
+offensive_awareness: 85
+poise: 85
+
+slap_shot_accuracy: 77
+slap_shot_power: 85
+wrist_shot_accuracy: 80
+wrist_shot_power: 85
+
+defensive_awareness: 93
+faceoffs: 55
+shot_blocking: 90
+stick_checking: 93
+
+acceleration: 88
+agility: 88
+balance: 85
+endurance: 89
+speed: 87
+
+aggressiveness: 84
+body_checking: 85
+durability: 85
+fighting_skill: 75
+strength: 85

@@ -1,0 +1,65 @@
+nhlcom_id: 8475841
+
+country_abbrev: swe
+team_abbrev: sjs
+
+first_name: Tim
+last_name: Heed
+number: 72
+born: 1991-01-27
+
+potential: 30
+
+salary: 0.65
+years_left: 2
+
+height: 183
+weight: 80
+position: d
+type: offensive defenseman
+shoots: right
+
+draft_team_abbrev: ana
+draft_year: 2010
+draft_round: 5
+draft_overall: 132
+
+overall: 75
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 6
+skating: 7
+physical: 6
+
+deking: 84
+hand_eye: 80
+passing: 83
+puck_control: 83
+
+discipline: 90
+offensive_awareness: 82
+poise: 75
+
+slap_shot_accuracy: 81
+slap_shot_power: 85
+wrist_shot_accuracy: 82
+wrist_shot_power: 84
+
+defensive_awareness: 80
+faceoffs: 60
+shot_blocking: 84
+stick_checking: 80
+
+acceleration: 85
+agility: 85
+balance: 80
+endurance: 80
+speed: 85
+
+aggressiveness: 75
+body_checking: 75
+durability: 80
+fighting_skill: 60
+strength: 82

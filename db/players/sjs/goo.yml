@@ -1,0 +1,65 @@
+nhlcom_id: 8476624
+
+country_abbrev: can
+team_abbrev: sjs
+
+first_name: Barclay
+last_name: Goodrow
+number: 23
+born: 1993-02-26
+
+potential: 26
+
+salary: 0.65
+years_left: 2
+
+height: 185
+weight: 98
+position: lw
+type: power forward
+shoots: left
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 75
+
+puck_skills: 6
+senses: 5
+shooting: 7
+defense: 6
+skating: 8
+physical: 8
+
+deking: 81
+hand_eye: 81
+passing: 80
+puck_control: 80
+
+discipline: 80
+offensive_awareness: 78
+poise: 75
+
+slap_shot_accuracy: 79
+slap_shot_power: 85
+wrist_shot_accuracy: 80
+wrist_shot_power: 84
+
+defensive_awareness: 79
+faceoffs: 63
+shot_blocking: 80
+stick_checking: 83
+
+acceleration: 84
+agility: 84
+balance: 87
+endurance: 82
+speed: 84
+
+aggressiveness: 85
+body_checking: 87
+durability: 85
+fighting_skill: 78
+strength: 87

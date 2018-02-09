@@ -1,0 +1,65 @@
+nhlcom_id: 8470794
+
+country_abbrev: usa
+team_abbrev: sjs
+
+first_name: Joe
+last_name: Pavelski
+number: 8
+born: 1984-07-11
+
+potential: 8
+
+salary: 6.0
+years_left: 2
+
+height: 180
+weight: 86
+position: rw
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: sjs
+draft_year: 2003
+draft_round: 7
+draft_overall: 205
+
+overall: 88
+
+puck_skills: 10
+senses: 9
+shooting: 9
+defense: 10
+skating: 9
+physical: 7
+
+deking: 92
+hand_eye: 92
+passing: 92
+puck_control: 92
+
+discipline: 88
+offensive_awareness: 91
+poise: 85
+
+slap_shot_accuracy: 90
+slap_shot_power: 87
+wrist_shot_accuracy: 92
+wrist_shot_power: 85
+
+defensive_awareness: 91
+faceoffs: 85
+shot_blocking: 85
+stick_checking: 89
+
+acceleration: 90
+agility: 90
+balance: 84
+endurance: 87
+speed: 90
+
+aggressiveness: 80
+body_checking: 81
+durability: 87
+fighting_skill: 75
+strength: 84

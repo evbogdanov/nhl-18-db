@@ -1,0 +1,65 @@
+nhlcom_id: 8471498
+
+country_abbrev: dnk
+team_abbrev: sjs
+
+first_name: Jannik
+last_name: Hansen
+number: 36
+born: 1986-03-15
+
+potential: 12
+
+salary: 2.0
+years_left: 1
+
+height: 185
+weight: 88
+position: rw
+type: grinder
+shoots: right
+
+draft_team_abbrev: van
+draft_year: 2004
+draft_round: 9
+draft_overall: 287
+
+overall: 81
+
+puck_skills: 7
+senses: 7
+shooting: 8
+defense: 8
+skating: 9
+physical: 8
+
+deking: 83
+hand_eye: 83
+passing: 83
+puck_control: 83
+
+discipline: 85
+offensive_awareness: 82
+poise: 85
+
+slap_shot_accuracy: 84
+slap_shot_power: 87
+wrist_shot_accuracy: 84
+wrist_shot_power: 86
+
+defensive_awareness: 85
+faceoffs: 65
+shot_blocking: 86
+stick_checking: 88
+
+acceleration: 90
+agility: 84
+balance: 87
+endurance: 85
+speed: 91
+
+aggressiveness: 87
+body_checking: 87
+durability: 85
+fighting_skill: 75
+strength: 87

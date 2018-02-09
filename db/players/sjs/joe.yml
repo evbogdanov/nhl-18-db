@@ -1,0 +1,65 @@
+nhlcom_id: 8466138
+
+country_abbrev: can
+team_abbrev: sjs
+
+first_name: Joe
+last_name: Thornton
+number: 19
+born: 1979-07-02
+
+potential: 12
+
+salary: 8.0
+years_left: 1
+
+height: 193
+weight: 100
+position: c
+type: playmaker
+shoots: left
+
+draft_team_abbrev: bos
+draft_year: 1997
+draft_round: 1
+draft_overall: 1
+
+overall: 84
+
+puck_skills: 9
+senses: 9
+shooting: 8
+defense: 8
+skating: 8
+physical: 9
+
+deking: 85
+hand_eye: 85
+passing: 90
+puck_control: 90
+
+discipline: 82
+offensive_awareness: 89
+poise: 90
+
+slap_shot_accuracy: 85
+slap_shot_power: 88
+wrist_shot_accuracy: 85
+wrist_shot_power: 87
+
+defensive_awareness: 87
+faceoffs: 80
+shot_blocking: 80
+stick_checking: 88
+
+acceleration: 83
+agility: 83
+balance: 90
+endurance: 85
+speed: 83
+
+aggressiveness: 80
+body_checking: 85
+durability: 80
+fighting_skill: 80
+strength: 90
