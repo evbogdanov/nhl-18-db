@@ -1,0 +1,65 @@
+nhlcom_id: 8471743
+
+country_abbrev: cze
+team_abbrev: stl
+
+first_name: Vladimir
+last_name: Sobotka
+number: 71
+born: 1987-07-02
+
+potential: 20
+
+salary: 3.5
+years_left: 3
+
+height: 178
+weight: 90
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: bos
+draft_year: 2005
+draft_round: 4
+draft_overall: 106
+
+overall: 80
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 8
+skating: 8
+physical: 8
+
+deking: 84
+hand_eye: 84
+passing: 84
+puck_control: 84
+
+discipline: 70
+offensive_awareness: 84
+poise: 80
+
+slap_shot_accuracy: 83
+slap_shot_power: 86
+wrist_shot_accuracy: 84
+wrist_shot_power: 85
+
+defensive_awareness: 85
+faceoffs: 85
+shot_blocking: 84
+stick_checking: 85
+
+acceleration: 86
+agility: 86
+balance: 85
+endurance: 84
+speed: 86
+
+aggressiveness: 87
+body_checking: 85
+durability: 85
+fighting_skill: 70
+strength: 85

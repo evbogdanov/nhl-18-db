@@ -1,0 +1,65 @@
+nhlcom_id: 8476892
+
+country_abbrev: can
+team_abbrev: stl
+
+first_name: Colton
+last_name: Parayko
+number: 55
+born: 1993-05-12
+
+potential: 6
+
+salary: 5.5
+years_left: 5
+
+height: 198
+weight: 102
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: stl
+draft_year: 2012
+draft_round: 3
+draft_overall: 86
+
+overall: 85
+
+puck_skills: 8
+senses: 8
+shooting: 8
+defense: 9
+skating: 8
+physical: 8
+
+deking: 78
+hand_eye: 77
+passing: 87
+puck_control: 87
+
+discipline: 82
+offensive_awareness: 88
+poise: 80
+
+slap_shot_accuracy: 80
+slap_shot_power: 89
+wrist_shot_accuracy: 82
+wrist_shot_power: 88
+
+defensive_awareness: 89
+faceoffs: 60
+shot_blocking: 88
+stick_checking: 88
+
+acceleration: 85
+agility: 85
+balance: 88
+endurance: 83
+speed: 85
+
+aggressiveness: 87
+body_checking: 87
+durability: 80
+fighting_skill: 80
+strength: 88

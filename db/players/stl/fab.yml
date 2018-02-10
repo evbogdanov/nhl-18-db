@@ -1,0 +1,65 @@
+nhlcom_id: 8477952
+
+country_abbrev: can
+team_abbrev: stl
+
+first_name: Robby
+last_name: Fabbri
+number: 15
+born: 1996-01-22
+
+potential: 10
+
+salary: 0.895
+years_left: 1
+
+height: 178
+weight: 82
+position: lw
+type: sniper
+shoots: left
+
+draft_team_abbrev: stl
+draft_year: 2014
+draft_round: 1
+draft_overall: 21
+
+overall: 80
+
+puck_skills: 9
+senses: 7
+shooting: 8
+defense: 7
+skating: 8
+physical: 6
+
+deking: 90
+hand_eye: 87
+passing: 87
+puck_control: 87
+
+discipline: 88
+offensive_awareness: 86
+poise: 75
+
+slap_shot_accuracy: 86
+slap_shot_power: 86
+wrist_shot_accuracy: 87
+wrist_shot_power: 85
+
+defensive_awareness: 83
+faceoffs: 75
+shot_blocking: 75
+stick_checking: 83
+
+acceleration: 89
+agility: 89
+balance: 80
+endurance: 82
+speed: 89
+
+aggressiveness: 75
+body_checking: 75
+durability: 83
+fighting_skill: 65
+strength: 80

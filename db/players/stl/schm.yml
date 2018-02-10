@@ -1,0 +1,65 @@
+nhlcom_id: 8476877
+
+country_abbrev: usa
+team_abbrev: stl
+
+first_name: Jordan
+last_name: Schmaltz
+number: 43
+born: 1993-10-08
+
+potential: 15
+
+salary: 0.925
+years_left: 1
+
+height: 188
+weight: 87
+position: d
+type: 2 way defender
+shoots: right
+
+draft_team_abbrev: stl
+draft_year: 2012
+draft_round: 1
+draft_overall: 25
+
+overall: 76
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 8
+
+deking: 79
+hand_eye: 77
+passing: 82
+puck_control: 82
+
+discipline: 82
+offensive_awareness: 81
+poise: 70
+
+slap_shot_accuracy: 75
+slap_shot_power: 87
+wrist_shot_accuracy: 76
+wrist_shot_power: 85
+
+defensive_awareness: 81
+faceoffs: 60
+shot_blocking: 83
+stick_checking: 84
+
+acceleration: 85
+agility: 85
+balance: 85
+endurance: 83
+speed: 85
+
+aggressiveness: 83
+body_checking: 84
+durability: 85
+fighting_skill: 70
+strength: 85

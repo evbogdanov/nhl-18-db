@@ -1,0 +1,65 @@
+nhlcom_id: 8474145
+
+country_abbrev: can
+team_abbrev: stl
+
+first_name: Robert
+last_name: Bortuzzo
+number: 41
+born: 1989-03-18
+
+potential: 24
+
+salary: 1.15
+years_left: 2
+
+height: 193
+weight: 97
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: pit
+draft_year: 2007
+draft_round: 3
+draft_overall: 78
+
+overall: 79
+
+puck_skills: 5
+senses: 6
+shooting: 7
+defense: 8
+skating: 7
+physical: 9
+
+deking: 73
+hand_eye: 73
+passing: 78
+puck_control: 78
+
+discipline: 70
+offensive_awareness: 80
+poise: 80
+
+slap_shot_accuracy: 73
+slap_shot_power: 87
+wrist_shot_accuracy: 75
+wrist_shot_power: 85
+
+defensive_awareness: 85
+faceoffs: 55
+shot_blocking: 87
+stick_checking: 87
+
+acceleration: 82
+agility: 81
+balance: 88
+endurance: 84
+speed: 82
+
+aggressiveness: 87
+body_checking: 87
+durability: 85
+fighting_skill: 83
+strength: 88

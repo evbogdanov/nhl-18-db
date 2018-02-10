@@ -1,0 +1,65 @@
+nhlcom_id: 8470257
+
+country_abbrev: can
+team_abbrev: stl
+
+first_name: Alexander
+last_name: Steen
+number: 20
+born: 1984-03-01
+
+potential: 12
+
+salary: 5.75
+years_left: 4
+
+height: 180
+weight: 96
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: tor
+draft_year: 2002
+draft_round: 1
+draft_overall: 24
+
+overall: 84
+
+puck_skills: 9
+senses: 9
+shooting: 8
+defense: 8
+skating: 8
+physical: 8
+
+deking: 87
+hand_eye: 87
+passing: 87
+puck_control: 87
+
+discipline: 87
+offensive_awareness: 88
+poise: 84
+
+slap_shot_accuracy: 87
+slap_shot_power: 86
+wrist_shot_accuracy: 87
+wrist_shot_power: 87
+
+defensive_awareness: 87
+faceoffs: 78
+shot_blocking: 84
+stick_checking: 86
+
+acceleration: 86
+agility: 87
+balance: 85
+endurance: 85
+speed: 86
+
+aggressiveness: 85
+body_checking: 83
+durability: 85
+fighting_skill: 70
+strength: 86

@@ -1,0 +1,65 @@
+nhlcom_id: 8470105
+
+country_abbrev: can
+team_abbrev: stl
+
+first_name: Scottie
+last_name: Upshall
+number: 9
+born: 1983-10-07
+
+potential: 20
+
+salary: 0.8
+years_left: 1
+
+height: 183
+weight: 91
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: nsh
+draft_year: 2002
+draft_round: 1
+draft_overall: 6
+
+overall: 78
+
+puck_skills: 7
+senses: 7
+shooting: 7
+defense: 7
+skating: 8
+physical: 8
+
+deking: 85
+hand_eye: 83
+passing: 83
+puck_control: 83
+
+discipline: 80
+offensive_awareness: 82
+poise: 80
+
+slap_shot_accuracy: 82
+slap_shot_power: 85
+wrist_shot_accuracy: 83
+wrist_shot_power: 84
+
+defensive_awareness: 82
+faceoffs: 65
+shot_blocking: 80
+stick_checking: 84
+
+acceleration: 86
+agility: 86
+balance: 85
+endurance: 81
+speed: 85
+
+aggressiveness: 85
+body_checking: 84
+durability: 80
+fighting_skill: 75
+strength: 85

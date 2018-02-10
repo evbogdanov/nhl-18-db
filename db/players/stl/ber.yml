@@ -1,0 +1,65 @@
+nhlcom_id: 8473534
+
+country_abbrev: swe
+team_abbrev: stl
+
+first_name: Patrik
+last_name: Berglund
+number: 21
+born: 1988-06-02
+
+potential: 12
+
+salary: 3.85
+years_left: 5
+
+height: 191
+weight: 98
+position: rw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: stl
+draft_year: 2006
+draft_round: 1
+draft_overall: 25
+
+overall: 81
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 8
+skating: 9
+physical: 8
+
+deking: 85
+hand_eye: 85
+passing: 84
+puck_control: 84
+
+discipline: 91
+offensive_awareness: 83
+poise: 80
+
+slap_shot_accuracy: 85
+slap_shot_power: 87
+wrist_shot_accuracy: 85
+wrist_shot_power: 87
+
+defensive_awareness: 84
+faceoffs: 78
+shot_blocking: 84
+stick_checking: 86
+
+acceleration: 87
+agility: 87
+balance: 88
+endurance: 85
+speed: 87
+
+aggressiveness: 84
+body_checking: 85
+durability: 85
+fighting_skill: 75
+strength: 88

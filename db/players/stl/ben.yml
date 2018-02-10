@@ -1,0 +1,65 @@
+nhlcom_id: 8475761
+
+country_abbrev: usa
+team_abbrev: stl
+
+first_name: Beau
+last_name: Bennett
+number: 78
+born: 1991-11-27
+
+potential: 18
+
+salary: 0.65
+years_left: 1
+
+height: 188
+weight: 88
+position: rw
+type: sniper
+shoots: right
+
+draft_team_abbrev: pit
+draft_year: 2010
+draft_round: 1
+draft_overall: 20
+
+overall: 77
+
+puck_skills: 7
+senses: 6
+shooting: 8
+defense: 6
+skating: 8
+physical: 6
+
+deking: 84
+hand_eye: 83
+passing: 83
+puck_control: 83
+
+discipline: 95
+offensive_awareness: 82
+poise: 75
+
+slap_shot_accuracy: 83
+slap_shot_power: 87
+wrist_shot_accuracy: 83
+wrist_shot_power: 85
+
+defensive_awareness: 80
+faceoffs: 60
+shot_blocking: 77
+stick_checking: 84
+
+acceleration: 87
+agility: 87
+balance: 83
+endurance: 81
+speed: 88
+
+aggressiveness: 77
+body_checking: 77
+durability: 75
+fighting_skill: 65
+strength: 83

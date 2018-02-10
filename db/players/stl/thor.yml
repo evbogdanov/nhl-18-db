@@ -1,0 +1,65 @@
+nhlcom_id: 8469501
+
+country_abbrev: can
+team_abbrev: stl
+
+first_name: Chris
+last_name: Thorburn
+number: 22
+born: 1983-06-03
+
+potential: 28
+
+salary: 0.9
+years_left: 2
+
+height: 191
+weight: 106
+position: lw
+type: grinder
+shoots: right
+
+draft_team_abbrev: buf
+draft_year: 2001
+draft_round: 2
+draft_overall: 50
+
+overall: 75
+
+puck_skills: 6
+senses: 5
+shooting: 7
+defense: 6
+skating: 8
+physical: 10
+
+deking: 78
+hand_eye: 79
+passing: 79
+puck_control: 79
+
+discipline: 70
+offensive_awareness: 77
+poise: 75
+
+slap_shot_accuracy: 78
+slap_shot_power: 87
+wrist_shot_accuracy: 79
+wrist_shot_power: 87
+
+defensive_awareness: 78
+faceoffs: 70
+shot_blocking: 83
+stick_checking: 85
+
+acceleration: 82
+agility: 82
+balance: 91
+endurance: 80
+speed: 83
+
+aggressiveness: 92
+body_checking: 92
+durability: 84
+fighting_skill: 85
+strength: 91

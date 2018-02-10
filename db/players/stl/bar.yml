@@ -1,0 +1,65 @@
+nhlcom_id: 8477964
+
+country_abbrev: rus
+team_abbrev: stl
+
+first_name: Ivan
+last_name: Barbashev
+number: 49
+born: 1995-12-14
+
+potential: 10
+
+salary: 0.775
+years_left: 1
+
+height: 183
+weight: 84
+position: c
+type: playmaker
+shoots: left
+
+draft_team_abbrev: stl
+draft_year: 2014
+draft_round: 2
+draft_overall: 33
+
+overall: 77
+
+puck_skills: 7
+senses: 7
+shooting: 8
+defense: 6
+skating: 8
+physical: 5
+
+deking: 85
+hand_eye: 84
+passing: 83
+puck_control: 84
+
+discipline: 83
+offensive_awareness: 82
+poise: 77
+
+slap_shot_accuracy: 82
+slap_shot_power: 86
+wrist_shot_accuracy: 83
+wrist_shot_power: 86
+
+defensive_awareness: 80
+faceoffs: 63
+shot_blocking: 74
+stick_checking: 82
+
+acceleration: 87
+agility: 87
+balance: 82
+endurance: 80
+speed: 87
+
+aggressiveness: 66
+body_checking: 73
+durability: 85
+fighting_skill: 65
+strength: 80

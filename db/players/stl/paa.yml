@@ -1,0 +1,65 @@
+nhlcom_id: 8475175
+
+country_abbrev: swe
+team_abbrev: stl
+
+first_name: Magnus
+last_name: Paajarvi
+number: 56
+born: 1991-04-12
+
+potential: 26
+
+salary: 0.8
+years_left: 1
+
+height: 191
+weight: 94
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: edm
+draft_year: 2009
+draft_round: 1
+draft_overall: 10
+
+overall: 76
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 8
+
+deking: 82
+hand_eye: 81
+passing: 81
+puck_control: 81
+
+discipline: 90
+offensive_awareness: 80
+poise: 75
+
+slap_shot_accuracy: 81
+slap_shot_power: 86
+wrist_shot_accuracy: 81
+wrist_shot_power: 85
+
+defensive_awareness: 81
+faceoffs: 60
+shot_blocking: 79
+stick_checking: 83
+
+acceleration: 85
+agility: 85
+balance: 85
+endurance: 80
+speed: 85
+
+aggressiveness: 82
+body_checking: 82
+durability: 85
+fighting_skill: 70
+strength: 86

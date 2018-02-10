@@ -1,0 +1,65 @@
+nhlcom_id: 8479420
+
+country_abbrev: usa
+team_abbrev: stl
+
+first_name: Tage
+last_name: Thompson
+number: 32
+born: 1997-10-30
+
+potential: 10
+
+salary: 0.925
+years_left: 3
+
+height: 196
+weight: 91
+position: c
+type: power forward
+shoots: right
+
+draft_team_abbrev: stl
+draft_year: 2016
+draft_round: 1
+draft_overall: 26
+
+overall: 76
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 6
+skating: 7
+physical: 8
+
+deking: 83
+hand_eye: 83
+passing: 81
+puck_control: 81
+
+discipline: 80
+offensive_awareness: 81
+poise: 75
+
+slap_shot_accuracy: 80
+slap_shot_power: 85
+wrist_shot_accuracy: 80
+wrist_shot_power: 85
+
+defensive_awareness: 80
+faceoffs: 70
+shot_blocking: 75
+stick_checking: 80
+
+acceleration: 83
+agility: 83
+balance: 86
+endurance: 83
+speed: 83
+
+aggressiveness: 83
+body_checking: 84
+durability: 85
+fighting_skill: 70
+strength: 86

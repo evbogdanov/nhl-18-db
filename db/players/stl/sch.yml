@@ -1,0 +1,65 @@
+nhlcom_id: 8475170
+
+country_abbrev: can
+team_abbrev: stl
+
+first_name: Brayden
+last_name: Schenn
+number: 10
+born: 1991-08-22
+
+potential: 10
+
+salary: 5.125
+years_left: 3
+
+height: 185
+weight: 88
+position: rw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: lak
+draft_year: 2009
+draft_round: 1
+draft_overall: 5
+
+overall: 85
+
+puck_skills: 9
+senses: 9
+shooting: 9
+defense: 8
+skating: 8
+physical: 9
+
+deking: 88
+hand_eye: 88
+passing: 88
+puck_control: 88
+
+discipline: 80
+offensive_awareness: 88
+poise: 84
+
+slap_shot_accuracy: 88
+slap_shot_power: 88
+wrist_shot_accuracy: 88
+wrist_shot_power: 88
+
+defensive_awareness: 86
+faceoffs: 75
+shot_blocking: 83
+stick_checking: 87
+
+acceleration: 86
+agility: 87
+balance: 87
+endurance: 85
+speed: 86
+
+aggressiveness: 88
+body_checking: 87
+durability: 85
+fighting_skill: 80
+strength: 88

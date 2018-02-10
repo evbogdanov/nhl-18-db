@@ -1,0 +1,65 @@
+nhlcom_id: 8478013
+
+country_abbrev: can
+team_abbrev: stl
+
+first_name: Jake
+last_name: Walman
+number: 46
+born: 1996-02-20
+
+potential: 22
+
+salary: 0.925
+years_left: 3
+
+height: 185
+weight: 91
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: stl
+draft_year: 2014
+draft_round: 3
+draft_overall: 82
+
+overall: 75
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 7
+skating: 7
+physical: 7
+
+deking: 75
+hand_eye: 75
+passing: 80
+puck_control: 80
+
+discipline: 82
+offensive_awareness: 80
+poise: 70
+
+slap_shot_accuracy: 75
+slap_shot_power: 85
+wrist_shot_accuracy: 75
+wrist_shot_power: 85
+
+defensive_awareness: 81
+faceoffs: 60
+shot_blocking: 83
+stick_checking: 83
+
+acceleration: 83
+agility: 83
+balance: 84
+endurance: 83
+speed: 84
+
+aggressiveness: 83
+body_checking: 83
+durability: 85
+fighting_skill: 70
+strength: 84

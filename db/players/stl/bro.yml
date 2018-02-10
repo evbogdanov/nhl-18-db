@@ -1,0 +1,65 @@
+nhlcom_id: 8470803
+
+country_abbrev: can
+team_abbrev: stl
+
+first_name: Kyle
+last_name: Brodziak
+number: 28
+born: 1984-05-25
+
+potential: 20
+
+salary: 0.95
+years_left: 1
+
+height: 188
+weight: 96
+position: c
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: edm
+draft_year: 2003
+draft_round: 7
+draft_overall: 214
+
+overall: 78
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 8
+skating: 8
+physical: 8
+
+deking: 82
+hand_eye: 82
+passing: 82
+puck_control: 82
+
+discipline: 80
+offensive_awareness: 79
+poise: 80
+
+slap_shot_accuracy: 82
+slap_shot_power: 86
+wrist_shot_accuracy: 82
+wrist_shot_power: 85
+
+defensive_awareness: 84
+faceoffs: 79
+shot_blocking: 86
+stick_checking: 85
+
+acceleration: 85
+agility: 84
+balance: 87
+endurance: 85
+speed: 85
+
+aggressiveness: 86
+body_checking: 85
+durability: 85
+fighting_skill: 75
+strength: 87
