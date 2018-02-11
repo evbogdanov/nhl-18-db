@@ -1,0 +1,65 @@
+nhlcom_id: 8480012
+
+country_abbrev: swe
+team_abbrev: van
+
+first_name: Elias
+last_name: Pettersson
+number: 17
+born: 1998-11-12
+
+potential: 6
+
+salary: 0.65
+years_left: 0
+
+height: 188
+weight: 73
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: van
+draft_year: 2017
+draft_round: 1
+draft_overall: 5
+
+overall: 67
+
+puck_skills: 6
+senses: 4
+shooting: 6
+defense: 4
+skating: 7
+physical: 3
+
+deking: 83
+hand_eye: 78
+passing: 78
+puck_control: 78
+
+discipline: 83
+offensive_awareness: 74
+poise: 70
+
+slap_shot_accuracy: 77
+slap_shot_power: 84
+wrist_shot_accuracy: 78
+wrist_shot_power: 83
+
+defensive_awareness: 71
+faceoffs: 60
+shot_blocking: 65
+stick_checking: 80
+
+acceleration: 85
+agility: 85
+balance: 73
+endurance: 77
+speed: 85
+
+aggressiveness: 67
+body_checking: 67
+durability: 85
+fighting_skill: 65
+strength: 73

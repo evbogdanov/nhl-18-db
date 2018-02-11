@@ -1,0 +1,65 @@
+nhlcom_id: 8479442
+
+country_abbrev: can
+team_abbrev: van
+
+first_name: Troy
+last_name: Stecher
+number: 51
+born: 1994-04-07
+
+potential: 22
+
+salary: 0.925
+years_left: 1
+
+height: 178
+weight: 86
+position: d
+type: 2 way defender
+shoots: right
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 79
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 7
+skating: 8
+physical: 7
+
+deking: 85
+hand_eye: 82
+passing: 85
+puck_control: 85
+
+discipline: 80
+offensive_awareness: 85
+poise: 75
+
+slap_shot_accuracy: 81
+slap_shot_power: 87
+wrist_shot_accuracy: 82
+wrist_shot_power: 87
+
+defensive_awareness: 85
+faceoffs: 60
+shot_blocking: 82
+stick_checking: 83
+
+acceleration: 88
+agility: 88
+balance: 83
+endurance: 83
+speed: 87
+
+aggressiveness: 80
+body_checking: 79
+durability: 85
+fighting_skill: 65
+strength: 83

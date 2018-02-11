@@ -1,0 +1,65 @@
+nhlcom_id: 8477500
+
+country_abbrev: can
+team_abbrev: van
+
+first_name: Bo
+last_name: Horvat
+number: 53
+born: 1995-04-05
+
+potential: 10
+
+salary: 5.5
+years_left: 6
+
+height: 183
+weight: 101
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: van
+draft_year: 2013
+draft_round: 1
+draft_overall: 9
+
+overall: 84
+
+puck_skills: 8
+senses: 8
+shooting: 8
+defense: 9
+skating: 8
+physical: 9
+
+deking: 85
+hand_eye: 87
+passing: 87
+puck_control: 87
+
+discipline: 85
+offensive_awareness: 87
+poise: 80
+
+slap_shot_accuracy: 86
+slap_shot_power: 87
+wrist_shot_accuracy: 87
+wrist_shot_power: 87
+
+defensive_awareness: 88
+faceoffs: 82
+shot_blocking: 85
+stick_checking: 89
+
+acceleration: 85
+agility: 85
+balance: 88
+endurance: 85
+speed: 85
+
+aggressiveness: 87
+body_checking: 88
+durability: 85
+fighting_skill: 78
+strength: 88

@@ -1,0 +1,65 @@
+nhlcom_id: 8473432
+
+country_abbrev: can
+team_abbrev: van
+
+first_name: Derek
+last_name: Dorsett
+number: 15
+born: 1986-12-20
+
+potential: 28
+
+salary: 2.65
+years_left: 2
+
+height: 183
+weight: 87
+position: rw
+type: grinder
+shoots: right
+
+draft_team_abbrev: cbj
+draft_year: 2006
+draft_round: 7
+draft_overall: 189
+
+overall: 76
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 7
+skating: 7
+physical: 8
+
+deking: 80
+hand_eye: 80
+passing: 80
+puck_control: 80
+
+discipline: 65
+offensive_awareness: 80
+poise: 73
+
+slap_shot_accuracy: 81
+slap_shot_power: 84
+wrist_shot_accuracy: 82
+wrist_shot_power: 84
+
+defensive_awareness: 82
+faceoffs: 60
+shot_blocking: 84
+stick_checking: 84
+
+acceleration: 83
+agility: 84
+balance: 86
+endurance: 83
+speed: 83
+
+aggressiveness: 92
+body_checking: 89
+durability: 80
+fighting_skill: 88
+strength: 86

@@ -1,0 +1,65 @@
+nhlcom_id: 8475210
+
+country_abbrev: swe
+team_abbrev: van
+
+first_name: Anton
+last_name: Rodin
+number: 17
+born: 1990-11-21
+
+potential: 25
+
+salary: 0.7
+years_left: 1
+
+height: 183
+weight: 80
+position: rw
+type: sniper
+shoots: left
+
+draft_team_abbrev: van
+draft_year: 2009
+draft_round: 2
+draft_overall: 53
+
+overall: 75
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 6
+skating: 7
+physical: 6
+
+deking: 84
+hand_eye: 84
+passing: 83
+puck_control: 83
+
+discipline: 85
+offensive_awareness: 79
+poise: 75
+
+slap_shot_accuracy: 82
+slap_shot_power: 85
+wrist_shot_accuracy: 83
+wrist_shot_power: 85
+
+defensive_awareness: 80
+faceoffs: 60
+shot_blocking: 75
+stick_checking: 83
+
+acceleration: 84
+agility: 84
+balance: 82
+endurance: 83
+speed: 84
+
+aggressiveness: 74
+body_checking: 77
+durability: 80
+fighting_skill: 65
+strength: 82

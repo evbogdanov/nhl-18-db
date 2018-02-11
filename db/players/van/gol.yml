@@ -1,0 +1,65 @@
+nhlcom_id: 8477958
+
+country_abbrev: rus
+team_abbrev: van
+
+first_name: Nikolay
+last_name: Goldobin
+number: 77
+born: 1995-10-07
+
+potential: 10
+
+salary: 0.895
+years_left: 1
+
+height: 183
+weight: 84
+position: rw
+type: sniper
+shoots: left
+
+draft_team_abbrev: sjs
+draft_year: 2014
+draft_round: 1
+draft_overall: 27
+
+overall: 76
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 6
+skating: 8
+physical: 5
+
+deking: 87
+hand_eye: 85
+passing: 83
+puck_control: 84
+
+discipline: 90
+offensive_awareness: 81
+poise: 75
+
+slap_shot_accuracy: 82
+slap_shot_power: 86
+wrist_shot_accuracy: 83
+wrist_shot_power: 85
+
+defensive_awareness: 80
+faceoffs: 65
+shot_blocking: 70
+stick_checking: 83
+
+acceleration: 87
+agility: 88
+balance: 80
+endurance: 80
+speed: 87
+
+aggressiveness: 72
+body_checking: 73
+durability: 85
+fighting_skill: 68
+strength: 80

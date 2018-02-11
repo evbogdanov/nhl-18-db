@@ -1,0 +1,65 @@
+nhlcom_id: 8474091
+
+country_abbrev: usa
+team_abbrev: van
+
+first_name: Brandon
+last_name: Sutter
+number: 20
+born: 1989-02-14
+
+potential: 12
+
+salary: 4.375
+years_left: 4
+
+height: 191
+weight: 87
+position: c
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: car
+draft_year: 2007
+draft_round: 1
+draft_overall: 11
+
+overall: 81
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 8
+skating: 8
+physical: 8
+
+deking: 84
+hand_eye: 84
+passing: 84
+puck_control: 84
+
+discipline: 90
+offensive_awareness: 83
+poise: 80
+
+slap_shot_accuracy: 83
+slap_shot_power: 87
+wrist_shot_accuracy: 84
+wrist_shot_power: 86
+
+defensive_awareness: 86
+faceoffs: 80
+shot_blocking: 86
+stick_checking: 88
+
+acceleration: 86
+agility: 86
+balance: 87
+endurance: 83
+speed: 87
+
+aggressiveness: 86
+body_checking: 87
+durability: 85
+fighting_skill: 80
+strength: 87

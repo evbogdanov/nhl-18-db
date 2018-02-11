@@ -1,0 +1,65 @@
+nhlcom_id: 8473415
+
+country_abbrev: can
+team_abbrev: van
+
+first_name: Alex
+last_name: Biega
+number: 55
+born: 1988-04-04
+
+potential: 32
+
+salary: 0.75
+years_left: 1
+
+height: 178
+weight: 87
+position: d
+type: 2 way defender
+shoots: right
+
+draft_team_abbrev: buf
+draft_year: 2006
+draft_round: 5
+draft_overall: 147
+
+overall: 76
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 8
+
+deking: 77
+hand_eye: 75
+passing: 80
+puck_control: 80
+
+discipline: 81
+offensive_awareness: 79
+poise: 75
+
+slap_shot_accuracy: 75
+slap_shot_power: 87
+wrist_shot_accuracy: 76
+wrist_shot_power: 86
+
+defensive_awareness: 81
+faceoffs: 60
+shot_blocking: 84
+stick_checking: 84
+
+acceleration: 85
+agility: 85
+balance: 85
+endurance: 84
+speed: 85
+
+aggressiveness: 83
+body_checking: 84
+durability: 85
+fighting_skill: 75
+strength: 85

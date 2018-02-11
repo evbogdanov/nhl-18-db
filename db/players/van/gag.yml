@@ -1,0 +1,65 @@
+nhlcom_id: 8474040
+
+country_abbrev: can
+team_abbrev: van
+
+first_name: Sam
+last_name: Gagner
+number: 89
+born: 1989-08-10
+
+potential: 12
+
+salary: 3.15
+years_left: 3
+
+height: 180
+weight: 91
+position: c
+type: playmaker
+shoots: right
+
+draft_team_abbrev: edm
+draft_year: 2007
+draft_round: 1
+draft_overall: 6
+
+overall: 81
+
+puck_skills: 9
+senses: 8
+shooting: 8
+defense: 7
+skating: 8
+physical: 7
+
+deking: 90
+hand_eye: 88
+passing: 87
+puck_control: 87
+
+discipline: 84
+offensive_awareness: 87
+poise: 80
+
+slap_shot_accuracy: 84
+slap_shot_power: 85
+wrist_shot_accuracy: 85
+wrist_shot_power: 85
+
+defensive_awareness: 83
+faceoffs: 77
+shot_blocking: 80
+stick_checking: 85
+
+acceleration: 85
+agility: 89
+balance: 85
+endurance: 85
+speed: 85
+
+aggressiveness: 82
+body_checking: 82
+durability: 85
+fighting_skill: 75
+strength: 85

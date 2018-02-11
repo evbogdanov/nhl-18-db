@@ -1,0 +1,65 @@
+nhlcom_id: 8475790
+
+country_abbrev: can
+team_abbrev: van
+
+first_name: Erik
+last_name: Gudbranson
+number: 44
+born: 1992-01-07
+
+potential: 15
+
+salary: 3.5
+years_left: 1
+
+height: 196
+weight: 100
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: fla
+draft_year: 2010
+draft_round: 1
+draft_overall: 3
+
+overall: 79
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 8
+skating: 8
+physical: 9
+
+deking: 75
+hand_eye: 75
+passing: 80
+puck_control: 80
+
+discipline: 70
+offensive_awareness: 81
+poise: 80
+
+slap_shot_accuracy: 76
+slap_shot_power: 87
+wrist_shot_accuracy: 77
+wrist_shot_power: 87
+
+defensive_awareness: 84
+faceoffs: 55
+shot_blocking: 87
+stick_checking: 87
+
+acceleration: 83
+agility: 84
+balance: 89
+endurance: 87
+speed: 83
+
+aggressiveness: 89
+body_checking: 88
+durability: 85
+fighting_skill: 82
+strength: 89

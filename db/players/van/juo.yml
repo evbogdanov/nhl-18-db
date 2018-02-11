@@ -1,0 +1,65 @@
+nhlcom_id: 8479355
+
+country_abbrev: fin
+team_abbrev: van
+
+first_name: Olli
+last_name: Juolevi
+number: 16
+born: 1998-05-05
+
+potential: 6
+
+salary: 0.925
+years_left: 3
+
+height: 188
+weight: 82
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: van
+draft_year: 2016
+draft_round: 1
+draft_overall: 5
+
+overall: 70
+
+puck_skills: 5
+senses: 5
+shooting: 6
+defense: 6
+skating: 7
+physical: 4
+
+deking: 75
+hand_eye: 72
+passing: 78
+puck_control: 78
+
+discipline: 82
+offensive_awareness: 78
+poise: 70
+
+slap_shot_accuracy: 72
+slap_shot_power: 85
+wrist_shot_accuracy: 73
+wrist_shot_power: 84
+
+defensive_awareness: 78
+faceoffs: 50
+shot_blocking: 80
+stick_checking: 80
+
+acceleration: 83
+agility: 83
+balance: 75
+endurance: 77
+speed: 84
+
+aggressiveness: 73
+body_checking: 72
+durability: 85
+fighting_skill: 65
+strength: 75

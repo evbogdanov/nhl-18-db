@@ -1,0 +1,65 @@
+nhlcom_id: 8467876
+
+country_abbrev: swe
+team_abbrev: van
+
+first_name: Henrik
+last_name: Sedin
+number: 33
+born: 1980-09-26
+
+potential: 12
+
+salary: 7.0
+years_left: 1
+
+height: 188
+weight: 83
+position: c
+type: playmaker
+shoots: left
+
+draft_team_abbrev: van
+draft_year: 1999
+draft_round: 1
+draft_overall: 3
+
+overall: 82
+
+puck_skills: 8
+senses: 8
+shooting: 8
+defense: 8
+skating: 8
+physical: 7
+
+deking: 87
+hand_eye: 85
+passing: 87
+puck_control: 87
+
+discipline: 90
+offensive_awareness: 86
+poise: 85
+
+slap_shot_accuracy: 84
+slap_shot_power: 86
+wrist_shot_accuracy: 85
+wrist_shot_power: 85
+
+defensive_awareness: 86
+faceoffs: 75
+shot_blocking: 80
+stick_checking: 87
+
+acceleration: 84
+agility: 87
+balance: 87
+endurance: 85
+speed: 84
+
+aggressiveness: 82
+body_checking: 80
+durability: 80
+fighting_skill: 70
+strength: 87

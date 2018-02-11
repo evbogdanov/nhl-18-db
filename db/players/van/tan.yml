@@ -1,0 +1,65 @@
+nhlcom_id: 8475690
+
+country_abbrev: can
+team_abbrev: van
+
+first_name: Christopher
+last_name: Tanev
+number: 8
+born: 1989-12-20
+
+potential: 16
+
+salary: 4.45
+years_left: 3
+
+height: 188
+weight: 88
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 84
+
+puck_skills: 7
+senses: 8
+shooting: 8
+defense: 9
+skating: 8
+physical: 9
+
+deking: 80
+hand_eye: 75
+passing: 85
+puck_control: 84
+
+discipline: 95
+offensive_awareness: 84
+poise: 85
+
+slap_shot_accuracy: 78
+slap_shot_power: 77
+wrist_shot_accuracy: 78
+wrist_shot_power: 88
+
+defensive_awareness: 88
+faceoffs: 55
+shot_blocking: 88
+stick_checking: 89
+
+acceleration: 85
+agility: 85
+balance: 87
+endurance: 87
+speed: 86
+
+aggressiveness: 85
+body_checking: 87
+durability: 85
+fighting_skill: 75
+strength: 88

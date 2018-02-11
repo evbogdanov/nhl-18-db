@@ -1,0 +1,65 @@
+nhlcom_id: 8470598
+
+country_abbrev: aut
+team_abbrev: van
+
+first_name: Thomas
+last_name: Vanek
+number: 26
+born: 1984-01-19
+
+potential: 12
+
+salary: 2.0
+years_left: 1
+
+height: 188
+weight: 97
+position: lw
+type: sniper
+shoots: right
+
+draft_team_abbrev: buf
+draft_year: 2003
+draft_round: 1
+draft_overall: 5
+
+overall: 83
+
+puck_skills: 9
+senses: 9
+shooting: 9
+defense: 8
+skating: 8
+physical: 8
+
+deking: 87
+hand_eye: 87
+passing: 87
+puck_control: 87
+
+discipline: 84
+offensive_awareness: 87
+poise: 90
+
+slap_shot_accuracy: 87
+slap_shot_power: 90
+wrist_shot_accuracy: 87
+wrist_shot_power: 89
+
+defensive_awareness: 85
+faceoffs: 60
+shot_blocking: 80
+stick_checking: 85
+
+acceleration: 85
+agility: 85
+balance: 88
+endurance: 85
+speed: 85
+
+aggressiveness: 80
+body_checking: 84
+durability: 83
+fighting_skill: 70
+strength: 88

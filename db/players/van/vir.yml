@@ -1,0 +1,65 @@
+nhlcom_id: 8477937
+
+country_abbrev: can
+team_abbrev: van
+
+first_name: Jake
+last_name: Virtanen
+number: 18
+born: 1996-08-17
+
+potential: 11
+
+salary: 0.895
+years_left: 1
+
+height: 185
+weight: 104
+position: rw
+type: power forward
+shoots: right
+
+draft_team_abbrev: van
+draft_year: 2014
+draft_round: 1
+draft_overall: 6
+
+overall: 75
+
+puck_skills: 6
+senses: 5
+shooting: 7
+defense: 5
+skating: 8
+physical: 9
+
+deking: 83
+hand_eye: 82
+passing: 80
+puck_control: 81
+
+discipline: 75
+offensive_awareness: 78
+poise: 75
+
+slap_shot_accuracy: 80
+slap_shot_power: 88
+wrist_shot_accuracy: 81
+wrist_shot_power: 87
+
+defensive_awareness: 76
+faceoffs: 65
+shot_blocking: 72
+stick_checking: 80
+
+acceleration: 88
+agility: 83
+balance: 87
+endurance: 78
+speed: 88
+
+aggressiveness: 87
+body_checking: 87
+durability: 85
+fighting_skill: 75
+strength: 88

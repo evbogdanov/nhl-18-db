@@ -1,0 +1,65 @@
+nhlcom_id: 8476867
+
+country_abbrev: can
+team_abbrev: van
+
+first_name: Brendan
+last_name: Gaunce
+number: 50
+born: 1994-03-25
+
+potential: 25
+
+salary: 0.75
+years_left: 2
+
+height: 188
+weight: 98
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: van
+draft_year: 2012
+draft_round: 1
+draft_overall: 26
+
+overall: 76
+
+puck_skills: 6
+senses: 5
+shooting: 7
+defense: 7
+skating: 7
+physical: 8
+
+deking: 81
+hand_eye: 81
+passing: 80
+puck_control: 80
+
+discipline: 82
+offensive_awareness: 78
+poise: 75
+
+slap_shot_accuracy: 80
+slap_shot_power: 86
+wrist_shot_accuracy: 81
+wrist_shot_power: 85
+
+defensive_awareness: 83
+faceoffs: 75
+shot_blocking: 83
+stick_checking: 85
+
+acceleration: 83
+agility: 83
+balance: 86
+endurance: 83
+speed: 83
+
+aggressiveness: 85
+body_checking: 86
+durability: 80
+fighting_skill: 73
+strength: 86

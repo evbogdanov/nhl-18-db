@@ -1,0 +1,65 @@
+nhlcom_id: 8476466
+
+country_abbrev: che
+team_abbrev: van
+
+first_name: Sven
+last_name: Baertschi
+number: 47
+born: 1992-10-05
+
+potential: 10
+
+salary: 1.85
+years_left: 1
+
+height: 180
+weight: 87
+position: lw
+type: sniper
+shoots: left
+
+draft_team_abbrev: cgy
+draft_year: 2011
+draft_round: 1
+draft_overall: 13
+
+overall: 81
+
+puck_skills: 8
+senses: 8
+shooting: 8
+defense: 7
+skating: 8
+physical: 7
+
+deking: 87
+hand_eye: 86
+passing: 86
+puck_control: 86
+
+discipline: 95
+offensive_awareness: 86
+poise: 80
+
+slap_shot_accuracy: 86
+slap_shot_power: 87
+wrist_shot_accuracy: 86
+wrist_shot_power: 87
+
+defensive_awareness: 84
+faceoffs: 60
+shot_blocking: 75
+stick_checking: 85
+
+acceleration: 88
+agility: 88
+balance: 84
+endurance: 83
+speed: 88
+
+aggressiveness: 77
+body_checking: 77
+durability: 85
+fighting_skill: 65
+strength: 84
