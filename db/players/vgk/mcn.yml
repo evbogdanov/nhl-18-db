@@ -1,0 +1,65 @@
+nhlcom_id: 8475188
+
+country_abbrev: can
+team_abbrev: vgk
+
+first_name: Brayden
+last_name: McNabb
+number: 3
+born: 1991-01-21
+
+potential: 22
+
+salary: 1.7
+years_left: 1
+
+height: 193
+weight: 96
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: buf
+draft_year: 2009
+draft_round: 3
+draft_overall: 66
+
+overall: 80
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 8
+skating: 8
+physical: 9
+
+deking: 78
+hand_eye: 77
+passing: 84
+puck_control: 82
+
+discipline: 75
+offensive_awareness: 81
+poise: 80
+
+slap_shot_accuracy: 77
+slap_shot_power: 87
+wrist_shot_accuracy: 78
+wrist_shot_power: 87
+
+defensive_awareness: 84
+faceoffs: 60
+shot_blocking: 85
+stick_checking: 87
+
+acceleration: 84
+agility: 83
+balance: 88
+endurance: 84
+speed: 84
+
+aggressiveness: 87
+body_checking: 87
+durability: 85
+fighting_skill: 84
+strength: 88

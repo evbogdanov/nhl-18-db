@@ -1,0 +1,65 @@
+nhlcom_id: 8474102
+
+country_abbrev: can
+team_abbrev: vgk
+
+first_name: David
+last_name: Perron
+number: 57
+born: 1988-05-28
+
+potential: 12
+
+salary: 3.75
+years_left: 1
+
+height: 183
+weight: 91
+position: lw
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: stl
+draft_year: 2007
+draft_round: 1
+draft_overall: 26
+
+overall: 82
+
+puck_skills: 8
+senses: 8
+shooting: 8
+defense: 8
+skating: 8
+physical: 8
+
+deking: 86
+hand_eye: 86
+passing: 86
+puck_control: 86
+
+discipline: 77
+offensive_awareness: 86
+poise: 80
+
+slap_shot_accuracy: 85
+slap_shot_power: 88
+wrist_shot_accuracy: 86
+wrist_shot_power: 87
+
+defensive_awareness: 85
+faceoffs: 60
+shot_blocking: 80
+stick_checking: 86
+
+acceleration: 86
+agility: 87
+balance: 86
+endurance: 83
+speed: 87
+
+aggressiveness: 85
+body_checking: 85
+durability: 80
+fighting_skill: 75
+strength: 86

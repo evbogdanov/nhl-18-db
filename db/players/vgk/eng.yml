@@ -1,0 +1,65 @@
+nhlcom_id: 8468674
+
+country_abbrev: can
+team_abbrev: vgk
+
+first_name: Deryk
+last_name: Engelland
+number: 5
+born: 1982-04-03
+
+potential: 24
+
+salary: 1.0
+years_left: 1
+
+height: 188
+weight: 97
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: njd
+draft_year: 2000
+draft_round: 6
+draft_overall: 194
+
+overall: 78
+
+puck_skills: 6
+senses: 5
+shooting: 7
+defense: 7
+skating: 7
+physical: 9
+
+deking: 73
+hand_eye: 70
+passing: 80
+puck_control: 79
+
+discipline: 63
+offensive_awareness: 77
+poise: 80
+
+slap_shot_accuracy: 73
+slap_shot_power: 87
+wrist_shot_accuracy: 73
+wrist_shot_power: 85
+
+defensive_awareness: 83
+faceoffs: 55
+shot_blocking: 88
+stick_checking: 86
+
+acceleration: 80
+agility: 80
+balance: 89
+endurance: 83
+speed: 81
+
+aggressiveness: 89
+body_checking: 89
+durability: 84
+fighting_skill: 87
+strength: 89

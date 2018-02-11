@@ -1,0 +1,65 @@
+nhlcom_id: 8470920
+
+country_abbrev: can
+team_abbrev: vgk
+
+first_name: David
+last_name: Clarkson
+number: 97
+born: 1984-03-31
+
+potential: 28
+
+salary: 5.25
+years_left: 3
+
+height: 183
+weight: 94
+position: rw
+type: grinder
+shoots: right
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 75
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 6
+skating: 7
+physical: 8
+
+deking: 80
+hand_eye: 80
+passing: 80
+puck_control: 80
+
+discipline: 70
+offensive_awareness: 78
+poise: 85
+
+slap_shot_accuracy: 80
+slap_shot_power: 85
+wrist_shot_accuracy: 80
+wrist_shot_power: 85
+
+defensive_awareness: 79
+faceoffs: 60
+shot_blocking: 83
+stick_checking: 85
+
+acceleration: 82
+agility: 82
+balance: 87
+endurance: 80
+speed: 82
+
+aggressiveness: 90
+body_checking: 90
+durability: 60
+fighting_skill: 83
+strength: 87

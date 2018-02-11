@@ -1,0 +1,65 @@
+nhlcom_id: 8470886
+
+country_abbrev: can
+team_abbrev: vgk
+
+first_name: Clayton
+last_name: Stoner
+number: 4
+born: 1985-02-19
+
+potential: 32
+
+salary: 3.25
+years_left: 1
+
+height: 193
+weight: 98
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: min
+draft_year: 2004
+draft_round: 3
+draft_overall: 79
+
+overall: 77
+
+puck_skills: 5
+senses: 5
+shooting: 7
+defense: 7
+skating: 7
+physical: 9
+
+deking: 65
+hand_eye: 65
+passing: 78
+puck_control: 78
+
+discipline: 70
+offensive_awareness: 77
+poise: 75
+
+slap_shot_accuracy: 70
+slap_shot_power: 87
+wrist_shot_accuracy: 75
+wrist_shot_power: 85
+
+defensive_awareness: 83
+faceoffs: 55
+shot_blocking: 88
+stick_checking: 85
+
+acceleration: 80
+agility: 80
+balance: 89
+endurance: 83
+speed: 80
+
+aggressiveness: 90
+body_checking: 89
+durability: 75
+fighting_skill: 80
+strength: 89

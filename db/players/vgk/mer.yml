@@ -1,0 +1,65 @@
+nhlcom_id: 8475750
+
+country_abbrev: usa
+team_abbrev: vgk
+
+first_name: Jon
+last_name: Merrill
+number: 15
+born: 1992-02-03
+
+potential: 14
+
+salary: 1.135
+years_left: 1
+
+height: 191
+weight: 93
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: njd
+draft_year: 2010
+draft_round: 2
+draft_overall: 38
+
+overall: 81
+
+puck_skills: 7
+senses: 7
+shooting: 7
+defense: 8
+skating: 8
+physical: 8
+
+deking: 75
+hand_eye: 73
+passing: 83
+puck_control: 82
+
+discipline: 80
+offensive_awareness: 82
+poise: 80
+
+slap_shot_accuracy: 76
+slap_shot_power: 87
+wrist_shot_accuracy: 77
+wrist_shot_power: 87
+
+defensive_awareness: 86
+faceoffs: 60
+shot_blocking: 88
+stick_checking: 87
+
+acceleration: 85
+agility: 84
+balance: 87
+endurance: 85
+speed: 85
+
+aggressiveness: 85
+body_checking: 87
+durability: 80
+fighting_skill: 75
+strength: 87

@@ -1,0 +1,65 @@
+nhlcom_id: 8475800
+
+country_abbrev: fin
+team_abbrev: vgk
+
+first_name: Teemu
+last_name: Pulkkinen
+number: 67
+born: 1992-01-02
+
+potential: 26
+
+salary: 0.7
+years_left: 1
+
+height: 178
+weight: 84
+position: rw
+type: sniper
+shoots: right
+
+draft_team_abbrev: det
+draft_year: 2010
+draft_round: 4
+draft_overall: 111
+
+overall: 75
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 6
+skating: 8
+physical: 5
+
+deking: 85
+hand_eye: 83
+passing: 83
+puck_control: 83
+
+discipline: 82
+offensive_awareness: 80
+poise: 75
+
+slap_shot_accuracy: 82
+slap_shot_power: 85
+wrist_shot_accuracy: 83
+wrist_shot_power: 85
+
+defensive_awareness: 78
+faceoffs: 60
+shot_blocking: 75
+stick_checking: 82
+
+acceleration: 88
+agility: 88
+balance: 80
+endurance: 83
+speed: 88
+
+aggressiveness: 73
+body_checking: 73
+durability: 80
+fighting_skill: 65
+strength: 80

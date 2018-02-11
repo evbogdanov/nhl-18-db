@@ -1,0 +1,65 @@
+nhlcom_id: 8476448
+
+country_abbrev: swe
+team_abbrev: vgk
+
+first_name: William
+last_name: Karlsson
+number: 71
+born: 1993-01-08
+
+potential: 18
+
+salary: 1.0
+years_left: 1
+
+height: 185
+weight: 86
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: ana
+draft_year: 2011
+draft_round: 2
+draft_overall: 53
+
+overall: 80
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 8
+skating: 8
+physical: 7
+
+deking: 87
+hand_eye: 83
+passing: 86
+puck_control: 85
+
+discipline: 95
+offensive_awareness: 85
+poise: 75
+
+slap_shot_accuracy: 83
+slap_shot_power: 85
+wrist_shot_accuracy: 84
+wrist_shot_power: 85
+
+defensive_awareness: 85
+faceoffs: 79
+shot_blocking: 81
+stick_checking: 85
+
+acceleration: 88
+agility: 88
+balance: 83
+endurance: 83
+speed: 88
+
+aggressiveness: 80
+body_checking: 80
+durability: 84
+fighting_skill: 65
+strength: 83

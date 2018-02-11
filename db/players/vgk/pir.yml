@@ -1,0 +1,65 @@
+nhlcom_id: 8475204
+
+country_abbrev: can
+team_abbrev: vgk
+
+first_name: Brandon
+last_name: Pirri
+number: 73
+born: 1991-04-10
+
+potential: 26
+
+salary: 0.65
+years_left: 1
+
+height: 183
+weight: 84
+position: lw
+type: sniper
+shoots: left
+
+draft_team_abbrev: chi
+draft_year: 2009
+draft_round: 2
+draft_overall: 59
+
+overall: 77
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 6
+
+deking: 87
+hand_eye: 83
+passing: 83
+puck_control: 83
+
+discipline: 86
+offensive_awareness: 81
+poise: 75
+
+slap_shot_accuracy: 83
+slap_shot_power: 85
+wrist_shot_accuracy: 83
+wrist_shot_power: 85
+
+defensive_awareness: 81
+faceoffs: 79
+shot_blocking: 75
+stick_checking: 83
+
+acceleration: 88
+agility: 88
+balance: 82
+endurance: 83
+speed: 88
+
+aggressiveness: 77
+body_checking: 80
+durability: 84
+fighting_skill: 65
+strength: 82

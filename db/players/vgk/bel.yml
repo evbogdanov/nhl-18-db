@@ -1,0 +1,65 @@
+nhlcom_id: 8477930
+
+country_abbrev: fra
+team_abbrev: vgk
+
+first_name: Pierre-Edouard
+last_name: Bellemare
+number: 41
+born: 1985-03-06
+
+potential: 20
+
+salary: 1.45
+years_left: 2
+
+height: 183
+weight: 90
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 78
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 8
+skating: 8
+physical: 7
+
+deking: 83
+hand_eye: 81
+passing: 81
+puck_control: 81
+
+discipline: 84
+offensive_awareness: 80
+poise: 80
+
+slap_shot_accuracy: 81
+slap_shot_power: 86
+wrist_shot_accuracy: 82
+wrist_shot_power: 85
+
+defensive_awareness: 85
+faceoffs: 77
+shot_blocking: 85
+stick_checking: 88
+
+acceleration: 86
+agility: 86
+balance: 84
+endurance: 82
+speed: 86
+
+aggressiveness: 82
+body_checking: 82
+durability: 84
+fighting_skill: 65
+strength: 84

@@ -1,0 +1,65 @@
+nhlcom_id: 8471707
+
+country_abbrev: can
+team_abbrev: vgk
+
+first_name: James
+last_name: Neal
+number: 18
+born: 1987-09-03
+
+potential: 12
+
+salary: 5.0
+years_left: 1
+
+height: 188
+weight: 100
+position: rw
+type: power forward
+shoots: left
+
+draft_team_abbrev: dal
+draft_year: 2005
+draft_round: 2
+draft_overall: 33
+
+overall: 84
+
+puck_skills: 9
+senses: 8
+shooting: 9
+defense: 8
+skating: 8
+physical: 9
+
+deking: 86
+hand_eye: 90
+passing: 88
+puck_control: 88
+
+discipline: 80
+offensive_awareness: 87
+poise: 85
+
+slap_shot_accuracy: 88
+slap_shot_power: 91
+wrist_shot_accuracy: 88
+wrist_shot_power: 90
+
+defensive_awareness: 84
+faceoffs: 60
+shot_blocking: 80
+stick_checking: 88
+
+acceleration: 86
+agility: 86
+balance: 89
+endurance: 85
+speed: 86
+
+aggressiveness: 87
+body_checking: 88
+durability: 87
+fighting_skill: 84
+strength: 88

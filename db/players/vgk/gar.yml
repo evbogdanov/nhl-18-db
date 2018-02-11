@@ -1,0 +1,65 @@
+nhlcom_id: 8474520
+
+country_abbrev: can
+team_abbrev: vgk
+
+first_name: Jason
+last_name: Garrison
+number: 7
+born: 1984-11-13
+
+potential: 24
+
+salary: 4.6
+years_left: 1
+
+height: 185
+weight: 99
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 81
+
+puck_skills: 6
+senses: 7
+shooting: 8
+defense: 8
+skating: 8
+physical: 8
+
+deking: 70
+hand_eye: 70
+passing: 81
+puck_control: 81
+
+discipline: 85
+offensive_awareness: 81
+poise: 85
+
+slap_shot_accuracy: 78
+slap_shot_power: 92
+wrist_shot_accuracy: 78
+wrist_shot_power: 89
+
+defensive_awareness: 86
+faceoffs: 55
+shot_blocking: 87
+stick_checking: 87
+
+acceleration: 84
+agility: 84
+balance: 87
+endurance: 85
+speed: 85
+
+aggressiveness: 85
+body_checking: 85
+durability: 80
+fighting_skill: 75
+strength: 87

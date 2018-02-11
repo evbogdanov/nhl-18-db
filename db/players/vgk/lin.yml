@@ -1,0 +1,65 @@
+nhlcom_id: 8475715
+
+country_abbrev: swe
+team_abbrev: vgk
+
+first_name: Oscar
+last_name: Lindberg
+number: 24
+born: 1991-10-29
+
+potential: 18
+
+salary: 1.7
+years_left: 2
+
+height: 185
+weight: 92
+position: c
+type: playmaker
+shoots: left
+
+draft_team_abbrev: phx
+draft_year: 2010
+draft_round: 2
+draft_overall: 57
+
+overall: 78
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 7
+skating: 8
+physical: 6
+
+deking: 85
+hand_eye: 84
+passing: 84
+puck_control: 84
+
+discipline: 84
+offensive_awareness: 83
+poise: 75
+
+slap_shot_accuracy: 84
+slap_shot_power: 86
+wrist_shot_accuracy: 84
+wrist_shot_power: 85
+
+defensive_awareness: 83
+faceoffs: 77
+shot_blocking: 77
+stick_checking: 84
+
+acceleration: 87
+agility: 87
+balance: 82
+endurance: 83
+speed: 87
+
+aggressiveness: 80
+body_checking: 75
+durability: 84
+fighting_skill: 65
+strength: 83

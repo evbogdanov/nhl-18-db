@@ -1,0 +1,65 @@
+nhlcom_id: 8469485
+
+country_abbrev: can
+team_abbrev: vgk
+
+first_name: Derek
+last_name: Roy
+number: 8
+born: 1983-05-04
+
+potential: 28
+
+salary: 0.65
+years_left: 1
+
+height: 175
+weight: 83
+position: c
+type: playmaker
+shoots: left
+
+draft_team_abbrev: buf
+draft_year: 2001
+draft_round: 2
+draft_overall: 32
+
+overall: 77
+
+puck_skills: 8
+senses: 7
+shooting: 7
+defense: 6
+skating: 7
+physical: 6
+
+deking: 85
+hand_eye: 83
+passing: 84
+puck_control: 84
+
+discipline: 80
+offensive_awareness: 83
+poise: 85
+
+slap_shot_accuracy: 82
+slap_shot_power: 85
+wrist_shot_accuracy: 83
+wrist_shot_power: 85
+
+defensive_awareness: 80
+faceoffs: 80
+shot_blocking: 79
+stick_checking: 84
+
+acceleration: 84
+agility: 85
+balance: 82
+endurance: 80
+speed: 84
+
+aggressiveness: 80
+body_checking: 80
+durability: 85
+fighting_skill: 70
+strength: 81

@@ -1,0 +1,65 @@
+nhlcom_id: 8474579
+
+country_abbrev: ita
+team_abbrev: vgk
+
+first_name: Luca
+last_name: Sbisa
+number: 47
+born: 1990-01-30
+
+potential: 24
+
+salary: 3.6
+years_left: 1
+
+height: 188
+weight: 95
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: phi
+draft_year: 2008
+draft_round: 1
+draft_overall: 19
+
+overall: 80
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 8
+skating: 8
+physical: 9
+
+deking: 78
+hand_eye: 75
+passing: 81
+puck_control: 81
+
+discipline: 80
+offensive_awareness: 80
+poise: 80
+
+slap_shot_accuracy: 77
+slap_shot_power: 87
+wrist_shot_accuracy: 77
+wrist_shot_power: 87
+
+defensive_awareness: 84
+faceoffs: 55
+shot_blocking: 88
+stick_checking: 87
+
+acceleration: 84
+agility: 84
+balance: 88
+endurance: 85
+speed: 85
+
+aggressiveness: 88
+body_checking: 88
+durability: 85
+fighting_skill: 83
+strength: 88

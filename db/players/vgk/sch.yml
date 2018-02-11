@@ -1,0 +1,65 @@
+nhlcom_id: 8477220
+
+country_abbrev: usa
+team_abbrev: vgk
+
+first_name: Nate
+last_name: Schmidt
+number: 88
+born: 1991-07-16
+
+potential: 22
+
+salary: 2.225
+years_left: 2
+
+height: 185
+weight: 88
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 78
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 8
+skating: 8
+physical: 7
+
+deking: 83
+hand_eye: 78
+passing: 81
+puck_control: 81
+
+discipline: 85
+offensive_awareness: 81
+poise: 75
+
+slap_shot_accuracy: 76
+slap_shot_power: 86
+wrist_shot_accuracy: 77
+wrist_shot_power: 85
+
+defensive_awareness: 85
+faceoffs: 60
+shot_blocking: 85
+stick_checking: 84
+
+acceleration: 86
+agility: 86
+balance: 83
+endurance: 83
+speed: 86
+
+aggressiveness: 81
+body_checking: 82
+durability: 80
+fighting_skill: 65
+strength: 84
