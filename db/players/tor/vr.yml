@@ -1,0 +1,65 @@
+nhlcom_id: 8474037
+
+country_abbrev: usa
+team_abbrev: tor
+
+first_name: James
+last_name: van Riemsdyk
+number: 25
+born: 1989-05-04
+
+potential: 12
+
+salary: 4.25
+years_left: 1
+
+height: 191
+weight: 95
+position: lw
+type: power forward
+shoots: left
+
+draft_team_abbrev: phi
+draft_year: 2007
+draft_round: 1
+draft_overall: 2
+
+overall: 84
+
+puck_skills: 9
+senses: 8
+shooting: 9
+defense: 8
+skating: 9
+physical: 8
+
+deking: 88
+hand_eye: 89
+passing: 87
+puck_control: 87
+
+discipline: 80
+offensive_awareness: 87
+poise: 80
+
+slap_shot_accuracy: 88
+slap_shot_power: 90
+wrist_shot_accuracy: 88
+wrist_shot_power: 89
+
+defensive_awareness: 86
+faceoffs: 75
+shot_blocking: 80
+stick_checking: 87
+
+acceleration: 87
+agility: 87
+balance: 88
+endurance: 85
+speed: 87
+
+aggressiveness: 84
+body_checking: 85
+durability: 84
+fighting_skill: 75
+strength: 88

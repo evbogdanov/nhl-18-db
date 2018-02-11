@@ -1,0 +1,65 @@
+nhlcom_id: 8471392
+
+country_abbrev: cze
+team_abbrev: tor
+
+first_name: Roman
+last_name: Polak
+number: 46
+born: 1986-04-28
+
+potential: 32
+
+salary: 1.1
+years_left: 1
+
+height: 188
+weight: 106
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: stl
+draft_year: 2004
+draft_round: 6
+draft_overall: 180
+
+overall: 77
+
+puck_skills: 5
+senses: 6
+shooting: 7
+defense: 7
+skating: 7
+physical: 8
+
+deking: 70
+hand_eye: 70
+passing: 78
+puck_control: 79
+
+discipline: 75
+offensive_awareness: 79
+poise: 75
+
+slap_shot_accuracy: 72
+slap_shot_power: 86
+wrist_shot_accuracy: 72
+wrist_shot_power: 85
+
+defensive_awareness: 83
+faceoffs: 55
+shot_blocking: 86
+stick_checking: 86
+
+acceleration: 81
+agility: 81
+balance: 89
+endurance: 83
+speed: 81
+
+aggressiveness: 84
+body_checking: 86
+durability: 80
+fighting_skill: 75
+strength: 88

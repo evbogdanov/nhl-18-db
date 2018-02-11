@@ -1,0 +1,65 @@
+nhlcom_id: 8474709
+
+country_abbrev: can
+team_abbrev: tor
+
+first_name: Matt
+last_name: Martin
+number: 15
+born: 1989-05-08
+
+potential: 28
+
+salary: 2.5
+years_left: 3
+
+height: 191
+weight: 100
+position: lw
+type: grinder
+shoots: left
+
+draft_team_abbrev: nyi
+draft_year: 2008
+draft_round: 5
+draft_overall: 148
+
+overall: 77
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 10
+
+deking: 80
+hand_eye: 80
+passing: 80
+puck_control: 80
+
+discipline: 65
+offensive_awareness: 78
+poise: 80
+
+slap_shot_accuracy: 80
+slap_shot_power: 87
+wrist_shot_accuracy: 80
+wrist_shot_power: 87
+
+defensive_awareness: 82
+faceoffs: 60
+shot_blocking: 83
+stick_checking: 83
+
+acceleration: 85
+agility: 83
+balance: 89
+endurance: 83
+speed: 85
+
+aggressiveness: 93
+body_checking: 93
+durability: 84
+fighting_skill: 87
+strength: 89

@@ -1,0 +1,65 @@
+nhlcom_id: 8470207
+
+country_abbrev: can
+team_abbrev: tor
+
+first_name: Joffrey
+last_name: Lupul
+number: 19
+born: 1983-09-23
+
+potential: 28
+
+salary: 5.25
+years_left: 1
+
+height: 185
+weight: 96
+position: rw
+type: sniper
+shoots: right
+
+draft_team_abbrev: ana
+draft_year: 2002
+draft_round: 1
+draft_overall: 7
+
+overall: 75
+
+puck_skills: 7
+senses: 5
+shooting: 8
+defense: 5
+skating: 8
+physical: 7
+
+deking: 84
+hand_eye: 83
+passing: 83
+puck_control: 83
+
+discipline: 88
+offensive_awareness: 75
+poise: 75
+
+slap_shot_accuracy: 83
+slap_shot_power: 87
+wrist_shot_accuracy: 83
+wrist_shot_power: 86
+
+defensive_awareness: 75
+faceoffs: 65
+shot_blocking: 80
+stick_checking: 83
+
+acceleration: 86
+agility: 85
+balance: 85
+endurance: 85
+speed: 87
+
+aggressiveness: 80
+body_checking: 81
+durability: 65
+fighting_skill: 70
+strength: 85

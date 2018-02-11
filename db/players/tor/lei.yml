@@ -1,0 +1,65 @@
+nhlcom_id: 8476410
+
+country_abbrev: can
+team_abbrev: tor
+
+first_name: Josh
+last_name: Leivo
+number: 32
+born: 1993-05-26
+
+potential: 18
+
+salary: 0.65
+years_left: 1
+
+height: 188
+weight: 93
+position: rw
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: tor
+draft_year: 2011
+draft_round: 3
+draft_overall: 86
+
+overall: 75
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 6
+skating: 8
+physical: 8
+
+deking: 82
+hand_eye: 81
+passing: 81
+puck_control: 81
+
+discipline: 85
+offensive_awareness: 79
+poise: 75
+
+slap_shot_accuracy: 81
+slap_shot_power: 85
+wrist_shot_accuracy: 81
+wrist_shot_power: 85
+
+defensive_awareness: 78
+faceoffs: 67
+shot_blocking: 77
+stick_checking: 83
+
+acceleration: 85
+agility: 85
+balance: 85
+endurance: 81
+speed: 85
+
+aggressiveness: 84
+body_checking: 84
+durability: 85
+fighting_skill: 77
+strength: 85

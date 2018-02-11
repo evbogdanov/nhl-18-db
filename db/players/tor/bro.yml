@@ -1,0 +1,65 @@
+nhlcom_id: 8477015
+
+country_abbrev: can
+team_abbrev: tor
+
+first_name: Connor
+last_name: Brown
+number: 28
+born: 1994-01-14
+
+potential: 18
+
+salary: 2.1
+years_left: 3
+
+height: 183
+weight: 84
+position: rw
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: tor
+draft_year: 2012
+draft_round: 6
+draft_overall: 156
+
+overall: 79
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 7
+skating: 8
+physical: 6
+
+deking: 85
+hand_eye: 84
+passing: 84
+puck_control: 84
+
+discipline: 95
+offensive_awareness: 82
+poise: 80
+
+slap_shot_accuracy: 84
+slap_shot_power: 86
+wrist_shot_accuracy: 85
+wrist_shot_power: 85
+
+defensive_awareness: 83
+faceoffs: 70
+shot_blocking: 80
+stick_checking: 84
+
+acceleration: 87
+agility: 87
+balance: 82
+endurance: 82
+speed: 87
+
+aggressiveness: 80
+body_checking: 77
+durability: 85
+fighting_skill: 63
+strength: 82

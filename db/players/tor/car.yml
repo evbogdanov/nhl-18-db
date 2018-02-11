@@ -1,0 +1,65 @@
+nhlcom_id: 8476941
+
+country_abbrev: usa
+team_abbrev: tor
+
+first_name: Connor
+last_name: Carrick
+number: 8
+born: 1994-04-13
+
+potential: 22
+
+salary: 0.75
+years_left: 1
+
+height: 180
+weight: 88
+position: d
+type: 2 way defender
+shoots: right
+
+draft_team_abbrev: wsh
+draft_year: 2012
+draft_round: 5
+draft_overall: 137
+
+overall: 78
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 8
+
+deking: 84
+hand_eye: 77
+passing: 82
+puck_control: 81
+
+discipline: 75
+offensive_awareness: 81
+poise: 75
+
+slap_shot_accuracy: 78
+slap_shot_power: 86
+wrist_shot_accuracy: 80
+wrist_shot_power: 85
+
+defensive_awareness: 84
+faceoffs: 50
+shot_blocking: 85
+stick_checking: 83
+
+acceleration: 87
+agility: 87
+balance: 85
+endurance: 82
+speed: 87
+
+aggressiveness: 86
+body_checking: 85
+durability: 85
+fighting_skill: 65
+strength: 85

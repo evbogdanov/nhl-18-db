@@ -1,0 +1,65 @@
+nhlcom_id: 8470611
+
+country_abbrev: can
+team_abbrev: tor
+
+first_name: Eric
+last_name: Fehr
+number: 23
+born: 1985-09-07
+
+potential: 28
+
+salary: 2.0
+years_left: 1
+
+height: 193
+weight: 96
+position: rw
+type: grinder
+shoots: right
+
+draft_team_abbrev: wsh
+draft_year: 2003
+draft_round: 1
+draft_overall: 18
+
+overall: 75
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 6
+skating: 8
+physical: 8
+
+deking: 80
+hand_eye: 80
+passing: 80
+puck_control: 80
+
+discipline: 85
+offensive_awareness: 78
+poise: 80
+
+slap_shot_accuracy: 79
+slap_shot_power: 85
+wrist_shot_accuracy: 80
+wrist_shot_power: 85
+
+defensive_awareness: 78
+faceoffs: 82
+shot_blocking: 83
+stick_checking: 85
+
+acceleration: 83
+agility: 83
+balance: 88
+endurance: 83
+speed: 83
+
+aggressiveness: 85
+body_checking: 87
+durability: 80
+fighting_skill: 75
+strength: 88

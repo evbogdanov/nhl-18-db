@@ -1,0 +1,65 @@
+nhlcom_id: 8477510
+
+country_abbrev: usa
+team_abbrev: tor
+
+first_name: Kerby
+last_name: Rychel
+number: 36
+born: 1994-10-07
+
+potential: 18
+
+salary: 0.865
+years_left: 1
+
+height: 183
+weight: 96
+position: lw
+type: power forward
+shoots: left
+
+draft_team_abbrev: cbj
+draft_year: 2013
+draft_round: 1
+draft_overall: 19
+
+overall: 75
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 6
+skating: 7
+physical: 8
+
+deking: 81
+hand_eye: 81
+passing: 82
+puck_control: 82
+
+discipline: 70
+offensive_awareness: 80
+poise: 75
+
+slap_shot_accuracy: 81
+slap_shot_power: 85
+wrist_shot_accuracy: 81
+wrist_shot_power: 85
+
+defensive_awareness: 78
+faceoffs: 73
+shot_blocking: 78
+stick_checking: 80
+
+acceleration: 82
+agility: 82
+balance: 87
+endurance: 83
+speed: 83
+
+aggressiveness: 90
+body_checking: 87
+durability: 85
+fighting_skill: 83
+strength: 87

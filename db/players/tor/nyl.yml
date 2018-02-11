@@ -1,0 +1,65 @@
+nhlcom_id: 8477939
+
+country_abbrev: can
+team_abbrev: tor
+
+first_name: William
+last_name: Nylander
+number: 29
+born: 1996-05-01
+
+potential: 6
+
+salary: 0.895
+years_left: 1
+
+height: 183
+weight: 86
+position: rw
+type: playmaker
+shoots: right
+
+draft_team_abbrev: tor
+draft_year: 2014
+draft_round: 1
+draft_overall: 8
+
+overall: 84
+
+puck_skills: 9
+senses: 9
+shooting: 9
+defense: 7
+skating: 9
+physical: 6
+
+deking: 89
+hand_eye: 89
+passing: 90
+puck_control: 90
+
+discipline: 84
+offensive_awareness: 89
+poise: 83
+
+slap_shot_accuracy: 88
+slap_shot_power: 87
+wrist_shot_accuracy: 88
+wrist_shot_power: 87
+
+defensive_awareness: 84
+faceoffs: 70
+shot_blocking: 75
+stick_checking: 85
+
+acceleration: 90
+agility: 92
+balance: 82
+endurance: 84
+speed: 90
+
+aggressiveness: 80
+body_checking: 75
+durability: 85
+fighting_skill: 65
+strength: 82

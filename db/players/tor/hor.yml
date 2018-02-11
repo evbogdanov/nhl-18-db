@@ -1,0 +1,65 @@
+nhlcom_id: 8470596
+
+country_abbrev: can
+team_abbrev: tor
+
+first_name: Nathan
+last_name: Horton
+number: 71
+born: 1985-05-29
+
+potential: 28
+
+salary: 5.3
+years_left: 3
+
+height: 188
+weight: 104
+position: rw
+type: power forward
+shoots: right
+
+draft_team_abbrev: fla
+draft_year: 2003
+draft_round: 1
+draft_overall: 3
+
+overall: 75
+
+puck_skills: 7
+senses: 6
+shooting: 6
+defense: 7
+skating: 7
+physical: 6
+
+deking: 81
+hand_eye: 88
+passing: 82
+puck_control: 80
+
+discipline: 75
+offensive_awareness: 78
+poise: 85
+
+slap_shot_accuracy: 77
+slap_shot_power: 82
+wrist_shot_accuracy: 81
+wrist_shot_power: 81
+
+defensive_awareness: 83
+faceoffs: 60
+shot_blocking: 83
+stick_checking: 86
+
+acceleration: 84
+agility: 79
+balance: 85
+endurance: 80
+speed: 82
+
+aggressiveness: 87
+body_checking: 80
+durability: 55
+fighting_skill: 80
+strength: 83

@@ -1,0 +1,65 @@
+nhlcom_id: 8475786
+
+country_abbrev: can
+team_abbrev: tor
+
+first_name: Zach
+last_name: Hyman
+number: 11
+born: 1992-06-09
+
+potential: 18
+
+salary: 2.25
+years_left: 4
+
+height: 185
+weight: 95
+position: rw
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: fla
+draft_year: 2010
+draft_round: 5
+draft_overall: 123
+
+overall: 79
+
+puck_skills: 7
+senses: 7
+shooting: 7
+defense: 8
+skating: 8
+physical: 8
+
+deking: 84
+hand_eye: 82
+passing: 83
+puck_control: 83
+
+discipline: 83
+offensive_awareness: 82
+poise: 80
+
+slap_shot_accuracy: 82
+slap_shot_power: 86
+wrist_shot_accuracy: 83
+wrist_shot_power: 85
+
+defensive_awareness: 85
+faceoffs: 75
+shot_blocking: 85
+stick_checking: 86
+
+acceleration: 85
+agility: 85
+balance: 85
+endurance: 83
+speed: 85
+
+aggressiveness: 85
+body_checking: 85
+durability: 85
+fighting_skill: 65
+strength: 85

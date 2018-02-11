@@ -1,0 +1,65 @@
+nhlcom_id: 8473463
+
+country_abbrev: fin
+team_abbrev: tor
+
+first_name: Leo
+last_name: Komarov
+number: 47
+born: 1987-01-23
+
+potential: 12
+
+salary: 2.95
+years_left: 1
+
+height: 180
+weight: 95
+position: rw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: tor
+draft_year: 2006
+draft_round: 6
+draft_overall: 180
+
+overall: 81
+
+puck_skills: 7
+senses: 7
+shooting: 8
+defense: 8
+skating: 8
+physical: 9
+
+deking: 84
+hand_eye: 83
+passing: 84
+puck_control: 84
+
+discipline: 85
+offensive_awareness: 84
+poise: 80
+
+slap_shot_accuracy: 83
+slap_shot_power: 87
+wrist_shot_accuracy: 84
+wrist_shot_power: 85
+
+defensive_awareness: 85
+faceoffs: 70
+shot_blocking: 83
+stick_checking: 88
+
+acceleration: 86
+agility: 85
+balance: 87
+endurance: 84
+speed: 86
+
+aggressiveness: 90
+body_checking: 90
+durability: 86
+fighting_skill: 75
+strength: 87

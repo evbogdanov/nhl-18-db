@@ -1,0 +1,65 @@
+nhlcom_id: 8475172
+
+country_abbrev: can
+team_abbrev: tor
+
+first_name: Nazem
+last_name: Kadri
+number: 43
+born: 1990-10-06
+
+potential: 10
+
+salary: 4.5
+years_left: 5
+
+height: 183
+weight: 88
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: tor
+draft_year: 2009
+draft_round: 1
+draft_overall: 7
+
+overall: 84
+
+puck_skills: 9
+senses: 8
+shooting: 9
+defense: 8
+skating: 9
+physical: 8
+
+deking: 87
+hand_eye: 87
+passing: 87
+puck_control: 88
+
+discipline: 70
+offensive_awareness: 86
+poise: 85
+
+slap_shot_accuracy: 87
+slap_shot_power: 88
+wrist_shot_accuracy: 87
+wrist_shot_power: 87
+
+defensive_awareness: 86
+faceoffs: 77
+shot_blocking: 83
+stick_checking: 87
+
+acceleration: 88
+agility: 88
+balance: 85
+endurance: 85
+speed: 88
+
+aggressiveness: 87
+body_checking: 87
+durability: 85
+fighting_skill: 70
+strength: 86

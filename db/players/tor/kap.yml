@@ -1,0 +1,65 @@
+nhlcom_id: 8477953
+
+country_abbrev: fin
+team_abbrev: tor
+
+first_name: Kasperi
+last_name: Kapanen
+number: 24
+born: 1996-07-23
+
+potential: 11
+
+salary: 0.895
+years_left: 1
+
+height: 180
+weight: 82
+position: rw
+type: sniper
+shoots: right
+
+draft_team_abbrev: pit
+draft_year: 2014
+draft_round: 1
+draft_overall: 22
+
+overall: 75
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 6
+skating: 8
+physical: 5
+
+deking: 85
+hand_eye: 83
+passing: 83
+puck_control: 83
+
+discipline: 78
+offensive_awareness: 80
+poise: 70
+
+slap_shot_accuracy: 82
+slap_shot_power: 85
+wrist_shot_accuracy: 83
+wrist_shot_power: 84
+
+defensive_awareness: 80
+faceoffs: 67
+shot_blocking: 73
+stick_checking: 80
+
+acceleration: 87
+agility: 87
+balance: 80
+endurance: 78
+speed: 87
+
+aggressiveness: 80
+body_checking: 75
+durability: 77
+fighting_skill: 67
+strength: 80

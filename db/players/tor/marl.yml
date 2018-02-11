@@ -1,0 +1,65 @@
+nhlcom_id: 8466139
+
+country_abbrev: can
+team_abbrev: tor
+
+first_name: Patrick
+last_name: Marleau
+number: 12
+born: 1979-09-15
+
+potential: 12
+
+salary: 6.25
+years_left: 3
+
+height: 188
+weight: 97
+position: lw
+type: sniper
+shoots: left
+
+draft_team_abbrev: sjs
+draft_year: 1997
+draft_round: 1
+draft_overall: 2
+
+overall: 83
+
+puck_skills: 8
+senses: 8
+shooting: 8
+defense: 8
+skating: 9
+physical: 8
+
+deking: 85
+hand_eye: 85
+passing: 85
+puck_control: 85
+
+discipline: 90
+offensive_awareness: 86
+poise: 85
+
+slap_shot_accuracy: 85
+slap_shot_power: 88
+wrist_shot_accuracy: 85
+wrist_shot_power: 87
+
+defensive_awareness: 85
+faceoffs: 80
+shot_blocking: 80
+stick_checking: 85
+
+acceleration: 88
+agility: 85
+balance: 89
+endurance: 85
+speed: 90
+
+aggressiveness: 80
+body_checking: 82
+durability: 85
+fighting_skill: 70
+strength: 88

@@ -1,0 +1,65 @@
+nhlcom_id: 8475716
+
+country_abbrev: svk
+team_abbrev: tor
+
+first_name: Martin
+last_name: Marincin
+number: 52
+born: 1992-02-18
+
+potential: 22
+
+salary: 1.25
+years_left: 1
+
+height: 193
+weight: 95
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: edm
+draft_year: 2010
+draft_round: 2
+draft_overall: 46
+
+overall: 78
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 8
+skating: 8
+physical: 8
+
+deking: 77
+hand_eye: 75
+passing: 82
+puck_control: 80
+
+discipline: 85
+offensive_awareness: 80
+poise: 75
+
+slap_shot_accuracy: 77
+slap_shot_power: 86
+wrist_shot_accuracy: 77
+wrist_shot_power: 85
+
+defensive_awareness: 84
+faceoffs: 55
+shot_blocking: 85
+stick_checking: 85
+
+acceleration: 84
+agility: 83
+balance: 87
+endurance: 85
+speed: 85
+
+aggressiveness: 84
+body_checking: 84
+durability: 85
+fighting_skill: 70
+strength: 87
