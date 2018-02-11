@@ -1,0 +1,65 @@
+nhlcom_id: 8477454
+
+country_abbrev: usa
+team_abbrev: tbl
+
+first_name: Adam
+last_name: Erne
+number: 73
+born: 1995-04-20
+
+potential: 11
+
+salary: 0.875
+years_left: 1
+
+height: 183
+weight: 93
+position: lw
+type: power forward
+shoots: left
+
+draft_team_abbrev: tbl
+draft_year: 2013
+draft_round: 2
+draft_overall: 33
+
+overall: 75
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 6
+skating: 8
+physical: 8
+
+deking: 81
+hand_eye: 81
+passing: 81
+puck_control: 81
+
+discipline: 75
+offensive_awareness: 80
+poise: 70
+
+slap_shot_accuracy: 81
+slap_shot_power: 87
+wrist_shot_accuracy: 82
+wrist_shot_power: 86
+
+defensive_awareness: 78
+faceoffs: 65
+shot_blocking: 70
+stick_checking: 82
+
+acceleration: 84
+agility: 84
+balance: 86
+endurance: 82
+speed: 85
+
+aggressiveness: 86
+body_checking: 86
+durability: 85
+fighting_skill: 75
+strength: 85

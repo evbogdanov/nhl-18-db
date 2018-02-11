@@ -1,0 +1,65 @@
+nhlcom_id: 8477009
+
+country_abbrev: can
+team_abbrev: tbl
+
+first_name: Jake
+last_name: Dotchin
+number: 59
+born: 1994-03-24
+
+potential: 22
+
+salary: 0.815
+years_left: 2
+
+height: 191
+weight: 96
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: tbl
+draft_year: 2012
+draft_round: 6
+draft_overall: 161
+
+overall: 77
+
+puck_skills: 6
+senses: 5
+shooting: 7
+defense: 7
+skating: 7
+physical: 9
+
+deking: 73
+hand_eye: 77
+passing: 82
+puck_control: 76
+
+discipline: 60
+offensive_awareness: 77
+poise: 75
+
+slap_shot_accuracy: 75
+slap_shot_power: 87
+wrist_shot_accuracy: 75
+wrist_shot_power: 86
+
+defensive_awareness: 81
+faceoffs: 60
+shot_blocking: 86
+stick_checking: 86
+
+acceleration: 82
+agility: 84
+balance: 87
+endurance: 80
+speed: 82
+
+aggressiveness: 89
+body_checking: 88
+durability: 85
+fighting_skill: 85
+strength: 88

@@ -1,0 +1,65 @@
+nhlcom_id: 8478010
+
+country_abbrev: can
+team_abbrev: tbl
+
+first_name: Brayden
+last_name: Point
+number: 21
+born: 1996-03-13
+
+potential: 10
+
+salary: 0.695
+years_left: 2
+
+height: 178
+weight: 75
+position: c
+type: playmaker
+shoots: right
+
+draft_team_abbrev: tbl
+draft_year: 2014
+draft_round: 3
+draft_overall: 79
+
+overall: 80
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 7
+skating: 8
+physical: 6
+
+deking: 87
+hand_eye: 86
+passing: 86
+puck_control: 86
+
+discipline: 90
+offensive_awareness: 83
+poise: 80
+
+slap_shot_accuracy: 86
+slap_shot_power: 86
+wrist_shot_accuracy: 86
+wrist_shot_power: 86
+
+defensive_awareness: 83
+faceoffs: 74
+shot_blocking: 75
+stick_checking: 85
+
+acceleration: 87
+agility: 87
+balance: 82
+endurance: 82
+speed: 87
+
+aggressiveness: 75
+body_checking: 75
+durability: 85
+fighting_skill: 65
+strength: 82

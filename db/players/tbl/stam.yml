@@ -1,0 +1,65 @@
+nhlcom_id: 8474564
+
+country_abbrev: can
+team_abbrev: tbl
+
+first_name: Steven
+last_name: Stamkos
+number: 91
+born: 1990-02-07
+
+potential: 8
+
+salary: 8.5
+years_left: 7
+
+height: 185
+weight: 88
+position: c
+type: sniper
+shoots: right
+
+draft_team_abbrev: tbl
+draft_year: 2008
+draft_round: 1
+draft_overall: 1
+
+overall: 91
+
+puck_skills: 10
+senses: 10
+shooting: 10
+defense: 9
+skating: 10
+physical: 8
+
+deking: 93
+hand_eye: 93
+passing: 93
+puck_control: 93
+
+discipline: 84
+offensive_awareness: 94
+poise: 90
+
+slap_shot_accuracy: 93
+slap_shot_power: 94
+wrist_shot_accuracy: 94
+wrist_shot_power: 92
+
+defensive_awareness: 88
+faceoffs: 78
+shot_blocking: 80
+stick_checking: 87
+
+acceleration: 93
+agility: 93
+balance: 88
+endurance: 87
+speed: 93
+
+aggressiveness: 83
+body_checking: 83
+durability: 75
+fighting_skill: 77
+strength: 87

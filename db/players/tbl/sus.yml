@@ -1,0 +1,65 @@
+nhlcom_id: 8477205
+
+country_abbrev: cze
+team_abbrev: tbl
+
+first_name: Andrej
+last_name: Sustr
+number: 62
+born: 1990-11-29
+
+potential: 14
+
+salary: 1.95
+years_left: 1
+
+height: 201
+weight: 100
+position: d
+type: defensive defenseman
+shoots: right
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 81
+
+puck_skills: 7
+senses: 7
+shooting: 7
+defense: 8
+skating: 8
+physical: 9
+
+deking: 74
+hand_eye: 75
+passing: 83
+puck_control: 82
+
+discipline: 75
+offensive_awareness: 82
+poise: 80
+
+slap_shot_accuracy: 75
+slap_shot_power: 89
+wrist_shot_accuracy: 76
+wrist_shot_power: 86
+
+defensive_awareness: 85
+faceoffs: 60
+shot_blocking: 88
+stick_checking: 88
+
+acceleration: 82
+agility: 82
+balance: 90
+endurance: 84
+speed: 83
+
+aggressiveness: 87
+body_checking: 88
+durability: 85
+fighting_skill: 75
+strength: 90

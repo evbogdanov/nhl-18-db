@@ -1,0 +1,65 @@
+nhlcom_id: 8471339
+
+country_abbrev: usa
+team_abbrev: tbl
+
+first_name: Ryan
+last_name: Callahan
+number: 24
+born: 1985-03-21
+
+potential: 20
+
+salary: 5.8
+years_left: 3
+
+height: 178
+weight: 85
+position: rw
+type: grinder
+shoots: right
+
+draft_team_abbrev: nyr
+draft_year: 2004
+draft_round: 4
+draft_overall: 127
+
+overall: 79
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 7
+skating: 8
+physical: 8
+
+deking: 84
+hand_eye: 84
+passing: 84
+puck_control: 84
+
+discipline: 80
+offensive_awareness: 81
+poise: 85
+
+slap_shot_accuracy: 84
+slap_shot_power: 87
+wrist_shot_accuracy: 84
+wrist_shot_power: 87
+
+defensive_awareness: 83
+faceoffs: 65
+shot_blocking: 85
+stick_checking: 80
+
+acceleration: 85
+agility: 85
+balance: 87
+endurance: 85
+speed: 85
+
+aggressiveness: 89
+body_checking: 88
+durability: 75
+fighting_skill: 83
+strength: 87

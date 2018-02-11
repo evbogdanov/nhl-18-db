@@ -1,0 +1,65 @@
+nhlcom_id: 8474870
+
+country_abbrev: usa
+team_abbrev: tbl
+
+first_name: Tyler
+last_name: Johnson
+number: 9
+born: 1990-07-29
+
+potential: 12
+
+salary: 5.0
+years_left: 7
+
+height: 173
+weight: 83
+position: c
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 83
+
+puck_skills: 9
+senses: 8
+shooting: 9
+defense: 8
+skating: 9
+physical: 6
+
+deking: 92
+hand_eye: 87
+passing: 88
+puck_control: 88
+
+discipline: 85
+offensive_awareness: 88
+poise: 80
+
+slap_shot_accuracy: 88
+slap_shot_power: 87
+wrist_shot_accuracy: 88
+wrist_shot_power: 85
+
+defensive_awareness: 86
+faceoffs: 78
+shot_blocking: 80
+stick_checking: 88
+
+acceleration: 92
+agility: 92
+balance: 80
+endurance: 85
+speed: 90
+
+aggressiveness: 79
+body_checking: 75
+durability: 80
+fighting_skill: 65
+strength: 81

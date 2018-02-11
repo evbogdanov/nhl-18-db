@@ -1,0 +1,65 @@
+nhlcom_id: 8470601
+
+country_abbrev: can
+team_abbrev: tbl
+
+first_name: Braydon
+last_name: Coburn
+number: 55
+born: 1985-02-27
+
+potential: 16
+
+salary: 3.7
+years_left: 2
+
+height: 196
+weight: 101
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: atl
+draft_year: 2003
+draft_round: 1
+draft_overall: 8
+
+overall: 81
+
+puck_skills: 6
+senses: 6
+shooting: 7
+defense: 8
+skating: 8
+physical: 8
+
+deking: 75
+hand_eye: 75
+passing: 82
+puck_control: 82
+
+discipline: 70
+offensive_awareness: 81
+poise: 80
+
+slap_shot_accuracy: 75
+slap_shot_power: 88
+wrist_shot_accuracy: 77
+wrist_shot_power: 87
+
+defensive_awareness: 86
+faceoffs: 55
+shot_blocking: 87
+stick_checking: 90
+
+acceleration: 83
+agility: 83
+balance: 89
+endurance: 86
+speed: 83
+
+aggressiveness: 88
+body_checking: 87
+durability: 87
+fighting_skill: 85
+strength: 87

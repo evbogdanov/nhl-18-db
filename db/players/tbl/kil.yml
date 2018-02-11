@@ -1,0 +1,65 @@
+nhlcom_id: 8473986
+
+country_abbrev: can
+team_abbrev: tbl
+
+first_name: Alex
+last_name: Killorn
+number: 17
+born: 1989-09-14
+
+potential: 20
+
+salary: 4.45
+years_left: 6
+
+height: 185
+weight: 89
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: tbl
+draft_year: 2007
+draft_round: 3
+draft_overall: 77
+
+overall: 80
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 7
+skating: 8
+physical: 8
+
+deking: 85
+hand_eye: 85
+passing: 84
+puck_control: 84
+
+discipline: 80
+offensive_awareness: 82
+poise: 80
+
+slap_shot_accuracy: 84
+slap_shot_power: 86
+wrist_shot_accuracy: 85
+wrist_shot_power: 85
+
+defensive_awareness: 84
+faceoffs: 75
+shot_blocking: 80
+stick_checking: 85
+
+acceleration: 86
+agility: 86
+balance: 87
+endurance: 84
+speed: 87
+
+aggressiveness: 86
+body_checking: 86
+durability: 85
+fighting_skill: 75
+strength: 87

@@ -1,0 +1,65 @@
+nhlcom_id: 8476806
+
+country_abbrev: usa
+team_abbrev: tbl
+
+first_name: J.T.
+last_name: Brown
+number: 71
+born: 1990-07-02
+
+potential: 28
+
+salary: 1.125
+years_left: 1
+
+height: 178
+weight: 77
+position: rw
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 77
+
+puck_skills: 7
+senses: 6
+shooting: 7
+defense: 7
+skating: 8
+physical: 6
+
+deking: 87
+hand_eye: 82
+passing: 82
+puck_control: 82
+
+discipline: 80
+offensive_awareness: 81
+poise: 80
+
+slap_shot_accuracy: 82
+slap_shot_power: 85
+wrist_shot_accuracy: 83
+wrist_shot_power: 84
+
+defensive_awareness: 83
+faceoffs: 60
+shot_blocking: 74
+stick_checking: 83
+
+acceleration: 87
+agility: 87
+balance: 82
+endurance: 82
+speed: 87
+
+aggressiveness: 85
+body_checking: 77
+durability: 84
+fighting_skill: 65
+strength: 82

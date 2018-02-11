@@ -1,0 +1,65 @@
+nhlcom_id: 8470543
+
+country_abbrev: can
+team_abbrev: tbl
+
+first_name: Chris
+last_name: Kunitz
+number: 14
+born: 1979-09-26
+
+potential: 20
+
+salary: 2.0
+years_left: 1
+
+height: 183
+weight: 88
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 80
+
+puck_skills: 7
+senses: 7
+shooting: 8
+defense: 8
+skating: 8
+physical: 9
+
+deking: 83
+hand_eye: 83
+passing: 83
+puck_control: 83
+
+discipline: 80
+offensive_awareness: 83
+poise: 85
+
+slap_shot_accuracy: 83
+slap_shot_power: 88
+wrist_shot_accuracy: 83
+wrist_shot_power: 87
+
+defensive_awareness: 85
+faceoffs: 60
+shot_blocking: 83
+stick_checking: 86
+
+acceleration: 83
+agility: 83
+balance: 89
+endurance: 85
+speed: 83
+
+aggressiveness: 88
+body_checking: 88
+durability: 86
+fighting_skill: 80
+strength: 88
