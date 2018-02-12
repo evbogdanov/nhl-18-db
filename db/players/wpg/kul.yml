@@ -1,0 +1,65 @@
+nhlcom_id: 8475179
+
+country_abbrev: rus
+team_abbrev: wpg
+
+first_name: Dmitry
+last_name: Kulikov
+number: 5
+born: 1990-10-29
+
+potential: 22
+
+salary: 4.335
+years_left: 3
+
+height: 185
+weight: 92
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: fla
+draft_year: 2009
+draft_round: 1
+draft_overall: 14
+
+overall: 79
+
+puck_skills: 7
+senses: 7
+shooting: 7
+defense: 8
+skating: 8
+physical: 7
+
+deking: 80
+hand_eye: 78
+passing: 82
+puck_control: 83
+
+discipline: 85
+offensive_awareness: 82
+poise: 80
+
+slap_shot_accuracy: 77
+slap_shot_power: 85
+wrist_shot_accuracy: 78
+wrist_shot_power: 84
+
+defensive_awareness: 85
+faceoffs: 55
+shot_blocking: 85
+stick_checking: 85
+
+acceleration: 85
+agility: 84
+balance: 85
+endurance: 85
+speed: 85
+
+aggressiveness: 85
+body_checking: 84
+durability: 80
+fighting_skill: 75
+strength: 84

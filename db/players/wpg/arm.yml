@@ -1,0 +1,65 @@
+nhlcom_id: 8476469
+
+country_abbrev: fin
+team_abbrev: wpg
+
+first_name: Joel
+last_name: Armia
+number: 40
+born: 1993-05-31
+
+potential: 18
+
+salary: 0.925
+years_left: 1
+
+height: 191
+weight: 93
+position: rw
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: buf
+draft_year: 2011
+draft_round: 1
+draft_overall: 16
+
+overall: 79
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 7
+skating: 8
+physical: 8
+
+deking: 85
+hand_eye: 84
+passing: 84
+puck_control: 84
+
+discipline: 85
+offensive_awareness: 83
+poise: 75
+
+slap_shot_accuracy: 84
+slap_shot_power: 87
+wrist_shot_accuracy: 84
+wrist_shot_power: 87
+
+defensive_awareness: 82
+faceoffs: 65
+shot_blocking: 75
+stick_checking: 84
+
+acceleration: 86
+agility: 85
+balance: 88
+endurance: 84
+speed: 86
+
+aggressiveness: 83
+body_checking: 84
+durability: 85
+fighting_skill: 64
+strength: 88

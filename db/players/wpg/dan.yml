@@ -1,0 +1,65 @@
+nhlcom_id: 8477448
+
+country_abbrev: aut
+team_abbrev: wpg
+
+first_name: Marko
+last_name: Dano
+number: 56
+born: 1994-11-30
+
+potential: 18
+
+salary: 0.85
+years_left: 1
+
+height: 180
+weight: 83
+position: rw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: cbj
+draft_year: 2013
+draft_round: 1
+draft_overall: 27
+
+overall: 79
+
+puck_skills: 8
+senses: 6
+shooting: 8
+defense: 7
+skating: 8
+physical: 8
+
+deking: 85
+hand_eye: 85
+passing: 84
+puck_control: 84
+
+discipline: 80
+offensive_awareness: 82
+poise: 75
+
+slap_shot_accuracy: 84
+slap_shot_power: 86
+wrist_shot_accuracy: 84
+wrist_shot_power: 86
+
+defensive_awareness: 82
+faceoffs: 71
+shot_blocking: 82
+stick_checking: 85
+
+acceleration: 87
+agility: 87
+balance: 86
+endurance: 83
+speed: 87
+
+aggressiveness: 85
+body_checking: 85
+durability: 85
+fighting_skill: 70
+strength: 86

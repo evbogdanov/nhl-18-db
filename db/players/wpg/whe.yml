@@ -1,0 +1,65 @@
+nhlcom_id: 8471218
+
+country_abbrev: usa
+team_abbrev: wpg
+
+first_name: Blake
+last_name: Wheeler
+number: 26
+born: 1986-08-31
+
+potential: 8
+
+salary: 5.6
+years_left: 2
+
+height: 196
+weight: 102
+position: rw
+type: power forward
+shoots: right
+
+draft_team_abbrev: phx
+draft_year: 2004
+draft_round: 1
+draft_overall: 5
+
+overall: 88
+
+puck_skills: 9
+senses: 9
+shooting: 10
+defense: 9
+skating: 9
+physical: 9
+
+deking: 89
+hand_eye: 90
+passing: 90
+puck_control: 90
+
+discipline: 80
+offensive_awareness: 91
+poise: 85
+
+slap_shot_accuracy: 89
+slap_shot_power: 92
+wrist_shot_accuracy: 89
+wrist_shot_power: 91
+
+defensive_awareness: 89
+faceoffs: 70
+shot_blocking: 84
+stick_checking: 88
+
+acceleration: 87
+agility: 86
+balance: 90
+endurance: 86
+speed: 87
+
+aggressiveness: 87
+body_checking: 87
+durability: 86
+fighting_skill: 75
+strength: 91

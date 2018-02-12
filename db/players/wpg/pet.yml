@@ -1,0 +1,65 @@
+nhlcom_id: 8477464
+
+country_abbrev: can
+team_abbrev: wpg
+
+first_name: Nic
+last_name: Petan
+number: 19
+born: 1995-03-22
+
+potential: 18
+
+salary: 0.76
+years_left: 1
+
+height: 175
+weight: 78
+position: rw
+type: playmaker
+shoots: left
+
+draft_team_abbrev: wpg
+draft_year: 2013
+draft_round: 2
+draft_overall: 43
+
+overall: 76
+
+puck_skills: 7
+senses: 7
+shooting: 7
+defense: 7
+skating: 8
+physical: 5
+
+deking: 85
+hand_eye: 83
+passing: 84
+puck_control: 83
+
+discipline: 85
+offensive_awareness: 83
+poise: 74
+
+slap_shot_accuracy: 82
+slap_shot_power: 86
+wrist_shot_accuracy: 83
+wrist_shot_power: 85
+
+defensive_awareness: 82
+faceoffs: 77
+shot_blocking: 73
+stick_checking: 80
+
+acceleration: 87
+agility: 87
+balance: 75
+endurance: 83
+speed: 87
+
+aggressiveness: 74
+body_checking: 74
+durability: 85
+fighting_skill: 63
+strength: 79

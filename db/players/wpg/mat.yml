@@ -1,0 +1,65 @@
+nhlcom_id: 8473574
+
+country_abbrev: can
+team_abbrev: wpg
+
+first_name: Shawn
+last_name: Matthias
+number: 16
+born: 1988-02-19
+
+potential: 20
+
+salary: 2.125
+years_left: 1
+
+height: 192
+weight: 105
+position: lw
+type: power forward
+shoots: left
+
+draft_team_abbrev: det
+draft_year: 2006
+draft_round: 2
+draft_overall: 47
+
+overall: 78
+
+puck_skills: 7
+senses: 6
+shooting: 8
+defense: 7
+skating: 8
+physical: 8
+
+deking: 83
+hand_eye: 83
+passing: 82
+puck_control: 82
+
+discipline: 90
+offensive_awareness: 81
+poise: 75
+
+slap_shot_accuracy: 82
+slap_shot_power: 88
+wrist_shot_accuracy: 82
+wrist_shot_power: 87
+
+defensive_awareness: 81
+faceoffs: 75
+shot_blocking: 82
+stick_checking: 84
+
+acceleration: 85
+agility: 84
+balance: 90
+endurance: 83
+speed: 86
+
+aggressiveness: 84
+body_checking: 84
+durability: 85
+fighting_skill: 75
+strength: 89

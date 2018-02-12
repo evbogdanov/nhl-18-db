@@ -1,0 +1,65 @@
+nhlcom_id: 8476392
+
+country_abbrev: usa
+team_abbrev: wpg
+
+first_name: Adam
+last_name: Lowry
+number: 17
+born: 1993-03-29
+
+potential: 18
+
+salary: 1.125
+years_left: 1
+
+height: 196
+weight: 95
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: wpg
+draft_year: 2011
+draft_round: 3
+draft_overall: 67
+
+overall: 80
+
+puck_skills: 7
+senses: 7
+shooting: 7
+defense: 8
+skating: 8
+physical: 9
+
+deking: 83
+hand_eye: 83
+passing: 83
+puck_control: 83
+
+discipline: 80
+offensive_awareness: 83
+poise: 80
+
+slap_shot_accuracy: 80
+slap_shot_power: 87
+wrist_shot_accuracy: 83
+wrist_shot_power: 86
+
+defensive_awareness: 85
+faceoffs: 76
+shot_blocking: 84
+stick_checking: 86
+
+acceleration: 84
+agility: 84
+balance: 88
+endurance: 84
+speed: 85
+
+aggressiveness: 87
+body_checking: 89
+durability: 85
+fighting_skill: 75
+strength: 89

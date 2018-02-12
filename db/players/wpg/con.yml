@@ -1,0 +1,65 @@
+nhlcom_id: 8478398
+
+country_abbrev: usa
+team_abbrev: wpg
+
+first_name: Kyle
+last_name: Connor
+number: 81
+born: 1996-12-09
+
+potential: 7
+
+salary: 0.925
+years_left: 2
+
+height: 185
+weight: 82
+position: lw
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: wpg
+draft_year: 2015
+draft_round: 1
+draft_overall: 17
+
+overall: 80
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 7
+skating: 8
+physical: 7
+
+deking: 84
+hand_eye: 84
+passing: 84
+puck_control: 84
+
+discipline: 85
+offensive_awareness: 84
+poise: 80
+
+slap_shot_accuracy: 84
+slap_shot_power: 86
+wrist_shot_accuracy: 84
+wrist_shot_power: 86
+
+defensive_awareness: 84
+faceoffs: 60
+shot_blocking: 82
+stick_checking: 85
+
+acceleration: 85
+agility: 86
+balance: 85
+endurance: 83
+speed: 85
+
+aggressiveness: 80
+body_checking: 80
+durability: 85
+fighting_skill: 75
+strength: 83

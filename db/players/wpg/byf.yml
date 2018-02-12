@@ -1,0 +1,65 @@
+nhlcom_id: 8470834
+
+country_abbrev: usa
+team_abbrev: wpg
+
+first_name: Dustin
+last_name: Byfuglien
+number: 33
+born: 1985-03-27
+
+potential: 8
+
+salary: 7.6
+years_left: 4
+
+height: 196
+weight: 118
+position: d
+type: 2 way defender
+shoots: right
+
+draft_team_abbrev: chi
+draft_year: 2003
+draft_round: 8
+draft_overall: 245
+
+overall: 87
+
+puck_skills: 8
+senses: 9
+shooting: 9
+defense: 9
+skating: 9
+physical: 10
+
+deking: 80
+hand_eye: 80
+passing: 88
+puck_control: 88
+
+discipline: 70
+offensive_awareness: 88
+poise: 85
+
+slap_shot_accuracy: 83
+slap_shot_power: 93
+wrist_shot_accuracy: 85
+wrist_shot_power: 92
+
+defensive_awareness: 88
+faceoffs: 60
+shot_blocking: 88
+stick_checking: 90
+
+acceleration: 85
+agility: 84
+balance: 95
+endurance: 85
+speed: 85
+
+aggressiveness: 88
+body_checking: 90
+durability: 85
+fighting_skill: 85
+strength: 95

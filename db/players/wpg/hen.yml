@@ -1,0 +1,65 @@
+nhlcom_id: 8468611
+
+country_abbrev: usa
+team_abbrev: wpg
+
+first_name: Matt
+last_name: Hendricks
+number: 15
+born: 1981-06-17
+
+potential: 28
+
+salary: 0.7
+years_left: 1
+
+height: 183
+weight: 94
+position: lw
+type: grinder
+shoots: left
+
+draft_team_abbrev: nsh
+draft_year: 2000
+draft_round: 5
+draft_overall: 131
+
+overall: 76
+
+puck_skills: 6
+senses: 5
+shooting: 7
+defense: 7
+skating: 7
+physical: 9
+
+deking: 79
+hand_eye: 80
+passing: 80
+puck_control: 80
+
+discipline: 60
+offensive_awareness: 76
+poise: 85
+
+slap_shot_accuracy: 79
+slap_shot_power: 86
+wrist_shot_accuracy: 80
+wrist_shot_power: 84
+
+defensive_awareness: 81
+faceoffs: 75
+shot_blocking: 84
+stick_checking: 86
+
+acceleration: 82
+agility: 81
+balance: 89
+endurance: 80
+speed: 83
+
+aggressiveness: 90
+body_checking: 90
+durability: 85
+fighting_skill: 87
+strength: 90

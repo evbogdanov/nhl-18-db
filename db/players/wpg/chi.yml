@@ -1,0 +1,65 @@
+nhlcom_id: 8475279
+
+country_abbrev: can
+team_abbrev: wpg
+
+first_name: Ben
+last_name: Chiarot
+number: 7
+born: 1991-05-09
+
+potential: 22
+
+salary: 1.4
+years_left: 2
+
+height: 191
+weight: 99
+position: d
+type: defensive defenseman
+shoots: left
+
+draft_team_abbrev: atl
+draft_year: 2009
+draft_round: 4
+draft_overall: 120
+
+overall: 78
+
+puck_skills: 5
+senses: 6
+shooting: 6
+defense: 8
+skating: 7
+physical: 10
+
+deking: 65
+hand_eye: 65
+passing: 79
+puck_control: 78
+
+discipline: 60
+offensive_awareness: 78
+poise: 80
+
+slap_shot_accuracy: 70
+slap_shot_power: 87
+wrist_shot_accuracy: 70
+wrist_shot_power: 86
+
+defensive_awareness: 83
+faceoffs: 60
+shot_blocking: 87
+stick_checking: 88
+
+acceleration: 82
+agility: 81
+balance: 90
+endurance: 85
+speed: 82
+
+aggressiveness: 90
+body_checking: 91
+durability: 85
+fighting_skill: 85
+strength: 91
