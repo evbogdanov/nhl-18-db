@@ -1,0 +1,65 @@
+nhlcom_id: 8477944
+
+country_abbrev: cze
+team_abbrev: wsh
+
+first_name: Jakub
+last_name: Vrana
+number: 13
+born: 1996-02-28
+
+potential: 10
+
+salary: 0.895
+years_left: 1
+
+height: 183
+weight: 82
+position: rw
+type: sniper
+shoots: left
+
+draft_team_abbrev: wsh
+draft_year: 2014
+draft_round: 1
+draft_overall: 13
+
+overall: 78
+
+puck_skills: 8
+senses: 7
+shooting: 8
+defense: 6
+skating: 8
+physical: 6
+
+deking: 88
+hand_eye: 84
+passing: 84
+puck_control: 85
+
+discipline: 85
+offensive_awareness: 83
+poise: 75
+
+slap_shot_accuracy: 83
+slap_shot_power: 86
+wrist_shot_accuracy: 85
+wrist_shot_power: 86
+
+defensive_awareness: 80
+faceoffs: 60
+shot_blocking: 70
+stick_checking: 83
+
+acceleration: 88
+agility: 88
+balance: 80
+endurance: 83
+speed: 87
+
+aggressiveness: 74
+body_checking: 77
+durability: 85
+fighting_skill: 65
+strength: 80

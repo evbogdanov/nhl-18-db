@@ -1,0 +1,65 @@
+nhlcom_id: 8471710
+
+country_abbrev: can
+team_abbrev: wsh
+
+first_name: Taylor
+last_name: Chorney
+number: 4
+born: 1987-04-27
+
+potential: 32
+
+salary: 0.8
+years_left: 1
+
+height: 183
+weight: 87
+position: d
+type: 2 way defender
+shoots: left
+
+draft_team_abbrev: edm
+draft_year: 2005
+draft_round: 2
+draft_overall: 36
+
+overall: 76
+
+puck_skills: 5
+senses: 5
+shooting: 7
+defense: 7
+skating: 8
+physical: 8
+
+deking: 73
+hand_eye: 72
+passing: 78
+puck_control: 78
+
+discipline: 80
+offensive_awareness: 77
+poise: 75
+
+slap_shot_accuracy: 73
+slap_shot_power: 86
+wrist_shot_accuracy: 74
+wrist_shot_power: 85
+
+defensive_awareness: 82
+faceoffs: 60
+shot_blocking: 85
+stick_checking: 85
+
+acceleration: 85
+agility: 83
+balance: 85
+endurance: 84
+speed: 85
+
+aggressiveness: 85
+body_checking: 85
+durability: 83
+fighting_skill: 75
+strength: 85

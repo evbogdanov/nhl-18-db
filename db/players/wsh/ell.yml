@@ -1,0 +1,65 @@
+nhlcom_id: 8474189
+
+country_abbrev: dnk
+team_abbrev: wsh
+
+first_name: Lars
+last_name: Eller
+number: 20
+born: 1989-05-08
+
+potential: 20
+
+salary: 3.5
+years_left: 1
+
+height: 188
+weight: 94
+position: c
+type: 2 way forward
+shoots: left
+
+draft_team_abbrev: stl
+draft_year: 2007
+draft_round: 1
+draft_overall: 13
+
+overall: 80
+
+puck_skills: 7
+senses: 7
+shooting: 8
+defense: 8
+skating: 8
+physical: 8
+
+deking: 84
+hand_eye: 83
+passing: 83
+puck_control: 83
+
+discipline: 85
+offensive_awareness: 83
+poise: 80
+
+slap_shot_accuracy: 83
+slap_shot_power: 87
+wrist_shot_accuracy: 83
+wrist_shot_power: 86
+
+defensive_awareness: 85
+faceoffs: 75
+shot_blocking: 83
+stick_checking: 87
+
+acceleration: 85
+agility: 85
+balance: 87
+endurance: 85
+speed: 86
+
+aggressiveness: 85
+body_checking: 85
+durability: 85
+fighting_skill: 70
+strength: 87

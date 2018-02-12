@@ -1,0 +1,65 @@
+nhlcom_id: 8475758
+
+country_abbrev: can
+team_abbrev: wsh
+
+first_name: Devante
+last_name: Smith-Pelly
+number: 25
+born: 1992-06-14
+
+potential: 18
+
+salary: 0.65
+years_left: 1
+
+height: 183
+weight: 97
+position: rw
+type: power forward
+shoots: right
+
+draft_team_abbrev: ana
+draft_year: 2010
+draft_round: 2
+draft_overall: 42
+
+overall: 78
+
+puck_skills: 7
+senses: 6
+shooting: 8
+defense: 7
+skating: 8
+physical: 9
+
+deking: 82
+hand_eye: 83
+passing: 82
+puck_control: 82
+
+discipline: 80
+offensive_awareness: 80
+poise: 80
+
+slap_shot_accuracy: 82
+slap_shot_power: 87
+wrist_shot_accuracy: 83
+wrist_shot_power: 87
+
+defensive_awareness: 81
+faceoffs: 61
+shot_blocking: 80
+stick_checking: 84
+
+acceleration: 85
+agility: 83
+balance: 90
+endurance: 83
+speed: 85
+
+aggressiveness: 88
+body_checking: 88
+durability: 85
+fighting_skill: 80
+strength: 90

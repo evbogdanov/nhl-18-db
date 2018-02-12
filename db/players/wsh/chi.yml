@@ -1,0 +1,65 @@
+nhlcom_id: 8475163
+
+country_abbrev: can
+team_abbrev: wsh
+
+first_name: Alex
+last_name: Chiasson
+number: 39
+born: 1990-10-01
+
+potential: 18
+
+salary: 0.66
+years_left: 1
+
+height: 193
+weight: 94
+position: rw
+type: power forward
+shoots: right
+
+draft_team_abbrev: dal
+draft_year: 2009
+draft_round: 2
+draft_overall: 38
+
+overall: 78
+
+puck_skills: 7
+senses: 6
+shooting: 8
+defense: 7
+skating: 8
+physical: 9
+
+deking: 83
+hand_eye: 83
+passing: 83
+puck_control: 83
+
+discipline: 77
+offensive_awareness: 81
+poise: 75
+
+slap_shot_accuracy: 83
+slap_shot_power: 87
+wrist_shot_accuracy: 83
+wrist_shot_power: 87
+
+defensive_awareness: 82
+faceoffs: 65
+shot_blocking: 80
+stick_checking: 84
+
+acceleration: 84
+agility: 84
+balance: 88
+endurance: 82
+speed: 84
+
+aggressiveness: 87
+body_checking: 87
+durability: 85
+fighting_skill: 80
+strength: 88

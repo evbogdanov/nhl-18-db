@@ -1,0 +1,65 @@
+nhlcom_id: 8477474
+
+country_abbrev: can
+team_abbrev: wsh
+
+first_name: Madison
+last_name: Bowey
+number: 22
+born: 1995-04-22
+
+potential: 14
+
+salary: 0.695
+years_left: 1
+
+height: 185
+weight: 88
+position: d
+type: 2 way defender
+shoots: right
+
+draft_team_abbrev: wsh
+draft_year: 2013
+draft_round: 2
+draft_overall: 53
+
+overall: 76
+
+puck_skills: 6
+senses: 5
+shooting: 8
+defense: 7
+skating: 8
+physical: 8
+
+deking: 77
+hand_eye: 75
+passing: 80
+puck_control: 80
+
+discipline: 75
+offensive_awareness: 79
+poise: 70
+
+slap_shot_accuracy: 75
+slap_shot_power: 89
+wrist_shot_accuracy: 77
+wrist_shot_power: 87
+
+defensive_awareness: 82
+faceoffs: 55
+shot_blocking: 83
+stick_checking: 83
+
+acceleration: 85
+agility: 84
+balance: 85
+endurance: 80
+speed: 87
+
+aggressiveness: 85
+body_checking: 85
+durability: 80
+fighting_skill: 78
+strength: 85

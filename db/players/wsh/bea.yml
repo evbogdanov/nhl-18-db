@@ -1,0 +1,65 @@
+nhlcom_id: 8474291
+
+country_abbrev: can
+team_abbrev: wsh
+
+first_name: Jay
+last_name: Beagle
+number: 83
+born: 1985-10-16
+
+potential: 20
+
+salary: 1.75
+years_left: 1
+
+height: 191
+weight: 97
+position: c
+type: 2 way forward
+shoots: right
+
+draft_team_abbrev: null
+draft_year: null
+draft_round: null
+draft_overall: null
+
+overall: 79
+
+puck_skills: 7
+senses: 7
+shooting: 8
+defense: 8
+skating: 8
+physical: 8
+
+deking: 83
+hand_eye: 83
+passing: 83
+puck_control: 83
+
+discipline: 84
+offensive_awareness: 82
+poise: 80
+
+slap_shot_accuracy: 82
+slap_shot_power: 87
+wrist_shot_accuracy: 83
+wrist_shot_power: 86
+
+defensive_awareness: 83
+faceoffs: 85
+shot_blocking: 85
+stick_checking: 87
+
+acceleration: 85
+agility: 85
+balance: 87
+endurance: 83
+speed: 85
+
+aggressiveness: 85
+body_checking: 85
+durability: 83
+fighting_skill: 70
+strength: 87

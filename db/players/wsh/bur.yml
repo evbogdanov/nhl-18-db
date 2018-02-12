@@ -1,0 +1,65 @@
+nhlcom_id: 8477444
+
+country_abbrev: aut
+team_abbrev: wsh
+
+first_name: Andre
+last_name: Burakovsky
+number: 65
+born: 1995-02-09
+
+potential: 10
+
+salary: 3.0
+years_left: 2
+
+height: 191
+weight: 93
+position: rw
+type: sniper
+shoots: left
+
+draft_team_abbrev: wsh
+draft_year: 2013
+draft_round: 1
+draft_overall: 23
+
+overall: 81
+
+puck_skills: 8
+senses: 8
+shooting: 8
+defense: 7
+skating: 9
+physical: 6
+
+deking: 88
+hand_eye: 86
+passing: 86
+puck_control: 86
+
+discipline: 90
+offensive_awareness: 86
+poise: 80
+
+slap_shot_accuracy: 85
+slap_shot_power: 87
+wrist_shot_accuracy: 86
+wrist_shot_power: 87
+
+defensive_awareness: 84
+faceoffs: 70
+shot_blocking: 77
+stick_checking: 83
+
+acceleration: 89
+agility: 89
+balance: 85
+endurance: 84
+speed: 89
+
+aggressiveness: 73
+body_checking: 75
+durability: 85
+fighting_skill: 68
+strength: 85
