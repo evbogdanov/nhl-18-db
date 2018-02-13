@@ -14,7 +14,10 @@ DB_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '../db/'))
 PLAYERS_DIR = os.path.join(DB_DIR, 'players')
 POTENTIAL_HIGH_FRANCHISE = 1
 POTENTIAL_EXACT_AHL = 36
-
+BORN_YEAR_MIN = 1970
+BORN_YEAR_MAX = 2000
+DRAFT_YEAR_MIN = 1990
+DRAFT_YEAR_MAX = 2017
 
 ################################################################################
 ### Data
@@ -62,6 +65,10 @@ def validate_number(p):
 def validate_birthday(p):
     if not isinstance(p['born'], datetime.date):
         raise Exception('Bad birthday')
+    if p['born'].year < BORN_YEAR_MIN:
+        raise Exception('Player is too old')
+    if p['born'].year > BORN_YEAR_MAX:
+        raise Exception('Player is too young')
 
 def validate_potential(p):
     if (p['potential'] < POTENTIAL_HIGH_FRANCHISE
@@ -77,8 +84,16 @@ def validate_contract(p):
 def validate_height_weight(p):
     if not isinstance(p['height'], int):
         raise Exception('Bad height')
+    if p['height'] < 160:
+        raise Exception('Player is too short')
+    if p['height'] > 220:
+        raise Exception('Player is too tall')
     if not isinstance(p['weight'], int):
         raise Exception('Bad weight')
+    if p['weight'] < 50:
+        raise Exception('Player is too skinny')
+    if p['weight'] > 150:
+        raise Exception('Player is too fat')
 
 def validate_position(p):
     if not p['position'] in POSITIONS:
@@ -107,7 +122,7 @@ def validate_draft(p):
             raise Exception('Unknown draft team')
         if not isinstance(p['draft_year'], int):
             raise Exception('Bad draft year')
-        if not (1970 < p['draft_year'] < 2018):
+        if not (DRAFT_YEAR_MIN <= p['draft_year'] <= DRAFT_YEAR_MAX):
             raise Exception('Suspicious draft year')
         if not isinstance(p['draft_round'], int):
             raise Exception('Bad draft round')
