@@ -19,6 +19,7 @@ BORN_YEAR_MAX = 2000
 DRAFT_YEAR_MIN = 1990
 DRAFT_YEAR_MAX = 2017
 
+
 ################################################################################
 ### Data
 ################################################################################
@@ -29,8 +30,7 @@ def load_from_file(file_name):
     data = yaml.load(file)
     return data[field_name]
 
-COUNTRIES = load_from_file('countries.yml').keys()
-
+COUNTRIES = load_from_file('countries.yml')
 TEAMS = load_from_file('teams.yml')
 POSITIONS = load_from_file('positions.yml')
 TYPES = load_from_file('types.yml')
@@ -178,6 +178,7 @@ def validate_ratings(p):
     ]
     if not all([10<p[f]<100 for f in fields]):
         raise Exception('Bad rating')
+
 
 ################################################################################
 ### Player
