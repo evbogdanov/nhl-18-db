@@ -12,7 +12,7 @@ class Country(models.Model):
     name = models.CharField(max_length=50)
 
     def __str__(self):
-        return self.abbrev
+        return self.name
 
     @classmethod
     def create_all(cls):
@@ -25,3 +25,10 @@ class Country(models.Model):
     @classmethod
     def delete_all(cls):
         cls.objects.all().delete()
+
+    @property
+    def json(self):
+        return {
+            'abbrev': self.abbrev,
+            'name': self.name,
+        }

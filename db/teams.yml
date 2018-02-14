@@ -2,165 +2,165 @@ teams:
     ana:
         name: Anaheim Ducks
         country_abbrev: usa
-        division: pacific
+        division: pac
         is_active: true
     ari:
         name: Arizona Coyotes
         country_abbrev: usa
-        division: pacific
+        division: pac
         is_active: true
     bos:
         name: Boston Bruins
         country_abbrev: usa
-        division: atlantic
+        division: atl
         is_active: true
     buf:
         name: Buffalo Sabres
         country_abbrev: usa
-        division: atlantic
+        division: atl
         is_active: true
     car:
         name: Carolina Hurricanes
         country_abbrev: usa
-        division: metropolitan
+        division: met
         is_active: true
     cbj:
         name: Columbus Blue Jackets
         country_abbrev: usa
-        division: metropolitan
+        division: met
         is_active: true
     cgy:
         name: Calgary Flames
         country_abbrev: can
-        division: pacific
+        division: pac
         is_active: true
     chi:
         name: Chicago Blackhawks
         country_abbrev: usa
-        division: central
+        division: cen
         is_active: true
     col:
         name: Colorado Avalanche
         country_abbrev: usa
-        division: central
+        division: cen
         is_active: true
     dal:
         name: Dallas Stars
         country_abbrev: usa
-        division: central
+        division: cen
         is_active: true
     det:
         name: Detroit Red Wings
         country_abbrev: usa
-        division: atlantic
+        division: atl
         is_active: true
     edm:
         name: Edmonton Oilers
         country_abbrev: can
-        division: pacific
+        division: pac
         is_active: true
     fla:
         name: Florida Panthers
         country_abbrev: usa
-        division: atlantic
+        division: atl
         is_active: true
     lak:
         name: Los Angeles Kings
         country_abbrev: usa
-        division: pacific
+        division: pac
         is_active: true
     min:
         name: Minnesota Wild
         country_abbrev: usa
-        division: central
+        division: cen
         is_active: true
     mtl:
         name: Montreal Canadiens
         country_abbrev: can
-        division: atlantic
+        division: atl
         is_active: true
     njd:
         name: New Jersey Devils
         country_abbrev: usa
-        division: metropolitan
+        division: met
         is_active: true
     nsh:
         name: Nashville Predators
         country_abbrev: usa
-        division: central
+        division: cen
         is_active: true
     nyi:
         name: New York Islanders
         country_abbrev: usa
-        division: metropolitan
+        division: met
         is_active: true
     nyr:
         name: New York Rangers
         country_abbrev: usa
-        division: metropolitan
+        division: met
         is_active: true
     ott:
         name: Ottawa Senators
         country_abbrev: can
-        division: atlantic
+        division: atl
         is_active: true
     phi:
         name: Philadelphia Flyers
         country_abbrev: usa
-        division: metropolitan
+        division: met
         is_active: true
     pit:
         name: Pittsburgh Penguins
         country_abbrev: usa
-        division: metropolitan
+        division: met
         is_active: true
     sjs:
         name: San Jose Sharks
         country_abbrev: usa
-        division: pacific
+        division: pac
         is_active: true
     stl:
         name: St. Louis Blues
         country_abbrev: usa
-        division: central
+        division: cen
         is_active: true
     tbl:
         name: Tampa Bay Lightning
         country_abbrev: usa
-        division: atlantic
+        division: atl
         is_active: true
     tor:
         name: Toronto Maple Leafs
         country_abbrev: can
-        division: atlantic
+        division: atl
         is_active: true
     van:
         name: Vancouver Canucks
         country_abbrev: can
-        division: pacific
+        division: pac
         is_active: true
     vgk:
         name: Vegas Golden Knights
         country_abbrev: usa
-        division: pacific
+        division: pac
         is_active: true
     wpg:
         name: Winnipeg Jets
         country_abbrev: can
-        division: central
+        division: cen
         is_active: true
     wsh:
         name: Washington Capitals
         country_abbrev: usa
-        division: metropolitan
+        division: met
         is_active: true
     phx:
         name: Phoenix Coyotes
         country_abbrev: usa
-        division: pacific
+        division: pac
         is_active: false
     atl:
         name: Atlanta Thrashers
         country_abbrev: usa
-        division: southeast
+        division: sou
         is_active: false
