@@ -31,6 +31,7 @@ DEBUG = True
 INSTALLED_APPS = [
     'countries.apps.CountriesConfig',
     'teams.apps.TeamsConfig',
+    'players.apps.PlayersConfig',
 
     'django.contrib.admin',
     'django.contrib.auth',
