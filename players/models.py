@@ -16,13 +16,13 @@ class Player(models.Model):
     country = models.ForeignKey(
         Country,
         on_delete=models.CASCADE,
-        related_name='%(app_label)s_%(class)s',
+        related_name='%(app_label)s_%(class)ss',
     )
 
     team = models.ForeignKey(
         Team,
         on_delete=models.CASCADE,
-        related_name='%(app_label)s_%(class)s',
+        related_name='%(app_label)s_%(class)ss',
     )
 
     first_name = models.CharField(max_length=30)
@@ -40,7 +40,7 @@ class Player(models.Model):
         Team,
         on_delete=models.CASCADE,
         null=True,
-        related_name='%(app_label)s_%(class)s_drafted',
+        related_name='%(app_label)s_%(class)ss_drafted',
     )
     draft_year = models.IntegerField(null=True)
     draft_round = models.IntegerField(null=True)
