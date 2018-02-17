@@ -192,6 +192,32 @@ class Skater(Player):
     def create_for_team(cls, team_abbrev):
         cls.create(team_abbrev)
 
+    @property
+    def json(self):
+        di = self.__dict__
+        d = {}
+        for k in di.keys():
+            if not k.startswith('_'):
+                d[k] = di[k]
+
+        d['country'] = self.country.json
+        del d['country_id']
+
+        d['team'] = self.team.json
+        del d['team_id']
+
+        if d['draft_team_id'] is None:
+            d['draft_team'] = None
+        else:
+            d['draft_team'] = self.draft_team.json
+        del d['draft_team_id']
+
+        d['position'] = self.get_position_display()
+        d['type'] = self.get_type_display()
+        d['shoots'] = self.get_shoots_display()
+
+        return d
+
 
 ################################################################################
 ### Goalie
