@@ -1,6 +1,9 @@
 from django.db import models
 from countries.models import Country
 from teams.models import Team
+from nhl_18_db.settings import BASE_DIR
+import os
+import yaml
 
 
 ################################################################################
@@ -140,6 +143,54 @@ class Skater(Player):
     durability = models.IntegerField()
     fighting_skill = models.IntegerField()
     strength = models.IntegerField()
+
+    @classmethod
+    def from_yaml(cls, data):
+        data['country'] = Country.objects.get(abbrev=data['country_abbrev'])
+        del data['country_abbrev']
+
+        data['team'] = Team.objects.get(abbrev=data['team_abbrev'])
+        del data['team_abbrev']
+
+        if data['draft_team_abbrev'] is None:
+            data['draft_team'] = None
+        else:
+            data['draft_team'] = Team.objects.get(
+                abbrev=data['draft_team_abbrev']
+            )
+        del data['draft_team_abbrev']
+
+        data['shoots'] = cls.LEFT if data['shoots'] == 'left' else cls.RIGHT
+
+        for k, v in cls.TYPE_CHOICES:
+            if data['type'] == v.lower():
+                data['type'] = k
+                break
+
+        return cls(**data)
+
+    @classmethod
+    def create(cls, team_abbrev=None):
+        teams = Team.objects.filter(is_active=True)
+        if team_abbrev is not None:
+            teams = teams.filter(abbrev=team_abbrev)
+        for team in teams:
+            team_dir = os.path.join(BASE_DIR, 'db', 'skaters', team.abbrev)
+            for skater_file in os.listdir(team_dir):
+                if not '.yml' in skater_file:
+                    continue
+                skater_path = os.path.join(team_dir, skater_file)
+                skater_data = yaml.load(open(skater_path))
+                skater = cls.from_yaml(skater_data)
+                skater.save()
+
+    @classmethod
+    def create_all(cls):
+        cls.create()
+
+    @classmethod
+    def create_for_team(cls, team_abbrev):
+        cls.create(team_abbrev)
 
 
 ################################################################################
