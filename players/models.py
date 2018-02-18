@@ -198,6 +198,12 @@ class Skater(Player):
         # f is filters
         f = {}
 
+        def filter_by(field):
+            if q.get(f'{field}_from') is not None:
+                f[f'{field}__gte'] = q.get(f'{field}_from')
+            if q.get(f'{field}_to') is not None:
+                f[f'{field}__lte'] = q.get(f'{field}_to')
+
         if q.get('country_abbrev') is not None:
             f['country__abbrev'] = q.get('country_abbrev')
 
@@ -208,24 +214,18 @@ class Skater(Player):
         
         # TODO: search by age
 
-        if q.get('potential_from') is not None:
-            f['potential__gte'] = q.get('potential_from')
-        if q.get('potential_to') is not None:
-            f['potential__lte'] = q.get('potential_to')
+        filter_by('potential')
+        filter_by('salary')
+        filter_by('years_left')
+        filter_by('height')
+        filter_by('weight')
 
-        if q.get('salary_from') is not None:
-            f['salary__gte'] = q.get('salary_from')
-        if q.get('salary_to') is not None:
-            f['salary__lte'] = q.get('salary_to')
+        # TODO: moar filters
 
-        if q.get('years_left_from') is not None:
-            f['years_left__gte'] = q.get('years_left_from')
-        if q.get('years_left_to') is not None:
-            f['years_left__lte'] = q.get('years_left_to')
-
-        # TODO: other filters
-
-        return [s.json for s in cls.objects.filter(**f)]
+        # TODO: pagination
+        skaters = cls.objects.filter(**f)[:10]
+        
+        return [s.json for s in skaters]
 
     @property
     def json(self):
