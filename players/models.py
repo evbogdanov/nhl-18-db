@@ -192,6 +192,41 @@ class Skater(Player):
     def create_for_team(cls, team_abbrev):
         cls.create(team_abbrev)
 
+    @classmethod
+    def search(cls, q):
+        # q is QueryDict
+        # f is filters
+        f = {}
+
+        if q.get('country_abbrev') is not None:
+            f['country__abbrev'] = q.get('country_abbrev')
+
+        if q.get('team_abbrev') is not None:
+            f['team__abbrev'] = q.get('team_abbrev')
+
+        # TODO: search by name
+        
+        # TODO: search by age
+
+        if q.get('potential_from') is not None:
+            f['potential__gte'] = q.get('potential_from')
+        if q.get('potential_to') is not None:
+            f['potential__lte'] = q.get('potential_to')
+
+        if q.get('salary_from') is not None:
+            f['salary__gte'] = q.get('salary_from')
+        if q.get('salary_to') is not None:
+            f['salary__lte'] = q.get('salary_to')
+
+        if q.get('years_left_from') is not None:
+            f['years_left__gte'] = q.get('years_left_from')
+        if q.get('years_left_to') is not None:
+            f['years_left__lte'] = q.get('years_left_to')
+
+        # TODO: other filters
+
+        return [s.json for s in cls.objects.filter(**f)]
+
     @property
     def json(self):
         di = self.__dict__
