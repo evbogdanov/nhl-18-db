@@ -105,12 +105,12 @@ class Skater(Player):
     )
 
     ## Fields to filter
-    FILTERABLE_EXACT = [
+    FILTERABLE_FIELDS = [
         'position',
         'shoots',
         'type',
     ]
-    FILTERABLE_RANGES = [
+    FILTERABLE_FIELDS_RANGES = [
         'acceleration',
         'aggressiveness',
         'agility',
@@ -242,12 +242,12 @@ class Skater(Player):
         cls.create(team_abbrev)
 
     @classmethod
-    def filter_exact(cls, q, f, field):
+    def filter_by(cls, field, q, f):
         if q.get(field) is not None:
             f[field] = q.get(field)
 
     @classmethod
-    def filter_range(cls, q, f, field):
+    def filter_in_range_by(cls, field, q, f):
         if q.get(f'{field}_from') is not None:
             f[f'{field}__gte'] = q.get(f'{field}_from')
         if q.get(f'{field}_to') is not None:
@@ -284,6 +284,18 @@ class Skater(Player):
             )
 
     @classmethod
+    def get_fields(cls):
+        return [f.name for f in cls._meta.fields]
+
+    @classmethod
+    def order_by(cls, q, skaters):
+        field = q.get('order_by')
+        if field in cls.get_fields():
+            desc = '' if q.get('desc') is None else '-'
+            return skaters.order_by(f'{desc}{field}')
+        return skaters.order_by('-overall')
+
+    @classmethod
     def search(cls, q):
         # q is QueryDict
         # f is filters
@@ -294,17 +306,17 @@ class Skater(Player):
         cls.filter_by_last_name(q, f)
         cls.filter_by_age(q, f)
 
-        for field in cls.FILTERABLE_EXACT:
-            cls.filter_exact(q, f, field)
-        
-        for field in cls.FILTERABLE_RANGES:
-            cls.filter_range(q, f, field)
+        for field in cls.FILTERABLE_FIELDS:
+            cls.filter_by(field, q, f)
 
-        # TODO:
-        # - order
-        # - pagination
+        for field in cls.FILTERABLE_FIELDS_RANGES:
+            cls.filter_in_range_by(field, q, f)
 
-        skaters = cls.objects.filter(**f)[:10]        
+        skaters = cls.objects.filter(**f)
+        skaters = cls.order_by(q, skaters)
+        # TODO: pagination
+        skaters = skaters[:10]
+
         return [s.json for s in skaters]
 
     @property
@@ -315,13 +327,17 @@ class Skater(Player):
             return years - 1
         return years
 
-    @property
-    def json(self):
+    def as_dict(self):
         di = self.__dict__
         d = {}
         for k in di.keys():
             if not k.startswith('_'):
                 d[k] = di[k]
+        return d
+
+    @property
+    def json(self):
+        d = self.as_dict()
 
         d['country'] = self.country.json
         del d['country_id']
