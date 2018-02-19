@@ -3,8 +3,8 @@ from countries.models import Country
 from teams.models import Team
 from nhl_18_db.settings import BASE_DIR
 import os
+from datetime import date
 import yaml
-
 
 ################################################################################
 ### An abstract player
@@ -13,6 +13,9 @@ import yaml
 class Player(models.Model):
     class Meta:
         abstract = True
+
+    # Age is relative to 2018 (the year of the game)
+    GAME_DATE = date(2018, 1, 1)
 
     nhlcom_id = models.IntegerField(primary_key=True)
 
@@ -100,6 +103,52 @@ class Skater(Player):
         (LEFT, 'Left'),
         (RIGHT, 'Right'),
     )
+
+    ## Fields to filter
+    FILTERABLE_EXACT = [
+        'position',
+        'shoots',
+        'type',
+    ]
+    FILTERABLE_RANGES = [
+        'acceleration',
+        'aggressiveness',
+        'agility',
+        'balance',
+        'body_checking',
+        'defense',
+        'defensive_awareness',
+        'deking',
+        'discipline',
+        'durability',
+        'endurance',
+        'faceoffs',
+        'fighting_skill',
+        'hand_eye',
+        'height',
+        'offensive_awareness',
+        'overall',
+        'passing',
+        'physical',
+        'poise',
+        'potential',
+        'puck_control',
+        'puck_skills',
+        'salary',
+        'senses',
+        'shooting',
+        'shot_blocking',
+        'skating',
+        'slap_shot_accuracy',
+        'slap_shot_power',
+        'speed',
+        'stick_checking',
+        'strength',
+        'weight',
+        'wrist_shot_accuracy',
+        'wrist_shot_power',
+        'years_left',
+    ]
 
     ## Skater
     position = models.CharField(max_length=2, choices=POSITION_CHOICES)
@@ -193,39 +242,78 @@ class Skater(Player):
         cls.create(team_abbrev)
 
     @classmethod
+    def filter_exact(cls, q, f, field):
+        if q.get(field) is not None:
+            f[field] = q.get(field)
+
+    @classmethod
+    def filter_range(cls, q, f, field):
+        if q.get(f'{field}_from') is not None:
+            f[f'{field}__gte'] = q.get(f'{field}_from')
+        if q.get(f'{field}_to') is not None:
+            f[f'{field}__lte'] = q.get(f'{field}_to')
+
+    @classmethod
+    def filter_by_country(cls, q, f):
+        if q.get('country_abbrev') is not None:
+            f['country__abbrev'] = q.get('country_abbrev')
+
+    @classmethod
+    def filter_by_team(cls, q, f):
+        if q.get('team_abbrev') is not None:
+            f['team__abbrev'] = q.get('team_abbrev')
+
+    @classmethod
+    def filter_by_last_name(cls, q, f):
+        if q.get('last_name') is not None:
+            f['last_name__istartswith'] = q.get('last_name')
+
+    @classmethod
+    def filter_by_age(cls, q, f):
+        if q.get('age_from') is not None:
+            f['born__lte'] = date(
+                cls.GAME_DATE.year - int(q.get('age_from')),
+                cls.GAME_DATE.month,
+                cls.GAME_DATE.day,
+            )
+        if q.get('age_to') is not None:
+            f['born__gte'] = date(
+                cls.GAME_DATE.year - int(q.get('age_to')) - 1,
+                cls.GAME_DATE.month,
+                cls.GAME_DATE.day,
+            )
+
+    @classmethod
     def search(cls, q):
         # q is QueryDict
         # f is filters
         f = {}
 
-        def filter_by(field):
-            if q.get(f'{field}_from') is not None:
-                f[f'{field}__gte'] = q.get(f'{field}_from')
-            if q.get(f'{field}_to') is not None:
-                f[f'{field}__lte'] = q.get(f'{field}_to')
+        cls.filter_by_country(q, f)
+        cls.filter_by_team(q, f)
+        cls.filter_by_last_name(q, f)
+        cls.filter_by_age(q, f)
 
-        if q.get('country_abbrev') is not None:
-            f['country__abbrev'] = q.get('country_abbrev')
-
-        if q.get('team_abbrev') is not None:
-            f['team__abbrev'] = q.get('team_abbrev')
-
-        # TODO: search by name
+        for field in cls.FILTERABLE_EXACT:
+            cls.filter_exact(q, f, field)
         
-        # TODO: search by age
+        for field in cls.FILTERABLE_RANGES:
+            cls.filter_range(q, f, field)
 
-        filter_by('potential')
-        filter_by('salary')
-        filter_by('years_left')
-        filter_by('height')
-        filter_by('weight')
+        # TODO:
+        # - order
+        # - pagination
 
-        # TODO: moar filters
-
-        # TODO: pagination
-        skaters = cls.objects.filter(**f)[:10]
-        
+        skaters = cls.objects.filter(**f)[:10]        
         return [s.json for s in skaters]
+
+    @property
+    def age(self):
+        years = self.GAME_DATE.year - self.born.year
+        if ((self.GAME_DATE.month, self.GAME_DATE.day) <
+            (self.born.month, self.born.day)):
+            return years - 1
+        return years
 
     @property
     def json(self):
@@ -250,6 +338,8 @@ class Skater(Player):
         d['position'] = self.get_position_display()
         d['type'] = self.get_type_display()
         d['shoots'] = self.get_shoots_display()
+
+        d['age'] = self.age
 
         return d
 
