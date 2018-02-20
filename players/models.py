@@ -319,7 +319,7 @@ class Skater(Player):
         skaters = cls.objects.filter(**f)
         skaters = cls.order_by(q, skaters)
         # TODO: pagination
-        skaters = skaters[:10]
+        skaters = skaters[:50]
 
         return [s.json for s in skaters]
 
