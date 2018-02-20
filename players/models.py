@@ -242,6 +242,10 @@ class Skater(Player):
         cls.create(team_abbrev)
 
     @classmethod
+    def delete_all(cls):
+        cls.objects.all().delete()
+
+    @classmethod
     def filter_by(cls, field, q, f):
         if q.get(field) is not None:
             f[field] = q.get(field)
