@@ -9,7 +9,7 @@ def modify_html(html):
     def modify_attr(attr):
         nonlocal html
         html = re.sub(
-            r'(?<=' + attr + '=")(?!/)',
+            r'(?<=' + attr + r'=")(?!/)',
             '/static/bundle/',
             html
         )
