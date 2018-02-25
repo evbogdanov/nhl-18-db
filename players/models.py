@@ -229,9 +229,10 @@ class Skater(Player):
                 if not '.yml' in skater_file:
                     continue
                 skater_path = os.path.join(team_dir, skater_file)
-                skater_data = yaml.load(open(skater_path))
-                skater = cls.from_yaml(skater_data)
-                skater.save()
+                with open(skater_path) as file:
+                    skater_data = yaml.load(file)
+                    skater = cls.from_yaml(skater_data)
+                    skater.save()
 
     @classmethod
     def create_all(cls):

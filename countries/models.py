@@ -16,11 +16,12 @@ class Country(models.Model):
 
     @classmethod
     def create_all(cls):
-        file = open(os.path.join(BASE_DIR, 'db', 'countries.yml'))
-        data = yaml.load(file)['countries'].items()
-        for abbrev, name in data:
-            country = cls(abbrev=abbrev, name=name)
-            country.save()
+        path = os.path.join(BASE_DIR, 'db', 'countries.yml')
+        with open(path) as file:
+            data = yaml.load(file)['countries'].items()
+            for abbrev, name in data:
+                country = cls(abbrev=abbrev, name=name)
+                country.save()
 
     @classmethod
     def delete_all(cls):

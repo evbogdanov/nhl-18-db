@@ -30,18 +30,19 @@ class Team(models.Model):
 
     @classmethod
     def create_all(cls):
-        file = open(os.path.join(BASE_DIR, 'db', 'teams.yml'))
-        teams = yaml.load(file)['teams']
-        for abbrev in teams:
-            t = teams[abbrev]
-            team = cls(
-                abbrev=abbrev,
-                name=t['name'],
-                country=Country.objects.get(abbrev=t['country_abbrev']),
-                division=t['division'],
-                is_active=t['is_active'],
-            )
-            team.save()
+        path = os.path.join(BASE_DIR, 'db', 'teams.yml')
+        with open(path) as file:
+            teams = yaml.load(file)['teams']
+            for abbrev in teams:
+                t = teams[abbrev]
+                team = cls(
+                    abbrev=abbrev,
+                    name=t['name'],
+                    country=Country.objects.get(abbrev=t['country_abbrev']),
+                    division=t['division'],
+                    is_active=t['is_active'],
+                )
+                team.save()
 
     @classmethod
     def delete_all(cls):
