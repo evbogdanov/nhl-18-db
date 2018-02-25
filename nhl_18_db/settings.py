@@ -32,6 +32,7 @@ INSTALLED_APPS = [
     'countries.apps.CountriesConfig',
     'teams.apps.TeamsConfig',
     'players.apps.PlayersConfig',
+    'utils.apps.UtilsConfig',
 
     'django.contrib.admin',
     'django.contrib.auth',
@@ -61,7 +62,7 @@ ROOT_URLCONF = 'nhl_18_db.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
