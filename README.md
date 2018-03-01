@@ -1,49 +1,69 @@
-# Heroku Django Starter Template
+# nhl-18-db
 
-An utterly fantastic project starter template for Django 2.0.
+NHL 18 Database
 
-## Features
 
-- Production-ready configuration for Static Files, Database Settings, Gunicorn, etc.
-- Enhancements to Django's static file serving functionality via WhiteNoise.
-- Latest Python 3.6 runtime environment.
+## Development
 
-## How to Use
+Create `./shell` script:
+```
+#!/usr/bin/env bash
 
-To use this project, follow these steps:
+export DATABASE_URL="..."
+export SECRET_KEY="..."
 
-1. Create your working environment.
-2. Install Django (`$ pipenv install django`)
-3. Create a new project using this template
+pipenv shell
+```
 
-## Creating Your Project
+Then:
+```
+$ ./shell
+$ ./manage.py runserver
+```
 
-Using this template to create a new Django app is easy::
 
-    $ django-admin.py startproject --template=https://github.com/heroku/heroku-django-template/archive/master.zip --name=Procfile helloworld
+## Tests
+```
+$ ./manage.py test players
+```
 
-(If this doesn't work on windows, replace `django-admin.py` with `django-admin`)
-
-You can replace ``helloworld`` with your desired project name.
 
 ## Deployment to Heroku
 
-    $ git init
-    $ git add -A
-    $ git commit -m "Initial commit"
+Go to the Heroku Dashboard and configure variables:
+- DATABASE_URL
+- SECRET_KEY
 
-    $ heroku create
-    $ git push heroku master
-
-    $ heroku run python manage.py migrate
-
-See also, a [ready-made application](https://github.com/heroku/python-getting-started), ready to deploy.
+```
+$ git push heroku master
+$ heroku run python manage.py migrate
+```
 
 
-## License: MIT
+## Create everything
+```
+$ heroku run python manage.py createcountries
+$ heroku run python manage.py createteams
+$ heroku run python manage.py createskaters
+```
 
-## Further Reading
 
-- [Gunicorn](https://warehouse.python.org/project/gunicorn/)
-- [WhiteNoise](https://warehouse.python.org/project/whitenoise/)
-- [dj-database-url](https://warehouse.python.org/project/dj-database-url/)
+## Delete everything
+```
+$ heroku run python manage.py deletecountries
+```
+
+
+## Front end
+
+Development:
+```
+$ ng build --watch true
+$ ./manage.py synctemplate
+```
+
+Production:
+```
+$ ng build --target=production
+$ ./manage.py synctemplate
+```
