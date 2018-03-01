@@ -19,8 +19,18 @@ class SkaterTestCase(TestCase):
 
     def test_skaters_created(self):
         """All testing skaters are created"""
-        n = len(Skater.objects.all())
-        self.assertEqual(n, self.N_PENGUINS)
+        self.assertEqual(Skater.objects.count(), self.N_PENGUINS)
+
+    def test_skaters_belong_to_team(self):
+        """Skaters belong to their team"""
+        team = Team.objects.get(abbrev='pit')
+        self.assertEqual(team.players_skaters.count(), self.N_PENGUINS)
+
+    def test_skaters_drafted_by_team(self):
+        """Skaters are drafted by their team"""
+        team = Team.objects.get(abbrev='pit')
+        skater = team.players_skaters_drafted.get(nhlcom_id=self.MALKIN_ID)
+        self.assertEqual(skater.last_name, 'Malkin')
 
     def test_skater_as_string(self):
         """Skater to string"""
