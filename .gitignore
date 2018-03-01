@@ -3,3 +3,6 @@ venv
 staticfiles
 .env
 shell
+
+# Ignore while developing
+nhl_18_db/static/bundle/
