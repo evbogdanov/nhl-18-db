@@ -1,3 +1,9 @@
-<p>
-  Teams...
-</p>
+<h1>Teams</h1>
+<ul>
+  <li *ngFor="let team of teams">
+    <img [alt]="team.name"
+         [src]="team.img"
+         style="max-width: 50px; max-height: 50px;">
+    <span>{{ team.name }}</span>
+  </li>
+</ul>
