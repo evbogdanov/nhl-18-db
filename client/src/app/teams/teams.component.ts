@@ -9,19 +9,29 @@ import { Country } from '../countries/country.model'
 })
 export class TeamsComponent {
   teams: Team[] = [
-    new Team(
-      'pit',
-      'Pittsburgh Penguins',
-      new Country('usa', 'USA'),
-      'Eastern',
-      'Metropolitan',
-    ),
-    new Team(
-      'nsh',
-      'Nashville Predators',
-      new Country('usa', 'USA'),
-      'Western',
-      'Central',
-    )
-  ];
+    {
+      "abbrev": "wsh",
+      "name": "Washington Capitals",
+      "country": {
+        "abbrev": "usa",
+        "name": "USA"
+      },
+      "division": "Metropolitan",
+      "conference": "Eastern",
+      "is_active": true,
+      "img": "/static/img/team/wsh.svg"
+    },
+    {
+      "abbrev": "atl",
+      "name": "Atlanta Thrashers",
+      "country": {
+        "abbrev": "usa",
+        "name": "USA"
+      },
+      "division": "Southeast",
+      "conference": "Western",
+      "is_active": false,
+      "img": "/static/img/team/atl.svg"
+    }
+  ].filter(t => t.is_active)
 }

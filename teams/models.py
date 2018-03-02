@@ -56,6 +56,10 @@ class Team(models.Model):
         return 'Western'
 
     @property
+    def img(self):
+        return f'/static/img/team/{self.abbrev}.svg'
+
+    @property
     def json(self):
         return {
             'abbrev': self.abbrev,
@@ -64,4 +68,5 @@ class Team(models.Model):
             'division': self.get_division_display(),
             'conference': self.conference,
             'is_active': self.is_active,
+            'img': self.img,
         }

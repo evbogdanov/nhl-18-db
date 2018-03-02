@@ -1,4 +1,4 @@
-export class Country {
-  constructor(readonly abbrev: string,
-              readonly name: string) {}
+export interface Country {
+  readonly abbrev: string;
+  readonly name: string;
 }

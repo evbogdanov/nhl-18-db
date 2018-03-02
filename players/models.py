@@ -58,6 +58,18 @@ class Player(models.Model):
     def __str__(self):
         return f'{self.first_name} {self.last_name}'
 
+    @property
+    def age(self):
+        years = self.GAME_DATE.year - self.born.year
+        if ((self.GAME_DATE.month, self.GAME_DATE.day) <
+            (self.born.month, self.born.day)):
+            return years - 1
+        return years
+
+    @property
+    def img(self):
+        return f'https://nhl.bamcontent.com/images/headshots/current/168x168/{self.nhlcom_id}@2x.jpg'
+
 
 ################################################################################
 ### Skater
@@ -149,6 +161,46 @@ class Skater(Player):
         'wrist_shot_power',
         'years_left',
     ]
+
+    ## Display potential
+    POTENTIALS = {
+        1: 'HIGH Franchise',
+        2: 'MED Franchise',
+        3: 'LOW Franchise',
+        4: 'EXACT Franchise',
+        5: 'HIGH Elite',
+        6: 'MED Elite',
+        7: 'LOW Elite',
+        8: 'EXACT Elite',
+        9: 'HIGH Top 6 F',
+        10: 'MED Top 6 F',
+        11: 'LOW Top 6 F',
+        12: 'EXACT Top 6 F',
+        13: 'HIGH Top 4 D',
+        14: 'MED Top 4 D',
+        15: 'LOW Top 4 D',
+        16: 'EXACT Top 4 D',
+        17: 'HIGH Top 9 F',
+        18: 'MED Top 9 F',
+        19: 'LOW Top 9 F',
+        20: 'EXACT Top 9 F',
+        21: 'HIGH Top 6 D',
+        22: 'MED Top 6 D',
+        23: 'LOW Top 6 D',
+        24: 'EXACT Top 6 D',
+        25: 'HIGH Bottom 6 F',
+        26: 'MED Bottom 6 F',
+        27: 'LOW Bottom 6 F',
+        28: 'EXACT Bottom 6 F',
+        29: 'HIGH 7th D',
+        30: 'MED 7th D',
+        31: 'LOW 7th D',
+        32: 'EXACT 7th D',
+        33: 'HIGH AHL',
+        34: 'MED AHL',
+        35: 'LOW AHL',
+        36: 'EXACT AHL',
+    }
 
     ## Skater
     position = models.CharField(max_length=2, choices=POSITION_CHOICES)
@@ -324,14 +376,6 @@ class Skater(Player):
 
         return [s.json for s in skaters]
 
-    @property
-    def age(self):
-        years = self.GAME_DATE.year - self.born.year
-        if ((self.GAME_DATE.month, self.GAME_DATE.day) <
-            (self.born.month, self.born.day)):
-            return years - 1
-        return years
-
     def as_dict(self):
         di = self.__dict__
         d = {}
@@ -339,6 +383,10 @@ class Skater(Player):
             if not k.startswith('_'):
                 d[k] = di[k]
         return d
+
+    @property
+    def potential_display(self):
+        return self.POTENTIALS[self.potential]
 
     @property
     def json(self):
@@ -362,6 +410,10 @@ class Skater(Player):
 
         d['age'] = self.age
 
+        d['potential'] = self.potential_display
+
+        d['img'] = self.img
+
         return d
 
 
@@ -370,3 +422,29 @@ class Skater(Player):
 ################################################################################
 
 ## TODO: class Goalie(Player)
+# POTENTIALS = {
+#     1: 'HIGH Franchise',
+#     2: 'MED Franchise',
+#     3: 'LOW Franchise',
+#     4: 'EXACT Franchise',
+#     5: 'HIGH Elite',
+#     6: 'MED Elite',
+#     7: 'LOW Elite',
+#     8: 'EXACT Elite',
+#     9: 'HIGH Starter',
+#     10: 'MED Starter',
+#     11: 'LOW Starter',
+#     12: 'EXACT Starter',
+#     13: 'HIGH Fringe Starter',
+#     14: 'MED Fringe Starter',
+#     15: 'LOW Fringe Starter',
+#     16: 'EXACT Fringe Starter',
+#     17: 'HIGH Backup',
+#     18: 'MED Backup',
+#     19: 'LOW Backup',
+#     20: 'EXACT Backup',
+#     21: 'HIGH AHL',
+#     22: 'MED AHL',
+#     23: 'LOW AHL',
+#     24: 'EXACT AHL',
+# }
