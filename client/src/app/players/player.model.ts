@@ -8,6 +8,7 @@ export interface Player {
 
   readonly first_name: string;
   readonly last_name: string;
+  readonly born: string;
   readonly age: number;
   readonly number: number;
 

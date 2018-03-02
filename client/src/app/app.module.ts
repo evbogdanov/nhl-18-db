@@ -7,6 +7,7 @@ import { HeaderComponent } from './header/header.component';
 import { TeamsComponent } from './teams/teams.component';
 import { SkatersComponent } from './skaters/skaters.component';
 import { GoaliesComponent } from './goalies/goalies.component';
+import { TeamComponent } from './teams/team/team.component';
 
 
 @NgModule({
@@ -15,7 +16,8 @@ import { GoaliesComponent } from './goalies/goalies.component';
     HeaderComponent,
     TeamsComponent,
     SkatersComponent,
-    GoaliesComponent
+    GoaliesComponent,
+    TeamComponent
   ],
   imports: [
     BrowserModule
