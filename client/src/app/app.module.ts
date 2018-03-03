@@ -9,6 +9,7 @@ import { SkatersComponent } from './skaters/skaters.component';
 import { GoaliesComponent } from './goalies/goalies.component';
 import { TeamComponent } from './teams/team/team.component';
 
+import { TeamService } from './teams/team.service'
 
 @NgModule({
   declarations: [
@@ -22,7 +23,7 @@ import { TeamComponent } from './teams/team/team.component';
   imports: [
     BrowserModule
   ],
-  providers: [],
+  providers: [TeamService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
