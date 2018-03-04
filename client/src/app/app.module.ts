@@ -1,15 +1,25 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-
+import { Routes, RouterModule } from '@angular/router';
 
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
+import { HomeComponent } from './home/home.component'
 import { TeamsComponent } from './teams/teams.component';
 import { SkatersComponent } from './skaters/skaters.component';
 import { GoaliesComponent } from './goalies/goalies.component';
 import { TeamComponent } from './teams/team/team.component';
 
-import { TeamService } from './teams/team.service'
+import { TeamService } from './teams/team.service';
+import { NotFoundComponent } from './not-found/not-found.component';
+
+const appRoutes: Routes = [
+  {path: '', component: HomeComponent},
+  {path: 'teams', component: TeamsComponent},
+  {path: 'skaters', component: SkatersComponent},
+  {path: 'goalies', component: GoaliesComponent},
+  {path: '**', component: NotFoundComponent},
+];
 
 @NgModule({
   declarations: [
@@ -18,10 +28,13 @@ import { TeamService } from './teams/team.service'
     TeamsComponent,
     SkatersComponent,
     GoaliesComponent,
-    TeamComponent
+    TeamComponent,
+    HomeComponent,
+    NotFoundComponent,
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    RouterModule.forRoot(appRoutes),
   ],
   providers: [TeamService],
   bootstrap: [AppComponent]
