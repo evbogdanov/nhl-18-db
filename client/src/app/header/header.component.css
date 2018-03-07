@@ -5,3 +5,13 @@
 .nav-item {
   padding: 0 .5rem;
 }
+
+.github {
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+}
+
+.github__img {
+  height: 1.5rem;
+}
