@@ -321,11 +321,6 @@ class Skater(Player):
             f['team__abbrev'] = q.get('team_abbrev')
 
     @classmethod
-    def filter_by_last_name(cls, q, f):
-        if q.get('last_name') is not None:
-            f['last_name__istartswith'] = q.get('last_name')
-
-    @classmethod
     def filter_by_age(cls, q, f):
         if q.get('age_from') is not None:
             f['born__lte'] = date(
@@ -345,6 +340,14 @@ class Skater(Player):
         return [f.name for f in cls._meta.fields]
 
     @classmethod
+    def filter_by_name(cls, q):
+        name = q.get('name')
+        if name is None:
+            return cls.objects.filter()
+        return (cls.objects.filter(first_name__istartswith=name) |
+                cls.objects.filter(last_name__istartswith=name))
+
+    @classmethod
     def order_by(cls, q, skaters):
         field = q.get('order_by')
         if field in cls.get_fields():
@@ -360,7 +363,6 @@ class Skater(Player):
 
         cls.filter_by_country(q, f)
         cls.filter_by_team(q, f)
-        cls.filter_by_last_name(q, f)
         cls.filter_by_age(q, f)
 
         for field in cls.FILTERABLE_FIELDS:
@@ -369,7 +371,7 @@ class Skater(Player):
         for field in cls.FILTERABLE_FIELDS_RANGES:
             cls.filter_in_range_by(field, q, f)
 
-        skaters = cls.objects.filter(**f)
+        skaters = cls.objects.filter(**f) & (cls.filter_by_name(q))
         skaters = cls.order_by(q, skaters)
         # TODO: pagination
         skaters = skaters[:50]

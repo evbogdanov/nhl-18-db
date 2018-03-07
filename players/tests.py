@@ -90,9 +90,13 @@ class SkaterTestCase(TestCase):
         self.assertEqual(len(Skater.search({'team_abbrev': 'pit'})), self.N_PENGUINS)
         self.assertEqual(len(Skater.search({'team_abbrev': 'wtf'})), 0)
 
+    def test_search_by_first_name(self):
+        """Search skaters by first name"""
+        self.assertEqual(Skater.search({'name': 'evge'})[0]['first_name'], 'Evgeni')
+
     def test_search_by_last_name(self):
-        """Search skater by last name"""
-        self.assertEqual(Skater.search({'last_name': 'mal'})[0]['last_name'], 'Malkin')
+        """Search skaters by last name"""
+        self.assertEqual(Skater.search({'name': 'malk'})[0]['last_name'], 'Malkin')
 
     def test_search_by_age(self):
         """Search skaters by age"""
