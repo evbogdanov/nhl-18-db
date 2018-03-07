@@ -24,6 +24,9 @@ class Team(models.Model):
     country = models.ForeignKey(Country, on_delete=models.CASCADE)
     division = models.CharField(max_length=3, choices=DIVISION_CHOICES)
     is_active = models.BooleanField(default=True)
+    forwards_rating = models.IntegerField(default=0)
+    defensemen_rating = models.IntegerField(default=0)
+    goalies_rating = models.IntegerField(default=0)
 
     def __str__(self):
         return self.name
@@ -48,6 +51,27 @@ class Team(models.Model):
     def delete_all(cls):
         cls.objects.all().delete()
 
+    @classmethod
+    def set_ratings(cls):
+        for team in cls.objects.all():
+            forwards_ratings, forwards_count = 0, 0
+            defensemen_ratings, defensemen_count = 0, 0
+            # TODO: team.goalies_rating
+            for skater in team.players_skaters.all():
+                if skater.position == skater.DEFENSEMAN:
+                    defensemen_ratings += skater.overall
+                    defensemen_count += 1
+                else:
+                    forwards_ratings += skater.overall
+                    forwards_count += 1
+            if defensemen_count > 0:
+                team.defensemen_rating = round(defensemen_ratings /
+                                               defensemen_count)
+            if forwards_count > 0:
+                team.forwards_rating = round(forwards_ratings /
+                                             forwards_count)
+            team.save()
+
     @property
     def conference(self):
         if (self.division == self.ATLANTIC
@@ -69,4 +93,7 @@ class Team(models.Model):
             'conference': self.conference,
             'is_active': self.is_active,
             'img': self.img,
+            'forwards_rating': self.forwards_rating,
+            'defensemen_rating': self.defensemen_rating,
+            'goalies_rating': self.goalies_rating,
         }

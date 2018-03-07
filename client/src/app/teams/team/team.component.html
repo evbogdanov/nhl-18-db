@@ -2,5 +2,12 @@
   <img [alt]="team.name"
        [src]="team.img"
        style="max-width: 50px; max-height: 50px;">
-  <span>{{ team.name }}</span>
+  <b>{{ team.name }}</b>
+  (
+  <span>{{ team.forwards_rating }}</span>
+  -
+  <span>{{ team.defensemen_rating }}</span>
+  -
+  <span>{{ team.goalies_rating }}</span>
+  )
 </li>

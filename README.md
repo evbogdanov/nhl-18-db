@@ -45,6 +45,7 @@ $ heroku run python manage.py migrate
 $ heroku run python manage.py createcountries
 $ heroku run python manage.py createteams
 $ heroku run python manage.py createskaters
+$ heroku run python manage.py setteamratings
 ```
 
 

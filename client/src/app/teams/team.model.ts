@@ -8,4 +8,7 @@ export interface Team {
   readonly division: string;
   readonly is_active: boolean;
   readonly img: string;
+  readonly forwards_rating: number;
+  readonly defensemen_rating: number;
+  readonly goalies_rating: number;
 }
