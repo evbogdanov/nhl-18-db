@@ -1,4 +1,5 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ViewChild } from '@angular/core';
+import { NgForm } from '@angular/forms';
 
 @Component({
   selector: 'app-skaters',
@@ -6,10 +7,26 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./skaters.component.css']
 })
 export class SkatersComponent implements OnInit {
+  @ViewChild('searchForm') searchForm: NgForm;
 
-  constructor() { }
+  // Query matches the backend API
+  q = {
+    name: '',
+    age_from: '',
+    age_to: '',
+  };
 
   ngOnInit() {
+  }
+
+  onSubmit() {
+    for (let field of Object.keys(this.q)) {
+      this.q[field] = this.searchForm.value[field];
+    }
+  }
+
+  onReset() {
+    this.searchForm.reset();
   }
 
 }
