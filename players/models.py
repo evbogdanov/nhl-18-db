@@ -1,10 +1,11 @@
-from django.db import models
 from countries.models import Country
-from teams.models import Team
-from nhl_18_db.settings import BASE_DIR
-import os
 from datetime import date
+from django.db import models
+from nhl_18_db.settings import BASE_DIR
+from teams.models import Team
+import os
 import yaml
+
 
 ################################################################################
 ### An abstract player
@@ -76,6 +77,10 @@ class Player(models.Model):
 ################################################################################
 
 class Skater(Player):
+    ## Ages
+    MIN_AGE = 18
+    MAX_AGE = 45
+
     ## Position choices
     CENTER = 'c'
     DEFENSEMAN = 'd'
@@ -417,6 +422,72 @@ class Skater(Player):
         d['img'] = self.img
 
         return d
+
+    @classmethod
+    def make_form_field_country_or_team(cls, what):
+        if what == 'country':
+            objects = Country.objects.all()
+        else:
+            objects = Team.objects.filter(is_active=True)
+        return {
+            'name': f'{what}_abbrev',
+            'label': what.capitalize(),
+            'type': 'select',
+            'options': [
+                {'value': obj.abbrev, 'label': obj.name} for obj in objects
+            ],
+        }
+
+    @classmethod
+    def make_form_field_age(cls, which):
+        options = []
+        for age in range(cls.MIN_AGE, cls.MAX_AGE + 1):
+            options.append({'value': age, 'label': age})
+        return {
+            'name': f'age_{which}',
+            'label': f'Age {which}',
+            'type': 'select',
+            'options': options,
+        }
+
+    @classmethod
+    def make_form_field_choices(cls, name, choices):
+        options = []
+        for value, label in choices:
+            options.append({'value': value, 'label': label})
+        return {
+            'name': name,
+            'label': name.capitalize(),
+            'type': 'select',
+            'options': options,
+        }
+
+    @classmethod
+    def make_form_fields(cls):
+        """Fields for Angular skaters form"""
+        form_fields = [
+            {
+                'name': 'name',
+                'label': 'Name',
+                'type': 'text',
+            },
+            cls.make_form_field_country_or_team('country'),
+            cls.make_form_field_country_or_team('team'),
+            cls.make_form_field_age('from'),
+            cls.make_form_field_age('to'),
+            cls.make_form_field_choices('position', cls.POSITION_CHOICES),
+            cls.make_form_field_choices('shoots', cls.SHOOTS_CHOICES),
+            cls.make_form_field_choices('type', cls.TYPE_CHOICES),
+        ]
+
+        # Default option for <select>
+        for field in form_fields:
+            if field['type'] == 'select':
+                default_option = {'value': None,
+                                  'label': f"- {field['label']} -"}
+                field['options'].insert(0, default_option)
+
+        return form_fields
 
 
 ################################################################################

@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormControl, FormGroup } from '@angular/forms';
+import { FORM_FIELDS } from './skaters.form';
 
 @Component({
   selector: 'app-skaters',
@@ -7,16 +8,19 @@ import { FormBuilder, FormControl, FormGroup } from '@angular/forms';
   styleUrls: ['./skaters.component.css']
 })
 export class SkatersComponent implements OnInit {
+  formFields = FORM_FIELDS;
   searchForm: FormGroup;
 
   constructor(private fb: FormBuilder) {}
   
   ngOnInit() {
-    this.searchForm = this.fb.group({
-      name: null,
-      age_from: null,
-      age_to: null,
-    });
+    this.buildForm();
+  }
+
+  buildForm() {
+    const formObject = {};
+    this.formFields.forEach(field => formObject[field.name] = null);
+    this.searchForm = this.fb.group(formObject);
   }
 
   onSubmit() {
