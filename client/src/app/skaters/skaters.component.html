@@ -1,6 +1,6 @@
 <h1>Skaters</h1>
 
-<form (ngSubmit)="onSubmit()" #searchForm="ngForm">
+<form [formGroup]="searchForm" (ngSubmit)="onSubmit()">
   <div class="form-group row">
     <label for="name"
            class="col-sm-2 col-form-label">Name</label>
@@ -8,8 +8,7 @@
       <input class="form-control"
              type="text"
              id="name"
-             name="name"
-             ngModel>
+             formControlName="name">
     </div>
   </div>
   <div class="form-group row">
@@ -19,8 +18,7 @@
       <input class="form-control"
              type="number"
              id="age_from"
-             name="age_from"
-             ngModel>
+             formControlName="age_from">
     </div>
   </div>
   <div class="form-group row">
@@ -30,8 +28,7 @@
       <input class="form-control"
              type="number"
              id="age_to"
-             name="age_to"
-             ngModel>
+             formControlName="age_to">
     </div>
   </div>
   <div class="form-group row">
@@ -41,12 +38,3 @@
     </div>
   </div>
 </form>
-
-<div *ngIf="searchForm.submitted">
-  <hr>
-  Name: {{ q.name }}
-  <br>
-  Age from: {{ q.age_from }}
-  <br>
-  Age to: {{ q.age_to }}
-</div>
