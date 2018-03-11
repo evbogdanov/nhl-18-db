@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { FormControl, FormGroup } from '@angular/forms';
+import { FormBuilder, FormControl, FormGroup } from '@angular/forms';
 
 @Component({
   selector: 'app-skaters',
@@ -9,11 +9,13 @@ import { FormControl, FormGroup } from '@angular/forms';
 export class SkatersComponent implements OnInit {
   searchForm: FormGroup;
 
+  constructor(private fb: FormBuilder) {}
+  
   ngOnInit() {
-    this.searchForm = new FormGroup({
-      name: new FormControl(null),
-      age_from: new FormControl(null),
-      age_to: new FormControl(null),
+    this.searchForm = this.fb.group({
+      name: null,
+      age_from: null,
+      age_to: null,
     });
   }
 
