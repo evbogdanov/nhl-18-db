@@ -12,7 +12,10 @@ export class TeamsComponent implements OnInit {
   teams: Team[];
 
   getTeams() {
-    this.teams = this.teamService.getTeams().filter(t => t.is_active);
+    this.teamService.getTeams()
+      .subscribe((teams) => {
+        this.teams = teams.filter(t => t.is_active);
+      });
   }
 
   constructor(private teamService: TeamService) {}
