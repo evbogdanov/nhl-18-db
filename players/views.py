@@ -4,6 +4,5 @@ from .models import Skater
 
 class SkatersView(View):
     def get(self, request):
-        return JsonResponse({
-            'skaters': Skater.search(request.GET)
-        })
+        return JsonResponse(Skater.search(request.GET),
+                            safe=False)

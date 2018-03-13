@@ -476,8 +476,8 @@ class Skater(Player):
             cls.make_form_field_age('from'),
             cls.make_form_field_age('to'),
             cls.make_form_field_choices('position', cls.POSITION_CHOICES),
-            cls.make_form_field_choices('shoots', cls.SHOOTS_CHOICES),
             cls.make_form_field_choices('type', cls.TYPE_CHOICES),
+            cls.make_form_field_choices('shoots', cls.SHOOTS_CHOICES),
         ]
 
         # Default option for <select>

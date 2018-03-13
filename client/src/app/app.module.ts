@@ -11,9 +11,11 @@ import { TeamsComponent } from './teams/teams.component';
 import { SkatersComponent } from './skaters/skaters.component';
 import { GoaliesComponent } from './goalies/goalies.component';
 import { TeamComponent } from './teams/team/team.component';
+import { NotFoundComponent } from './not-found/not-found.component';
 
 import { TeamService } from './teams/team.service';
-import { NotFoundComponent } from './not-found/not-found.component';
+import { SkaterService } from './skaters/skater.service';
+
 
 const appRoutes: Routes = [
   {path: '', component: HomeComponent},
@@ -40,7 +42,7 @@ const appRoutes: Routes = [
     HttpClientModule,
     RouterModule.forRoot(appRoutes),
   ],
-  providers: [TeamService],
+  providers: [TeamService, SkaterService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
