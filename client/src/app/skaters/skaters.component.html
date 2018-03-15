@@ -28,14 +28,17 @@
   </div>
 </form>
 
-<strong *ngIf="skaters.length === 0">
-  No skaters
-</strong>
-<ul *ngIf="skaters.length > 0">
-  <li *ngFor="let skater of skaters">
-    ({{ skater.position }})
-    {{ skater.first_name }} {{ skater.last_name }}
-    -
-    {{ skater.overall }}
-  </li>
-</ul>
+<div *ngIf="skaters.length === 0; then noSkaters else showSkaters"></div>
+<ng-template #noSkaters>
+  <b *ngIf="searched">No skaters</b>
+</ng-template>
+<ng-template #showSkaters>
+  <ul>
+    <li *ngFor="let skater of skaters">
+      ({{ skater.position }})
+      {{ skater.first_name }} {{ skater.last_name }}
+      -
+      {{ skater.overall }}
+    </li>
+  </ul>
+</ng-template>

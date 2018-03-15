@@ -13,6 +13,7 @@ export class SkatersComponent implements OnInit {
   formFields = FORM_FIELDS;
   searchForm: FormGroup;
   skaters: Skater[] = [];
+  searched = false;
 
   constructor(private fb: FormBuilder,
               private skaterService: SkaterService) {}
@@ -28,6 +29,7 @@ export class SkatersComponent implements OnInit {
   }
 
   onSubmit() {
+    this.searched = true;
     const query = this.searchForm.value;
     this.skaterService.searchSkaters(query)
       .subscribe(skaters => this.skaters = skaters);
