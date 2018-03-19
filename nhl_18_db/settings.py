@@ -33,6 +33,7 @@ INSTALLED_APPS = [
     'teams.apps.TeamsConfig',
     'players.apps.PlayersConfig',
     'utils.apps.UtilsConfig',
+    'suggestions.apps.SuggestionsConfig',
 
     'django.contrib.admin',
     'django.contrib.auth',

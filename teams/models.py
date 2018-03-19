@@ -72,6 +72,11 @@ class Team(models.Model):
                                              forwards_count)
             team.save()
 
+    @classmethod
+    def filter_objects_by_name(cls, name):
+        return (cls.objects.filter(name__istartswith=name) |
+                cls.objects.filter(name__icontains=f' {name}'))
+            
     @property
     def conference(self):
         if (self.division == self.ATLANTIC

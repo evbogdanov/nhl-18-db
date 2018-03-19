@@ -57,6 +57,10 @@ class Player(models.Model):
     overall = models.IntegerField()
 
     def __str__(self):
+        return self.name
+
+    @property
+    def name(self):
         return f'{self.first_name} {self.last_name}'
 
     @property
@@ -345,12 +349,16 @@ class Skater(Player):
         return [f.name for f in cls._meta.fields]
 
     @classmethod
+    def filter_objects_by_name(cls, name):
+        return (cls.objects.filter(first_name__istartswith=name) |
+                cls.objects.filter(last_name__istartswith=name))
+
+    @classmethod
     def filter_by_name(cls, q):
         name = q.get('name')
         if name is None:
             return cls.objects.filter()
-        return (cls.objects.filter(first_name__istartswith=name) |
-                cls.objects.filter(last_name__istartswith=name))
+        return cls.filter_objects_by_name(name)
 
     @classmethod
     def order_by(cls, q, skaters):
