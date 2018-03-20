@@ -6,4 +6,5 @@ class SuggestionsView(View):
     def get(self, request):
         name = request.GET.get('name', '')
         suggestions = get_suggestions(name)
-        return JsonResponse(suggestions)
+        return JsonResponse(suggestions,
+                            safe=False)

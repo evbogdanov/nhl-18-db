@@ -1,3 +1,21 @@
-<p>
-  Welcome!
-</p>
+<h1>NHL 18 Database</h1>
+
+<div class="form-group">
+  <label for="inp">Search team or player</label>
+  <input #inp
+         id="inp"
+         class="form-control"
+         type="text"
+         placeholder="Search"
+         (input)="getSuggestions(inp.value)">
+</div>
+
+<ul>
+  <li *ngFor="let s of suggestions">
+    <img [alt]="s.name"
+         [src]="s.img"
+         style="max-width: 40px;max-height: 40px;">
+    {{ s.name }}
+    <small style="color: grey; margin-left: 5px;">{{ s.type }}</small>
+  </li>
+</ul>
