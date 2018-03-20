@@ -13,4 +13,8 @@ export class TeamService {
   getTeams(): Observable<Team[]> {
     return this.http.get<Team[]>(this.teamsUrl);
   }
+
+  getTeam(abbrev): Observable<Team|null> {
+    return this.http.get<Team|null>(`${this.teamsUrl}${abbrev}/`);
+  }
 }

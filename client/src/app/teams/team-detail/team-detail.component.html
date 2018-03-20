@@ -1,0 +1,10 @@
+<div *ngIf="team !== null">
+  <h1>{{ team.name }}</h1>
+  <img [alt]="team.name"
+       [src]="team.img"
+       style="max-width: 200px; max-height: 200px;">
+</div>
+
+<p *ngIf="team === null">
+  No team
+</p>

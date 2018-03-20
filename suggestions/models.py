@@ -15,8 +15,9 @@ def get_suggestions(name):
         if type == 'skater':
             objects = objects.order_by('-overall')
         objects = objects[:3]
-        suggestions += [
-            {'name': o.name, 'img': o.img, 'type': type} for o in objects
-        ]
+        suggestions += [{'name': o.name,
+                         'img': o.img,
+                         'type': type,
+                         'id': o.id} for o in objects]
     
     return suggestions

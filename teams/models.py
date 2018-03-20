@@ -78,6 +78,10 @@ class Team(models.Model):
                 cls.objects.filter(name__icontains=f' {name}'))
             
     @property
+    def id(self):
+        return self.abbrev
+
+    @property
     def conference(self):
         if (self.division == self.ATLANTIC
         or self.division == self.METROPOLITAN):

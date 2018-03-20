@@ -60,6 +60,10 @@ class Player(models.Model):
         return self.name
 
     @property
+    def id(self):
+        return self.nhlcom_id
+
+    @property
     def name(self):
         return f'{self.first_name} {self.last_name}'
 

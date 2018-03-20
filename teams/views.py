@@ -8,3 +8,11 @@ class TeamsView(View):
             [t.json for t in Team.objects.all()],
             safe=False
         )
+
+class TeamView(View):
+    def get(self, request, abbrev):
+        try:
+            team = Team.objects.get(abbrev=abbrev)
+            return JsonResponse(team.json)
+        except Team.DoesNotExist:
+            return JsonResponse(None, safe=False)

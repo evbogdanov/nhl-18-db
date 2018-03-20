@@ -11,6 +11,7 @@ import { TeamsComponent } from './teams/teams.component';
 import { SkatersComponent } from './skaters/skaters.component';
 import { GoaliesComponent } from './goalies/goalies.component';
 import { TeamComponent } from './teams/team/team.component';
+import { TeamDetailComponent } from './teams/team-detail/team-detail.component';
 import { NotFoundComponent } from './not-found/not-found.component';
 
 import { TeamService } from './teams/team.service';
@@ -21,6 +22,7 @@ import { SuggestionService } from './suggestions/suggestion.service';
 const appRoutes: Routes = [
   {path: '', component: HomeComponent},
   {path: 'teams', component: TeamsComponent},
+  {path: 'team/:abbrev', component: TeamDetailComponent},
   {path: 'skaters', component: SkatersComponent},
   {path: 'goalies', component: GoaliesComponent},
   {path: '**', component: NotFoundComponent},
@@ -34,6 +36,7 @@ const appRoutes: Routes = [
     SkatersComponent,
     GoaliesComponent,
     TeamComponent,
+    TeamDetailComponent,
     HomeComponent,
     NotFoundComponent,
   ],
