@@ -3,7 +3,11 @@
 </p>
 <div *ngIf="skater !== null">
   <h1>{{ skater.first_name}} {{ skater.last_name }}</h1>
-  <p>{{ skater.team.name }}</p>
+  <p>
+    <a [routerLink]="['/team', skater.team.abbrev]">
+      {{ skater.team.name }}
+    </a>
+  </p>
   <img [alt]="skater.last_name"
        [src]="skater.img">
 </div>

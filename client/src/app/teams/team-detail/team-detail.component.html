@@ -8,3 +8,14 @@
 <p *ngIf="team === null">
   No team
 </p>
+
+<ul *ngIf="skaters.length > 0">
+  <li *ngFor="let skater of skaters">
+    ({{ skater.position }})
+    <a [routerLink]="['/skater', skater.nhlcom_id]">
+      {{ skater.first_name }} {{ skater.last_name }}
+    </a>
+    -
+    {{ skater.overall }}
+  </li>
+</ul>

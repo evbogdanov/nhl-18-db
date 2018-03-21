@@ -36,7 +36,9 @@
   <ul>
     <li *ngFor="let skater of skaters">
       ({{ skater.position }})
-      {{ skater.first_name }} {{ skater.last_name }}
+      <a [routerLink]="['/skater', skater.nhlcom_id]">
+        {{ skater.first_name }} {{ skater.last_name }}
+      </a>
       -
       {{ skater.overall }}
     </li>
