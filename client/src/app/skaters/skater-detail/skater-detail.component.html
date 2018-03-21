@@ -1,13 +1,83 @@
 <p *ngIf="skater === null">
   No skater
 </p>
-<div *ngIf="skater !== null">
-  <h1>{{ skater.first_name}} {{ skater.last_name }}</h1>
-  <p>
-    <a [routerLink]="['/team', skater.team.abbrev]">
-      {{ skater.team.name }}
-    </a>
-  </p>
-  <img [alt]="skater.last_name"
-       [src]="skater.img">
+
+<div class="row" *ngIf="skater !== null">
+  <div class="col-sm">
+    <img [alt]="skater.last_name"
+         [src]="skater.img">
+    <h1>{{ skater.first_name}} {{ skater.last_name }}</h1>
+    <h6>{{ skater.position }} | {{ skater.type }}</h6>
+    <hr>
+    <p>Overall: {{ skater.overall }}</p>
+    <p>Potential: {{ skater.potential }}</p>
+    <hr>
+    <p>Age: {{ skater.age }}</p>
+    <p>Shoots: {{ skater.shoots }}</p>
+    <p>Height: {{ skater.height }} cm</p>
+    <p>Weight: {{ skater.weight }} kg</p>
+    <hr>
+    <p>Salary: {{ skater.salary }} million USD</p>
+    <p>Years Left: {{ skater.years_left }}</p>
+    <hr>
+    <p>Country: {{ skater.country.name }}</p>
+    <p>
+      Team:
+      <a [routerLink]="['/team', skater.team.abbrev]">
+        {{ skater.team.name }}
+      </a>
+    </p>
+    <p>Number: {{ skater.number }}</p>
+    <div *ngIf="skater.draft_team !== null">
+      <hr>
+      <p>
+        Draft Team:
+        <a [routerLink]="['/team', skater.draft_team.abbrev]">
+          {{ skater.draft_team.name }}
+        </a>
+      </p>
+      <p>Draft Year: {{ skater.draft_year }}</p>
+      <p>Draft Round: {{ skater.draft_round }}</p>
+      <p>Draft Overall: {{ skater.draft_overall }}</p>
+    </div>
+  </div>
+  <div class="col-sm">
+    <p><b>Puck Skills: {{ skater.puck_skills }}</b></p>
+    <p>Deking: {{ skater.deking }}</p>
+    <p>Hand Eye: {{ skater.hand_eye }}</p>
+    <p>Passing: {{ skater.passing }}</p>
+    <p>Puck Control: {{ skater.puck_control }}</p>
+    <hr>
+    <p><b>Shooting: {{ skater.shooting }}</b></p>
+    <p>Slap Shot Accuracy: {{ skater.slap_shot_accuracy }}</p>
+    <p>Slap Shot Power: {{ skater.slap_shot_power }}</p>
+    <p>Wrist Shot Accuracy: {{ skater.wrist_shot_accuracy }}</p>
+    <p>Wrist Shot Power: {{ skater.wrist_shot_power }}</p>
+    <hr>
+    <p><b>Skating: {{ skater.skating }}</b></p>
+    <p>Acceleration: {{ skater.acceleration }}</p>
+    <p>Agility: {{ skater.agility }}</p>
+    <p>Balance: {{ skater.balance }}</p>
+    <p>Endurance: {{ skater.endurance }}</p>
+    <p>Speed: {{ skater.speed }}</p>
+  </div>
+  <div class="col-sm">
+    <p><b>Senses: {{ skater.senses }}</b></p>
+    <p>Discipline: {{ skater.discipline }}</p>
+    <p>Off. Awareness: {{ skater.offensive_awareness }}</p>
+    <p>Poise: {{ skater.poise }}</p>
+    <hr>
+    <p><b>Defense: {{ skater.defense }}</b></p>
+    <p>Def. Awareness: {{ skater.defensive_awareness }}</p>
+    <p>Faceoffs: {{ skater.faceoffs }}</p>
+    <p>Shot Blocking: {{ skater.shot_blocking }}</p>
+    <p>Stick Checking: {{ skater.stick_checking }}</p>
+    <hr>
+    <p><b>Physical: {{ skater.physical }}</b></p>
+    <p>Aggressiveness: {{ skater.aggressiveness }}</p>
+    <p>Body Checking: {{ skater.body_checking }}</p>
+    <p>Durability: {{ skater.durability }}</p>
+    <p>Fighting Skill: {{ skater.fighting_skill }}</p>
+    <p>Strength: {{ skater.strength }}</p>
+  </div>
 </div>
