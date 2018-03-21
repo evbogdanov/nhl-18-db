@@ -1,21 +1,32 @@
-<div *ngIf="team !== null">
-  <h1>{{ team.name }}</h1>
-  <img [alt]="team.name"
-       [src]="team.img"
-       style="max-width: 200px; max-height: 200px;">
-</div>
-
 <p *ngIf="team === null">
   No team
 </p>
 
-<ul *ngIf="skaters.length > 0">
-  <li *ngFor="let skater of skaters">
-    ({{ skater.position }})
-    <a [routerLink]="['/skater', skater.nhlcom_id]">
-      {{ skater.first_name }} {{ skater.last_name }}
-    </a>
-    -
-    {{ skater.overall }}
-  </li>
-</ul>
+<div class="row" *ngIf="team !== null">
+  <div class="col-sm-4">
+    <img [alt]="team.name"
+         [src]="team.img"
+         style="width: 100%; max-width: 300px; max-height: 300px;">
+    <h1>{{ team.name }}</h1>
+    <h6>{{ team.country.name }}</h6>
+    <hr>
+    <p>Conference: {{ team.conference }}</p>
+    <p>Division: {{ team.division }}</p>
+    <hr>
+    <p>Forwards Rating: {{ team.forwards_rating }}</p>
+    <p>Defensemen Rating: {{ team.defensemen_rating }}</p>
+    <p>Goalies Rating: {{ team.goalies_rating }}</p>
+  </div>
+  <div class="col-sm-8">
+    <ul>
+      <li *ngFor="let skater of skaters">
+        ({{ skater.position }})
+        <a [routerLink]="['/skater', skater.nhlcom_id]">
+          {{ skater.first_name }} {{ skater.last_name }}
+        </a>
+        -
+        {{ skater.overall }}
+      </li>
+    </ul>
+  </div>
+</div>
