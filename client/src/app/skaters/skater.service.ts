@@ -19,4 +19,8 @@ export class SkaterService {
     }
     return this.http.get<Skater[]>(this.skatersUrl, {params});
   }
+
+  getSkater(nhlcom_id): Observable<Skater|null> {
+    return this.http.get<Skater|null>(`${this.skatersUrl}${nhlcom_id}/`);
+  }
 }

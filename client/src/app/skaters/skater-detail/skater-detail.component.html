@@ -1,0 +1,9 @@
+<p *ngIf="skater === null">
+  No skater
+</p>
+<div *ngIf="skater !== null">
+  <h1>{{ skater.first_name}} {{ skater.last_name }}</h1>
+  <p>{{ skater.team.name }}</p>
+  <img [alt]="skater.last_name"
+       [src]="skater.img">
+</div>

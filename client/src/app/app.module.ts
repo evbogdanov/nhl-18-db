@@ -8,10 +8,11 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import { HomeComponent } from './home/home.component'
 import { TeamsComponent } from './teams/teams.component';
-import { SkatersComponent } from './skaters/skaters.component';
-import { GoaliesComponent } from './goalies/goalies.component';
 import { TeamComponent } from './teams/team/team.component';
 import { TeamDetailComponent } from './teams/team-detail/team-detail.component';
+import { SkatersComponent } from './skaters/skaters.component';
+import { SkaterDetailComponent } from './skaters/skater-detail/skater-detail.component';
+import { GoaliesComponent } from './goalies/goalies.component';
 import { NotFoundComponent } from './not-found/not-found.component';
 
 import { TeamService } from './teams/team.service';
@@ -24,6 +25,7 @@ const appRoutes: Routes = [
   {path: 'teams', component: TeamsComponent},
   {path: 'team/:abbrev', component: TeamDetailComponent},
   {path: 'skaters', component: SkatersComponent},
+  {path: 'skater/:nhlcom_id', component: SkaterDetailComponent},
   {path: 'goalies', component: GoaliesComponent},
   {path: '**', component: NotFoundComponent},
 ];
@@ -39,6 +41,7 @@ const appRoutes: Routes = [
     TeamDetailComponent,
     HomeComponent,
     NotFoundComponent,
+    SkaterDetailComponent,
   ],
   imports: [
     BrowserModule,
