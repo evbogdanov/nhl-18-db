@@ -354,6 +354,14 @@ class Skater(Player):
 
     @classmethod
     def filter_objects_by_name(cls, name):
+        if ' ' in name:
+            name_parts = name.split()
+            if len(name_parts) == 1:
+                name = name_parts[0]
+            elif len(name_parts) == 2:
+                first_name, last_name = name_parts
+                return (cls.objects.filter(first_name__iexact=first_name) &
+                        cls.objects.filter(last_name__istartswith=last_name))
         return (cls.objects.filter(first_name__istartswith=name) |
                 cls.objects.filter(last_name__istartswith=name))
 

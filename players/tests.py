@@ -98,6 +98,10 @@ class SkaterTestCase(TestCase):
         """Search skaters by last name"""
         self.assertEqual(Skater.search({'name': 'malk'})[0]['last_name'], 'Malkin')
 
+    def test_search_by_full_name(self):
+        """Search skaters by full first_name and partial last_name"""
+        self.assertEqual(Skater.search({'name': 'evgeni ma'})[0]['last_name'], 'Malkin')
+
     def test_search_by_age(self):
         """Search skaters by age"""
         skaters = Skater.search({'age_from': 30, 'age_to': 30})
