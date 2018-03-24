@@ -1,0 +1,14 @@
+li {
+  height: 40px;
+  line-height: 40px;
+  font-size: 14px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+img {
+  max-width: 30px;
+  max-height: 30px;
+  margin-right: 5px;
+}

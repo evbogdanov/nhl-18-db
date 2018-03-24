@@ -9,7 +9,7 @@ import { TeamService } from './team.service';
   styleUrls: ['./teams.component.css']
 })
 export class TeamsComponent implements OnInit {
-  teams: Team[];
+  teams: Team[] = [];
 
   getTeams() {
     this.teamService.getTeams()
@@ -23,4 +23,25 @@ export class TeamsComponent implements OnInit {
   ngOnInit() {
     this.getTeams();
   }
+
+  get pacificTeams() {
+    return this.teams
+      .filter(t => t.division === 'Pacific');
+  }
+
+  get centralTeams() {
+    return this.teams
+      .filter(t => t.division === 'Central');
+  }
+
+  get metropolitanTeams() {
+    return this.teams
+      .filter(t => t.division === 'Metropolitan');
+  }
+
+  get atlanticTeams() {
+    return this.teams
+      .filter(t => t.division === 'Atlantic');
+  }
+
 }

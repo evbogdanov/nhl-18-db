@@ -1,1 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
+h1 {
+  text-align: center;
+  padding-top: 15px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+

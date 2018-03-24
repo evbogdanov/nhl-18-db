@@ -1,7 +1,50 @@
 <h1>Teams</h1>
-<ul>
-  <app-team
-    *ngFor="let team of teams"
-    [team]="team"
-  ></app-team>
-</ul>
+
+<div class="row">
+  <div class="col-md">
+    <h4>Western Conference</h4>
+    <div class="row">
+      <div class="col-6">
+        <h6>Pacific Division</h6>
+        <ul>
+          <app-team
+            *ngFor="let team of pacificTeams"
+            [team]="team"
+          ></app-team>
+        </ul>
+      </div>
+      <div class="col-6">
+        <h6>Central Division</h6>
+        <ul>
+          <app-team
+            *ngFor="let team of centralTeams"
+            [team]="team"
+          ></app-team>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="col-md">
+    <h4>Eastern Conference</h4>
+    <div class="row">
+      <div class="col-6">
+        <h6>Metropolitan Division</h6>
+        <ul>
+          <app-team
+            *ngFor="let team of metropolitanTeams"
+            [team]="team"
+          ></app-team>
+        </ul>
+      </div>
+      <div class="col-6">
+        <h6>Atlantic Division</h6>
+        <ul>
+          <app-team
+            *ngFor="let team of atlanticTeams"
+            [team]="team"
+          ></app-team>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
