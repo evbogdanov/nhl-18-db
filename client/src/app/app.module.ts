@@ -18,6 +18,7 @@ import { NotFoundComponent } from './not-found/not-found.component';
 import { TeamService } from './teams/team.service';
 import { SkaterService } from './skaters/skater.service';
 import { SuggestionService } from './suggestions/suggestion.service';
+import { TeamSkaterComponent } from './teams/team-skater/team-skater.component';
 
 
 const appRoutes: Routes = [
@@ -42,6 +43,7 @@ const appRoutes: Routes = [
     HomeComponent,
     NotFoundComponent,
     SkaterDetailComponent,
+    TeamSkaterComponent,
   ],
   imports: [
     BrowserModule,

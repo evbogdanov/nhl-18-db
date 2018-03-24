@@ -27,4 +27,14 @@ export class TeamDetailComponent implements OnInit {
       .subscribe(skaters => this.skaters = skaters);
   }
 
+  get forwards() {
+    return this.skaters
+      .filter(s => s.position !== 'Defenseman');
+  }
+
+  get defensemen() {
+    return this.skaters
+      .filter(s => s.position === 'Defenseman');
+  }
+
 }

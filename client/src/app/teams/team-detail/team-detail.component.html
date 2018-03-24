@@ -18,15 +18,19 @@
     <p>Goalies Rating: {{ team.goalies_rating }}</p>
   </div>
   <div class="col-sm-8">
+    <h3>Forwards</h3>
     <ul>
-      <li *ngFor="let skater of skaters">
-        ({{ skater.position }})
-        <a [routerLink]="['/skater', skater.nhlcom_id]">
-          {{ skater.first_name }} {{ skater.last_name }}
-        </a>
-        -
-        {{ skater.overall }}
-      </li>
+      <app-team-skater *ngFor="let skater of forwards"
+                       [skater]="skater"
+                       [isForward]="true">
+      </app-team-skater>
+    </ul>
+    <h3>Defensemen</h3>
+    <ul>
+      <app-team-skater *ngFor="let skater of defensemen"
+                       [skater]="skater"
+                       [isForward]="false">
+      </app-team-skater>
     </ul>
   </div>
 </div>
