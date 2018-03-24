@@ -10,6 +10,7 @@ import { HomeComponent } from './home/home.component'
 import { TeamsComponent } from './teams/teams.component';
 import { TeamComponent } from './teams/team/team.component';
 import { TeamDetailComponent } from './teams/team-detail/team-detail.component';
+import { TeamSkaterComponent } from './teams/team-skater/team-skater.component';
 import { SkatersComponent } from './skaters/skaters.component';
 import { SkaterDetailComponent } from './skaters/skater-detail/skater-detail.component';
 import { GoaliesComponent } from './goalies/goalies.component';
@@ -18,7 +19,8 @@ import { NotFoundComponent } from './not-found/not-found.component';
 import { TeamService } from './teams/team.service';
 import { SkaterService } from './skaters/skater.service';
 import { SuggestionService } from './suggestions/suggestion.service';
-import { TeamSkaterComponent } from './teams/team-skater/team-skater.component';
+
+import { ShortPositionPipe } from './players/short-position.pipe';
 
 
 const appRoutes: Routes = [
@@ -44,6 +46,7 @@ const appRoutes: Routes = [
     NotFoundComponent,
     SkaterDetailComponent,
     TeamSkaterComponent,
+    ShortPositionPipe,
   ],
   imports: [
     BrowserModule,

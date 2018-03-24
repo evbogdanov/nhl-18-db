@@ -7,7 +7,7 @@
     {{ skater.first_name }} {{ skater.last_name }}
   </a>
   <span *ngIf="isForward">
-    ({{ skater.position }})
+    ({{ skater.position | shortPosition }})
   </span>
   -
   {{ skater.overall }}

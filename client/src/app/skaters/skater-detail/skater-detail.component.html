@@ -7,7 +7,7 @@
     <img [alt]="skater.last_name"
          [src]="skater.img">
     <h1>{{ skater.first_name}} {{ skater.last_name }}</h1>
-    <h6>{{ skater.position }} | {{ skater.type }}</h6>
+    <h6>{{ skater.position | shortPosition }} | {{ skater.type }}</h6>
     <hr>
     <p>Overall: {{ skater.overall }}</p>
     <p>Potential: {{ skater.potential }}</p>
