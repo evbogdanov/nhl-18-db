@@ -1,0 +1,31 @@
+.stars {
+  display: inline-block;
+  height: 20px;
+  width: 100px;
+  background-image: url('/static/img/stars.svg');
+  background-size: 20px 40px;
+  background-position: 0 -20px;
+  position: relative;
+  top: 5px;
+  left: 10px;
+}
+
+.stars-rating {
+  display: inline-block;
+  height: 20px;
+  background-image: url('/static/img/stars.svg');
+  background-size: 20px 40px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.stars-rating-10 { width: 100px; }
+.stars-rating-9 { width: 90px; }
+.stars-rating-8 { width: 80px; }
+.stars-rating-7 { width: 70px; }
+.stars-rating-6 { width: 60px; }
+.stars-rating-5 { width: 50px; }
+.stars-rating-4 { width: 40px; }
+.stars-rating-3 { width: 30px; }
+.stars-rating-2 { width: 20px; }
