@@ -1,10 +1,5 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light justify-content-center">
+<nav class="navbar navbar-light bg-light navbar-expand justify-content-between">  
   <ul class="navbar-nav">
-    <li class="nav-item"
-        routerLinkActive="active"
-        [routerLinkActiveOptions]="{exact: true}">
-      <a class="nav-link" routerLink="/">Home</a>
-    </li>
     <li class="nav-item" routerLinkActive="active">
       <a class="nav-link" routerLink="/teams">Teams</a>
     </li>
@@ -15,10 +10,25 @@
       <a class="nav-link" routerLink="/goalies">Goalies</a>
     </li>
   </ul>
-  <a title="Fork me on GitHub"
-     class="github"
-     href="https://github.com/evbogdanov/nhl-18-db"
-     target="_blank">
-    <img alt="Fork me on GitHub" src="/static/img/github.svg" class="github__img">
-  </a>
+  <div class="form-inline">
+    <input #inp
+           id="inp"
+           class="form-control"
+           type="text"
+           placeholder="Search"
+           (input)="getSuggestions(inp.value)">
+  </div>
 </nav>
+
+<ul>
+  <li *ngFor="let s of suggestions">
+    <img [alt]="s.name"
+         [src]="s.img"
+         style="max-width: 40px;max-height: 40px;">
+    <b style="cursor: pointer;"
+       (click)="clearSuggestionsAndNavigate(inp, ['/' + s.type, s.id])">
+      {{ s.name }}
+    </b>
+    <small style="color: grey; margin-left: 5px;">{{ s.type }}</small>
+  </li>
+</ul>

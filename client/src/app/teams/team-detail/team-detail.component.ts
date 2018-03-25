@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute } from '@angular/router';
+import { Router, ActivatedRoute, ParamMap } from '@angular/router';
 import { Team } from '../team.model';
 import { TeamService } from '../team.service';
 import { Skater } from '../../skaters/skater.model';
@@ -15,16 +15,21 @@ export class TeamDetailComponent implements OnInit {
   team: Team | null = null;
   skaters: Skater[] = [];
 
-  constructor(private route: ActivatedRoute,
-              private teamService: TeamService,
-              private skaterService: SkaterService) {}
+  constructor(
+    private route: ActivatedRoute,
+    private router: Router,
+    private teamService: TeamService,
+    private skaterService: SkaterService
+  ) {}
 
   ngOnInit() {
-    const abbrev = this.route.snapshot.paramMap.get('abbrev');
-    this.teamService.getTeam(abbrev)
-      .subscribe(team => this.team = team);
-    this.skaterService.searchSkaters({'team_abbrev': abbrev})
-      .subscribe(skaters => this.skaters = skaters);
+    this.route.paramMap.subscribe((params: ParamMap) => {
+      const abbrev = params.get('abbrev');
+      this.teamService.getTeam(abbrev)
+        .subscribe(team => this.team = team);
+      this.skaterService.searchSkaters({'team_abbrev': abbrev})
+        .subscribe(skaters => this.skaters = skaters);
+    });
   }
 
   get forwards() {

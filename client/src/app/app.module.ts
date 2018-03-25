@@ -6,7 +6,6 @@ import { HttpClientModule } from '@angular/common/http';
 
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
-import { HomeComponent } from './home/home.component'
 import { TeamsComponent } from './teams/teams.component';
 import { TeamComponent } from './teams/team/team.component';
 import { TeamDetailComponent } from './teams/team-detail/team-detail.component';
@@ -24,7 +23,7 @@ import { ShortPositionPipe } from './players/short-position.pipe';
 
 
 const appRoutes: Routes = [
-  {path: '', component: HomeComponent},
+  {path: '', redirectTo: '/teams', pathMatch: 'full'},
   {path: 'teams', component: TeamsComponent},
   {path: 'team/:abbrev', component: TeamDetailComponent},
   {path: 'skaters', component: SkatersComponent},
@@ -42,7 +41,6 @@ const appRoutes: Routes = [
     GoaliesComponent,
     TeamComponent,
     TeamDetailComponent,
-    HomeComponent,
     NotFoundComponent,
     SkaterDetailComponent,
     TeamSkaterComponent,

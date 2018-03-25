@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute } from '@angular/router';
+import { Router, ActivatedRoute, ParamMap } from '@angular/router';
 import { Skater } from '../skater.model';
 import { SkaterService } from '../skater.service';
 
@@ -12,13 +12,18 @@ import { SkaterService } from '../skater.service';
 export class SkaterDetailComponent implements OnInit {
   skater: Skater | null = null;
 
-  constructor(private route: ActivatedRoute,
-              private skaterService: SkaterService) {}
+  constructor(
+    private route: ActivatedRoute,
+    private router: Router,
+    private skaterService: SkaterService
+  ) {}
 
-  ngOnInit() {
-    const nhlcom_id = this.route.snapshot.paramMap.get('nhlcom_id');
-    this.skaterService.getSkater(nhlcom_id)
-      .subscribe(skater => this.skater = skater);
+  ngOnInit() { 
+    this.route.paramMap.subscribe((params: ParamMap) => {
+      const nhlcom_id = params.get('nhlcom_id');
+      this.skaterService.getSkater(nhlcom_id)
+        .subscribe(skater => this.skater = skater);
+    });
   }
 
 }
