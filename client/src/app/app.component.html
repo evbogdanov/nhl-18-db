@@ -1,4 +1,7 @@
 <div class="container">
-  <app-header></app-header>
-  <router-outlet></router-outlet>
+  <app-header [shadow]="shadow"></app-header>
+  <div class="main">
+    <router-outlet></router-outlet>
+    <div class="main-shadow" #shadow></div>
+  </div>
 </div>

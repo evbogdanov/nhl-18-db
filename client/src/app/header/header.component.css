@@ -1,0 +1,52 @@
+.header {
+  margin-bottom: 30px;
+}
+
+.navbar {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.form-control {
+  height: 40px;
+}
+
+.searching .navbar-nav {
+  display: none;
+}
+
+.searching .form-inline {
+  width: 100%;
+}
+
+.searching .form-control {
+  width: 100%;
+}
+
+.suggestions {
+  border: 1px solid rgba(0, 0, 0, .1);
+  border-top: none;
+  margin-bottom: 20px;
+  padding: .5rem 1rem;
+}
+
+.suggestions__list {
+  margin: 0;
+}
+
+.suggestions__item {
+  cursor: pointer;
+  padding: 5px;
+}
+
+.suggestions__item-img {
+  max-width: 40px;
+  max-height: 40px;
+  margin-left: 5px;
+}
+
+.suggestions__item-type {
+  font-size: 13px;
+  color: #999;
+  margin-left: 5px;
+}
