@@ -13,6 +13,7 @@ import { TeamSkaterComponent } from './teams/team-skater/team-skater.component';
 import { SkatersComponent } from './skaters/skaters.component';
 import { SkaterDetailComponent } from './skaters/skater-detail/skater-detail.component';
 import { GoaliesComponent } from './goalies/goalies.component';
+import { AboutComponent } from './about/about.component';
 import { NotFoundComponent } from './not-found/not-found.component';
 
 import { TeamService } from './teams/team.service';
@@ -29,6 +30,7 @@ const appRoutes: Routes = [
   {path: 'skaters', component: SkatersComponent},
   {path: 'skater/:nhlcom_id', component: SkaterDetailComponent},
   {path: 'goalies', component: GoaliesComponent},
+  {path: 'about', component: AboutComponent},
   {path: '**', component: NotFoundComponent},
 ];
 
@@ -45,6 +47,7 @@ const appRoutes: Routes = [
     SkaterDetailComponent,
     TeamSkaterComponent,
     ShortPositionPipe,
+    AboutComponent,
   ],
   imports: [
     BrowserModule,
