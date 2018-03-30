@@ -5,9 +5,6 @@
 .navbar {
   padding-top: 10px;
   padding-bottom: 10px;
-}
-
-.navbar.searching {
   border: 1px solid rgba(0, 0, 0, .1);
   border-top: none;
 }
