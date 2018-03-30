@@ -9,20 +9,67 @@
   border-top: none;
 }
 
-.form-control {
+.nav-item {
+  margin: 0 15px;
   height: 40px;
+  line-height: 40px;
+  position: relative;
+}
+
+.nav-item.active::after {
+  display: block;
+  content: '';
+  height: 3px;
+  width: 100%;
+  background: rgba(0, 0, 0, .9);
+  position: absolute;
+  left: 0;
+  bottom: -10px;
+}
+
+.nav-link {
+  cursor: pointer;
+}
+
+.header .nav-link {
+  padding: 0;
+}
+
+.active .nav-link {
+  font-weight: 500;
+  cursor: default;
+}
+
+.nav-link.nav-link-search {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background-image: url('/static/img/search.svg');
+  background-size: 20px 20px;
+  opacity: .4;
+  margin-top: 11px;
+}
+
+.nav-link.nav-link-search:hover {
+  opacity: .6;
+}
+
+.form-search {
+  width: 100%;
+  display: none;
+}
+
+.form-control {
+  width: 100%;
+  height: 40px;
+}
+
+.searching .form-search {
+  display: block;
 }
 
 .searching .navbar-nav {
   display: none;
-}
-
-.searching .form-inline {
-  width: 100%;
-}
-
-.searching .form-control {
-  width: 100%;
 }
 
 .suggestions {

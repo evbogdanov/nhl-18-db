@@ -37,9 +37,10 @@ export class HeaderComponent {
     this.router.navigate(destination);
   }
 
-  activateSearching(nav) {
+  activateSearching(nav, inp) {
     this.renderer.addClass(nav, 'searching');
     this.renderer.addClass(this.shadow, 'main-shadow_activated');
+    this.renderer.selectRootElement(inp).focus();
   }
 
   deactivateSearching(nav) {
