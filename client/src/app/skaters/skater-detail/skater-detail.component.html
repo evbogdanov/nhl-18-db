@@ -3,15 +3,20 @@
 </p>
 
 <div class="row" *ngIf="skater !== null">
-  <div class="col-sm">
-    <img [alt]="skater.last_name"
-         [src]="skater.img">
+  <div class="col-md-4">
+    <div class="skater-card">
+      <div class="skater-overall">
+        <span>{{ skater.overall }}</span>
+        <span class="skater-overall-text" title="Overall">OVR</span>
+      </div>
+      <img class="skater-image"
+           [alt]="skater.last_name"
+           [src]="skater.img">
+    </div>
     <h1>{{ skater.first_name}} {{ skater.last_name }}</h1>
     <h6>{{ skater.position | shortPosition }} | {{ skater.type }}</h6>
     <hr>
-    <p>Overall: {{ skater.overall }}</p>
     <p>Potential: {{ skater.potential }}</p>
-    <hr>
     <p>Age: {{ skater.age }}</p>
     <p>Shoots: {{ skater.shoots }}</p>
     <p>Height: {{ skater.height }} cm</p>
@@ -41,55 +46,59 @@
       <p>Draft Overall: {{ skater.draft_overall }}</p>
     </div>
   </div>
-  <div class="col-sm">
-    <p><b>Puck Skills:</b><span class="stars">
-      <i class="stars-rating" [ngClass]="'stars-rating-' + skater.puck_skills"></i>
-    </span></p>
-    <p>Deking: {{ skater.deking }}</p>
-    <p>Hand Eye: {{ skater.hand_eye }}</p>
-    <p>Passing: {{ skater.passing }}</p>
-    <p>Puck Control: {{ skater.puck_control }}</p>
-    <hr>
-    <p><b>Shooting:</b><span class="stars">
-      <i class="stars-rating" [ngClass]="'stars-rating-' + skater.shooting"></i>
-    </span></p>
-    <p>Slap Shot Accuracy: {{ skater.slap_shot_accuracy }}</p>
-    <p>Slap Shot Power: {{ skater.slap_shot_power }}</p>
-    <p>Wrist Shot Accuracy: {{ skater.wrist_shot_accuracy }}</p>
-    <p>Wrist Shot Power: {{ skater.wrist_shot_power }}</p>
-    <hr>
-    <p><b>Skating:</b><span class="stars">
-      <i class="stars-rating" [ngClass]="'stars-rating-' + skater.skating"></i>
-    </span></p>
-    <p>Acceleration: {{ skater.acceleration }}</p>
-    <p>Agility: {{ skater.agility }}</p>
-    <p>Balance: {{ skater.balance }}</p>
-    <p>Endurance: {{ skater.endurance }}</p>
-    <p>Speed: {{ skater.speed }}</p>
-  </div>
-  <div class="col-sm">
-    <p><b>Senses:</b><span class="stars">
-      <i class="stars-rating" [ngClass]="'stars-rating-' + skater.senses"></i>
-    </span></p>
-    <p>Discipline: {{ skater.discipline }}</p>
-    <p>Off. Awareness: {{ skater.offensive_awareness }}</p>
-    <p>Poise: {{ skater.poise }}</p>
-    <hr>
-    <p><b>Defense:</b><span class="stars">
-      <i class="stars-rating" [ngClass]="'stars-rating-' + skater.defense"></i>
-    </span></p>
-    <p>Def. Awareness: {{ skater.defensive_awareness }}</p>
-    <p>Faceoffs: {{ skater.faceoffs }}</p>
-    <p>Shot Blocking: {{ skater.shot_blocking }}</p>
-    <p>Stick Checking: {{ skater.stick_checking }}</p>
-    <hr>
-    <p><b>Physical:</b><span class="stars">
-      <i class="stars-rating" [ngClass]="'stars-rating-' + skater.physical"></i>
-    </span></p>
-    <p>Aggressiveness: {{ skater.aggressiveness }}</p>
-    <p>Body Checking: {{ skater.body_checking }}</p>
-    <p>Durability: {{ skater.durability }}</p>
-    <p>Fighting Skill: {{ skater.fighting_skill }}</p>
-    <p>Strength: {{ skater.strength }}</p>
+  <div class="col-md-8">
+    <div class="row">
+      <div class="col">
+        <p><b>Puck Skills:</b><span class="stars">
+          <i class="stars-rating" [ngClass]="'stars-rating-' + skater.puck_skills"></i>
+        </span></p>
+        <p>Deking: {{ skater.deking }}</p>
+        <p>Hand Eye: {{ skater.hand_eye }}</p>
+        <p>Passing: {{ skater.passing }}</p>
+        <p>Puck Control: {{ skater.puck_control }}</p>
+        <hr>
+        <p><b>Shooting:</b><span class="stars">
+          <i class="stars-rating" [ngClass]="'stars-rating-' + skater.shooting"></i>
+        </span></p>
+        <p>Slap Shot Accuracy: {{ skater.slap_shot_accuracy }}</p>
+        <p>Slap Shot Power: {{ skater.slap_shot_power }}</p>
+        <p>Wrist Shot Accuracy: {{ skater.wrist_shot_accuracy }}</p>
+        <p>Wrist Shot Power: {{ skater.wrist_shot_power }}</p>
+        <hr>
+        <p><b>Skating:</b><span class="stars">
+          <i class="stars-rating" [ngClass]="'stars-rating-' + skater.skating"></i>
+        </span></p>
+        <p>Acceleration: {{ skater.acceleration }}</p>
+        <p>Agility: {{ skater.agility }}</p>
+        <p>Balance: {{ skater.balance }}</p>
+        <p>Endurance: {{ skater.endurance }}</p>
+        <p>Speed: {{ skater.speed }}</p>
+      </div>
+      <div class="col">
+        <p><b>Senses:</b><span class="stars">
+          <i class="stars-rating" [ngClass]="'stars-rating-' + skater.senses"></i>
+        </span></p>
+        <p>Discipline: {{ skater.discipline }}</p>
+        <p>Off. Awareness: {{ skater.offensive_awareness }}</p>
+        <p>Poise: {{ skater.poise }}</p>
+        <hr>
+        <p><b>Defense:</b><span class="stars">
+          <i class="stars-rating" [ngClass]="'stars-rating-' + skater.defense"></i>
+        </span></p>
+        <p>Def. Awareness: {{ skater.defensive_awareness }}</p>
+        <p>Faceoffs: {{ skater.faceoffs }}</p>
+        <p>Shot Blocking: {{ skater.shot_blocking }}</p>
+        <p>Stick Checking: {{ skater.stick_checking }}</p>
+        <hr>
+        <p><b>Physical:</b><span class="stars">
+          <i class="stars-rating" [ngClass]="'stars-rating-' + skater.physical"></i>
+        </span></p>
+        <p>Aggressiveness: {{ skater.aggressiveness }}</p>
+        <p>Body Checking: {{ skater.body_checking }}</p>
+        <p>Durability: {{ skater.durability }}</p>
+        <p>Fighting Skill: {{ skater.fighting_skill }}</p>
+        <p>Strength: {{ skater.strength }}</p>
+      </div>
+    </div>
   </div>
 </div>
