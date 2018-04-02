@@ -67,3 +67,11 @@
 .stars-rating-4 { width: 40px; }
 .stars-rating-3 { width: 30px; }
 .stars-rating-2 { width: 20px; }
+
+.ratings {
+  padding: 0 40px 40px 0;
+}
+
+.ratings p {
+  margin-bottom: 10px;
+}

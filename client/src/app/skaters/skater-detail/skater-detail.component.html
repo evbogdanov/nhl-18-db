@@ -49,56 +49,65 @@
   <div class="col-md-8">
     <div class="row">
       <div class="col">
-        <p><b>Puck Skills:</b><span class="stars">
-          <i class="stars-rating" [ngClass]="'stars-rating-' + skater.puck_skills"></i>
-        </span></p>
-        <p>Deking: {{ skater.deking }}</p>
-        <p>Hand Eye: {{ skater.hand_eye }}</p>
-        <p>Passing: {{ skater.passing }}</p>
-        <p>Puck Control: {{ skater.puck_control }}</p>
-        <hr>
-        <p><b>Shooting:</b><span class="stars">
-          <i class="stars-rating" [ngClass]="'stars-rating-' + skater.shooting"></i>
-        </span></p>
-        <p>Slap Shot Accuracy: {{ skater.slap_shot_accuracy }}</p>
-        <p>Slap Shot Power: {{ skater.slap_shot_power }}</p>
-        <p>Wrist Shot Accuracy: {{ skater.wrist_shot_accuracy }}</p>
-        <p>Wrist Shot Power: {{ skater.wrist_shot_power }}</p>
-        <hr>
-        <p><b>Skating:</b><span class="stars">
-          <i class="stars-rating" [ngClass]="'stars-rating-' + skater.skating"></i>
-        </span></p>
-        <p>Acceleration: {{ skater.acceleration }}</p>
-        <p>Agility: {{ skater.agility }}</p>
-        <p>Balance: {{ skater.balance }}</p>
-        <p>Endurance: {{ skater.endurance }}</p>
-        <p>Speed: {{ skater.speed }}</p>
+        <div class="ratings">
+          <p><b>Puck Skills</b><span class="stars float-right">
+            <i class="stars-rating" [ngClass]="'stars-rating-' + skater.puck_skills"></i>
+          </span></p>
+          <p><span>Deking</span><span class="float-right">{{ skater.deking }}</span></p>
+          <p><span>Hand Eye</span><span class="float-right">{{ skater.hand_eye }}</span></p>
+          <p><span>Passing</span><span class="float-right">{{ skater.passing }}</span></p>
+          <p><span>Puck Control</span><span class="float-right">{{ skater.puck_control }}</span></p>
+        </div>
+        <div class="ratings">
+          <p><b>Shooting</b><span class="stars float-right">
+            <i class="stars-rating" [ngClass]="'stars-rating-' + skater.shooting"></i>
+          </span></p>
+          <p><span>Slap Shot Accuracy</span><span class="float-right">{{ skater.slap_shot_accuracy }}</span></p>
+          <p><span>Slap Shot Power</span><span class="float-right">{{ skater.slap_shot_power }}</span></p>
+          <p><span>Wrist Shot Accuracy</span><span class="float-right">{{ skater.wrist_shot_accuracy }}</span></p>
+          <p><span>Wrist Shot Power</span><span class="float-right">{{ skater.wrist_shot_power }}</span></p>
+        </div>
+        <div class="ratings">
+          <p><b>Skating</b><span class="stars float-right">
+            <i class="stars-rating" [ngClass]="'stars-rating-' + skater.skating"></i>
+          </span></p>
+          <p><span>Acceleration</span><span class="float-right">{{ skater.acceleration }}</span></p>
+          <p><span>Agility</span><span class="float-right">{{ skater.agility }}</span></p>
+          <p><span>Balance</span><span class="float-right">{{ skater.balance }}</span></p>
+          <p><span>Endurance</span><span class="float-right">{{ skater.endurance }}</span></p>
+          <p><span>Speed</span><span class="float-right">{{ skater.speed }}</span></p>
+        </div>
       </div>
       <div class="col">
-        <p><b>Senses:</b><span class="stars">
-          <i class="stars-rating" [ngClass]="'stars-rating-' + skater.senses"></i>
-        </span></p>
-        <p>Discipline: {{ skater.discipline }}</p>
-        <p>Off. Awareness: {{ skater.offensive_awareness }}</p>
-        <p>Poise: {{ skater.poise }}</p>
-        <hr>
-        <p><b>Defense:</b><span class="stars">
-          <i class="stars-rating" [ngClass]="'stars-rating-' + skater.defense"></i>
-        </span></p>
-        <p>Def. Awareness: {{ skater.defensive_awareness }}</p>
-        <p>Faceoffs: {{ skater.faceoffs }}</p>
-        <p>Shot Blocking: {{ skater.shot_blocking }}</p>
-        <p>Stick Checking: {{ skater.stick_checking }}</p>
-        <hr>
-        <p><b>Physical:</b><span class="stars">
-          <i class="stars-rating" [ngClass]="'stars-rating-' + skater.physical"></i>
-        </span></p>
-        <p>Aggressiveness: {{ skater.aggressiveness }}</p>
-        <p>Body Checking: {{ skater.body_checking }}</p>
-        <p>Durability: {{ skater.durability }}</p>
-        <p>Fighting Skill: {{ skater.fighting_skill }}</p>
-        <p>Strength: {{ skater.strength }}</p>
-      </div>
-    </div>
-  </div>
-</div>
+        <div class="ratings">
+          <p><b>Senses</b><span class="stars float-right">
+            <i class="stars-rating" [ngClass]="'stars-rating-' + skater.senses"></i>
+          </span></p>
+          <p><span>Discipline</span><span class="float-right">{{ skater.discipline }}</span></p>
+          <p><span>Off. Awareness</span><span class="float-right">{{ skater.offensive_awareness }}</span></p>
+          <p><span>Poise</span><span class="float-right">{{ skater.poise }}</span></p>
+          <p>&nbsp;</p>
+        </div>
+        <div class="ratings">
+          <p><b>Defense</b><span class="stars float-right">
+            <i class="stars-rating" [ngClass]="'stars-rating-' + skater.defense"></i>
+          </span></p>
+          <p><span>Def. Awareness</span><span class="float-right">{{ skater.defensive_awareness }}</span></p>
+          <p><span>Faceoffs</span><span class="float-right">{{ skater.faceoffs }}</span></p>
+          <p><span>Shot Blocking</span><span class="float-right">{{ skater.shot_blocking }}</span></p>
+          <p><span>Stick Checking</span><span class="float-right">{{ skater.stick_checking }}</span></p>
+        </div>
+        <div class="ratings">
+          <p><b>Physical</b><span class="stars float-right">
+            <i class="stars-rating" [ngClass]="'stars-rating-' + skater.physical"></i>
+          </span></p>
+          <p><span>Aggressiveness</span><span class="float-right">{{ skater.aggressiveness }}</span></p>
+          <p><span>Body Checking</span><span class="float-right">{{ skater.body_checking }}</span></p>
+          <p><span>Durability</span><span class="float-right">{{ skater.durability }}</span></p>
+          <p><span>Fighting Skill</span><span class="float-right">{{ skater.fighting_skill }}</span></p>
+          <p><span>Strength</span><span class="float-right">{{ skater.strength }}</span></p>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
