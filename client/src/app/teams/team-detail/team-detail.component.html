@@ -18,19 +18,24 @@
     <p>Goalies Rating: {{ team.goalies_rating }}</p>
   </div>
   <div class="col-sm-8">
-    <h3>Forwards</h3>
-    <ul>
-      <app-team-skater *ngFor="let skater of forwards"
-                       [skater]="skater"
-                       [isForward]="true">
-      </app-team-skater>
-    </ul>
-    <h3>Defensemen</h3>
-    <ul>
-      <app-team-skater *ngFor="let skater of defensemen"
-                       [skater]="skater"
-                       [isForward]="false">
-      </app-team-skater>
-    </ul>
+    <div *ngIf="!team.is_active" class="alert alert-danger">
+      This team is inactive!
+    </div>
+    <div *ngIf="team.is_active">
+      <h3>Forwards</h3>
+      <ul>
+        <app-team-skater *ngFor="let skater of forwards"
+                         [skater]="skater"
+                         [isForward]="true">
+        </app-team-skater>
+      </ul>
+      <h3>Defensemen</h3>
+      <ul>
+        <app-team-skater *ngFor="let skater of defensemen"
+                         [skater]="skater"
+                         [isForward]="false">
+        </app-team-skater>
+      </ul>
+    </div>    
   </div>
 </div>
