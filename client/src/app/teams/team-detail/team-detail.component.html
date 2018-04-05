@@ -3,23 +3,38 @@
 </p>
 
 <div class="row" *ngIf="team !== null">
-  <div class="col-sm-4">
+  <div class="col-sm-4 info-rows">
     <img [alt]="team.name"
          [src]="team.img"
-         style="width: 100%; max-width: 300px; max-height: 300px;">
+         class="team-image">
     <h1>{{ team.name }}</h1>
     <h6>{{ team.country.name }}</h6>
     <hr>
-    <p>Conference: {{ team.conference }}</p>
-    <p>Division: {{ team.division }}</p>
+    <div class="row">
+      <div class="col">Conference</div>
+      <div class="col">{{ team.conference }}</div>
+    </div>
+    <div class="row">
+      <div class="col">Division</div>
+      <div class="col">{{ team.division }}</div>
+    </div>
     <hr>
-    <p>Forwards Rating: {{ team.forwards_rating }}</p>
-    <p>Defensemen Rating: {{ team.defensemen_rating }}</p>
-    <p>Goalies Rating: {{ team.goalies_rating }}</p>
+    <div class="row">
+      <div class="col">Forwards Rating</div>
+      <div class="col">{{ team.forwards_rating }}</div>
+    </div>
+    <div class="row">
+      <div class="col">Defensemen Rating</div>
+      <div class="col">{{ team.defensemen_rating }}</div>
+    </div>
+    <div class="row">
+      <div class="col">Goalies Rating</div>
+      <div class="col">{{ team.goalies_rating }}</div>
+    </div>
   </div>
   <div class="col-sm-8">
     <div *ngIf="!team.is_active" class="alert alert-danger">
-      This team is inactive!
+      The team is inactive
     </div>
     <div *ngIf="team.is_active">
       <h3>Forwards</h3>

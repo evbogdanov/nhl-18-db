@@ -1,3 +1,7 @@
+.skater-info {
+  margin-bottom: 40px;
+}
+
 .skater-card {
   padding-top: 35px;
   position: relative;
@@ -44,8 +48,9 @@
   background-size: 20px 40px;
   background-position: 0 -20px;
   position: relative;
-  top: 5px;
+  top: 0;
   left: 10px;
+  float: right;
 }
 
 .stars-rating {
@@ -73,5 +78,5 @@
 }
 
 .ratings p {
-  margin-bottom: 10px;
+  margin-bottom: 8px;
 }

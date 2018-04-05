@@ -3,54 +3,89 @@
 </p>
 
 <div class="row" *ngIf="skater !== null">
-  <div class="col-md-4">
+  <div class="col-md-4 info-rows">
     <div class="skater-card">
       <div class="skater-overall">
         <span>{{ skater.overall }}</span>
-        <span class="skater-overall-text" title="Overall">OVR</span>
+        <span class="skater-overall-text" title="Overall rating">OVR</span>
       </div>
       <img class="skater-image"
-           [alt]="skater.last_name"
            [src]="skater.img">
     </div>
     <h1>{{ skater.first_name}} {{ skater.last_name }}</h1>
     <h6>{{ skater.position | shortPosition }} | {{ skater.type }}</h6>
     <hr>
-    <p>Potential: {{ skater.potential }}</p>
-    <p>Age: {{ skater.age }}</p>
-    <p>Shoots: {{ skater.shoots }}</p>
-    <p>Height: {{ skater.height }} cm</p>
-    <p>Weight: {{ skater.weight }} kg</p>
+    <div class="row">
+      <div class="col">Potential</div>
+      <div class="col">{{ skater.potential }}</div>
+    </div>
+    <div class="row">
+      <div class="col">Age</div>
+      <div class="col">{{ skater.age }}</div>
+    </div>
+    <div class="row">
+      <div class="col">Shoots</div>
+      <div class="col">{{ skater.shoots }}</div>
+    </div>
+    <div class="row">
+      <div class="col">Height</div>
+      <div class="col">{{ skater.height }} cm</div>
+    </div>
+    <div class="row">
+      <div class="col">Weight</div>
+      <div class="col">{{ skater.weight }} kg</div>
+    </div>
     <hr>
-    <p>Salary: {{ skater.salary }} million USD</p>
-    <p>Years Left: {{ skater.years_left }}</p>
+    <div class="row">
+      <div class="col">Salary</div>
+      <div class="col">{{ skater.salary }} million USD</div>
+    </div>
+    <div class="row">
+      <div class="col">Years Left</div>
+      <div class="col">{{ skater.years_left }}</div>
+    </div>
     <hr>
-    <p>Country: {{ skater.country.name }}</p>
-    <p>
-      Team:
-      <a [routerLink]="['/team', skater.team.abbrev]">
-        {{ skater.team.name }}
-      </a>
-    </p>
-    <p>Number: {{ skater.number }}</p>
+    <div class="row">
+      <div class="col">Country</div>
+      <div class="col">{{ skater.country.name }}</div>
+    </div>
+    <div class="row">
+      <div class="col">Team</div>
+      <div class="col">
+        <a [routerLink]="['/team', skater.team.abbrev]">{{ skater.team.name }}</a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col">Number</div>
+      <div class="col">{{ skater.number }}</div>
+    </div>
     <div *ngIf="skater.draft_team !== null">
       <hr>
-      <p>
-        Draft Team:
-        <a [routerLink]="['/team', skater.draft_team.abbrev]">
-          {{ skater.draft_team.name }}
-        </a>
-      </p>
-      <p>Draft Year: {{ skater.draft_year }}</p>
-      <p>Draft Round: {{ skater.draft_round }}</p>
-      <p>Draft Overall: {{ skater.draft_overall }}</p>
+      <div class="row">
+        <div class="col">Draft Team</div>
+        <div class="col">
+          <a [routerLink]="['/team', skater.draft_team.abbrev]">{{ skater.draft_team.name }}</a>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">Draft Year</div>
+        <div class="col">{{ skater.draft_year }}</div>
+      </div>
+      <div class="row">
+        <div class="col">Draft Round</div>
+        <div class="col">{{ skater.draft_round }}</div>
+      </div>
+      <div class="row">
+        <div class="col">Draft Overall</div>
+        <div class="col">{{ skater.draft_overall }}</div>
+      </div>
     </div>
   </div>
   <div class="col-md-8">
     <div class="row">
       <div class="col">
         <div class="ratings">
-          <p><b>Puck Skills</b><span class="stars float-right">
+          <p><b>Skills</b><span class="stars">
             <i class="stars-rating" [ngClass]="'stars-rating-' + skater.puck_skills"></i>
           </span></p>
           <p><span>Deking</span><span class="float-right">{{ skater.deking }}</span></p>
@@ -59,7 +94,7 @@
           <p><span>Puck Control</span><span class="float-right">{{ skater.puck_control }}</span></p>
         </div>
         <div class="ratings">
-          <p><b>Shooting</b><span class="stars float-right">
+          <p><b>Shooting</b><span class="stars">
             <i class="stars-rating" [ngClass]="'stars-rating-' + skater.shooting"></i>
           </span></p>
           <p><span>Slap Shot Accuracy</span><span class="float-right">{{ skater.slap_shot_accuracy }}</span></p>
@@ -68,7 +103,7 @@
           <p><span>Wrist Shot Power</span><span class="float-right">{{ skater.wrist_shot_power }}</span></p>
         </div>
         <div class="ratings">
-          <p><b>Skating</b><span class="stars float-right">
+          <p><b>Skating</b><span class="stars">
             <i class="stars-rating" [ngClass]="'stars-rating-' + skater.skating"></i>
           </span></p>
           <p><span>Acceleration</span><span class="float-right">{{ skater.acceleration }}</span></p>
@@ -80,7 +115,7 @@
       </div>
       <div class="col">
         <div class="ratings">
-          <p><b>Senses</b><span class="stars float-right">
+          <p><b>Senses</b><span class="stars">
             <i class="stars-rating" [ngClass]="'stars-rating-' + skater.senses"></i>
           </span></p>
           <p><span>Discipline</span><span class="float-right">{{ skater.discipline }}</span></p>
@@ -89,7 +124,7 @@
           <p>&nbsp;</p>
         </div>
         <div class="ratings">
-          <p><b>Defense</b><span class="stars float-right">
+          <p><b>Defense</b><span class="stars">
             <i class="stars-rating" [ngClass]="'stars-rating-' + skater.defense"></i>
           </span></p>
           <p><span>Def. Awareness</span><span class="float-right">{{ skater.defensive_awareness }}</span></p>
@@ -98,7 +133,7 @@
           <p><span>Stick Checking</span><span class="float-right">{{ skater.stick_checking }}</span></p>
         </div>
         <div class="ratings">
-          <p><b>Physical</b><span class="stars float-right">
+          <p><b>Physical</b><span class="stars">
             <i class="stars-rating" [ngClass]="'stars-rating-' + skater.physical"></i>
           </span></p>
           <p><span>Aggressiveness</span><span class="float-right">{{ skater.aggressiveness }}</span></p>
