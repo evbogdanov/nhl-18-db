@@ -32,7 +32,13 @@
     </div>
   </nav>
 
-  <div *ngIf="suggestions.length > 0"
+  <div *ngIf="showLoadingIndicator"
+       class="suggestions">Searching...</div>
+
+  <div *ngIf="!showLoadingIndicator && noSuggestions"
+       class="suggestions"><strong>No results found</strong></div>
+
+  <div *ngIf="!showLoadingIndicator && !noSuggestions && suggestions.length > 0"
        class="suggestions">
     <ul class="suggestions__list">
       <li *ngFor="let s of suggestions"

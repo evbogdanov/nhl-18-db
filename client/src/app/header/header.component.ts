@@ -13,6 +13,8 @@ import { SuggestionService } from '../suggestions/suggestion.service';
 })
 export class HeaderComponent {
   @Input() shadow: any;
+  showLoadingIndicator: boolean = false;
+  noSuggestions: boolean = false;
   suggestions: Suggestion[] = [];
 
   constructor(
@@ -23,11 +25,17 @@ export class HeaderComponent {
 
   getSuggestions(name) {
     if (name === '') {
+      this.noSuggestions = false;
       this.suggestions = [];
     }
     else {
+      this.showLoadingIndicator = true;
       this.suggestionService.getSuggestions(name)
-        .subscribe(suggestions => this.suggestions = suggestions)
+        .subscribe(suggestions => {
+          this.showLoadingIndicator = false;
+          this.noSuggestions = suggestions.length === 0;
+          this.suggestions = suggestions;
+        })
     }
   }
 
@@ -46,6 +54,8 @@ export class HeaderComponent {
   deactivateSearching(nav) {
     this.renderer.removeClass(nav, 'searching');
     this.renderer.removeClass(this.shadow, 'main-shadow_activated');
+    this.showLoadingIndicator = false;
+    this.noSuggestions = false;
     this.suggestions = [];
   }
 
