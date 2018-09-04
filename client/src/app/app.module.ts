@@ -15,6 +15,7 @@ import { SkaterDetailComponent } from './skaters/skater-detail/skater-detail.com
 import { GoaliesComponent } from './goalies/goalies.component';
 import { AboutComponent } from './about/about.component';
 import { NotFoundComponent } from './not-found/not-found.component';
+import { BubbleComponent } from './bubble/bubble.component';
 
 import { TeamService } from './teams/team.service';
 import { SkaterService } from './skaters/skater.service';
@@ -48,6 +49,7 @@ const appRoutes: Routes = [
     TeamSkaterComponent,
     ShortPositionPipe,
     AboutComponent,
+    BubbleComponent,
   ],
   imports: [
     BrowserModule,

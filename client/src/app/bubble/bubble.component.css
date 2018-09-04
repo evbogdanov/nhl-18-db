@@ -1,0 +1,37 @@
+.bubble {
+  margin: 45px 0;
+}
+
+.bubble__section {
+  max-width: 600px;
+  text-align: right;
+  margin: 0 auto;
+}
+
+.bubble__message {
+  text-align: center;
+  background: #f2c120;
+  border-radius: 10px;
+  padding: 30px 45px;
+  position: relative;
+  font-size: 24px;
+}
+
+.bubble__arrow {
+  border-color: #f2c120 transparent transparent transparent;
+  border-style: solid;
+  border-width: 30px 0 0 30px;
+  height: 0;
+  width: 0;
+  line-height: 0;
+  display: inline-block;
+  position: relative;
+  right: 33%;
+}
+
+.bubble__my-image {
+  width: 32px;
+  height: 32px;
+  border-radius: 100%;
+  margin-right: 5px;
+}
