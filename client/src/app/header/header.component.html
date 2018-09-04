@@ -1,56 +1,58 @@
 <header class="header">
+  <div class="container">
 
-  <nav #nav
-       class="navbar navbar-light bg-light navbar-expand justify-content-center">
-    <ul class="navbar-nav">
-      <li class="nav-item" routerLinkActive="active">
-        <a class="nav-link" routerLink="/teams">Teams</a>
-      </li>
-      <li class="nav-item" routerLinkActive="active">
-        <a class="nav-link" routerLink="/skaters">Skaters</a>
-      </li>
-      <li class="nav-item" routerLinkActive="active">
-        <a class="nav-link" routerLink="/goalies">Goalies</a>
-      </li>
-      <li class="nav-item" routerLinkActive="active">
-        <a class="nav-link" routerLink="/about">About</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link nav-link-search"
-           (click)="activateSearching(nav, inp)"
-           title="Search"></a>
-      </li>
-    </ul>
-    <div class="form-inline form-search">
-      <input #inp
-             id="inp"
-             class="form-control"
-             type="text"
-             placeholder="Search"
-             (input)="getSuggestions(inp.value)"
-             (blur)="deactivateSearching(nav)">
+    <nav #nav
+         class="navbar navbar-light navbar-expand justify-content-center">
+      <ul class="navbar-nav">
+        <li class="nav-item" routerLinkActive="active">
+          <a class="nav-link" routerLink="/teams">Teams</a>
+        </li>
+        <li class="nav-item" routerLinkActive="active">
+          <a class="nav-link" routerLink="/skaters">Skaters</a>
+        </li>
+        <li class="nav-item" routerLinkActive="active">
+          <a class="nav-link" routerLink="/goalies">Goalies</a>
+        </li>
+        <li class="nav-item" routerLinkActive="active">
+          <a class="nav-link" routerLink="/about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link nav-link-search"
+             (click)="activateSearching(nav, inp)"
+             title="Search"></a>
+        </li>
+      </ul>
+      <div class="form-inline form-search">
+        <input #inp
+               id="inp"
+               class="form-control"
+               type="text"
+               placeholder="Search for teams and players"
+               (input)="getSuggestions(inp.value)"
+               (blur)="deactivateSearching(nav)">
+      </div>
+    </nav>
+
+    <div *ngIf="showLoadingIndicator"
+         class="search-msg">Searching...</div>
+
+    <div *ngIf="!showLoadingIndicator && noSuggestions"
+         class="search-msg"><strong>No results found</strong></div>
+
+    <div *ngIf="!showLoadingIndicator && !noSuggestions && suggestions.length > 0"
+         class="suggestions">
+      <ul class="suggestions__list">
+        <li *ngFor="let s of suggestions"
+            class="suggestions__item"
+            (mousedown)="clearSuggestionsAndNavigate(inp, ['/' + s.type, s.id])">
+          <img class="suggestions__item-img"
+               [alt]="s.name"
+               [src]="s.img">
+          <span class="suggestions__item-name">{{ s.name }}</span>
+          <span class="suggestions__item-type">{{ s.type }}</span>
+        </li>
+      </ul>
     </div>
-  </nav>
 
-  <div *ngIf="showLoadingIndicator"
-       class="suggestions">Searching...</div>
-
-  <div *ngIf="!showLoadingIndicator && noSuggestions"
-       class="suggestions"><strong>No results found</strong></div>
-
-  <div *ngIf="!showLoadingIndicator && !noSuggestions && suggestions.length > 0"
-       class="suggestions">
-    <ul class="suggestions__list">
-      <li *ngFor="let s of suggestions"
-          class="suggestions__item"
-          (mousedown)="clearSuggestionsAndNavigate(inp, ['/' + s.type, s.id])">
-        <img class="suggestions__item-img"
-             [alt]="s.name"
-             [src]="s.img">
-        <span class="suggestions__item-name">{{ s.name }}</span>
-        <span class="suggestions__item-type">{{ s.type }}</span>
-      </li>
-    </ul>
   </div>
-
 </header>
