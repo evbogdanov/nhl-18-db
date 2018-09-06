@@ -39,6 +39,11 @@ export class HeaderComponent implements AfterViewInit {
   }
 
   moveIndicator(nextUrl) {
+    // Fix default URL
+    if (nextUrl === '/') {
+      nextUrl = '/teams';
+    }
+
     // Space between 2 nav items
     const styles = window.getComputedStyle(this.indicatorLair.nativeElement);
     const marginLeft = parseInt(styles.marginLeft, 10);
