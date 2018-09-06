@@ -51,7 +51,8 @@ export class HeaderComponent {
     this.renderer.selectRootElement(inp).focus();
   }
 
-  deactivateSearching(nav) {
+  deactivateSearching(nav, inp) {
+    inp.value = '';
     this.renderer.removeClass(nav, 'searching');
     this.renderer.removeClass(this.shadow, 'main-shadow_activated');
     this.showLoadingIndicator = false;

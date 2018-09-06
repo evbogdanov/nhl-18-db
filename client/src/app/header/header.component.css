@@ -54,7 +54,9 @@
 
 .form-search {
   width: 100%;
+  height: 40px;
   display: none;
+  position: relative;
 }
 
 .form-control {
@@ -62,7 +64,42 @@
   height: 40px;
   border: none;
   padding: 0;
+  padding-right: 45px;
   font-size: 22px;
+}
+
+.form-search-deactivate {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  right: 0;
+  top: 0;
+  cursor: pointer;
+}
+
+.form-search-deactivate-left,
+.form-search-deactivate-right {
+  display: block;
+  height: 30px;
+  width: 2px;
+  background: #999;
+  position: absolute;
+  top: 5px;
+}
+
+.form-search-deactivate:hover .form-search-deactivate-left,
+.form-search-deactivate:hover .form-search-deactivate-right {
+  background: #666;
+}
+
+.form-search-deactivate-left {
+  left: 19px;
+  transform: rotate(-45deg);
+}
+
+.form-search-deactivate-right {
+  right: 19px;
+  transform: rotate(45deg);
 }
 
 .searching .form-search {

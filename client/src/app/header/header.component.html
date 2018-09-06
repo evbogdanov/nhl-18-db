@@ -29,7 +29,12 @@
                type="text"
                placeholder="Search for teams and players"
                (input)="getSuggestions(inp.value)"
-               (blur)="deactivateSearching(nav)">
+               (keydown.esc)="deactivateSearching(nav, inp)"
+               (blur)="deactivateSearching(nav, inp)">
+        <div class="form-search-deactivate" title="Cancel">
+          <span class="form-search-deactivate-left"></span>
+          <span class="form-search-deactivate-right"></span>
+        </div>
       </div>
     </nav>
 
