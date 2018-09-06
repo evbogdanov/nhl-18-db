@@ -14,17 +14,6 @@
   position: relative;
 }
 
-.nav-item.active::after {
-  display: block;
-  content: '';
-  height: 3px;
-  width: 100%;
-  background: rgba(0, 0, 0, .9);
-  position: absolute;
-  left: 0;
-  bottom: -10px;
-}
-
 .nav-link {
   cursor: pointer;
 }
@@ -34,7 +23,6 @@
 }
 
 .active .nav-link {
-  font-weight: 500;
   cursor: default;
 }
 
@@ -50,6 +38,20 @@
 
 .nav-link.nav-link-search:hover {
   opacity: .6;
+}
+
+.indicator-lair {
+  position: relative;
+}
+
+.indicator {
+  position: absolute;
+  height: 3px;
+  width: 0;
+  background: rgba(0, 0, 0, .9);
+  left: 0;
+  bottom: -10px;
+  transition: all .3s ease;
 }
 
 .form-search {

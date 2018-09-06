@@ -4,22 +4,23 @@
     <nav #nav
          class="navbar navbar-light navbar-expand justify-content-center">
       <ul class="navbar-nav">
-        <li class="nav-item" routerLinkActive="active">
+        <li class="nav-item" routerLinkActive="active" #navItemTeams>
           <a class="nav-link" routerLink="/teams">Teams</a>
         </li>
-        <li class="nav-item" routerLinkActive="active">
+        <li class="nav-item" routerLinkActive="active" #navItemSkaters>
           <a class="nav-link" routerLink="/skaters">Skaters</a>
         </li>
-        <li class="nav-item" routerLinkActive="active">
+        <li class="nav-item" routerLinkActive="active" #navItemGoalies>
           <a class="nav-link" routerLink="/goalies">Goalies</a>
         </li>
-        <li class="nav-item" routerLinkActive="active">
+        <li class="nav-item" routerLinkActive="active" #navItemAbout>
           <a class="nav-link" routerLink="/about">About</a>
         </li>
-        <li class="nav-item">
+        <li class="nav-item indicator-lair" #indicatorLair>
           <a class="nav-link nav-link-search"
              (click)="activateSearching(nav, inp)"
              title="Search"></a>
+          <div class="indicator" #indicator></div>
         </li>
       </ul>
       <div class="form-inline form-search">
