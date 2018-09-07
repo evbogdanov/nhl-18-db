@@ -1,14 +1,16 @@
-<li>
-  <img
-    [alt]="skater.last_name"
-    [src]="skater.img"
-    style="width: 40px; height: 40px;">
-  <a [routerLink]="['/skater', skater.nhlcom_id]">
-    {{ skater.first_name }} {{ skater.last_name }}
-  </a>
-  <span *ngIf="isForward">
-    ({{ skater.position | shortPosition }})
-  </span>
-  -
-  {{ skater.overall }}
-</li>
+<div class="row team-skater">
+  <div class="col col-10">
+    <a [routerLink]="['/skater', skater.nhlcom_id]">
+      <img
+        [alt]="skater.last_name"
+        [src]="skater.img"
+        class="team-skater__image"><span>{{ skater.first_name }} {{ skater.last_name }}</span></a>
+    <span class="team-skater__position" *ngIf="isForward">
+      {{ skater.position | shortPosition }}
+    </span>
+  </div>
+
+  <div class="col col-2 team-skater__rating">
+    <span class="team-skater__overall">{{ skater.overall }}</span>
+  </div>
+</div>

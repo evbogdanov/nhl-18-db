@@ -1,12 +1,18 @@
-<p *ngIf="team === null">
-  No team
+<p *ngIf="teamNotFound">
+  Team not found
 </p>
 
-<div class="row" *ngIf="team !== null">
-  <div class="col-sm-4 info-rows">
-    <img [alt]="team.name"
-         [src]="team.img"
-         class="team-image">
+<p *ngIf="!teamNotFound && team === null">
+  Loading...
+</p>
+
+<div class="row" *ngIf="!teamNotFound && team !== null">
+  <div class="col-md-4 order-md-2 team">
+    <div class="team__image-wrapper">
+      <img [alt]="team.name"
+           [src]="team.img"
+           class="team__image">
+    </div>
     <h1>{{ team.name }}</h1>
     <h6>{{ team.country.name }}</h6>
     <hr>
@@ -32,25 +38,36 @@
       <div class="col">{{ team.goalies_rating }}</div>
     </div>
   </div>
-  <div class="col-sm-8">
+
+  <div class="col-md-8 order-md-1">
     <div *ngIf="!team.is_active" class="alert alert-danger">
       The team is inactive
     </div>
     <div *ngIf="team.is_active">
       <h3>Forwards</h3>
-      <ul>
-        <app-team-skater *ngFor="let skater of forwards"
-                         [skater]="skater"
-                         [isForward]="true">
-        </app-team-skater>
+      <ul class="list-group" *ngIf="skaters.length === 0">
+        <li class="list-group-item">Loading...</li>
+      </ul>
+      <ul class="list-group list-skaters" *ngIf="skaters.length > 0">
+        <li class="list-group-item" *ngFor="let skater of forwards">
+          <app-team-skater
+            [skater]="skater"
+            [isForward]="true"></app-team-skater>
+        </li>
       </ul>
       <h3>Defensemen</h3>
-      <ul>
-        <app-team-skater *ngFor="let skater of defensemen"
-                         [skater]="skater"
-                         [isForward]="false">
-        </app-team-skater>
+      <ul class="list-group" *ngIf="skaters.length === 0">
+        <li class="list-group-item">Loading...</li>
       </ul>
-    </div>    
+      <ul class="list-group list-skaters" *ngIf="skaters.length > 0">
+        <li class="list-group-item" *ngFor="let skater of defensemen">
+        <app-team-skater
+          [skater]="skater"
+          [isForward]="false"></app-team-skater>
+        </li>
+      </ul>
+    </div>
   </div>
+
 </div>
+

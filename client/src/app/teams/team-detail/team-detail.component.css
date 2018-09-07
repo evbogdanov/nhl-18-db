@@ -1,6 +1,27 @@
-img {
-  width: 100%;
-  max-width: 336px;
-  max-height: 336px;
-  margin-bottom: 10px;
+.team {
+  margin-bottom: 40px;
+}
+
+.team__image-wrapper {
+  text-align: center;
+}
+
+.team__image {
+  width: 85%;
+  margin-bottom: 20px;
+}
+
+@media (min-width: 576px) {
+  .team__image {
+    width: 95%;
+    margin-bottom: 10px;
+  }
+}
+
+.team .row {
+  margin-bottom: 8px;
+}
+
+.list-skaters {
+  margin-bottom: 30px;
 }

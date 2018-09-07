@@ -12,6 +12,7 @@ import { SkaterService } from '../../skaters/skater.service';
   styleUrls: ['./team-detail.component.css']
 })
 export class TeamDetailComponent implements OnInit {
+  teamNotFound: boolean = false;
   team: Team | null = null;
   skaters: Skater[] = [];
 
@@ -26,7 +27,12 @@ export class TeamDetailComponent implements OnInit {
     this.route.paramMap.subscribe((params: ParamMap) => {
       const abbrev = params.get('abbrev');
       this.teamService.getTeam(abbrev)
-        .subscribe(team => this.team = team);
+        .subscribe(team => {
+          if (team === null) {
+            this.teamNotFound = true;
+          }
+          this.team = team;
+        });
       this.skaterService.searchSkaters({'team_abbrev': abbrev})
         .subscribe(skaters => this.skaters = skaters);
     });
