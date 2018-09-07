@@ -6,21 +6,11 @@
     <div class="row">
       <div class="col-6">
         <h6>Pacific Division</h6>
-        <ul>
-          <app-team
-            *ngFor="let team of pacificTeams"
-            [team]="team"
-          ></app-team>
-        </ul>
+        <app-teams-list [teams]="pacificTeams"></app-teams-list>
       </div>
       <div class="col-6">
         <h6>Central Division</h6>
-        <ul>
-          <app-team
-            *ngFor="let team of centralTeams"
-            [team]="team"
-          ></app-team>
-        </ul>
+        <app-teams-list [teams]="centralTeams"></app-teams-list>
       </div>
     </div>
   </div>
@@ -29,21 +19,11 @@
     <div class="row">
       <div class="col-6">
         <h6>Metropolitan Division</h6>
-        <ul>
-          <app-team
-            *ngFor="let team of metropolitanTeams"
-            [team]="team"
-          ></app-team>
-        </ul>
+        <app-teams-list [teams]="metropolitanTeams"></app-teams-list>
       </div>
       <div class="col-6">
         <h6>Atlantic Division</h6>
-        <ul>
-          <app-team
-            *ngFor="let team of atlanticTeams"
-            [team]="team"
-          ></app-team>
-        </ul>
+        <app-teams-list [teams]="atlanticTeams"></app-teams-list>
       </div>
     </div>
   </div>

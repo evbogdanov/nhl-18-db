@@ -7,6 +7,8 @@ import { HttpClientModule } from '@angular/common/http';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import { TeamsComponent } from './teams/teams.component';
+import { TeamsListComponent } from './teams/teams-list/teams-list.component';
+import { TeamsListSkelComponent } from './teams/teams-list-skel/teams-list-skel.component';
 import { TeamComponent } from './teams/team/team.component';
 import { TeamDetailComponent } from './teams/team-detail/team-detail.component';
 import { TeamSkaterComponent } from './teams/team-skater/team-skater.component';
@@ -40,6 +42,8 @@ const appRoutes: Routes = [
     AppComponent,
     HeaderComponent,
     TeamsComponent,
+    TeamsListComponent,
+    TeamsListSkelComponent,
     SkatersComponent,
     GoaliesComponent,
     TeamComponent,

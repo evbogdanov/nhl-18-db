@@ -1,0 +1,17 @@
+.skel {
+  width: 100%;
+  height: 30px;
+  background: rgba(0, 0, 0, .05);
+  border-radius: 3px;
+  position: relative;
+  overflow: hidden;
+}
+
+.skel__glow {
+  position: absolute;
+  height: 30px;
+  width: 30px;
+  background: rgba(255, 255, 255, .1);
+  top: 0;
+  left: -30px;
+}

@@ -1,0 +1,13 @@
+<ul *ngIf="teams.length === 0">
+  <li><app-teams-list-skel></app-teams-list-skel></li>
+  <li><app-teams-list-skel></app-teams-list-skel></li>
+  <li><app-teams-list-skel></app-teams-list-skel></li>
+  <li><app-teams-list-skel></app-teams-list-skel></li>
+</ul>
+
+<ul *ngIf="teams.length > 0">
+  <app-team
+    *ngFor="let team of teams"
+    [team]="team"
+  ></app-team>
+</ul>
