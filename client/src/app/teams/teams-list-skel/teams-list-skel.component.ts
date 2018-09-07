@@ -11,7 +11,7 @@ export class TeamsListSkelComponent implements AfterViewInit, OnDestroy {
   glowPosition = 'left';
 
   @ViewChild('glow') glow;
-  
+
   constructor(private renderer: Renderer2) { }
 
   tick() {
