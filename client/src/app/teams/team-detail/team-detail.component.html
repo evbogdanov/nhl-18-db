@@ -14,7 +14,11 @@
            class="team__image">
     </div>
     <h1>{{ team.name }}</h1>
-    <h6>{{ team.country.name }}</h6>
+    <h6>
+      <span>{{ team.country.name }}</span>
+      <span *ngIf="team.country.abbrev === 'can'">🇨🇦</span>
+      <span *ngIf="team.country.abbrev === 'usa'">🇺🇸</span>
+    </h6>
     <hr>
     <div class="row">
       <div class="col">Conference</div>
