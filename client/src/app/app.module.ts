@@ -11,8 +11,9 @@ import { TeamsListComponent } from './teams/teams-list/teams-list.component';
 import { TeamsListSkelComponent } from './teams/teams-list-skel/teams-list-skel.component';
 import { TeamComponent } from './teams/team/team.component';
 import { TeamDetailComponent } from './teams/team-detail/team-detail.component';
-import { TeamSkaterComponent } from './teams/team-skater/team-skater.component';
 import { SkatersComponent } from './skaters/skaters.component';
+import { SkatersListComponent } from './skaters/skaters-list/skaters-list.component';
+import { SkaterListItemComponent } from './skaters/skater-list-item/skater-list-item.component';
 import { SkaterDetailComponent } from './skaters/skater-detail/skater-detail.component';
 import { GoaliesComponent } from './goalies/goalies.component';
 import { AboutComponent } from './about/about.component';
@@ -24,7 +25,6 @@ import { SkaterService } from './skaters/skater.service';
 import { SuggestionService } from './suggestions/suggestion.service';
 
 import { ShortPositionPipe } from './players/short-position.pipe';
-
 
 const appRoutes: Routes = [
   {path: '', redirectTo: '/teams', pathMatch: 'full'},
@@ -50,10 +50,11 @@ const appRoutes: Routes = [
     TeamDetailComponent,
     NotFoundComponent,
     SkaterDetailComponent,
-    TeamSkaterComponent,
     ShortPositionPipe,
     AboutComponent,
     BubbleComponent,
+    SkatersListComponent,
+    SkaterListItemComponent,
   ],
   imports: [
     BrowserModule,

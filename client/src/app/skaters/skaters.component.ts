@@ -20,6 +20,12 @@ export class SkatersComponent implements OnInit {
   
   ngOnInit() {
     this.buildForm();
+    this.searchAndUpdateSkaters();
+  }
+
+  searchAndUpdateSkaters(query = {}) {
+    this.skaterService.searchSkaters(query)
+      .subscribe(skaters => this.skaters = skaters);
   }
 
   buildForm() {
@@ -31,8 +37,7 @@ export class SkatersComponent implements OnInit {
   onSubmit() {
     this.searched = true;
     const query = this.searchForm.value;
-    this.skaterService.searchSkaters(query)
-      .subscribe(skaters => this.skaters = skaters);
+    this.searchAndUpdateSkaters(query);
   }
 
   onReset() {

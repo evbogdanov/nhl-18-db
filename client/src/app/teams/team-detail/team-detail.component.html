@@ -50,26 +50,16 @@
     <div *ngIf="team.is_active">
       <h3>Forwards</h3>
       <ul class="list-group" *ngIf="skaters.length === 0">
-        <li class="list-group-item">Loading...</li>
+        <li class="list-group-item">Loading forwards...</li>
       </ul>
-      <ul class="list-group list-skaters" *ngIf="skaters.length > 0">
-        <li class="list-group-item" *ngFor="let skater of forwards">
-          <app-team-skater
-            [skater]="skater"
-            [isForward]="true"></app-team-skater>
-        </li>
-      </ul>
+      <app-skaters-list *ngIf="skaters.length > 0"
+                        [skaters]="forwards"></app-skaters-list>
       <h3>Defensemen</h3>
       <ul class="list-group" *ngIf="skaters.length === 0">
-        <li class="list-group-item">Loading...</li>
+        <li class="list-group-item">Loading defensemen...</li>
       </ul>
-      <ul class="list-group list-skaters" *ngIf="skaters.length > 0">
-        <li class="list-group-item" *ngFor="let skater of defensemen">
-        <app-team-skater
-          [skater]="skater"
-          [isForward]="false"></app-team-skater>
-        </li>
-      </ul>
+      <app-skaters-list *ngIf="skaters.length > 0"
+                        [skaters]="defensemen"></app-skaters-list>
     </div>
   </div>
 
