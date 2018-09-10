@@ -31,12 +31,20 @@
   </div>
   <div class="col-md-8 order-md-1">
     <div *ngIf="skaters.length === 0; then noSkaters else showSkaters"></div>
+
     <ng-template #noSkaters>
-      <b *ngIf="searched">No skaters</b>
+      <ul class="list-group" *ngIf="skaters.length === 0">
+        <li class="list-group-item">
+          <span *ngIf="isSearching">Searching...</span>
+          <b *ngIf="!isSearching">No skaters found</b>
+        </li>
+      </ul>
     </ng-template>
+
     <ng-template #showSkaters>
       <app-skaters-list *ngIf="skaters.length > 0"
                         [skaters]="skaters"></app-skaters-list>
     </ng-template>
+
   </div>
 </div>
