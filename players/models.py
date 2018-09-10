@@ -465,7 +465,7 @@ class Skater(Player):
             options.append({'value': age, 'label': age})
         return {
             'name': f'age_{which}',
-            'label': f'Age {which}',
+            'label': f'Age {which.capitalize()}',
             'type': 'select',
             'options': options,
         }
@@ -491,20 +491,20 @@ class Skater(Player):
                 'label': 'Name',
                 'type': 'text',
             },
-            cls.make_form_field_country_or_team('country'),
-            cls.make_form_field_country_or_team('team'),
             cls.make_form_field_age('from'),
             cls.make_form_field_age('to'),
+            cls.make_form_field_country_or_team('country'),
+            cls.make_form_field_country_or_team('team'),
             cls.make_form_field_choices('position', cls.POSITION_CHOICES),
-            cls.make_form_field_choices('type', cls.TYPE_CHOICES),
-            cls.make_form_field_choices('shoots', cls.SHOOTS_CHOICES),
         ]
 
         # Default option for <select>
         for field in form_fields:
             if field['type'] == 'select':
                 default_option = {'value': None,
-                                  'label': f"- {field['label']} -"}
+                                  'label': ''}
+                if field['name'] == 'age_from' or field['name'] == 'age_to':
+                    default_option['label'] = field['label'][4:]
                 field['options'].insert(0, default_option)
 
         return form_fields
