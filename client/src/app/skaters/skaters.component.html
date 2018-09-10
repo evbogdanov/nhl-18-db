@@ -48,6 +48,20 @@
     <ng-template #showSkaters>
       <app-skaters-list *ngIf="skaters.length > 0"
                         [skaters]="skaters"></app-skaters-list>
+      <nav *ngIf="pagination !== null && pagination.pages > 1"
+           aria-label="Pagination"
+           class="skaters-pagination">
+        <ul class="pagination skaters-pagination__pagination">
+          <li *ngFor="let _page of pagesAsArray; let pageIndex = index"
+              class="page-item"
+              [ngClass]="{'active': pageIndex === pagination.page }">
+            <span class="page-link"
+                  (click)="gotoPage(pageIndex)">
+              {{ pageIndex+1 }}
+            </span>
+          </li>
+        </ul>
+      </nav>
     </ng-template>
 
   </div>

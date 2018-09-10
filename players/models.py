@@ -375,10 +375,35 @@ class Skater(Player):
     @classmethod
     def order_by(cls, q, skaters):
         field = q.get('order_by')
+        sorting_field = '-overall'
         if field in cls.get_fields():
             desc = '' if q.get('desc') is None else '-'
-            return skaters.order_by(f'{desc}{field}')
-        return skaters.order_by('-overall')
+            sorting_field = f'{desc}{field}'
+        return skaters.order_by(sorting_field, 'first_name', 'last_name')
+
+    @classmethod
+    def get_pagination(cls, q, counter):
+        """Return pagination info"""
+        per_page = 80
+
+        try:
+            page = int(q.get('page'))
+            if page < 0:
+                page = 0
+        except (ValueError, TypeError):
+            page = 0
+
+        pages = counter // per_page
+        if counter % per_page != 0:
+            pages += 1
+
+        return {
+            'start': page * per_page,
+            'end': (page+1) * per_page,
+            'per_page': per_page,
+            'pages': pages,
+            'page': page,
+        }
 
     @classmethod
     def search(cls, q):
@@ -398,10 +423,16 @@ class Skater(Player):
 
         skaters = cls.objects.filter(**f) & (cls.filter_by_name(q))
         skaters = cls.order_by(q, skaters)
-        # TODO: pagination
-        skaters = skaters[:50]
 
-        return [s.json for s in skaters]
+        # Pagination
+        counter = skaters.count()
+        pagination = cls.get_pagination(q, counter)
+
+        skaters = skaters[pagination['start']:pagination['end']]
+        return {
+            'skaters': [s.json for s in skaters],
+            'pagination': pagination,
+        }
 
     def as_dict(self):
         di = self.__dict__

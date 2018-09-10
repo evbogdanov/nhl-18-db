@@ -9,3 +9,8 @@
 .skaters-form__control {
   background: #fafafa;
 }
+
+.skaters-pagination__pagination {
+  justify-content: center;
+  margin-bottom: 30px;
+}

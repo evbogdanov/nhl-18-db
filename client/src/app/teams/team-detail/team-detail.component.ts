@@ -34,7 +34,7 @@ export class TeamDetailComponent implements OnInit {
           this.team = team;
         });
       this.skaterService.searchSkaters({'team_abbrev': abbrev})
-        .subscribe(skaters => this.skaters = skaters);
+        .subscribe(skatersResponse => this.skaters = skatersResponse.skaters);
     });
   }
 

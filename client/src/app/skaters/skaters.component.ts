@@ -2,7 +2,8 @@ import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormControl, FormGroup } from '@angular/forms';
 import { FORM_FIELDS } from './skaters.form';
 import { Skater } from './skater.model';
-import { SkaterService } from './skater.service';
+import { SkaterService, SkatersPagination } from './skater.service';
+
 
 @Component({
   selector: 'app-skaters',
@@ -12,23 +13,27 @@ import { SkaterService } from './skater.service';
 export class SkatersComponent implements OnInit {
   formFields = FORM_FIELDS;
   searchForm: FormGroup;
-  skaters: Skater[] = [];
   isSearching: boolean = false;
+  skaters: Skater[] = [];
+  pagination: null | SkatersPagination;
 
   constructor(private fb: FormBuilder,
               private skaterService: SkaterService) {}
-  
+
   ngOnInit() {
     this.buildForm();
-    this.searchAndUpdateSkaters();
+    this.search({page: 0});
   }
 
-  searchAndUpdateSkaters(query = {}) {
+  search(query) {
     this.isSearching = true;
+    this.skaters = [];
+    this.pagination = null;
     this.skaterService.searchSkaters(query)
-      .subscribe(skaters => {
+      .subscribe(skatersResponse => {
         this.isSearching = false;
-        this.skaters = skaters;
+        this.skaters = skatersResponse.skaters;
+        this.pagination = skatersResponse.pagination;
       });
   }
 
@@ -38,13 +43,27 @@ export class SkatersComponent implements OnInit {
     this.searchForm = this.fb.group(formObject);
   }
 
-  onSubmit() {
-    const query = this.searchForm.value;
-    this.searchAndUpdateSkaters(query);
-  }
-
   onReset() {
     this.searchForm.reset();
+  }
+
+  onSubmit() {
+    const query = this.searchForm.value;
+    query.page = 0;
+    this.search(query);
+  }
+
+  gotoPage(page) {
+    const query = this.searchForm.value;
+    query.page = page;
+    this.search(query);
+  }
+
+  get pagesAsArray() {
+    if (this.pagination === null) {
+      return []
+    }
+    return new Array(this.pagination.pages).fill(0);
   }
 
 }
