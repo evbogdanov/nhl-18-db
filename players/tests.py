@@ -64,63 +64,69 @@ class SkaterTestCase(TestCase):
 
     def test_search_default_ordering(self):
         """Skaters are sorted by overall rating""" 
-        skaters = Skater.search({})
+        skaters = Skater.search({})['skaters']
         self.assertEqual(skaters[0]['last_name'], 'Crosby')
         self.assertEqual(skaters[-1]['last_name'], 'Sprong')
 
     def test_search_custom_ordering(self):
         """Skaters can be ordered by custom field"""
-        skaters = Skater.search({'order_by': 'faceoffs'})
+        skaters = Skater.search({'order_by': 'faceoffs'})['skaters']
         self.assertEqual(skaters[0]['faceoffs'], 50)
         self.assertEqual(skaters[-1]['faceoffs'], 80)
 
     def test_search_custom_ordering_descending(self):
         """Search and sort skaters in reversed order"""
-        skaters = Skater.search({'order_by': 'faceoffs', 'desc': True})
+        skaters = Skater.search({'order_by': 'faceoffs', 'desc': True})['skaters']
         self.assertEqual(skaters[0]['faceoffs'], 80)
         self.assertEqual(skaters[-1]['faceoffs'], 50)
 
     def test_search_by_country(self):
         """Skaters are searchable by country"""
-        malkin = Skater.search({'country_abbrev': 'rus'})[0]
+        skaters = Skater.search({'country_abbrev': 'rus'})['skaters']
+        malkin = skaters[0]
         self.assertEqual(malkin['number'], 71)
 
     def test_search_by_team(self):
         """Skaters are searchable by team"""
-        self.assertEqual(len(Skater.search({'team_abbrev': 'pit'})), self.N_PENGUINS)
-        self.assertEqual(len(Skater.search({'team_abbrev': 'wtf'})), 0)
+        penguins = Skater.search({'team_abbrev': 'pit'})['skaters']
+        no_team = Skater.search({'team_abbrev': 'wtf'})['skaters']
+        self.assertEqual(len(penguins), self.N_PENGUINS)
+        self.assertEqual(len(no_team), 0)
 
     def test_search_by_first_name(self):
         """Search skaters by first name"""
-        self.assertEqual(Skater.search({'name': 'evge'})[0]['first_name'], 'Evgeni')
+        malkin = Skater.search({'name': 'evge'})['skaters'][0]
+        self.assertEqual(malkin['first_name'], 'Evgeni')
 
     def test_search_by_last_name(self):
         """Search skaters by last name"""
-        self.assertEqual(Skater.search({'name': 'malk'})[0]['last_name'], 'Malkin')
+        malkin = Skater.search({'name': 'malk'})['skaters'][0]
+        self.assertEqual(malkin['last_name'], 'Malkin')
 
     def test_search_by_full_name(self):
         """Search skaters by full first_name and partial last_name"""
-        self.assertEqual(Skater.search({'name': 'evgeni ma'})[0]['last_name'], 'Malkin')
+        malkin = Skater.search({'name': 'evgeni ma'})['skaters'][0]
+        self.assertEqual(malkin['last_name'], 'Malkin')
 
     def test_search_by_age(self):
         """Search skaters by age"""
-        skaters = Skater.search({'age_from': 30, 'age_to': 30})
+        skaters = Skater.search({'age_from': 30, 'age_to': 30})['skaters']
         self.assertEqual(skaters[0]['age'], 30)
         self.assertEqual(skaters[-1]['age'], 30)
 
     def test_search_by_something_exact(self):
         """Search skaters by some exact fields"""
-        skaters = Skater.search({'position': 'rw', 'type': 'grn', 'shoots': 'r'})
+        skaters = Skater.search({'position': 'rw', 'type': 'grn', 'shoots': 'r'})['skaters']
         self.assertEqual(skaters[0]['last_name'], 'Reaves')
         self.assertEqual(skaters[-1]['last_name'], 'Reaves')
 
     def test_search_by_something_in_range(self):
         """Search skaters by something in range"""
         ## Potential
-        skaters = Skater.search({'potential_from': 4, 'potential_to': 4})
+        skaters = Skater.search({'potential_from': 4, 'potential_to': 4})['skaters']
         self.assertEqual(skaters[0]['number'], 87)
         self.assertEqual(skaters[-1]['number'], 71)
         ## Acceleration
-        skaters = Skater.search({'acceleration_from': 90})
+        skaters = Skater.search({'acceleration_from': 90})['skaters']
         self.assertEqual(skaters[0]['last_name'], 'Crosby')
         self.assertEqual(skaters[-1]['last_name'], 'Kessel')
