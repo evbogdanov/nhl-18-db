@@ -15,6 +15,7 @@ import { SkatersComponent } from './skaters/skaters.component';
 import { SkatersListComponent } from './skaters/skaters-list/skaters-list.component';
 import { SkaterListItemComponent } from './skaters/skater-list-item/skater-list-item.component';
 import { SkaterDetailComponent } from './skaters/skater-detail/skater-detail.component';
+import { SkaterModalComponent } from './skaters/skater-modal/skater-modal.component';
 import { GoaliesComponent } from './goalies/goalies.component';
 import { AboutComponent } from './about/about.component';
 import { NotFoundComponent } from './not-found/not-found.component';
@@ -22,9 +23,11 @@ import { BubbleComponent } from './bubble/bubble.component';
 
 import { TeamService } from './teams/team.service';
 import { SkaterService } from './skaters/skater.service';
+import { SkaterModalService } from './skaters/skater-modal.service';
 import { SuggestionService } from './suggestions/suggestion.service';
 
 import { ShortPositionPipe } from './players/short-position.pipe';
+
 
 const appRoutes: Routes = [
   {path: '', redirectTo: '/teams', pathMatch: 'full'},
@@ -55,6 +58,7 @@ const appRoutes: Routes = [
     BubbleComponent,
     SkatersListComponent,
     SkaterListItemComponent,
+    SkaterModalComponent,
   ],
   imports: [
     BrowserModule,
@@ -65,6 +69,7 @@ const appRoutes: Routes = [
   providers: [
     TeamService,
     SkaterService,
+    SkaterModalService,
     SuggestionService,
   ],
   bootstrap: [AppComponent]

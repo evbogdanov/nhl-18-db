@@ -1,0 +1,13 @@
+.modal {
+  display: block;
+  overflow-x: hidden;
+  overflow-y: auto;
+  background-color: rgba(255, 255, 255, .98);
+}
+
+@media (min-width: 768px) {
+  .modal-dialog {
+    max-width: 720px;
+    margin: 1.75rem auto;
+  }
+}

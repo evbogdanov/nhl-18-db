@@ -1,6 +1,7 @@
 <div class="row skater-list-item">
   <div class="col col-10">
-    <a [routerLink]="['/skater', skater.nhlcom_id]">
+    <a [href]="'/skater/' + skater.nhlcom_id"
+       (click)="onClick($event)">
       <img
         [alt]="skater.last_name"
         [src]="skater.img"
