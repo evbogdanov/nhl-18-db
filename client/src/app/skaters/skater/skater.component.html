@@ -1,0 +1,5 @@
+<p *ngIf="isLoading">
+  Loading...
+</p>
+<app-skater-detail *ngIf="!isLoading"
+                   [skater]="skater"></app-skater-detail>

@@ -52,7 +52,8 @@
     <div class="row">
       <div class="col">Team</div>
       <div class="col">
-        <a [routerLink]="['/team', skater.team.abbrev]">{{ skater.team.name }}</a>
+        <a [routerLink]="['/team', skater.team.abbrev]"
+           (click)="onTeamClick()">{{ skater.team.name }}</a>
       </div>
     </div>
     <div class="row">
@@ -64,7 +65,8 @@
       <div class="row">
         <div class="col">Draft Team</div>
         <div class="col">
-          <a [routerLink]="['/team', skater.draft_team.abbrev]">{{ skater.draft_team.name }}</a>
+          <a [routerLink]="['/team', skater.draft_team.abbrev]"
+             (click)="onTeamClick()">{{ skater.draft_team.name }}</a>
         </div>
       </div>
       <div class="row">

@@ -1,7 +1,6 @@
-import { Component, OnInit } from '@angular/core';
-import { Router, ActivatedRoute, ParamMap } from '@angular/router';
+import { Component, OnInit, Input } from '@angular/core';
 import { Skater } from '../skater.model';
-import { SkaterService } from '../skater.service';
+import { SkaterModalService } from '../skater-modal.service';
 
 
 @Component({
@@ -10,20 +9,16 @@ import { SkaterService } from '../skater.service';
   styleUrls: ['./skater-detail.component.css']
 })
 export class SkaterDetailComponent implements OnInit {
-  skater: Skater | null = null;
+  @Input() skater: null|Skater;
 
-  constructor(
-    private route: ActivatedRoute,
-    private router: Router,
-    private skaterService: SkaterService
-  ) {}
+  constructor(private skaterModalService: SkaterModalService) { }
 
-  ngOnInit() { 
-    this.route.paramMap.subscribe((params: ParamMap) => {
-      const nhlcom_id = params.get('nhlcom_id');
-      this.skaterService.getSkater(nhlcom_id)
-        .subscribe(skater => this.skater = skater);
-    });
+  ngOnInit() {
+  }
+
+  onTeamClick() {
+    // Close modal by setting its skater to null
+    this.skaterModalService.changeSkater(null);
   }
 
 }

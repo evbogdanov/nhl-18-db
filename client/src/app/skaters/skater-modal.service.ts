@@ -11,7 +11,7 @@ export class SkaterModalService {
 
   constructor() { }
 
-  changeSkater(skater: Skater) {
+  changeSkater(skater: null|Skater) {
     this.skaterSource.next(skater);
   }
 

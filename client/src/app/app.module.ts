@@ -12,6 +12,7 @@ import { TeamsListSkelComponent } from './teams/teams-list-skel/teams-list-skel.
 import { TeamComponent } from './teams/team/team.component';
 import { TeamDetailComponent } from './teams/team-detail/team-detail.component';
 import { SkatersComponent } from './skaters/skaters.component';
+import { SkaterComponent } from './skaters/skater/skater.component';
 import { SkatersListComponent } from './skaters/skaters-list/skaters-list.component';
 import { SkaterListItemComponent } from './skaters/skater-list-item/skater-list-item.component';
 import { SkaterDetailComponent } from './skaters/skater-detail/skater-detail.component';
@@ -34,7 +35,7 @@ const appRoutes: Routes = [
   {path: 'teams', component: TeamsComponent},
   {path: 'team/:abbrev', component: TeamDetailComponent},
   {path: 'skaters', component: SkatersComponent},
-  {path: 'skater/:nhlcom_id', component: SkaterDetailComponent},
+  {path: 'skater/:nhlcom_id', component: SkaterComponent},
   {path: 'goalies', component: GoaliesComponent},
   {path: 'about', component: AboutComponent},
   {path: '**', component: NotFoundComponent},
@@ -48,6 +49,7 @@ const appRoutes: Routes = [
     TeamsListComponent,
     TeamsListSkelComponent,
     SkatersComponent,
+    SkaterComponent,
     GoaliesComponent,
     TeamComponent,
     TeamDetailComponent,
