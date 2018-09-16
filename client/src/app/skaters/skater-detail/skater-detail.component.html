@@ -3,7 +3,8 @@
 </p>
 
 <div class="row" *ngIf="skater !== null">
-  <div class="col-md-4 info-rows">
+
+  <div class="col-md-4 skater-detail">
     <div class="skater-card">
       <div class="skater-overall">
         <span>{{ skater.overall }}</span>
@@ -38,7 +39,7 @@
     <hr>
     <div class="row">
       <div class="col">Salary</div>
-      <div class="col">{{ skater.salary }} million USD</div>
+      <div class="col">${{ skater.salary }} million</div>
     </div>
     <div class="row">
       <div class="col">Years Left</div>
@@ -83,6 +84,7 @@
       </div>
     </div>
   </div>
+
   <div class="col-md-8">
     <div class="row">
       <div class="col">

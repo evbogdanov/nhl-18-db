@@ -2,8 +2,11 @@
      class="modal fade show"
      tabindex="-1"
      role="dialog"
-     aria-labelledby="Modal">
-  <div class="modal-dialog" role="document">
+     aria-labelledby="Modal"
+     (click)="onClose()">
+  <div class="modal-dialog"
+       role="document"
+       (click)="$event.stopPropagation()">
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="modal-title">Skater</h5>

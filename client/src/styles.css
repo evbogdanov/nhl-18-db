@@ -10,11 +10,3 @@ ul {
 .form-control:focus {
   box-shadow: none;
 }
-
-.info-rows {
-  margin-bottom: 40px;
-}
-
-.info-rows .row {
-  margin-bottom: 8px;
-}
