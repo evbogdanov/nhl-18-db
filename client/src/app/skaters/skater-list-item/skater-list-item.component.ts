@@ -16,22 +16,6 @@ export class SkaterListItemComponent implements OnInit {
   ngOnInit() {
   }
 
-  get ratingColorClass() {
-    const rating = this.skater.overall;
-    return {
-      'skater-list-item__overall-indicator_bg_green': rating >= 80,
-      'skater-list-item__overall-indicator_bg_yellow': rating < 80,
-    };
-  }
-
-  get ratingStyle() {
-    const rating = this.skater.overall;
-    const ratingHalf = 50;
-    const ratingToDegRatio = 3.6;
-    const degs = (rating - ratingHalf) * ratingToDegRatio;
-    return {'transform': `rotate(${degs}deg)`};
-  }
-
   onClick(event) {
     event.preventDefault();
     this.skaterModalService.changeSkater(this.skater);

@@ -10,18 +10,9 @@
       {{ skater.position | shortPosition }}
     </span>
   </div>
-
   <div class="col col-2 skater-list-item__rating">
-    <div class="skater-list-item__overall">
-      <span>{{ skater.overall }}</span>
-      <div class="skater-list-item__overall-indicator
-                  skater-list-item__overall-indicator-first"
-           [ngClass]="ratingColorClass">
-        <div class="skater-list-item__overall-indicator
-                    skater-list-item__overall-indicator-second"
-             [ngClass]="ratingColorClass"
-             [ngStyle]="ratingStyle"></div>
-      </div>
-    </div>
+    <app-skater-rating
+      [rating]="skater.overall"
+      [isLarge]="false"></app-skater-rating>
   </div>
 </div>

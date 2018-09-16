@@ -17,6 +17,7 @@ import { SkatersListComponent } from './skaters/skaters-list/skaters-list.compon
 import { SkaterListItemComponent } from './skaters/skater-list-item/skater-list-item.component';
 import { SkaterDetailComponent } from './skaters/skater-detail/skater-detail.component';
 import { SkaterModalComponent } from './skaters/skater-modal/skater-modal.component';
+import { SkaterRatingComponent } from './skaters/skater-rating/skater-rating.component';
 import { GoaliesComponent } from './goalies/goalies.component';
 import { AboutComponent } from './about/about.component';
 import { NotFoundComponent } from './not-found/not-found.component';
@@ -61,6 +62,7 @@ const appRoutes: Routes = [
     SkatersListComponent,
     SkaterListItemComponent,
     SkaterModalComponent,
+    SkaterRatingComponent,
   ],
   imports: [
     BrowserModule,

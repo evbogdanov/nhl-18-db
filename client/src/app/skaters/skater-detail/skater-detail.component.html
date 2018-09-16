@@ -3,14 +3,13 @@
 </p>
 
 <div class="row" *ngIf="skater !== null">
-
   <div class="col-md-4 skater-detail">
-    <div class="skater-card">
-      <div class="skater-overall">
-        <span>{{ skater.overall }}</span>
-        <span class="skater-overall-text" title="Overall rating">OVR</span>
+    <div class="skater-detail__head">
+      <div class="skater-detail__rating">
+        <app-skater-rating [rating]="skater.overall"
+                           [isLarge]="true"></app-skater-rating>
       </div>
-      <img class="skater-image"
+      <img class="skater-detail__image"
            [src]="skater.img">
     </div>
     <h1>{{ skater.first_name}} {{ skater.last_name }}</h1>
@@ -18,135 +17,245 @@
     <hr>
     <div class="row">
       <div class="col">Potential</div>
-      <div class="col">{{ skater.potential }}</div>
+      <div class="col skater-detail__value">{{ skater.potential }}</div>
     </div>
     <div class="row">
       <div class="col">Age</div>
-      <div class="col">{{ skater.age }}</div>
+      <div class="col skater-detail__value">{{ skater.age }}</div>
     </div>
     <div class="row">
       <div class="col">Shoots</div>
-      <div class="col">{{ skater.shoots }}</div>
+      <div class="col skater-detail__value">{{ skater.shoots }}</div>
     </div>
     <div class="row">
       <div class="col">Height</div>
-      <div class="col">{{ skater.height }} cm</div>
+      <div class="col skater-detail__value">{{ skater.height }} cm</div>
     </div>
     <div class="row">
       <div class="col">Weight</div>
-      <div class="col">{{ skater.weight }} kg</div>
+      <div class="col skater-detail__value">{{ skater.weight }} kg</div>
     </div>
     <hr>
     <div class="row">
       <div class="col">Salary</div>
-      <div class="col">${{ skater.salary }} million</div>
+      <div class="col skater-detail__value">${{ skater.salary }}M</div>
     </div>
     <div class="row">
       <div class="col">Years Left</div>
-      <div class="col">{{ skater.years_left }}</div>
+      <div class="col skater-detail__value">{{ skater.years_left }}</div>
     </div>
     <hr>
     <div class="row">
       <div class="col">Country</div>
-      <div class="col">{{ skater.country.name }}</div>
+      <div class="col skater-detail__value">{{ skater.country.name }}</div>
     </div>
     <div class="row">
       <div class="col">Team</div>
-      <div class="col">
+      <div class="col skater-detail__value">
         <a [routerLink]="['/team', skater.team.abbrev]"
            (click)="onTeamClick()">{{ skater.team.name }}</a>
       </div>
     </div>
     <div class="row">
       <div class="col">Number</div>
-      <div class="col">{{ skater.number }}</div>
+      <div class="col skater-detail__value">{{ skater.number }}</div>
     </div>
     <div *ngIf="skater.draft_team !== null">
       <hr>
       <div class="row">
         <div class="col">Draft Team</div>
-        <div class="col">
+        <div class="col skater-detail__value">
           <a [routerLink]="['/team', skater.draft_team.abbrev]"
              (click)="onTeamClick()">{{ skater.draft_team.name }}</a>
         </div>
       </div>
       <div class="row">
         <div class="col">Draft Year</div>
-        <div class="col">{{ skater.draft_year }}</div>
+        <div class="col skater-detail__value">{{ skater.draft_year }}</div>
       </div>
       <div class="row">
         <div class="col">Draft Round</div>
-        <div class="col">{{ skater.draft_round }}</div>
+        <div class="col skater-detail__value">{{ skater.draft_round }}</div>
       </div>
       <div class="row">
         <div class="col">Draft Overall</div>
-        <div class="col">{{ skater.draft_overall }}</div>
+        <div class="col skater-detail__value">{{ skater.draft_overall }}</div>
       </div>
     </div>
   </div>
 
-  <div class="col-md-8">
+  <div class="col-md-8 skater-ratings">
     <div class="row">
-      <div class="col">
-        <div class="ratings">
-          <p><b>Skills</b><span class="stars">
-            <i class="stars-rating" [ngClass]="'stars-rating-' + skater.puck_skills"></i>
-          </span></p>
-          <p><span>Deking</span><span class="float-right">{{ skater.deking }}</span></p>
-          <p><span>Hand Eye</span><span class="float-right">{{ skater.hand_eye }}</span></p>
-          <p><span>Passing</span><span class="float-right">{{ skater.passing }}</span></p>
-          <p><span>Puck Control</span><span class="float-right">{{ skater.puck_control }}</span></p>
+      <div class="col-sm-6 skater-ratings__section skater-ratings__section_left">
+        <div class="row skater-ratings__row">
+          <div class="col-5"><b>Skills</b></div>
+          <div class="col-7 skater-ratings__stars-wrapper">
+            <span class="skater-ratings__stars">
+              <i class="skater-ratings__stars-rating"
+                 [ngClass]="'skater-ratings__stars-rating-' + skater.puck_skills"></i>
+            </span>
+          </div>
         </div>
-        <div class="ratings">
-          <p><b>Shooting</b><span class="stars">
-            <i class="stars-rating" [ngClass]="'stars-rating-' + skater.shooting"></i>
-          </span></p>
-          <p><span>Slap Shot Accuracy</span><span class="float-right">{{ skater.slap_shot_accuracy }}</span></p>
-          <p><span>Slap Shot Power</span><span class="float-right">{{ skater.slap_shot_power }}</span></p>
-          <p><span>Wrist Shot Accuracy</span><span class="float-right">{{ skater.wrist_shot_accuracy }}</span></p>
-          <p><span>Wrist Shot Power</span><span class="float-right">{{ skater.wrist_shot_power }}</span></p>
+        <div class="row skater-ratings__row">
+          <div class="col-9 skater-ratings__key">Deking</div>
+          <div class="col-3 skater-ratings__value">{{ skater.deking }}</div>
         </div>
-        <div class="ratings">
-          <p><b>Skating</b><span class="stars">
-            <i class="stars-rating" [ngClass]="'stars-rating-' + skater.skating"></i>
-          </span></p>
-          <p><span>Acceleration</span><span class="float-right">{{ skater.acceleration }}</span></p>
-          <p><span>Agility</span><span class="float-right">{{ skater.agility }}</span></p>
-          <p><span>Balance</span><span class="float-right">{{ skater.balance }}</span></p>
-          <p><span>Endurance</span><span class="float-right">{{ skater.endurance }}</span></p>
-          <p><span>Speed</span><span class="float-right">{{ skater.speed }}</span></p>
+        <div class="row skater-ratings__row">
+          <div class="col-9 skater-ratings__key">Hand Eye</div>
+          <div class="col-3 skater-ratings__value">{{ skater.hand_eye }}</div>
+        </div>
+        <div class="row skater-ratings__row">
+          <div class="col-9 skater-ratings__key">Passing</div>
+          <div class="col-3 skater-ratings__value">{{ skater.passing }}</div>
+        </div>
+        <div class="row skater-ratings__row">
+          <div class="col-9 skater-ratings__key">Puck Control</div>
+          <div class="col-3 skater-ratings__value">{{ skater.puck_control }}</div>
         </div>
       </div>
-      <div class="col">
-        <div class="ratings">
-          <p><b>Senses</b><span class="stars">
-            <i class="stars-rating" [ngClass]="'stars-rating-' + skater.senses"></i>
-          </span></p>
-          <p><span>Discipline</span><span class="float-right">{{ skater.discipline }}</span></p>
-          <p><span>Off. Awareness</span><span class="float-right">{{ skater.offensive_awareness }}</span></p>
-          <p><span>Poise</span><span class="float-right">{{ skater.poise }}</span></p>
-          <p>&nbsp;</p>
+      <div class="col-sm-6 skater-ratings__section skater-ratings__section_right">
+        <div class="row skater-ratings__row">
+          <div class="col-5"><b>Senses</b></div>
+          <div class="col-7 skater-ratings__stars-wrapper">
+            <span class="skater-ratings__stars">
+              <i class="skater-ratings__stars-rating"
+                 [ngClass]="'skater-ratings__stars-rating-' + skater.senses"></i>
+            </span>
+          </div>
         </div>
-        <div class="ratings">
-          <p><b>Defense</b><span class="stars">
-            <i class="stars-rating" [ngClass]="'stars-rating-' + skater.defense"></i>
-          </span></p>
-          <p><span>Def. Awareness</span><span class="float-right">{{ skater.defensive_awareness }}</span></p>
-          <p><span>Faceoffs</span><span class="float-right">{{ skater.faceoffs }}</span></p>
-          <p><span>Shot Blocking</span><span class="float-right">{{ skater.shot_blocking }}</span></p>
-          <p><span>Stick Checking</span><span class="float-right">{{ skater.stick_checking }}</span></p>
+        <div class="row skater-ratings__row">
+          <div class="col-9 skater-ratings__key">Discipline</div>
+          <div class="col-3 skater-ratings__value">{{ skater.discipline }}</div>
         </div>
-        <div class="ratings">
-          <p><b>Physical</b><span class="stars">
-            <i class="stars-rating" [ngClass]="'stars-rating-' + skater.physical"></i>
-          </span></p>
-          <p><span>Aggressiveness</span><span class="float-right">{{ skater.aggressiveness }}</span></p>
-          <p><span>Body Checking</span><span class="float-right">{{ skater.body_checking }}</span></p>
-          <p><span>Durability</span><span class="float-right">{{ skater.durability }}</span></p>
-          <p><span>Fighting Skill</span><span class="float-right">{{ skater.fighting_skill }}</span></p>
-          <p><span>Strength</span><span class="float-right">{{ skater.strength }}</span></p>
+        <div class="row skater-ratings__row">
+          <div class="col-9 skater-ratings__key">Off. Awareness</div>
+          <div class="col-3 skater-ratings__value">{{ skater.offensive_awareness }}</div>
         </div>
+        <div class="row skater-ratings__row">
+          <div class="col-9 skater-ratings__key">Poise</div>
+          <div class="col-3 skater-ratings__value">{{ skater.poise }}</div>
         </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-6 skater-ratings__section skater-ratings__section_left">
+        <div class="row skater-ratings__row">
+          <div class="col-5"><b>Shooting</b></div>
+          <div class="col-7 skater-ratings__stars-wrapper">
+            <span class="skater-ratings__stars">
+              <i class="skater-ratings__stars-rating"
+                 [ngClass]="'skater-ratings__stars-rating-' + skater.shooting"></i>
+            </span>
+          </div>
         </div>
+        <div class="row skater-ratings__row">
+          <div class="col-9 skater-ratings__key">Slap Shot Accuracy</div>
+          <div class="col-3 skater-ratings__value">{{ skater.slap_shot_accuracy }}</div>
         </div>
+        <div class="row skater-ratings__row">
+          <div class="col-9 skater-ratings__key">Slap Shot Power</div>
+          <div class="col-3 skater-ratings__value">{{ skater.slap_shot_power }}</div>
         </div>
+        <div class="row skater-ratings__row">
+          <div class="col-9 skater-ratings__key">Wrist Shot Accuracy</div>
+          <div class="col-3 skater-ratings__value">{{ skater.wrist_shot_accuracy }}</div>
+        </div>
+        <div class="row skater-ratings__row">
+          <div class="col-9 skater-ratings__key">Wrist Shot Power</div>
+          <div class="col-3 skater-ratings__value">{{ skater.wrist_shot_power }}</div>
+        </div>
+      </div>
+      <div class="col-sm-6 skater-ratings__section skater-ratings__section_right">
+        <div class="row skater-ratings__row">
+          <div class="col-5"><b>Defense</b></div>
+          <div class="col-7 skater-ratings__stars-wrapper">
+            <span class="skater-ratings__stars">
+              <i class="skater-ratings__stars-rating"
+                 [ngClass]="'skater-ratings__stars-rating-' + skater.defense"></i>
+            </span>
+          </div>
+        </div>
+        <div class="row skater-ratings__row">
+          <div class="col-9 skater-ratings__key">Def. Awareness</div>
+          <div class="col-3 skater-ratings__value">{{ skater.defensive_awareness }}</div>
+        </div>
+        <div class="row skater-ratings__row">
+          <div class="col-9 skater-ratings__key">Faceoffs</div>
+          <div class="col-3 skater-ratings__value">{{ skater.faceoffs }}</div>
+        </div>
+        <div class="row skater-ratings__row">
+          <div class="col-9 skater-ratings__key">Shot Blocking</div>
+          <div class="col-3 skater-ratings__value">{{ skater.shot_blocking }}</div>
+        </div>
+        <div class="row skater-ratings__row">
+          <div class="col-9 skater-ratings__key">Stick Checking</div>
+          <div class="col-3 skater-ratings__value">{{ skater.stick_checking }}</div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-6 skater-ratings__section skater-ratings__section_left">
+        <div class="row skater-ratings__row">
+          <div class="col-5"><b>Skating</b></div>
+          <div class="col-7 skater-ratings__stars-wrapper">
+            <span class="skater-ratings__stars">
+              <i class="skater-ratings__stars-rating"
+                 [ngClass]="'skater-ratings__stars-rating-' + skater.skating"></i>
+            </span>
+          </div>
+        </div>
+        <div class="row skater-ratings__row">
+          <div class="col-9 skater-ratings__key">Acceleration</div>
+          <div class="col-3 skater-ratings__value">{{ skater.acceleration }}</div>
+        </div>
+        <div class="row skater-ratings__row">
+          <div class="col-9 skater-ratings__key">Agility</div>
+          <div class="col-3 skater-ratings__value">{{ skater.agility }}</div>
+        </div>
+        <div class="row skater-ratings__row">
+          <div class="col-9 skater-ratings__key">Balance</div>
+          <div class="col-3 skater-ratings__value">{{ skater.balance }}</div>
+        </div>
+        <div class="row skater-ratings__row">
+          <div class="col-9 skater-ratings__key">Endurance</div>
+          <div class="col-3 skater-ratings__value">{{ skater.endurance }}</div>
+        </div>
+        <div class="row skater-ratings__row">
+          <div class="col-9 skater-ratings__key">Speed</div>
+          <div class="col-3 skater-ratings__value">{{ skater.speed }}</div>
+        </div>
+      </div>
+      <div class="col-sm-6 skater-ratings__section skater-ratings__section_right">
+        <div class="row skater-ratings__row">
+          <div class="col-5"><b>Physical</b></div>
+          <div class="col-7 skater-ratings__stars-wrapper">
+            <span class="skater-ratings__stars">
+              <i class="skater-ratings__stars-rating"
+                 [ngClass]="'skater-ratings__stars-rating-' + skater.physical"></i>
+            </span>
+          </div>
+        </div>
+        <div class="row skater-ratings__row">
+          <div class="col-9 skater-ratings__key">Aggressiveness</div>
+          <div class="col-3 skater-ratings__value">{{ skater.aggressiveness }}</div>
+        </div>
+        <div class="row skater-ratings__row">
+          <div class="col-9 skater-ratings__key">Body Checking</div>
+          <div class="col-3 skater-ratings__value">{{ skater.body_checking }}</div>
+        </div>
+        <div class="row skater-ratings__row">
+          <div class="col-9 skater-ratings__key">Durability</div>
+          <div class="col-3 skater-ratings__value">{{ skater.durability }}</div>
+        </div>
+        <div class="row skater-ratings__row">
+          <div class="col-9 skater-ratings__key">Fighting Skills</div>
+          <div class="col-3 skater-ratings__value">{{ skater.fighting_skill }}</div>
+        </div>
+        <div class="row skater-ratings__row">
+          <div class="col-9 skater-ratings__key">Strength</div>
+          <div class="col-3 skater-ratings__value">{{ skater.strength }}</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

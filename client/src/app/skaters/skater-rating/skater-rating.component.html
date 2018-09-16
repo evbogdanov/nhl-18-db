@@ -1,0 +1,12 @@
+<div class="rating"
+     [ngClass]="{'rating_large': isLarge}">
+  <span>{{ rating }}</span>
+  <div class="rating__indicator
+              rating__indicator_first"
+       [ngClass]="ratingColorClass">
+    <div class="rating__indicator
+                rating__indicator_second"
+         [ngClass]="ratingColorClass"
+         [ngStyle]="ratingStyle"></div>
+  </div>
+</div>
