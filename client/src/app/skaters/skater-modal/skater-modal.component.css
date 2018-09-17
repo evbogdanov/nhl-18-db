@@ -5,10 +5,22 @@
   background-color: rgba(255, 255, 255, .98);
 }
 
+@media (min-width: 576px) {
+  .modal-dialog {
+    max-width: 540px;
+  }
+}
+
 @media (min-width: 768px) {
   .modal-dialog {
     max-width: 740px;
     margin: 1.75rem auto;
+  }
+}
+
+@media (min-width: 992px) {
+  .modal-dialog {
+    max-width: 940px;
   }
 }
 

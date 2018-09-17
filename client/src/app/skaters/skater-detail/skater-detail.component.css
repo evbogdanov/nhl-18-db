@@ -42,6 +42,18 @@
   margin-bottom: 40px;
 }
 
+@media (min-width: 576px) {
+  .skater-ratings {
+    font-size: .9rem;
+  }
+}
+
+@media (min-width: 992px) {
+  .skater-ratings {
+    font-size: 1rem;
+  }
+}
+
 .skater-ratings__stars-wrapper {
   text-align: right;
 }
